@@ -1,5 +1,97 @@
 [
  {
+  "id": "mef-sin-dispensa-terremoto",
+  "title": "MEF no pedirá dispensa fiscal por el terremoto y mantiene el déficit en 3.5% del PIB",
+  "summary": "Tras el sismo del 9 de octubre, el ministerio descartó suspender la regla fiscal: la emergencia se atenderá primero con seguros, donaciones y recursos no reembolsables, con fideicomiso en Banconal.",
+  "date": "2026-10-11",
+  "source": "Nexo",
+  "url": "https://nexo.la/mef-sin-dispensa-meta-fiscal-terremoto/",
+  "category": "economia",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "banco-nacional"
+  ],
+  "tags": [
+   "regla fiscal",
+   "MEF",
+   "calificación"
+  ]
+ },
+ {
+  "id": "ue-salida-lista-negra",
+  "title": "La UE retira a Panamá de su lista de jurisdicciones no cooperantes en materia fiscal",
+  "summary": "El Consejo de la UE sacó a Panamá del Anexo I el 9 de octubre y lo pasó al Anexo II (lista gris), tras la Ley de Sustancia Económica; queda pendiente una evaluación del Foro Global de la OCDE a más tardar el 15 de febrero de 2027.",
+  "date": "2026-10-09",
+  "source": "La Estrella de Panamá",
+  "url": "https://www.laestrella.com.pa/economia/union-europea-saca-a-panama-de-su-lista-negra-de-paraisos-fiscales-ND26341972",
+  "category": "regulacion",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "UE",
+   "lista gris",
+   "OCDE",
+   "reputación"
+  ]
+ },
+ {
+  "id": "smv-aios-pensiones",
+  "title": "SMV reúne a supervisores de pensiones de la AIOS para debatir IA, riesgos y sostenibilidad",
+  "summary": "En la reunión de autoridades de la AIOS con SIACAP, Panamá abordó el futuro de los fondos de pensiones, inversión sostenible y el uso de inteligencia artificial en la supervisión, ciberseguridad y protección de datos.",
+  "date": "2026-10-07",
+  "source": "Superintendencia del Mercado de Valores",
+  "url": "https://supervalores.gob.pa/panama-reune-a-autoridades-y-expertos-para-analizar-el-futuro-de-los-fondos-de-pensiones/",
+  "category": "regulacion",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "pensiones",
+   "IA",
+   "SMV",
+   "AIOS"
+  ]
+ },
+ {
+  "id": "visa-payments-day-2026",
+  "title": "Visa Payments Day 2026: Panamá es tercero en LatAm en pagos sin contacto (93%)",
+  "summary": "En el foro con 125 bancos, fintechs y comercios, Visa destacó que a junio el 93% de las transacciones presenciales con sus credenciales en Panamá ya eran contactless, y puso el foco en IA y gestión integral del fraude.",
+  "date": "2026-10-07",
+  "source": "El Espectador de Panamá",
+  "url": "https://elespectadordepanama.com/2026/10/07/visa-payments-day-2026-pone-el-foco-en-ia-innovacion-y-seguridad/",
+  "category": "pagos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "Visa",
+   "pagos sin contacto",
+   "IA",
+   "fraude"
+  ]
+ },
+ {
+  "id": "caja-punch-comarcas",
+  "title": "Caja de Ahorros instalará puntos de pago PUNCH del IFARHU en comarcas indígenas",
+  "summary": "El banco estatal comenzará en Kankintú la red de comercios donde estudiantes puedan usar las tarjetas PUNCH del IFARHU, para acercar el cobro de beneficios electrónicos a comunidades indígenas.",
+  "date": "2026-10-07",
+  "source": "Telemetro",
+  "url": "https://www.telemetro.com/nacionales/tarjetas-punch-del-ifarhu-caja-ahorros-instalara-puntos-pago-comarcas-indigenas-n6094319",
+  "category": "pagos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "caja-de-ahorros"
+  ],
+  "tags": [
+   "IFARHU",
+   "PUNCH",
+   "inclusión financiera"
+  ]
+ },
+ {
   "id": "yappy-banistmo-estrella",
   "title": "Así funcionará la integración de Yappy en la banca móvil de Banistmo",
   "summary": "La nota detalla en qué bancos Yappy está integrado en la app propia y en cuáles funciona solo desde la Yappy App.",
