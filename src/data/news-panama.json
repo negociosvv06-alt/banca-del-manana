@@ -1,0 +1,406 @@
+[
+ {
+  "id": "yappy-banistmo-estrella",
+  "title": "Así funcionará la integración de Yappy en la banca móvil de Banistmo",
+  "summary": "La nota detalla en qué bancos Yappy está integrado en la app propia y en cuáles funciona solo desde la Yappy App.",
+  "date": "2026-10-07",
+  "source": "La Estrella de Panamá",
+  "url": "https://www.laestrella.com.pa/economia/asi-funcionara-la-integracion-de-yappy-en-la-banca-movil-de-banistmo-DO26288649",
+  "category": "pagos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "banistmo",
+   "banco-general",
+   "caja-de-ahorros"
+  ],
+  "tags": [
+   "Yappy"
+  ]
+ },
+ {
+  "id": "bcg-ia-ventas",
+  "title": "BCG: la IA ya multiplica hasta 4 veces las ventas digitales de la banca en América Latina",
+  "summary": "Entre 40 % y 55 % de las ventas bancarias de la región ya son digitales, según BCG.",
+  "date": "2026-10-07",
+  "source": "El Espectador de Panamá",
+  "url": "https://elespectadordepanama.com/2026/10/07/bcg-la-ia-ya-multiplica-hasta-4-veces-las-ventas-digitales-de-la-banca-en-america-latina/",
+  "category": "tecnologia",
+  "type": "noticia",
+  "country": "América Latina",
+  "banks": [],
+  "tags": [
+   "IA",
+   "banca digital"
+  ]
+ },
+ {
+  "id": "sbp-acuerdo-9-2026",
+  "title": "SBP aplaza al 31 de marzo de 2027 la entrega obligatoria de tabla de amortización y costo total del crédito",
+  "summary": "El Acuerdo 9-2026, comunicado por la Circular 2026-0103, aplaza el Acuerdo 6-2026 que iba a regir el 22 de octubre e incorpora un modelo de tabla ilustrativo.",
+  "date": "2026-10-06",
+  "source": "Superintendencia de Bancos de Panamá",
+  "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0103.pdf",
+  "category": "regulacion",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "crédito",
+   "transparencia",
+   "SBP"
+  ]
+ },
+ {
+  "id": "pandora-bac",
+  "title": "Caso Pandora: detención provisional para imputado, exejecutivo de BAC",
+  "summary": "El Ministerio Público obtuvo medida de detención provisional; el exejecutivo fue imputado por corrupción privada y delincuencia organizada.",
+  "date": "2026-10-06",
+  "source": "Ministerio Público de Panamá",
+  "url": "https://ministeriopublico.gob.pa/notas-de-prensa/pgn-logra-medida-de-detencion-provisional-para-imputado-relacionado-con-la-causa-pandora/",
+  "category": "bancos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "bac"
+  ],
+  "tags": [
+   "justicia"
+  ]
+ },
+ {
+  "id": "paseu-billetera",
+  "title": "Billetera del PASE-U suma USD 45.4 millones en compras",
+  "summary": "388,266 billeteras completaron el registro, según TVN.",
+  "date": "2026-10-06",
+  "source": "TVN",
+  "url": "https://www.tvn-2.com/nacionales/paseu-compras-billetera-caja-ahorros_1_2264590.html",
+  "category": "pagos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "caja-de-ahorros"
+  ],
+  "tags": [
+   "billetera digital"
+  ]
+ },
+ {
+  "id": "estafas-2026",
+  "title": "Estafas y ciberdelitos suben 14 % en Panamá en los primeros ocho meses de 2026",
+  "summary": "4,547 denuncias entre enero y agosto; la manipulación de programas informáticos subió 338 %.",
+  "date": "2026-10-06",
+  "source": "Panamá América",
+  "url": "https://www.panamaamerica.com.pa/sucesos/estafas-y-ciberdelitos-suben-14-en-panama-durante-los-primeros-ocho-meses-de-2026-1267160",
+  "category": "ciberseguridad",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "fraude",
+   "ciberseguridad"
+  ]
+ },
+ {
+  "id": "ue-lista-panama",
+  "title": "Semana clave: la UE decidiría si retira a Panamá de su lista de jurisdicciones no cooperantes",
+  "summary": "Los ministros de Hacienda de la UE se reunieron en Luxemburgo el 9 de octubre. La salida se atribuía a la ley de sustancia económica. Verifique el resultado final en la fuente oficial del Consejo de la UE.",
+  "date": "2026-10-05",
+  "source": "La Estrella de Panamá",
+  "url": "https://www.laestrella.com.pa/economia/semana-clave-la-ue-decidiria-si-retira-a-panama-de-su-lista-negra-HC26242317",
+  "category": "regulacion",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "UE",
+   "reputación"
+  ],
+  "staleNote": "Noticia previa a la decisión del 9 de octubre de 2026; el resultado no está reflejado aquí."
+ },
+ {
+  "id": "caja-hackathon",
+  "title": "Caja de Ahorros realiza su Hackathon 2026 de innovación, datos e IA",
+  "summary": "Organizado con ITSE y AWS; trabajó en modelos predictivos de retención. Publicado por el medio como contenido patrocinado.",
+  "date": "2026-10-05",
+  "source": "Panamá Banking News",
+  "url": "https://panamabankingnews.com/contenido-patrocinado/caja-de-ahorros-reconoce-el-talento-joven-en-su-hackathon-2026-de-innovacion-data-e-inteligencia-artificial/",
+  "category": "tecnologia",
+  "type": "patrocinado",
+  "country": "Panamá",
+  "banks": [
+   "caja-de-ahorros"
+  ],
+  "tags": [
+   "IA",
+   "innovación"
+  ]
+ },
+ {
+  "id": "banconal-cajas-menudas",
+  "title": "Banconal y el MEF implementan tarjetas de débito Visa para cajas menudas del Estado",
+  "summary": "891 cajas menudas del Estado pasan a gestionarse con tarjetas de débito.",
+  "date": "2026-10-05",
+  "source": "Panamá Banking News",
+  "url": "https://panamabankingnews.com/banca/banconal-y-el-mef-implementan-tarjetas-de-debito-visa-para-gestionar-las-cajas-menudas-del-estado/",
+  "category": "pagos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "banco-nacional"
+  ],
+  "tags": [
+   "tarjetas",
+   "sector público"
+  ]
+ },
+ {
+  "id": "banistmo-yappy",
+  "title": "Banistmo suma Yappy a su ecosistema digital de pagos",
+  "summary": "Yappy integrado en la app de Banistmo junto con Kuara y Xpress, para más de 600 mil clientes.",
+  "date": "2026-10-05",
+  "source": "Panamá Banking News",
+  "url": "https://panamabankingnews.com/notas-de-prensa/banistmo-suma-a-yappy-a-su-ecosistema-digital-de-pagos-y-transferencias-en-linea/",
+  "category": "pagos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "banistmo"
+  ],
+  "tags": [
+   "Yappy",
+   "pagos instantáneos"
+  ]
+ },
+ {
+  "id": "iab-agosto-2026",
+  "title": "Informe de Actividad Bancaria a agosto 2026: activos de USD 169,433 millones",
+  "summary": "Depósitos de USD 120,889 millones (+6.83 %), crédito neto de USD 104,468 millones (+4.87 %) y liquidez del sistema nacional de 55.02 %.",
+  "date": "2026-10-04",
+  "source": "Superintendencia de Bancos de Panamá",
+  "url": "https://www.superbancos.gob.pa/node/1800",
+  "category": "sistema",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "IAB",
+   "depósitos",
+   "crédito"
+  ]
+ },
+ {
+  "id": "nuevos-creditos-agosto",
+  "title": "Nuevos créditos bancarios crecen 4 % y alcanzan USD 17,855 millones",
+  "summary": "Crédito nuevo de enero a agosto de 2026 según cifras de la SBP reseñadas por Eco TV.",
+  "date": "2026-10-04",
+  "source": "Eco TV",
+  "url": "https://www.ecotvpanama.com/economia/panama-nuevos-creditos-bancarios-crecen-4-y-alcanzan-17855-millones-n6093960",
+  "category": "credito",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "crédito"
+  ]
+ },
+ {
+  "id": "moodys-cobre",
+  "title": "Moody's: un acuerdo por Cobre Panamá sería una \"mejora adicional\" para la calificación",
+  "summary": "Moody's mantiene a Panamá en Baa3 con perspectiva negativa e indicó su intención de resolver la perspectiva antes de noviembre.",
+  "date": "2026-10-02",
+  "source": "Nexo",
+  "url": "https://nexo.la/moodys-cobre-panama-mejora-adicional/",
+  "category": "economia",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "calificación",
+   "riesgo país"
+  ]
+ },
+ {
+  "id": "gafi-2027",
+  "title": "Panamá iniciará en agosto de 2027 su evaluación ante el GAFI",
+  "summary": "El informe se aprobaría en diciembre de 2028; el foco estará en la efectividad del sistema antilavado.",
+  "date": "2026-09-30",
+  "source": "La Prensa",
+  "url": "https://www.prensa.com/economia/panama-iniciara-en-agosto-de-2027-su-evaluacion-ante-el-gafi/",
+  "category": "regulacion",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "GAFI",
+   "cumplimiento"
+  ]
+ },
+ {
+  "id": "bac-fitch",
+  "title": "BAC alcanza grado de inversión con calificación BBB- de Fitch",
+  "summary": "Fitch subió la calificación de BAC a BBB-.",
+  "date": "2026-09-25",
+  "source": "Delfino.cr",
+  "url": "https://delfino.cr/2026/09/bac-alcanza-grado-de-inversion-con-calificacion-de-fitch-ratings",
+  "category": "bancos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "bac"
+  ],
+  "tags": [
+   "calificación"
+  ]
+ },
+ {
+  "id": "felaban-bid",
+  "title": "FELABAN pide reglas para finanzas abiertas y defensa común contra el fraude con IA",
+  "summary": "La morosidad bajó de 2.28 % a 2.11 % y las provisiones subieron 35.45 % a julio, según la nota.",
+  "date": "2026-09-24",
+  "source": "Nexo",
+  "url": "https://nexo.la/banca-panama-capital-liquidez-felaban/",
+  "category": "sistema",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "finanzas abiertas",
+   "IA",
+   "fraude"
+  ]
+ },
+ {
+  "id": "caja-plataforma-3000",
+  "title": "Caja de Ahorros presenta plataforma de hasta USD 3,000 millones a bancos internacionales",
+  "summary": "Plataforma de financiamiento para contratistas del Estado presentada a la banca corresponsal en Nueva York.",
+  "date": "2026-09-24",
+  "source": "Telemetro",
+  "url": "https://www.telemetro.com/nacionales/caja-ahorros-presenta-plataforma-us3000-millones-bancos-internacionales-n6092873",
+  "category": "bancos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "caja-de-ahorros"
+  ],
+  "tags": [
+   "financiamiento"
+  ]
+ },
+ {
+  "id": "sbp-acuerdo-8-2026",
+  "title": "SBP exige validar el nombre del beneficiario antes de cada transferencia electrónica (Acuerdo 8-2026)",
+  "summary": "Aplica a banca en línea, banca móvil y monederos. El banco debe mostrar en tiempo real a nombre de quién está la cuenta o alias de destino, advertir si el nombre no coincide y guardar evidencia auditable. Regirá 9 meses después de su promulgación.",
+  "date": "2026-09-22",
+  "source": "Superintendencia de Bancos de Panamá",
+  "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/acuerdos/2026/Acuerdo_08-2026.pdf",
+  "category": "regulacion",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "transferencias",
+   "fraude",
+   "SBP"
+  ]
+ },
+ {
+  "id": "caja-capital",
+  "title": "Caja de Ahorros eleva su capital primario a B/.330 millones",
+  "summary": "Capitalizará B/.41.4 millones de utilidades según el Decreto 38.",
+  "date": "2026-09-22",
+  "source": "Destino Panamá",
+  "url": "https://destinopanama.com.pa/2026/09/caja-de-ahorros-fortalece-su-estructura-patrimonial-y-eleva-su-capital-primario-a-330-millones/",
+  "category": "bancos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "caja-de-ahorros"
+  ],
+  "tags": [
+   "capital"
+  ]
+ },
+ {
+  "id": "sbp-acuerdo-7-2026",
+  "title": "SBP limita comisiones bancarias: Acuerdo 7-2026 regirá desde el 4 de enero de 2027",
+  "summary": "Prohíbe cobrar, entre otros, retiros y depósitos de efectivo en ventanilla, cartas de saldo y de referencia y cambio de beneficiarios.",
+  "date": "2026-09-09",
+  "source": "Superintendencia de Bancos de Panamá",
+  "url": "https://www.superbancos.gob.pa/node/1790",
+  "category": "regulacion",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "comisiones",
+   "consumidor"
+  ]
+ },
+ {
+  "id": "sbp-circular-0095",
+  "title": "SBP exige consulta previa antes de ceder préstamos a REIT, fideicomisos o SPV",
+  "summary": "La Circular 2026-0095 busca evitar que se dejen de constituir reservas.",
+  "date": "2026-09-04",
+  "source": "Superintendencia de Bancos de Panamá",
+  "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0095.pdf",
+  "category": "regulacion",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "reservas",
+   "REIT"
+  ]
+ },
+ {
+  "id": "sbp-iab-julio",
+  "title": "CBI mantiene su fortaleza y dinamismo financiero a julio 2026",
+  "summary": "Depósitos del CBI de USD 121,459.3 millones (+7.37 %) y liquidez legal de 58.48 %.",
+  "date": "2026-09-02",
+  "source": "Superintendencia de Bancos de Panamá",
+  "url": "https://www.superbancos.gob.pa/index.php/node/1786",
+  "category": "sistema",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [],
+  "tags": [
+   "IAB"
+  ]
+ },
+ {
+  "id": "interoperabilidad-riel",
+  "title": "Riel de pagos del Banco Nacional busca interoperabilidad entre Yappy, ACH y Kuara",
+  "summary": "Meta de conexión en tiempo real a fines de 2026 o a más tardar 2027. ACH Xpress tiene 21 bancos y un tope de USD 5,000. Nota de contexto de agosto.",
+  "date": "2026-08-19",
+  "source": "Nexo",
+  "url": "https://nexo.la/interoperabilidad-pagos-riel-banco-nacional/",
+  "category": "pagos",
+  "type": "analisis",
+  "country": "Panamá",
+  "banks": [
+   "banco-nacional"
+  ],
+  "tags": [
+   "interoperabilidad",
+   "ACH"
+  ]
+ },
+ {
+  "id": "banistmo-hipotecaria",
+  "title": "Banco La Hipotecaria asume el control de Banistmo tras el cierre de la transacción",
+  "summary": "Operación por USD 1,418 millones, con cierre el 30 de junio de 2026.",
+  "date": "2026-07-01",
+  "source": "Infobae",
+  "url": "https://www.infobae.com/panama/2026/07/01/banco-la-hipotecaria-asume-el-control-de-banistmo-tras-el-cierre-de-la-transaccion-en-panama/",
+  "category": "bancos",
+  "type": "noticia",
+  "country": "Panamá",
+  "banks": [
+   "banistmo"
+  ],
+  "tags": [
+   "fusiones"
+  ]
+ }
+]

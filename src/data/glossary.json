@@ -1,0 +1,23 @@
+[
+{"term":"ACH","def":"Cámara de compensación automatizada que permite transferencias electrónicas entre bancos. En Panamá opera Telered/ACH Panamá; ACH Xpress permite transferencias inmediatas."},
+{"term":"Adecuación de capital","def":"Relación entre el capital de un banco y sus activos ponderados por riesgo. Mide su capacidad para absorber pérdidas."},
+{"term":"Amortización","def":"Pago gradual de una deuda mediante cuotas que cubren intereses y capital."},
+{"term":"APR / Tasa efectiva","def":"Tasa que incluye intereses y ciertos cargos, útil para comparar el costo real de distintos créditos."},
+{"term":"Banca abierta","def":"Modelo en el que los bancos comparten datos del cliente, con su consentimiento, con terceros autorizados mediante APIs."},
+{"term":"Bono","def":"Instrumento de deuda: quien lo compra presta dinero al emisor a cambio de intereses y la devolución del capital."},
+{"term":"Centro Bancario Internacional (CBI)","def":"Conjunto de bancos con licencia general e internacional que operan en o desde Panamá."},
+{"term":"Diversificación","def":"Distribuir el dinero entre distintos activos para reducir el riesgo de pérdida concentrada."},
+{"term":"Depósito a plazo fijo","def":"Depósito que no se puede retirar antes de una fecha acordada a cambio de una tasa de interés generalmente mayor."},
+{"term":"FECI","def":"Fondo Especial de Compensación de Intereses: recargo que se aplica en Panamá a ciertos préstamos personales y comerciales."},
+{"term":"Fondo de emergencia","def":"Ahorro líquido para gastos imprevistos, usualmente equivalente a 3–6 meses de gastos esenciales."},
+{"term":"GAFI","def":"Grupo de Acción Financiera Internacional, organismo que fija estándares contra el lavado de dinero y el financiamiento del terrorismo."},
+{"term":"Interés compuesto","def":"Interés que se calcula sobre el capital más los intereses acumulados de periodos anteriores."},
+{"term":"Inflación","def":"Aumento general de precios que reduce el poder de compra del dinero."},
+{"term":"Liquidez","def":"Facilidad con que un activo se convierte en efectivo sin perder valor; en banca, capacidad de atender retiros."},
+{"term":"Morosidad","def":"Proporción de préstamos con pagos atrasados respecto al total de la cartera."},
+{"term":"Phishing","def":"Fraude que imita a una entidad legítima para robar credenciales o datos. Ningún banco debe pedir su PIN o códigos por correo, SMS o llamada."},
+{"term":"Rendimiento","def":"Ganancia o pérdida de una inversión expresada en porcentaje del capital invertido."},
+{"term":"SBP","def":"Superintendencia de Bancos de Panamá, regulador y supervisor de los bancos y otras entidades del sistema."},
+{"term":"Tokenización","def":"Representación digital de un activo o dato sensible (como una tarjeta) mediante un identificador sustituto."},
+{"term":"Yappy","def":"Plataforma panameña de pagos móviles instantáneos asociada a cuentas bancarias de bancos participantes."}
+]

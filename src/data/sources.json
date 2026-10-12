@@ -1,0 +1,71 @@
+[
+ {
+  "id": "fed",
+  "name": "Reserva Federal de EE. UU. (Fed)",
+  "type": "rss",
+  "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+  "country": "Estados Unidos",
+  "lang": "en"
+ },
+ {
+  "id": "ecb",
+  "name": "Banco Central Europeo (BCE)",
+  "type": "rss",
+  "url": "https://www.ecb.europa.eu/rss/press.html",
+  "country": "Zona euro",
+  "lang": "en"
+ },
+ {
+  "id": "bis",
+  "name": "Banco de Pagos Internacionales (BIS)",
+  "type": "rss",
+  "url": "https://www.bis.org/doclist/all_pressrels.rss",
+  "country": "Internacional",
+  "lang": "en"
+ },
+ {
+  "id": "imf",
+  "name": "Fondo Monetario Internacional (FMI)",
+  "type": "manual",
+  "url": "https://www.imf.org/en/News",
+  "country": "Internacional",
+  "note": "Su RSS respondió 429 (límite de solicitudes) al verificarlo; se cura manualmente."
+ },
+ {
+  "id": "sbp",
+  "name": "Superintendencia de Bancos de Panamá (SBP)",
+  "type": "manual",
+  "url": "https://www.superbancos.gob.pa/noticias",
+  "country": "Panamá",
+  "note": "No se encontró un RSS oficial (rss.xml devuelve 404)."
+ },
+ {
+  "id": "smv",
+  "name": "Superintendencia del Mercado de Valores (SMV)",
+  "type": "manual",
+  "url": "https://www.supervalores.gob.pa",
+  "country": "Panamá"
+ },
+ {
+  "id": "mef",
+  "name": "Ministerio de Economía y Finanzas (MEF)",
+  "type": "manual",
+  "url": "https://www.mef.gob.pa",
+  "country": "Panamá"
+ },
+ {
+  "id": "inec",
+  "name": "Instituto Nacional de Estadística y Censo (INEC)",
+  "type": "manual",
+  "url": "https://www.inec.gob.pa",
+  "country": "Panamá"
+ },
+ {
+  "id": "frankfurter",
+  "name": "Frankfurter (tipos de referencia del BCE)",
+  "type": "api",
+  "url": "https://api.frankfurter.dev/v1/latest?base=USD",
+  "country": "Internacional",
+  "note": "API gratuita sin clave, consultada desde el navegador por el conversor de divisas."
+ }
+]
