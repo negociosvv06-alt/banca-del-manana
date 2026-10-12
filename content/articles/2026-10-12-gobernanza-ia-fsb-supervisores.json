@@ -1,0 +1,51 @@
+{
+  "id": "gobernanza-ia-fsb-supervisores-2026",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Gobernanza de la IA en la banca: el FSB entrega prácticas al G20 y qué dicen Fed, BCE y Basilea",
+  "date": "2026-10-12",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "FSB – Chair sets out FSB work on AI and stablecoins (comunicado)",
+      "url": "https://www.fsb.org/2026/10/fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins/",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "FSB – Chair’s letter to G20 Finance Ministers and Central Bank Governors: October 2026",
+      "url": "https://www.fsb.org/2026/10/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-october-2026/",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "FSB – Consulta: Sound Practices for Responsible Adoption of Artificial Intelligence (AI)",
+      "url": "https://www.fsb.org/2026/06/fsb-consults-on-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "Federal Reserve – Michelle W. Bowman, Artificial Intelligence in the Financial System",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "BCE Supervisión Bancaria – Pedro Machado, Technology is neutral, governance is not",
+      "url": "https://www.bankingsupervision.europa.eu/press/speeches/date/2026/html/ssm.sp260224~6c5b64a77a.en.html",
+      "date": "2026-02-24"
+    },
+    {
+      "name": "BIS / Comité de Basilea – Comunicado de la reunión (IA y riesgo operacional)",
+      "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+      "date": "2026-10-01"
+    }
+  ],
+  "body": [
+    "El 12 de octubre de 2026, el Consejo de Estabilidad Financiera (FSB) publicó la carta de su presidente, Andrew Bailey, a los ministros de Finanzas y gobernadores de bancos centrales del G20. Entre los entregables de la presidencia estadounidense figura la finalización de las Sound Practices for the Responsible Adoption of AI: orientaciones de gobernanza —no un estándar vinculante ni una receta comercial— que incorporan la consulta pública abierta en junio. Este artículo resume hechos verificables de 2026, separa tecnología disponible, enfoques supervisores y agenda futura, y no ofrece asesoría financiera.",
+    "Hecho verificado: la carta (fechada el 8 de octubre y difundida el 12) sitúa la IA entre los riesgos que exigen vigilancia. Bailey menciona la posibilidad de que una reevaluación de valoraciones asociadas a la IA desencadene correcciones más amplias, y el aumento de ciberamenazas potenciadas por IA contra instituciones e infraestructuras críticas. En ese marco, el FSB presenta su primera respuesta formal: un toolkit adaptable al tamaño, tipo y nivel de adopción de cada entidad. Las prácticas abarcan gobernanza organizativa, gestión del ciclo de vida, mitigación del ciberriesgo y terceros. Bailey pide al G20 impulsar su adopción responsable y anticipa que la adopción segura de IA seguirá en la agenda del FSB el próximo año.",
+    "La arquitectura ya se había delineado el 10 de junio de 2026. El FSB identificó entonces 12 prácticas en tres bloques: gobernanza a escala de toda la organización (1 a 4); gestión de riesgos en el ciclo de desarrollo y despliegue (5 a 10); y ciberriesgos, TIC y terceros (11 y 12). El comunicado de junio aclaró que no se impone un enfoque prescritivo ni se empuja a una tecnología concreta. Los comentarios cerraron el 22 de julio; las respuestas públicas salieron en agosto. Lo que el G20 recibe en octubre es, según el FSB, la versión finalizada con ese feedback. Distinción clave: el menú es orientación; no crea por sí solo una licencia, un cargo de capital ni un producto bancario.",
+    "Los supervisores de economías grandes aplican marcos ya existentes —riesgo de modelo, terceros, resiliencia operativa y protección al consumidor— mientras afinan el encaje de la IA generativa y agéntica. El 1 de mayo de 2026, Michelle W. Bowman, vicepresidenta de Supervisión de la Reserva Federal, explicó que, junto con la OCC y la FDIC, la Fed enmendó la guía de riesgo de modelo (SR letter 26-2, 17 de abril de 2026) para aclarar que no se aplica a la IA generativa ni a la agéntica. La guía revisada se centra en modelos tradicionales y aplicaciones básicas; para lo más novedoso esperan otras prácticas de gobernanza que acompañen la innovación. Bowman dejó abiertas preguntas sobre riesgo de terceros en herramientas de proveedores y sobre el equilibrio ciberbeneficio–ciberriesgo. Eso es postura supervisora documentada, no un piloto comercial de un banco.",
+    "En la zona del euro, el 24 de febrero de 2026 Pedro Machado, representante del BCE en el Consejo de Supervisión, tituló su discurso «Technology is neutral, governance is not». Según datos citados allí, más del 85 % de los grandes bancos bajo supervisión europea ya usan IA de alguna forma, y la adopción se acelera con IA generativa y agéntica. Machado insistió en tres carencias frecuentes: rendición de cuentas clara sobre decisiones impulsadas por IA; supervisión efectiva de la alta dirección; y mecanismos robustos de cuestionamiento por riesgos, cumplimiento y auditoría interna. Advirtió contra la propiedad fragmentada entre TI, ciencia de datos, negocio y control. Bajo las prioridades 2026-28, el BCE monitoreará la IA con foco en aplicaciones generativas: no «supervisa tecnologías» en abstracto, sino cómo los bancos las aplican y cómo afectan su perfil de riesgo.",
+    "El Comité de Basilea, el 1 de octubre de 2026, tras reunirse en Indonesia el 28 y 29 de septiembre, comunicó un intercambio de visiones sobre la IA para el sistema bancario y los supervisores. Señaló que el ecosistema de IA amplía su huella financiera, con más apalancamiento e interconexiones; que la IA de frontera puede mejorar eficiencia e innovación, pero también amplificar vulnerabilidades operativas (ciberataques y dependencias correlacionadas); y que su integración en funciones críticas exige gobernanza, gestión de riesgos y atención supervisora. El Comité acordó revisar si las categorías de pérdida por tipo de evento del marco de riesgo operacional bastan, con foco en ciberriesgo e IA. Hay acuerdo de trabajo y seguimiento; en ese comunicado no aparece un nuevo requerimiento de capital específico por «usar IA».",
+    "Para un lector en Panamá o la región, conviene no confundir escalas. La tecnología disponible ya está en producción en muchos bancos grandes: soporte de TI, análisis documental, atención y herramientas internas, según el recuento de casos de uso del BCE. Los pilotos locales dependen de la estrategia de cada entidad, su inventario de modelos, contratos con la nube y controles de datos y ciberseguridad; eso no se deduce solo de un comunicado del FSB o de Basilea. Las predicciones de agenda internacional son intenciones de organismos, no pronósticos de rentabilidad. Interpretar las prácticas del FSB como checklist de gobernanza es razonable; tratarlas como obligación automática de derecho panameño sin trasposición o circular local sería un salto indebido.",
+    "Lectura educativa, no asesoría: si un banco o fintech habla de IA en crédito, asistentes o automatización de cumplimiento, las preguntas que hoy hacen eco en FSB, Fed, BCE y Basilea se parecen. ¿Quién responde cuando el sistema se equivoca? ¿La alta dirección ve el inventario de casos materiales? ¿Hay challenge independiente antes y después del despliegue? ¿Se entiende la dependencia de un proveedor y qué ocurre si falla? Ninguna sustituye el contrato, el tarifario o la regulación local; sirven para leer con más criterio las promesas tecnológicas. En síntesis, octubre de 2026 marca coordinación: el FSB entrega al G20 un menú finalizado; la Fed delimita la guía clásica de riesgo de modelo frente a GenAI y IA agéntica; el BCE insiste en gobernanza y en monitorear GenAI; Basilea pone la IA en riesgo operacional y vigilancia continua. Hechos fechados abajo. Este texto es informativo; no constituye asesoría financiera, legal ni de cumplimiento."
+  ]
+}
