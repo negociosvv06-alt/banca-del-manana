@@ -1,0 +1,14 @@
+{
+  "id": "vpn-tir",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "VPN y TIR: evaluar proyectos e inversiones",
+  "date": "2026-10-11",
+  "body": [
+    "El Valor Presente Neto (VPN) descuenta los flujos futuros a una tasa mínima exigida; si es positivo, el proyecto crea valor.",
+    "La Tasa Interna de Retorno (TIR) es la tasa que hace el VPN igual a cero.",
+    "Usa ambos: la TIR puede engañar con flujos no convencionales.",
+    "Pruébalo en la calculadora de VPN/TIR."
+  ],
+  "aiAssisted": false
+}

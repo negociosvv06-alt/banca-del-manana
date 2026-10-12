@@ -12,7 +12,10 @@
     "validate": "node scripts/validate-content.mjs",
     "typecheck": "tsc -b",
     "test": "vitest run",
-    "build:fresh": "npm run ingest; npm run build"
+    "build:fresh": "npm run ingest; npm run build",
+    "build:cloudflare": "BASE_PATH=/ VITE_SITE_URL=https://banca-del-manana.pages.dev npm run build",
+    "build:ghpages": "BASE_PATH=/banca-del-manana/ VITE_SITE_URL=https://negociosvv06-alt.github.io/banca-del-manana npm run build",
+    "deploy:cloudflare": "npm run build:cloudflare && npx --yes wrangler@3 pages deploy dist --project-name=banca-del-manana --branch=main"
   },
   "dependencies": {
     "fast-xml-parser": "^5.11.2",

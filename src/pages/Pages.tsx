@@ -1,6 +1,6 @@
 import { useMemo, useState, type FormEvent, type ReactNode } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { allNews, newsPanama, newsIntl, intlMeta, articles, banks, glossary, indicators, rates, searchNews, searchSite, formatDate, CATEGORY_LABEL, TYPE_LABEL, type Article } from '../lib/content';
+import { AI_LABEL, allNews, newsPanama, newsIntl, intlMeta, articles, banks, glossary, indicators, rates, searchNews, searchSite, formatDate, CATEGORY_LABEL, TYPE_LABEL, type Article } from '../lib/content';
 import { Badge, Empty, NewsCard, PageHeader, Paginated, useSeo } from '../components/ui';
 import { CALCS } from './Calculators';
 import SOURCES from '../data/sources.json';
@@ -14,7 +14,7 @@ function MostRead() {
   return <section className="card" aria-labelledby="mr-h"><h2 id="mr-h">Más leídas</h2><Empty title="Aún no hay datos de lectura.">Este bloque se calculará solo con analítica real del sitio (por ejemplo, Cloudflare Web Analytics). No mostramos rankings inventados.</Empty></section>;
 }
 function ArticleCard({ a }: { a: Article }) {
-  return <article className="card"><div className="meta"><Badge type={a.type} /></div><h3><Link to={`/articulo/${a.id}`}>{a.title}</Link></h3><p>{a.body[0]}</p><p className="source">{a.author ?? 'Equipo editorial'} · {formatDate(a.date)}</p></article>;
+  return <article className="card"><div className="meta"><Badge type={a.type} />{a.aiAssisted && <span className="ai-label">Asistido por IA</span>}</div><h3><Link to={`/articulo/${a.id}`}>{a.title}</Link></h3><p>{a.body[0]}</p><p className="source">{a.author ?? 'Equipo editorial'} · {formatDate(a.date)}</p></article>;
 }
 
 export function Home() {
@@ -102,7 +102,7 @@ export function ArticlePage({ id }: { id?: string }) {
   const a = articles.find((x) => x.id === id);
   useSeo(a?.title ?? 'Artículo no encontrado', a?.body[0] ?? '');
   if (!a) return <NotFound />;
-  return <article className="prose"><div className="meta"><Badge type={a.type} /></div><h1>{a.title}</h1><p className="source">{a.author ?? 'Equipo editorial'} · {formatDate(a.date)}</p>{a.body.map((p, i) => <p key={i}>{p}</p>)}
+  return <article className="prose"><div className="meta"><Badge type={a.type} /></div><h1>{a.title}</h1><p className="source">{a.author ?? 'Equipo editorial'} · {formatDate(a.date)}</p>{a.aiAssisted && <p className="ai-label" role="note">{AI_LABEL}</p>}{a.body.map((p, i) => <p key={i}>{p}</p>)}{a.sources?.length ? <><h2>Fuentes</h2><ul>{a.sources.filter((s) => s.url.startsWith('https://')).map((s) => <li key={s.url}><a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a>{s.date && ` (${formatDate(s.date)})`}</li>)}</ul></> : null}
     {a.type === 'opinion' && <p className="small muted">Las opiniones son responsabilidad de su autor.</p>}<p className="small muted">Contenido informativo; no constituye asesoría financiera.</p></article>;
 }
 

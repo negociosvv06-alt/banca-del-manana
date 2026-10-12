@@ -1,0 +1,11 @@
+{
+  "id": "banca-e-ia-2026-10-12",
+  "section": "fintech",
+  "type": "educativo",
+  "title": "Título del artículo",
+  "date": "2026-10-12",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [{ "name": "Fuente", "url": "https://...", "date": "2026-10-12" }],
+  "body": ["Párrafo 1", "Párrafo 2"]
+}

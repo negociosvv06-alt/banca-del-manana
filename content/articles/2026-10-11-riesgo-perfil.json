@@ -1,0 +1,15 @@
+{
+  "id": "riesgo-perfil",
+  "section": "inversiones",
+  "type": "educativo",
+  "title": "Perfil de riesgo: conservador, moderado y agresivo",
+  "date": "2026-10-11",
+  "body": [
+    "Tu perfil depende de tu horizonte, tus objetivos, tu estabilidad de ingresos y tu tolerancia a pérdidas temporales.",
+    "Conservador: prioriza preservar capital (depósitos, instrumentos de renta fija de alta calidad).",
+    "Moderado: combina renta fija y variable.",
+    "Agresivo: acepta mayor volatilidad buscando más rendimiento a largo plazo.",
+    "Antes de invertir, consulta con un asesor autorizado por la Superintendencia del Mercado de Valores de Panamá (SMV)."
+  ],
+  "aiAssisted": false
+}

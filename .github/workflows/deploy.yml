@@ -13,6 +13,7 @@ jobs:
     env:
       BASE_PATH: /banca-del-manana/
       VITE_SITE_URL: https://negociosvv06-alt.github.io/banca-del-manana
+      VITE_CONTACT_EMAIL: negociosvv06@gmail.com
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

@@ -58,3 +58,4 @@ input[aria-invalid=true],textarea[aria-invalid=true]{border-color:#c0392b}.field
 .contact{display:grid;grid-template-columns:1fr 1fr;gap:.5rem 1rem}@media (max-width:600px){.contact{grid-template-columns:1fr}}
 .site-header .logo,[data-theme=light] .site-header .logo{color:#fff}.site-footer .logo,[data-theme=light] .site-footer .logo{color:var(--text)}
 main:focus,main:focus-visible{outline:none}
+.ai-label{font-size:.75rem;background:var(--teal-soft);color:var(--text);border-radius:6px;padding:.1rem .45rem}p.ai-label{font-size:.85rem;padding:.4rem .7rem}

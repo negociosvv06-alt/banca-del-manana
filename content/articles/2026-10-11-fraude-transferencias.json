@@ -1,0 +1,15 @@
+{
+  "id": "fraude-transferencias",
+  "section": "fintech",
+  "type": "educativo",
+  "title": "Validación del beneficiario: qué cambia con el Acuerdo 8-2026",
+  "date": "2026-10-11",
+  "body": [
+    "El Acuerdo 8-2026 de la SBP obliga a mostrar, antes de autorizar una transferencia electrónica local, a nombre de quién está la cuenta o alias de destino.",
+    "Si el nombre no coincide, el banco debe advertirlo de forma visible; la decisión final es del cliente.",
+    "Para el usuario: si ves una alerta de nombre distinto, detente y confirma por otro canal.",
+    "Para los bancos: implica cambios en app, web, billeteras, guiones de contact center y evidencia auditable.",
+    "Fuente: Acuerdo 8-2026, Superintendencia de Bancos de Panamá."
+  ],
+  "aiAssisted": false
+}

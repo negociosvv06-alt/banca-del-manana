@@ -1,0 +1,15 @@
+{
+  "id": "opinion-ia-servicio",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: la IA en el servicio al cliente bancario debe saber cuándo pasar a un humano",
+  "date": "2026-10-11",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "body": [
+    "La IA en WhatsApp y en el IVR puede resolver consultas repetitivas en segundos.",
+    "Pero en fraude, reclamos y clientes vulnerables, el traspaso a un humano rápido y con contexto es lo que genera confianza.",
+    "La medida del éxito no debe ser solo la contención, sino la resolución.",
+    "Las opiniones expresadas son personales y no representan a ninguna institución."
+  ],
+  "aiAssisted": false
+}

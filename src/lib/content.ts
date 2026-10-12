@@ -1,6 +1,5 @@
 import panama from '../data/news-panama.json';
 import intl from '../data/news-intl.json';
-import articlesRaw from '../data/articles.json';
 import banksRaw from '../data/banks.json';
 import glossaryRaw from '../data/glossary.json';
 import indicatorsRaw from '../data/indicators.json';
@@ -8,13 +7,15 @@ import ratesRaw from '../data/rates.json';
 
 export type ContentType = 'noticia' | 'analisis' | 'opinion' | 'educativo' | 'patrocinado';
 export interface NewsItem { id: string; title: string; summary: string; date: string; source: string; url: string; category: string; type: ContentType; country: string; banks: string[]; tags: string[]; lang?: string; stale?: boolean; staleNote?: string }
-export interface Article { id: string; section: string; type: ContentType; title: string; date: string; author?: string; body: string[] }
+export interface Article { id: string; section: string; type: ContentType; title: string; date: string; author?: string; aiAssisted?: boolean; sources?: { name: string; url: string; date?: string }[]; body: string[] }
+const articleFiles = import.meta.glob<Article>('../../content/articles/*.json', { eager: true, import: 'default' });
 
 export const newsPanama = panama as NewsItem[];
 export const newsIntl = (intl as { items: NewsItem[] }).items;
 export const intlMeta = intl as unknown as { lastRun: string; sources: Record<string, { ok: boolean; fetchedAt: string | null; count: number; error?: string }> };
 export const allNews: NewsItem[] = [...newsPanama, ...newsIntl].sort((a, b) => b.date.localeCompare(a.date));
-export const articles = articlesRaw as Article[];
+export const articles: Article[] = Object.values(articleFiles).sort((a, b) => b.date.localeCompare(a.date));
+export const AI_LABEL = 'Contenido elaborado con asistencia de IA, revisado editorialmente';
 export const banks = banksRaw;
 export const glossary = glossaryRaw as { term: string; def: string }[];
 export const indicators = indicatorsRaw;

@@ -1,0 +1,14 @@
+{
+  "id": "interes-compuesto",
+  "section": "inversiones",
+  "type": "educativo",
+  "title": "Interés compuesto: por qué empezar temprano importa",
+  "date": "2026-10-11",
+  "body": [
+    "Con interés compuesto, los intereses generan nuevos intereses.",
+    "Ejemplo didáctico (no es una oferta): USD 1,000 al 5 % anual capitalizable mensualmente durante 10 años se convierten en aproximadamente USD 1,647.01.",
+    "El mismo monto a 20 años llega a unos USD 2,712.64: el tiempo pesa tanto como la tasa.",
+    "Toda inversión tiene riesgo; rendimientos pasados no garantizan resultados futuros."
+  ],
+  "aiAssisted": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "duracion-bonos",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "Duración y sensibilidad de los bonos a las tasas",
+  "date": "2026-10-11",
+  "body": [
+    "La duración modificada estima cuánto cambia el precio de un bono ante un cambio de 1 punto en la tasa.",
+    "Un bono con duración 5 bajaría aproximadamente 5 % si las tasas suben 1 punto.",
+    "Bonos más largos y con cupones más bajos son más sensibles.",
+    "En un entorno de tasas altas, este riesgo es clave para carteras de renta fija."
+  ],
+  "aiAssisted": false
+}

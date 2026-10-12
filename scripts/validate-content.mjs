@@ -1,5 +1,6 @@
 // Valida el contenido editorial antes de compilar. Falla si falta fuente, fecha o hay URL no https.
-import { readFileSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
+export const loadArticles = () => readdirSync('content/articles').filter((f) => f.endsWith('.json')).map((f) => ({ f, ...JSON.parse(readFileSync('content/articles/' + f, 'utf8')) }));
 const j = (p) => JSON.parse(readFileSync(p, 'utf8'));
 const errs = [];
 const TYPES = ['noticia', 'analisis', 'opinion', 'educativo', 'patrocinado'];
@@ -13,6 +14,18 @@ for (const n of news) {
   if (!TYPES.includes(n.type)) errs.push(`${n.id}: tipo inválido`);
 }
 for (const i of j('src/data/indicators.json').items) if (!i.url?.startsWith('https://') || !i.published || !i.unit) errs.push(`indicador ${i.label}: falta fuente/fecha/unidad`);
-for (const a of j('src/data/articles.json')) if (!TYPES.includes(a.type)) errs.push(`artículo ${a.id}: tipo inválido`);
-if (errs.length) { console.error(errs.join('\n')); process.exit(1); }
+const SECTIONS = ['inversiones', 'pagos', 'fintech', 'educacion', 'avanzadas', 'opinion'];
+const aids = new Set();
+for (const a of loadArticles()) {
+  const w = (m) => errs.push(`content/articles/${a.f}: ${m}`);
+  if (!/^[a-z0-9-]+$/.test(a.id ?? '')) w('id debe ser minúsculas, números y guiones');
+  if (aids.has(a.id)) w('id duplicado'); aids.add(a.id);
+  if (!TYPES.includes(a.type)) w('type inválido');
+  if (!SECTIONS.includes(a.section)) w('section inválida: ' + SECTIONS.join(', '));
+  if (!a.title || !Array.isArray(a.body) || !a.body.length) w('falta title o body');
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(a.date ?? '')) w('date inválida (AAAA-MM-DD)');
+  if (typeof a.aiAssisted !== 'boolean') w('aiAssisted debe ser true o false');
+  for (const s of a.sources ?? []) if (!s.url?.startsWith('https://')) w('fuente sin url https');
+}
+if (process.argv[1]?.endsWith('validate-content.mjs') && errs.length) { console.error(errs.join('\n')); process.exit(1); }
 console.log(`Contenido válido: ${news.length} noticias.`);

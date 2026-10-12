@@ -18,7 +18,8 @@ npm run ingest       # descarga noticias de RSS oficiales (Fed, BCE, BIS)
 ## Estructura
 - `src/lib/calc.ts` – funciones financieras puras (préstamo, amortización, ahorro, meta, plazo fijo, deudas, inflación, fondo de emergencia, VPN, TIR, divisas) + `calc.test.ts`.
 - `src/lib/content.ts` – carga, búsqueda y filtros del contenido.
-- `src/data/*.json` – contenido editorial (noticias de Panamá, artículos, glosario, bancos, indicadores, tasas, fuentes). `news-intl.json` lo genera `npm run ingest`.
+- `content/articles/*.json` – artículos (un archivo por artículo).
+- `src/data/*.json` – contenido editorial (noticias de Panamá, glosario, bancos, indicadores, tasas, fuentes). `news-intl.json` lo genera `npm run ingest`.
 - `src/pages/` – páginas; `src/components/` – layout y UI.
 - `scripts/` – ingesta RSS, validación de contenido, postbuild (sitemap/robots/404), prueba de humo.
 - `public/_redirects`, `public/_headers` (Cloudflare Pages/Netlify), `vercel.json` (Vercel): fallback SPA y cabeceras de seguridad (CSP).
@@ -71,3 +72,25 @@ Recomendado: **Cloudflare Pages** (plan gratuito con ancho de banda generoso, 50
 - Sin cotizaciones bursátiles (requieren proveedor con licencia).
 - Títulos internacionales en inglés (idioma original); traducción automática no implementada.
 - Textos legales pendientes de revisión legal local. Inglés: arquitectura lista para i18n en fase 2 (textos aún embebidos en componentes).
+
+## Artículos diarios (p. ej. "Banca e IA")
+Ruta: **`content/articles/AAAA-MM-DD-<id>.json`** (un archivo = un artículo). Plantilla: `content/articles/_plantilla.json.example`.
+
+| Campo | Obligatorio | Valores |
+|---|---|---|
+| `id` | sí | minúsculas, números y guiones; único (define la URL `/articulo/<id>`) |
+| `section` | sí | `inversiones`, `pagos`, `fintech`, `educacion`, `avanzadas`, `opinion` |
+| `type` | sí | `noticia`, `analisis`, `opinion`, `educativo`, `patrocinado` |
+| `title` | sí | texto |
+| `date` | sí | `AAAA-MM-DD` |
+| `aiAssisted` | sí | `true` muestra la etiqueta "Contenido elaborado con asistencia de IA, revisado editorialmente"; `false` la oculta |
+| `body` | sí | lista de párrafos |
+| `author` | no | por defecto "Equipo editorial" |
+| `sources` | no (recomendado) | lista de `{ "name", "url" (https), "date" }` |
+
+Cómo publicar: copie la plantilla, renómbrela, complete los campos y haga commit en `main` (o en GitHub: Add file → Create new file). `npm run build` valida el archivo; si algo falta, la compilación falla con el nombre del archivo y el error. El artículo aparece en su sección, en la portada (si es análisis/educativo), en la búsqueda y en el sitemap.
+
+## Publicación actual
+- **GitHub Pages (activo):** https://negociosvv06-alt.github.io/banca-del-manana/ — workflow `deploy.yml` (push, cada 6 h y manual) con `BASE_PATH=/banca-del-manana/`. Local: `npm run build:ghpages`.
+- **Cloudflare Pages (preparado, no activo):** workflow `cloudflare.yml` con `BASE_PATH=/` y `VITE_SITE_URL=https://banca-del-manana.pages.dev`. Se omite sin fallar mientras no existan los secretos `CLOUDFLARE_API_TOKEN` (permiso *Cloudflare Pages: Edit*) y `CLOUDFLARE_ACCOUNT_ID` en Settings → Secrets and variables → Actions. Antes del primer despliegue cree el proyecto: `npx wrangler@3 pages project create banca-del-manana --production-branch=main`. Local: `npm run build:cloudflare` o `npm run deploy:cloudflare` (requiere `wrangler login`). Wrangler 4 requiere Node 22+.
+- Correo de contacto: `VITE_CONTACT_EMAIL=negociosvv06@gmail.com` (en `.env` y en ambos workflows).
