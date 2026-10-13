@@ -1,5 +1,57 @@
 [
   {
+    "id": "fmi-articulo-iv-sbp-2026",
+    "title": "FMI destaca la solidez de la banca panameña y pide reforzar la red de seguridad financiera y la supervisión de criptoactivos",
+    "summary": "Al cerrar las reuniones de la Consulta del Artículo IV con la SBP, el FMI reconoció avances en capitalización y supervisión, pero recomendó fortalecer el marco de resolución bancaria, la integridad financiera y el control de proveedores de activos virtuales.",
+    "date": "2026-10-12",
+    "source": "La Estrella de Panamá",
+    "url": "https://www.laestrella.com.pa/economia/fmi-avala-banca-panamena-pero-pide-reforzar-la-red-financiera-y-criptoactivos-NE26443916",
+    "category": "sistema",
+    "type": "noticia",
+    "country": "Panamá",
+    "banks": [],
+    "tags": [
+      "FMI",
+      "Artículo IV",
+      "criptoactivos",
+      "resolución bancaria"
+    ]
+  },
+  {
+    "id": "sbp-colegio-supervisores-gnb",
+    "title": "SBP organiza el 2.º Colegio de Supervisores del Grupo Financiero GNB con reguladores de Colombia, Perú y Paraguay",
+    "summary": "Supervisores de cuatro países revisaron con la directiva del grupo su gestión integral de riesgos, gobierno corporativo regional, ciberseguridad, servicios digitales y prevención del blanqueo de capitales.",
+    "date": "2026-10-12",
+    "source": "Superintendencia de Bancos de Panamá",
+    "url": "https://www.superbancos.gob.pa/node/1807",
+    "category": "regulacion",
+    "type": "noticia",
+    "country": "Panamá",
+    "banks": [],
+    "tags": [
+      "supervisión consolidada",
+      "SBP",
+      "gobierno corporativo"
+    ]
+  },
+  {
+    "id": "sbp-tu-balboa-jovenes",
+    "title": "SBP y Tu Balboa Con Sentido llevan un taller de finanzas personales a jóvenes en la Asamblea Nacional",
+    "summary": "Por el Día Nacional de la Educación Financiera, estudiantes de colegios y universidades (USMA, UTP, UIP) practicaron ahorro, metas y planificación en el taller \"Escribiendo mi historia financiera\".",
+    "date": "2026-10-12",
+    "source": "Superintendencia de Bancos de Panamá",
+    "url": "https://www.superbancos.gob.pa/node/1811",
+    "category": "sistema",
+    "type": "noticia",
+    "country": "Panamá",
+    "banks": [],
+    "tags": [
+      "educación financiera",
+      "jóvenes",
+      "Tu Balboa Con Sentido"
+    ]
+  },
+  {
     "id": "mef-sin-dispensa-terremoto",
     "title": "MEF no pedirá dispensa fiscal por el terremoto y mantiene el déficit en 3.5% del PIB",
     "summary": "Tras el sismo del 9 de octubre, el ministerio descartó suspender la regla fiscal: la emergencia se atenderá primero con seguros, donaciones y recursos no reembolsables, con fideicomiso en Banconal.",
