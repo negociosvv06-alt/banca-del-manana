@@ -1,0 +1,50 @@
+{
+  "id": "pagos-agenticos-ia-mandatos-controles-2026",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Pagos agénticos: cuando un agente de IA paga por ti, ¿quién pone los límites?",
+  "date": "2026-10-13",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "BIS – Christopher J. Waller (Fed), Payments in the age of AI agents (Sibos 2026, 29 sep.)",
+      "url": "https://www.bis.org/speeches/20261005-payments-age-ai-agents",
+      "date": "2026-10-05"
+    },
+    {
+      "name": "J.P. Morgan Payments – Zack Anderson, A prompt is not a control",
+      "url": "https://www.jpmorgan.com/payments/newsroom/ai-agent-controls-payments",
+      "date": "2026-09-29"
+    },
+    {
+      "name": "The Asian Banker – Can Standard Chartered move agentic payments from recommendation to delegated action?",
+      "url": "https://www.theasianbanker.com/updates-and-articles/can-standard-chartered-move-agentic-payments-from-recommendation-to-delegated-action",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Visa – Visa opens the door to AI-driven shopping for businesses worldwide (Intelligent Commerce Connect)",
+      "url": "https://corporate.visa.com/en/sites/visa-perspectives/newsroom/visa-intelligent-commerce-connect-ai-shopping-for-businesses.html",
+      "date": "2026-04-08"
+    },
+    {
+      "name": "Mastercard – Mastercard Launches Agent Pay for Machines",
+      "url": "https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-Launches-Agent-Pay-for-Machines-to-Unlock-Super-Fast-Always-On-Payments/default.aspx",
+      "date": "2026-06-10"
+    }
+  ],
+  "body": [
+    "Pagos agénticos: qué anunciaron en 2026 Visa, Mastercard, J.P. Morgan, Standard Chartered y la Fed sobre agentes de IA que pagan por ti, y qué controles aún faltan.",
+    "Los pagos agénticos son compras y transferencias que un agente de IA ejecuta en nombre de una persona o empresa. Este análisis separa hechos verificables, tecnología disponible, pilotos y predicciones, con fuentes públicas enlazadas al final. No constituye asesoría financiera.",
+    "Qué es un pago agéntico. El gobernador de la Reserva Federal Christopher J. Waller lo explicó en Sibos 2026 (Miami, 29 de septiembre; texto publicado por el BIS el 5 de octubre) con dos modelos. En el «asistido», el agente busca y compara productos, pero la persona decide y paga. En el «delegado», la persona otorga autoridad al agente para comprar y pagar por ella dentro de ciertos límites; su ejemplo es una tarjeta virtual prefinanciada con instrucciones de hacer la compra del supermercado según compras anteriores. Waller señaló que los participantes del mercado coinciden en que el comercio agéntico está en una fase temprana, y que el modelo asistido llegará antes que el delegado.",
+    "Hecho: las redes de tarjetas ya tienen productos. El 8 de abril de 2026 Visa presentó Intelligent Commerce Connect, una integración única a través de Visa Acceptance Platform para iniciar pagos de agentes con tokenización, controles de gasto y autenticación. Según Visa, acepta pagos iniciados mediante varios protocolos de agentes (Trusted Agent Protocol, Machine Payments Protocol, Agentic Commerce Protocol y Universal Commerce Protocol) y estaba en piloto con socios seleccionados como AWS y Payabli con expansión prevista durante el año y sujeta a disponibilidad.",
+    "El 10 de junio de 2026 Mastercard lanzó Agent Pay for Machines, una extensión de su programa Agent Pay (presentado en 2025) pensada para pagos de alta frecuencia y bajo valor entre máquinas, algunos de fracciones de centavo. La compañía describe cuatro capacidades: credenciales para cada agente (con su sistema Verifiable Intent), reglas de autorización y límites de gasto aplicados de forma programática, transacciones entre participantes verificados y liquidación en varios rieles: tarjetas, cuentas y stablecoins. Mastercard listó más de 30 participantes iniciales, entre ellos Adyen, Stripe y Getnet by Santander.",
+    "Hecho: la banca corporativa avanza por etapas. En una entrevista publicada el 13 de octubre por The Asian Banker, Sunday Domingo, responsable global de Digital Channel Solutions de Standard Chartered, describió un camino en tres fases: primero visibilidad (mejores datos de flujo de caja), luego recomendación (por ejemplo, detectar pagos que deben corregirse por datos incompletos o errores de contraparte) y solo después delegación, cuando el cliente confíe lo suficiente para dejar que un agente ejecute dentro de límites definidos. El banco planea apoyarse en los permisos que ya existen en su plataforma Straight2Bank y tratar al agente como un actor autorizado más. Domingo indicó que conversan con clientes que construyen sus propios agentes de tesorería y quieren conectarlos al banco mediante Model Context Protocol (MCP), y que espera que esa conectividad sea más tangible durante el próximo año.",
+    "La lección técnica: «un prompt no es un control». Así tituló J.P. Morgan Payments el 29 de septiembre un texto de Zack Anderson, su director de Datos y Analítica para Pagos y Banca Global. Su argumento: una instrucción en lenguaje natural expresa intención, pero no impone autoridad. Cita como ejemplo la orden «invertir todo el efectivo por encima de un colchón de liquidez de 100 millones de libras», que deja sin definir la entidad legal, las monedas, los instrumentos y los límites por contraparte. Propone un motor de políticas independiente que verifique al agente, a quién representa y su mandato antes de que se mueva el dinero; que el control de exposición incluya transacciones completadas y pendientes de todos los agentes bajo el mismo mandato; una vía de ejecución que el agente no pueda saltarse, y un registro auditable que vincule cada decisión con la versión de la política aplicada. Menciona como estándares en curso el proyecto de identidad y autorización de agentes del NIST y el Agent Control Standard de OWASP (vista previa).",
+    "Los riesgos abiertos, según el supervisor. Waller identificó tres barreras para escalar el modelo delegado. La autenticación cambia de pregunta: ya no basta con probar que el comprador es quien dice ser, sino que el agente tiene autoridad para pagar por él. La responsabilidad se resume en quién responde si el agente compra lo que no debía; los marcos actuales de comercio electrónico podrían adaptarse, y estándares que registren qué quiso el comprador y cómo actuó el agente podrían reducir ambigüedades en las disputas. Y el fraude: los modelos antifraude calibrados para comportamiento humano quizá no funcionen igual con agentes y tendrán que recalibrarse. También preguntó si dominarán estándares interoperables o propios de cada plataforma.",
+    "Dónde puede llegar primero. Waller considera que las compras entre empresas (B2B) encajan especialmente bien, porque suelen ser recurrentes y siguen reglas —proveedores aprobados, presupuestos—, aunque los montos más altos amplifican el costo de un error. Para consumo, los primeros casos serán probablemente asistidos: el agente sugiere y la persona confirma.",
+    "Lo que todavía es predicción. Que los agentes paguen de forma continua entre máquinas, que el comercio agéntico «reconfigure» los pagos o que la conectividad banco-agente madure en un año son expectativas de las propias empresas y de un supervisor, no resultados medidos. Ninguna de las fuentes consultadas publica volúmenes de pagos agénticos, y los productos de Visa y Mastercard dependen de socios y disponibilidad por mercado. Tampoco encontramos en estas fuentes anuncios específicos para Panamá, por lo que no conviene asumir fechas de llegada.",
+    "Qué significa para bancos y usuarios. Para un banco, la pregunta práctica no es si un agente puede iniciar un pago, sino cómo se registra su identidad, qué mandato tiene, qué límites aplica la infraestructura (no el prompt), cómo se revoca su acceso y cómo se atiende un reclamo. Para un usuario o una pyme, si en el futuro se le ofrece delegar pagos a un asistente de IA, conviene preguntar: ¿qué límites de monto y comercios puedo fijar?, ¿puedo revocar el permiso en cualquier momento?, ¿recibo confirmación de cada operación?, ¿quién responde si el agente se equivoca? y ¿cómo presento una disputa? Son preguntas generales de control; las condiciones concretas dependen de cada entidad y de la regulación aplicable.",
+    "En resumen: la tecnología para que un agente de IA pague ya existe en pilotos y productos con socios seleccionados; la confianza, la responsabilidad y los estándares, no del todo. Las fuentes coinciden en que la autoridad debe verificarse y hacerse cumplir en la infraestructura, antes de que el dinero se mueva."
+  ]
+}
