@@ -1,5 +1,26 @@
 [
   {
+    "id": "fideicomisos-terremoto-banconal-caja",
+    "title": "Terremoto: el Gobierno canalizará la reconstrucción con un fideicomiso público en Banconal y uno privado en Caja de Ahorros",
+    "summary": "El MEF informó que los recursos públicos para atender el sismo del 9 de octubre se manejarán solo a través de un fideicomiso en el Banco Nacional, ya refrendado por la Contraloría y con cuenta abierta, que recibirá donaciones de organismos multilaterales y pagos de seguros catastróficos. Las donaciones de empresas irán a un segundo fideicomiso en la Caja de Ahorros, gobernado por el sector privado y enfocado en reparar y construir viviendas de familias damnificadas.",
+    "date": "2026-10-13",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/economia/gobierno-anuncia-segundo-fideicomiso-para-donaciones-privadas/",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "banks": [
+      "banco-nacional",
+      "caja-de-ahorros"
+    ],
+    "tags": [
+      "terremoto",
+      "fideicomiso",
+      "MEF",
+      "reconstrucción"
+    ]
+  },
+  {
     "id": "fmi-articulo-iv-sbp-2026",
     "title": "FMI destaca la solidez de la banca panameña y pide reforzar la red de seguridad financiera y la supervisión de criptoactivos",
     "summary": "Al cerrar las reuniones de la Consulta del Artículo IV con la SBP, el FMI reconoció avances en capitalización y supervisión, pero recomendó fortalecer el marco de resolución bancaria, la integridad financiera y el control de proveedores de activos virtuales.",
@@ -52,6 +73,25 @@
     ]
   },
   {
+    "id": "bac-donacion-terremoto",
+    "title": "BAC Panamá aporta USD 250 mil a la Cruz Roja para comunidades afectadas por el terremoto",
+    "summary": "El banco anunció una donación de 250 mil dólares canalizada por la Cruz Roja Panameña para asistir a familias damnificadas y apoyar la recuperación de escuelas, centros de salud e iglesias dañadas por el sismo, e invitó al público a donar a la cuenta de la Cruz Roja en BAC.",
+    "date": "2026-10-11",
+    "source": "InfoEconomía Panamá",
+    "url": "https://www.infoeconomiapanama.com/post/bac-panam%C3%A1-donar%C3%A1-250-mil-para-apoyar-a-comunidades-afectadas-por-el-terremoto",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "banks": [
+      "bac"
+    ],
+    "tags": [
+      "terremoto",
+      "donación",
+      "Cruz Roja"
+    ]
+  },
+  {
     "id": "mef-sin-dispensa-terremoto",
     "title": "MEF no pedirá dispensa fiscal por el terremoto y mantiene el déficit en 3.5% del PIB",
     "summary": "Tras el sismo del 9 de octubre, el ministerio descartó suspender la regla fiscal: la emergencia se atenderá primero con seguros, donaciones y recursos no reembolsables, con fideicomiso en Banconal.",
@@ -68,6 +108,25 @@
       "regla fiscal",
       "MEF",
       "calificación"
+    ]
+  },
+  {
+    "id": "caja-hipotecas-terremoto",
+    "title": "Caja de Ahorros pide a sus clientes hipotecarios reportar daños en sus viviendas tras el sismo",
+    "summary": "A través de sus redes sociales, la Caja de Ahorros invitó a los clientes con hipoteca cuyas casas sufrieron daños por el terremoto de magnitud 7.5 del 9 de octubre a reportarlo por sus canales de atención para orientarlos en los siguientes pasos.",
+    "date": "2026-10-10",
+    "source": "Economía Panamá",
+    "url": "https://economiapanama.com/en/la-caja-de-ahorros-llama-a-sus-clientes-a-comunicar-si-se-vieron-afectados-por-el-terremoto-para-ayudarle/",
+    "category": "credito",
+    "type": "noticia",
+    "country": "Panamá",
+    "banks": [
+      "caja-de-ahorros"
+    ],
+    "tags": [
+      "terremoto",
+      "hipotecas",
+      "atención al cliente"
     ]
   },
   {
