@@ -1,0 +1,51 @@
+{
+  "id": "deepfakes-voz-autenticacion-banca-telefonica-2026",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Deepfakes de voz: por qué la banca telefónica ya no puede confiar solo en la voz del cliente",
+  "date": "2026-10-14",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Forbes Italia – Fideuram, 95 milioni trasferiti dopo un falso messaggio del ceo Messina: usata anche l’AI",
+      "url": "https://forbes.it/2026/09/25/fideuram-truffa-95-milioni-whatsapp-ai/",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "FBI – Cryptocurrency and AI Scams Bilk Americans of Billions (Informe de Delitos en Internet 2025)",
+      "url": "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions",
+      "date": "2026-04-06"
+    },
+    {
+      "name": "ABA Banking Journal – Anat Goldstein y Farook Sattar, The voice fraud threat to banking",
+      "url": "https://bankingjournal.aba.com/2026/08/the-voice-fraud-threat-to-banking/",
+      "date": "2026-08-21"
+    },
+    {
+      "name": "FinCEN – Alerta FIN-2024-Alert004 sobre esquemas de fraude con deepfakes",
+      "url": "https://www.fincen.gov/system/files/shared/FinCEN-Alert-DeepFakes-Alert508FINAL.pdf",
+      "date": "2024-11-13"
+    },
+    {
+      "name": "Federal Reserve – Discurso del gobernador Michael S. Barr sobre ciberseguridad en el sistema bancario",
+      "url": "https://www.federalreserve.gov/newsevents/speech/barr20250417a.htm",
+      "date": "2025-04-17"
+    }
+  ],
+  "body": [
+    "Deepfakes de voz y banca telefónica: qué enseñan el caso Fideuram, el FBI y la Fed sobre por qué la voz ya no basta para autenticar clientes.",
+    "La voz clonada con inteligencia artificial dejó de ser una curiosidad de laboratorio y ya aparece en fraudes reales contra bancos y sus clientes. Este análisis reúne hechos verificables, separa la tecnología disponible de lo que aún está en exploración y de las predicciones, y propone preguntas útiles para centros de contacto. Las fuentes están enlazadas al final. No constituye asesoría financiera.",
+    "Hecho: un banco europeo perdió decenas de millones con una voz falsa. Según la reconstrucción del Corriere della Sera recogida por Forbes Italia el 25 de septiembre de 2026, en febrero de 2026 Paolo Molesini, entonces presidente de Fideuram (filial de banca privada de Intesa Sanpaolo), recibió un mensaje de WhatsApp que parecía venir de Carlo Messina, consejero delegado del grupo. El mensaje pedía transferencias urgentes desde la tesorería de Fideuram para no perder una operación en el extranjero. Después llegó una llamada que parecía ser de Paolo Nastasi, un abogado que Molesini conocía; su voz había sido reproducida con herramientas de IA. En pocas horas salieron unos 95 millones de euros. El banco y la Fiscalía de Milán recuperaron una parte en el exterior, pero la pérdida quedó en unos 36 millones, según esa misma reconstrucción.",
+    "Lo relevante del caso no es solo la tecnología, sino la combinación: un canal de mensajería, una figura de autoridad, urgencia, confidencialidad y una segunda voz «de confianza» que confirma la historia. La voz clonada no rompió ningún sistema informático; reforzó una decisión humana tomada bajo presión.",
+    "Hecho: el FBI ya mide el fenómeno. El 6 de abril de 2026 el FBI publicó su Informe de Delitos en Internet 2025. Por primera vez en casi 25 años, incluye una sección dedicada a la inteligencia artificial: 22,364 denuncias relacionadas con IA y pérdidas cercanas a 893 millones de dólares. El FBI describe que los estafadores usan presión para que la víctima actúe rápido, junto con perfiles falsos, clones de voz, documentos de identidad y videos creíbles de figuras públicas o seres queridos. La recomendación del FBI al público es simple: tomarse un momento, resistir la prisa y evaluar la situación antes de entregar dinero o datos.",
+    "Hecho: los supervisores llevan tiempo advirtiendo sobre la autenticación por voz. En noviembre de 2024, la Red de Control de Delitos Financieros del Tesoro de EE. UU. (FinCEN) emitió la alerta FIN-2024-Alert004 sobre fraudes con contenido deepfake creado con IA generativa. FinCEN señaló un aumento, desde 2023, de reportes de instituciones financieras sobre el posible uso de deepfakes, a menudo para burlar la verificación de identidad. Entre las buenas prácticas menciona la autenticación multifactor, incluida la resistente al phishing, y las verificaciones en vivo por audio o video, aunque advierte que los delincuentes pueden intentar responderlas con audio o video sintético. Entre las señales de alerta cita que el cliente use un complemento de cámara de terceros durante la verificación o que se niegue a usar autenticación multifactor.",
+    "En abril de 2025, el gobernador de la Reserva Federal Michael S. Barr fue más directo: los estándares de verificación de identidad de los bancos a menudo usan detección de voz, que puede volverse vulnerable a herramientas de IA generativa. Su propuesta fue que la verificación evolucione con avances basados en IA, como reconocimiento facial, análisis de voz y biometría del comportamiento, y con técnicas que estimen la probabilidad de que un audio o video haya sido generado con IA para enviarlo a una verificación adicional.",
+    "Tecnología disponible: detectar no es lo mismo que autenticar. Un artículo del ABA Banking Journal del 21 de agosto de 2026, firmado por directivos de FinOptima, una empresa de inteligencia contra el fraude, describe que los bancos están evaluando herramientas que analizan la voz en tiempo real para distinguir habla humana de audio generado, casi siempre como una capa más y no como defensa única. El mismo texto reconoce una limitación práctica: sistemas que funcionan bien en condiciones controladas pierden precisión con el audio real de una llamada, por el ruido de fondo, la compresión y la distorsión del canal. Por eso la tendencia es combinar la voz con señales de comportamiento y con el contexto de la transacción.",
+    "En exploración, no en uso generalizado: los autores citan líneas de trabajo como métodos de detección más ligeros para el audio cotidiano de un centro de contacto, resultados más explicables para que el personal pueda actuar, marcas de agua digitales en audio generado por herramientas legítimas y señales de comportamiento para detectar a víctimas a las que un estafador está guiando en tiempo real durante la llamada. Este análisis no encontró resultados públicos y verificables de pilotos bancarios concretos con estas técnicas, por lo que conviene tratarlas como promesas, no como soluciones probadas.",
+    "Predicción, no hecho: el mismo artículo de la ABA recoge estimaciones según las cuales el costo de ejecutar modelos generativos podría bajar más de 90 % hacia el final de la década frente a 2025, lo que abarataría los ataques con medios sintéticos. Es una proyección de mercado, no un dato observado.",
+    "Qué significa para un centro de contacto bancario. A partir de lo que recomiendan FinCEN, la Fed y el FBI, la conclusión práctica es tratar la voz como una señal y no como una llave. Algunas preguntas que cualquier banco puede hacerse: ¿una llamada, por sí sola, permite cambiar el teléfono o el correo registrado, añadir un beneficiario o subir un límite? ¿Las operaciones de alto riesgo exigen confirmación por un canal independiente ya registrado, como una notificación en la app con el monto y el destino, en lugar de un número que da quien llama? ¿El personal tiene permiso explícito para pausar una operación urgente sin penalización? ¿Se entrena con simulaciones de voz sintética, tanto en atención telefónica como en WhatsApp?",
+    "El caso Fideuram muestra que el eslabón débil no siempre es el cliente: también puede serlo un directivo con autoridad para mover fondos. La defensa más sólida no depende de que alguien adivine si una voz es real, sino de procedimientos que se activan siempre, como la doble aprobación y la confirmación por un canal que el atacante no controla.",
+    "Para el usuario, la regla es la misma que repite el FBI: ante una llamada urgente que pide dinero, datos o códigos, cuelgue y llame usted al número oficial de su banco. Ningún banco serio debería pedirle que actúe en secreto o con prisa."
+  ]
+}
