@@ -1,6 +1,6 @@
 import { useEffect, type ReactNode } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { CATEGORY_LABEL, TYPE_LABEL, formatDate, daysOld, type NewsItem, type ContentType } from '../lib/content';
+import { CATEGORY_LABEL, TYPE_LABEL, formatDate, type NewsItem, type ContentType } from '../lib/content';
 
 export const SITE = { name: 'Banca del Mañana', url: (import.meta.env.VITE_SITE_URL as string | undefined) ?? 'https://negociosvv06-alt.github.io/banca-del-manana' };
 
@@ -18,13 +18,11 @@ export function useSeo(title: string, description: string) {
 export function Badge({ type }: { type: ContentType }) { return <span className={`badge badge-${type}`}>{TYPE_LABEL[type]}</span>; }
 
 export function NewsCard({ n }: { n: NewsItem }) {
-  const old = daysOld(n.date) > 30;
   return (
     <article className="card news-card">
       <div className="meta"><Badge type={n.type} /><span className="cat">{CATEGORY_LABEL[n.category] ?? n.category}</span>{n.lang === 'en' && <span className="lang" title="Contenido original en inglés">EN</span>}</div>
       <h3><a href={n.url} target="_blank" rel="noopener noreferrer">{n.title}</a></h3>
       {n.summary && <p>{n.summary}</p>}
-      {(n.staleNote || old) && <p className="warn" role="note">⚠ {n.staleNote ?? 'Publicación con más de 30 días: puede estar desactualizada.'}</p>}
       <p className="source">Fuente: <a href={n.url} target="_blank" rel="noopener noreferrer">{n.source}</a> · <time dateTime={n.date}>{formatDate(n.date)}</time></p>
     </article>
   );

@@ -1,9 +1,9 @@
 {
- "lastRun": "2026-10-15T13:04:31.246Z",
+ "lastRun": "2026-10-15T13:13:50.214Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-15T13:04:31.246Z",
+   "fetchedAt": "2026-10-15T13:13:50.214Z",
    "count": 12
   },
   "ecb": {
@@ -14,7 +14,7 @@
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-15T13:04:31.246Z",
+   "fetchedAt": "2026-10-15T13:13:50.214Z",
    "count": 10
   }
  },
@@ -35,23 +35,8 @@
     "FSB",
     "inteligencia artificial",
     "gobernanza"
-   ]
-  },
-  {
-   "id": "bis-J1c2luZXNzLXJpc2tzLWFuZA",
-   "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
-   "summary": "The Bank for International Settlements’ Committee on Payments and Market Infrastructures (CPMI) and the International Organization of Securities Commissions (IOSCO) today published a final report on financial market infrastructures’ (FMIs) management of general business risks and general business lo",
-   "date": "2026-10-14",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
+   ],
+   "manual": true
   },
   {
    "id": "bangkok-blueprint-fraude-digital",
@@ -70,7 +55,8 @@
     "Banco Mundial",
     "fraude",
     "ciberseguridad"
-   ]
+   ],
+   "manual": true
   },
   {
    "id": "bce-elderson-resiliencia-2026-10-14",
@@ -88,22 +74,23 @@
     "ECB",
     "riesgo climático",
     "supervisión"
-   ]
+   ],
+   "manual": true
   },
   {
-   "id": "fed-ldGFyeTIwMjYxMDEzYS5odG0",
-   "title": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
-   "summary": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
-   "date": "2026-10-13",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "id": "bis-J1c2luZXNzLXJpc2tzLWFuZA",
+   "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+   "summary": "The Bank for International Settlements’ Committee on Payments and Market Infrastructures (CPMI) and the International Organization of Securities Commissions (IOSCO) today published a final report on financial market infrastructures’ (FMIs) management of general business risks and general business lo",
+   "date": "2026-10-14",
+   "source": "Banco de Pagos Internacionales (BIS)",
+   "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
    "category": "internacional",
    "type": "noticia",
-   "country": "Estados Unidos",
+   "country": "Internacional",
    "lang": "en",
    "banks": [],
    "tags": [
-    "FED"
+    "BIS"
    ]
   },
   {
@@ -123,22 +110,19 @@
    ]
   },
   {
-   "id": "fmi-weo-octubre-2026",
-   "title": "FMI eleva levemente su previsión: la economía mundial crecería 3,1 % en 2026 y 3,4 % en 2027",
-   "summary": "En su Perspectivas de la Economía Mundial de octubre, el FMI prevé que la inflación general mundial suba a 4,7 % en 2026 por la energía y los alimentos y baje a 4,1 % en 2027, y advierte que la resiliencia es desigual: los importadores de energía y las economías fuera de la cadena de valor de la IA enfrentan más presión.",
+   "id": "fed-ldGFyeTIwMjYxMDEzYS5odG0",
+   "title": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
+   "summary": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
    "date": "2026-10-13",
-   "source": "Fondo Monetario Internacional (FMI)",
-   "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026",
+   "source": "Reserva Federal de EE. UU. (Fed)",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
    "category": "internacional",
    "type": "noticia",
-   "country": "Internacional",
+   "country": "Estados Unidos",
    "lang": "en",
    "banks": [],
    "tags": [
-    "FMI",
-    "WEO",
-    "crecimiento",
-    "inflación"
+    "FED"
    ]
   },
   {
@@ -157,7 +141,28 @@
     "FMI",
     "GFSR",
     "estabilidad financiera"
-   ]
+   ],
+   "manual": true
+  },
+  {
+   "id": "fmi-weo-octubre-2026",
+   "title": "FMI eleva levemente su previsión: la economía mundial crecería 3,1 % en 2026 y 3,4 % en 2027",
+   "summary": "En su Perspectivas de la Economía Mundial de octubre, el FMI prevé que la inflación general mundial suba a 4,7 % en 2026 por la energía y los alimentos y baje a 4,1 % en 2027, y advierte que la resiliencia es desigual: los importadores de energía y las economías fuera de la cadena de valor de la IA enfrentan más presión.",
+   "date": "2026-10-13",
+   "source": "Fondo Monetario Internacional (FMI)",
+   "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FMI",
+    "WEO",
+    "crecimiento",
+    "inflación"
+   ],
+   "manual": true
   },
   {
    "id": "fed-vdGhlcjIwMjYxMDA5YS5odG0",
@@ -208,22 +213,6 @@
    ]
   },
   {
-   "id": "fed-cmRlcnMyMDI2MTAwNWEuaHRt",
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "date": "2026-10-05",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "id": "bis-qdXJpc2RpY3Rpb25zLTIwMjc",
    "title": "Basel III applicable in almost all member jurisdictions by 2027",
    "summary": "Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely mo",
@@ -237,6 +226,22 @@
    "banks": [],
    "tags": [
     "BIS"
+   ]
+  },
+  {
+   "id": "fed-cmRlcnMyMDI2MTAwNWEuaHRt",
+   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "date": "2026-10-05",
+   "source": "Reserva Federal de EE. UU. (Fed)",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Estados Unidos",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FED"
    ]
   },
   {
@@ -288,12 +293,12 @@
    ]
   },
   {
-   "id": "bis-tZGlzY3Vzcy1yaXNrcy1hbmQ",
-   "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
-   "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
+   "id": "bis-lvbi1hbmQtcmVndWxhdGlvbg",
+   "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
+   "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
    "date": "2026-10-01",
    "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+   "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
    "category": "internacional",
    "type": "noticia",
    "country": "Internacional",
@@ -304,12 +309,12 @@
    ]
   },
   {
-   "id": "bis-lvbi1hbmQtcmVndWxhdGlvbg",
-   "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
-   "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
+   "id": "bis-tZGlzY3Vzcy1yaXNrcy1hbmQ",
+   "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
+   "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
    "date": "2026-10-01",
    "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
+   "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
    "category": "internacional",
    "type": "noticia",
    "country": "Internacional",

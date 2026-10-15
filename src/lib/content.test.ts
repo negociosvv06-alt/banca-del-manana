@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { allNews, searchNews, searchSite, newsPanama, newsIntl, newsDigital, eduPieces, digitalScopes, filterDigitalNews, banks, glossary } from './content';
+import { allNews, allNewsArchive, daysOld, isRecent, FEED_MAX_DAYS, searchNews, searchSite, newsPanama, newsIntl, newsDigital, eduPieces, digitalScopes, filterDigitalNews, banks, glossary } from './content';
 describe('contenido', () => {
   it('toda noticia tiene fuente https, fecha ISO y título', () => {
     for (const n of allNews) {
@@ -18,6 +18,16 @@ describe('contenido', () => {
     expect(searchNews(newsPanama, { from: '2026-10-01' }).every((n) => n.date >= '2026-10-01')).toBe(true);
     expect(searchNews(newsPanama, { q: 'zzzxxx' })).toHaveLength(0);
   });
+  it('feeds principales: no muestran noticias de más de 60 días, el buscador sí las incluye', () => {
+    expect(FEED_MAX_DAYS).toBe(60);
+    [newsPanama, newsIntl, newsDigital, allNews].forEach((l) => l.forEach((n) => expect(daysOld(n.date)).toBeLessThanOrEqual(60)));
+    expect(isRecent({ date: '2000-01-01' })).toBe(false);
+    expect(isRecent({ date: new Date().toISOString().slice(0, 10) })).toBe(true);
+    const old = allNewsArchive.find((n) => daysOld(n.date) > 60);
+    expect(old).toBeDefined();
+    expect(allNews.some((n) => n.id === old!.id)).toBe(false);
+    expect(searchSite(old!.title).news.some((n) => n.id === old!.id)).toBe(true);
+  });
   it('búsqueda global vacía', () => expect(searchSite('  ').news).toHaveLength(0));
   it('no se publica ningún ítem marcado stale (fuente caída)', () => { expect(allNews.some((n) => n.stale)).toBe(false); expect(newsIntl.some((n) => n.stale)).toBe(false); });
   it('glosario: ≥40 términos únicos con definición, orden alfabético', () => {
@@ -27,7 +37,7 @@ describe('contenido', () => {
     ['Yappy', 'Kuara', 'Punto Pago', 'ACH Xpress', 'Telered', 'SMV', 'SBP'].forEach((t) => expect(glossary.some((g) => g.term === t)).toBe(true));
   });
   it('activos digitales: noticias con categoría, fuente https y sin stale', () => {
-    expect(newsDigital.length).toBeGreaterThanOrEqual(8);
+    expect(allNewsArchive.filter((n) => n.category === 'activos-digitales').length).toBeGreaterThanOrEqual(8);
     newsDigital.forEach((n) => { expect(n.category).toBe('activos-digitales'); expect(n.url.startsWith('https://')).toBe(true); expect(n.summary.length).toBeGreaterThan(20); expect(n.stale).toBeUndefined(); expect(Array.isArray(n.tags) && Array.isArray(n.banks)).toBe(true); });
     expect(allNews.some((n) => n.category === 'activos-digitales')).toBe(true);
   });

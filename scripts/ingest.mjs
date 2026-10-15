@@ -1,8 +1,9 @@
 // Ingesta de noticias internacionales desde RSS oficiales verificados.
-// Uso: npm run ingest. Si una fuente falla, se omiten sus ítems (no se publican) y el fallo solo se registra en la salida.
+// Uso: npm run ingest. Conserva los ítems añadidos a mano (manual: true). Si una fuente falla, se omiten sus ítems (no se publican) y el fallo solo se registra en la salida.
 import { XMLParser } from 'fast-xml-parser';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { SOURCES } from './sources.mjs';
+import { mergeIntl } from './merge-intl.mjs';
 
 const OUT = new URL('../src/data/news-intl.json', import.meta.url);
 const prev = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : { items: [], sources: {} };
@@ -23,13 +24,14 @@ function adapt(src, xml) {
 
 const now = new Date().toISOString();
 const out = { lastRun: now, sources: {}, items: [] };
+const fresh = [];
 for (const src of SOURCES.filter((s) => s.type === 'rss')) {
   try {
     const res = await fetch(src.url, { headers: { 'User-Agent': 'BancaDelManana/1.0 (+ingesta RSS)' }, signal: AbortSignal.timeout(20000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const items = adapt(src, await res.text());
     if (!items.length) throw new Error('Sin elementos');
-    out.items.push(...items);
+    fresh.push(...items);
     out.sources[src.id] = { ok: true, fetchedAt: now, count: items.length };
     console.log(`✓ ${src.id}: ${items.length}`);
   } catch (e) {
@@ -38,5 +40,6 @@ for (const src of SOURCES.filter((s) => s.type === 'rss')) {
     console.warn(`✗ ${src.id}: ${e.message} (se omiten sus ítems)`);
   }
 }
-out.items.sort((a, b) => b.date.localeCompare(a.date));
+// Se conservan los ítems manuales (manual: true o ids sin prefijo fed-/ecb-/bis-); los de RSS se reemplazan por los nuevos.
+out.items = mergeIntl(prev.items, fresh);
 writeFileSync(OUT, JSON.stringify(out, null, 1));
