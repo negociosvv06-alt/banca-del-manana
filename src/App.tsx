@@ -1,15 +1,20 @@
-import { Route, Routes, useParams } from 'react-router-dom';
+import { Navigate, Route, Routes, useParams } from 'react-router-dom';
 import Layout from './components/Layout';
 import Calculators from './pages/Calculators';
 import * as P from './pages/Pages';
+import { ActivoDigitalPage, ActivosDigitales } from './pages/DigitalAssets';
 
 const Art = () => <P.ArticlePage id={useParams().id} />;
+const Digital = () => <ActivoDigitalPage slug={useParams().slug} />;
 export default function App() {
   return <Routes><Route element={<Layout />}>
     <Route index element={<P.Home />} />
     <Route path="banca-panama" element={<P.BancaPanama />} />
     <Route path="internacional" element={<P.Internacional />} />
-    <Route path="bancos" element={<P.Bancos />} />
+    <Route path="activos-digitales" element={<ActivosDigitales />} />
+    <Route path="activos-digitales/:slug" element={<Digital />} />
+    <Route path="bancos/*" element={<Navigate to="/calculadoras" replace />} />
+    <Route path="bancos" element={<Navigate to="/calculadoras" replace />} />
     <Route path="calculadoras" element={<Calculators />} />
     <Route path="calculadoras/:id" element={<Calculators />} />
     {['inversiones', 'medios-de-pago', 'fintech', 'educacion', 'finanzas-avanzadas', 'opinion'].map((s) => <Route key={s} path={s} element={<P.Section slug={s} />} />)}

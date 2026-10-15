@@ -2,7 +2,7 @@
 import { chromium } from 'playwright-core';
 const BASE = process.argv[2] || 'http://localhost:4173';
 const exe = process.env.CHROME_PATH || '/usr/bin/google-chrome';
-const routes = ['/', '/banca-panama', '/banca-panama?cat=pagos', '/internacional', '/bancos', '/inversiones', '/calculadoras', '/calculadoras/prestamo', '/calculadoras/divisas', '/medios-de-pago', '/fintech', '/educacion', '/finanzas-avanzadas', '/opinion', '/glosario', '/acerca', '/metodologia', '/contacto', '/privacidad', '/terminos', '/aviso-legal', '/fuentes', '/buscar?q=yappy', '/articulo/fondo-emergencia', '/no-existe'];
+const routes = ['/', '/banca-panama', '/banca-panama?cat=pagos', '/internacional', '/activos-digitales', '/activos-digitales/blockchain-cadena-de-bloques', '/activos-digitales/p2p-peer-to-peer', '/bancos', '/inversiones', '/calculadoras', '/calculadoras/prestamo', '/calculadoras/divisas', '/medios-de-pago', '/fintech', '/educacion', '/finanzas-avanzadas', '/opinion', '/glosario', '/acerca', '/metodologia', '/contacto', '/privacidad', '/terminos', '/aviso-legal', '/fuentes', '/buscar?q=yappy', '/articulo/fondo-emergencia', '/no-existe'];
 const browser = await chromium.launch({ executablePath: exe, args: ['--no-sandbox'] });
 const page = await browser.newPage();
 const errors = [];
@@ -37,7 +37,7 @@ if (process.env.SHOTS) {
   await page.setViewportSize({ width: 1366, height: 900 });
   await page.goto(BASE + '/', { waitUntil: 'networkidle' }); await page.screenshot({ path: 'screenshots/inicio-escritorio.png', fullPage: true });
   await page.goto(BASE + '/calculadoras/prestamo'); await page.click('text=Ver tabla de amortización'); await page.screenshot({ path: 'screenshots/calculadora-prestamo.png', fullPage: true });
-  await page.goto(BASE + '/bancos'); await page.screenshot({ path: 'screenshots/bancos-comparador.png' });
+  await page.goto(BASE + '/activos-digitales', { waitUntil: 'networkidle' }); await page.screenshot({ path: 'screenshots/activos-digitales.png', fullPage: true });
   await page.evaluate(() => localStorage.setItem('theme', 'dark')); await page.goto(BASE + '/banca-panama', { waitUntil: 'networkidle' }); await page.screenshot({ path: 'screenshots/banca-panama-oscuro.png' });
   await page.evaluate(() => localStorage.setItem('theme', 'light'));
   const m = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2 });

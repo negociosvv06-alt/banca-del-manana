@@ -67,5 +67,59 @@
   "url": "https://api.frankfurter.dev/v1/latest?base=USD",
   "country": "Internacional",
   "note": "API gratuita sin clave, consultada desde el navegador por el conversor de divisas."
+ },
+ {
+  "id": "sec",
+  "name": "SEC (Comisión de Valores de EE. UU.)",
+  "type": "manual",
+  "url": "https://www.sec.gov/newsroom/press-releases",
+  "country": "Estados Unidos",
+  "lang": "en",
+  "note": "Activos digitales: ETF, custodia y regulación cripto."
+ },
+ {
+  "id": "eba",
+  "name": "Autoridad Bancaria Europea (EBA)",
+  "type": "manual",
+  "url": "https://www.eba.europa.eu/publications-and-media/press-releases",
+  "country": "Unión Europea",
+  "lang": "en",
+  "note": "Activos digitales: MiCA y tokens de dinero electrónico."
+ },
+ {
+  "id": "esma",
+  "name": "ESMA",
+  "type": "manual",
+  "url": "https://www.esma.europa.eu/press-news/esma-news",
+  "country": "Unión Europea",
+  "lang": "en",
+  "note": "Activos digitales: MiCA y stablecoins."
+ },
+ {
+  "id": "tesoro-us",
+  "name": "Registro Federal de EE. UU. (Tesoro)",
+  "type": "manual",
+  "url": "https://www.govinfo.gov/app/collection/fr",
+  "country": "Estados Unidos",
+  "lang": "en",
+  "note": "Activos digitales: reglas de la ley GENIUS."
+ },
+ {
+  "id": "criptonoticias",
+  "name": "CriptoNoticias",
+  "type": "manual",
+  "url": "https://www.criptonoticias.com/",
+  "country": "Latinoamérica",
+  "lang": "es",
+  "note": "Activos digitales: medio especializado en español; se verifica cada noticia contra su fuente."
+ },
+ {
+  "id": "asamblea",
+  "name": "Asamblea Nacional de Panamá",
+  "type": "manual",
+  "url": "https://sistemas.asamblea.gob.pa/segLegis/viewsPublico/SeguimientoLegislativo",
+  "country": "Panamá",
+  "lang": "es",
+  "note": "Seguimiento de proyectos de ley sobre activos virtuales."
  }
 ]

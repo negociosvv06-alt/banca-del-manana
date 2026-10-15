@@ -4,6 +4,7 @@ import { AI_LABEL, allNews, newsPanama, newsIntl, articles, banks, glossary, ind
 import { Badge, Empty, NewsCard, PageHeader, Paginated, useSeo } from '../components/ui';
 import { CALCS } from './Calculators';
 import NewsletterForm from '../components/NewsletterForm';
+import { DigitalHomeBlock } from './DigitalAssets';
 import SOURCES from '../data/sources.json';
 
 function Indicators() {
@@ -27,6 +28,7 @@ export function Home() {
       <div className="hero-main card"><p className="kicker">Titular · Banca en Panamá</p><div className="meta"><Badge type={lead.type} /></div><h1><a href={lead.url} target="_blank" rel="noopener noreferrer">{lead.title}</a></h1><p className="lead">{lead.summary}</p><p className="source">Fuente: {lead.source} · {formatDate(lead.date)}</p></div>
       <div className="hero-side"><h2>Últimas verificadas</h2><ul className="headlines">{rest.slice(0, 5).map((n) => <li key={n.id}><a href={n.url} target="_blank" rel="noopener noreferrer">{n.title}</a><span className="source"> {n.source} · {formatDate(n.date)}</span></li>)}</ul><Link to="/banca-panama" className="btn">Todas las noticias de Panamá</Link></div>
     </section>
+    <DigitalHomeBlock />
     <Indicators />
     <section aria-labelledby="calc-h"><h2 id="calc-h">Calculadoras destacadas</h2><div className="grid four">{CALCS.filter((c) => ['ahorro', 'prestamo', 'plazo-fijo', 'meta'].includes(c.id)).map((c) => <Link key={c.id} className="card tool" to={`/calculadoras/${c.id}`}><h3>{c.title}</h3><p>{c.desc}</p></Link>)}</div></section>
     <div className="two-col">
@@ -62,19 +64,6 @@ function NewsBrowser({ items, title, intro }: { items: typeof allNews; title: st
 export const BancaPanama = () => <><NewsBrowser items={newsPanama} title="Banca en Panamá" intro="Regulación de la SBP, sistema bancario, bancos, crédito, pagos y ciberseguridad. Cada noticia enlaza a su fuente original." /><Indicators /></>;
 export function Internacional() {
   return <><NewsBrowser items={newsIntl} title="Noticias internacionales" intro="Comunicados oficiales de bancos centrales y organismos internacionales (Reserva Federal, Banco de Pagos Internacionales y Banco Central Europeo), obtenidos de sus RSS públicos. Títulos en el idioma original (inglés)." /></>;
-}
-
-export function Bancos() {
-  useSeo('Bancos y comparador', 'Directorio de entidades bancarias de Panamá y comparador de productos sin tasas inventadas.');
-  const [q, setQ] = useState('');
-  const list = banks.items.filter((b) => b.name.toLowerCase().includes(q.toLowerCase()));
-  return <><PageHeader title="Bancos y comparador" intro="Directorio inicial de entidades. Licencias y datos regulatorios deben confirmarse en el registro oficial de la SBP." />
-    <p className="warn" role="note">⚠ {banks.note} <a href={banks.registryUrl} target="_blank" rel="noopener noreferrer">Ir a la SBP</a></p>
-    <div className="field"><label htmlFor="b-q">Filtrar por nombre</label><input id="b-q" value={q} onChange={(e) => setQ(e.target.value)} maxLength={60} /></div>
-    <div className="grid">{list.map((b) => { const news = newsPanama.filter((n) => n.banks.includes(b.id)); return <article key={b.id} className="card bank" id={b.id}><h2>{b.name}</h2><dl><dt>Tipo</dt><dd>{b.type}</dd><dt>Licencia</dt><dd className={b.license.startsWith('Pendiente') ? 'pending' : ''}>{b.license}</dd><dt>Canales</dt><dd>{b.channels.join(', ')}</dd></dl>{b.notes && <p>{b.notes}</p>}<p><a href={b.website} target="_blank" rel="noopener noreferrer">Sitio oficial</a>{news.length > 0 && <> · <Link to={`/banca-panama?banco=${b.id}`}>{news.length} noticia(s)</Link></>}</p></article>; })}</div>
-    {!list.length && <Empty title="Ningún banco coincide." />}
-    <section aria-labelledby="cmp-h"><h2 id="cmp-h">Calculadoras para comparar</h2>
-      <p>Use la <Link to="/calculadoras/prestamo">calculadora de préstamos</Link> y las demás <Link to="/calculadoras">calculadoras</Link> con los datos que le ofrezca su banco.</p></section></>;
 }
 
 const SECTIONS: Record<string, { title: string; intro: string; cats: string[]; extra?: ReactNode }> = {
@@ -119,14 +108,14 @@ export function Buscar() {
   const q = sp.get('q') ?? '';
   const r = useMemo(() => searchSite(q), [q]);
   useSeo('Buscar', 'Búsqueda global en Banca del Mañana.');
-  const total = r.news.length + r.articles.length + r.glossary.length + r.banks.length;
+  const total = r.news.length + r.articles.length + r.glossary.length + r.digital.length;
   return <><PageHeader title="Buscar" />
     <form role="search" onSubmit={(e) => { e.preventDefault(); setSp({ q: String(new FormData(e.currentTarget).get('q') ?? '').slice(0, 100) }); }} className="search-big"><label htmlFor="s-q" className="sr-only">Término</label><input id="s-q" name="q" type="search" defaultValue={q} key={q} maxLength={100} /><button className="btn">Buscar</button></form>
-    {!q ? <Empty title="Escriba un término para buscar en noticias, artículos, glosario y bancos." /> : total === 0 ? <Empty title={`No hay resultados para “${q}”.`}>Revise la ortografía o use términos más generales.</Empty> : <>
+    {!q ? <Empty title="Escriba un término para buscar en noticias, artículos, guías de activos digitales y glosario." /> : total === 0 ? <Empty title={`No hay resultados para “${q}”.`}>Revise la ortografía o use términos más generales.</Empty> : <>
       <p role="status">{total} resultado(s) para “{q}”</p>
       {r.news.length > 0 && <section><h2>Noticias ({r.news.length})</h2><Paginated items={r.news} perPage={6} label="resultados" render={(n) => <NewsCard key={n.id} n={n} />} /></section>}
       {r.articles.length > 0 && <section><h2>Artículos</h2><div className="grid">{r.articles.map((a) => <ArticleCard key={a.id} a={a} />)}</div></section>}
-      {r.banks.length > 0 && <section><h2>Bancos</h2><ul>{r.banks.map((b) => <li key={b.id}><Link to={`/bancos#${b.id}`}>{b.name}</Link></li>)}</ul></section>}
+      {r.digital.length > 0 && <section><h2>Guías de activos digitales</h2><ul>{r.digital.map((e) => <li key={e.id}><Link to={`/activos-digitales/${e.id}`}>{e.title}</Link></li>)}</ul></section>}
       {r.glossary.length > 0 && <section><h2>Glosario</h2><dl className="glossary">{r.glossary.map((g) => <div key={g.term}><dt>{g.term}</dt><dd>{g.def}</dd></div>)}</dl></section>}</>}</>;
 }
 
@@ -139,7 +128,7 @@ export function Fuentes() {
 
 const Static = ({ title, children }: { title: string; children: ReactNode }) => { useSeo(title, title); return <div className="prose"><h1>{title}</h1>{children}</div>; };
 export const Acerca = () => <Static title="Acerca de Banca del Mañana"><p>Banca del Mañana es una plataforma de información y educación financiera sobre el sistema bancario de Panamá, la economía internacional, los pagos, la banca digital y las inversiones. Nace como extensión del canal de YouTube del mismo nombre.</p><p>Nuestro público: ciudadanos, estudiantes, profesionales, emprendedores e inversionistas.</p><p>Independencia: no somos un banco ni una entidad regulada. No recibimos depósitos ni ofrecemos productos financieros. El contenido patrocinado se identifica siempre con la etiqueta “Patrocinado”.</p><p><Link to="/metodologia">Metodología editorial</Link> · <Link to="/contacto">Contacto</Link> · <Link to="/fuentes">Fuentes</Link></p></Static>;
-export const Metodologia = () => <Static title="Metodología editorial"><ul><li>Solo publicamos noticias con fuente pública verificable, enlace y fecha de publicación.</li><li>No simulamos noticias, tasas, cotizaciones ni rendimientos. Si un dato no está verificado, no lo publicamos o lo marcamos como “Pendiente de verificación”.</li><li>Distinguimos con etiquetas: Noticia, Análisis, Opinión, Educativo y Patrocinado.</li><li>Las noticias con más de 30 días muestran un aviso de posible desactualización.</li><li>Las noticias internacionales se obtienen de RSS oficiales; si una fuente no está disponible, simplemente no se publican sus ítems hasta que vuelva a responder.</li><li>Correcciones: los errores se corrigen en el repositorio público con registro de cambios. Escríbanos desde <Link to="/contacto">Contacto</Link>.</li></ul></Static>;
+export const Metodologia = () => <Static title="Metodología editorial"><ul><li>Solo publicamos noticias con fuente pública verificable, enlace y fecha de publicación.</li><li>No simulamos noticias, tasas, cotizaciones ni rendimientos. Si un dato no está verificado, no lo publicamos o lo marcamos como “Pendiente de verificación”.</li><li>Distinguimos con etiquetas: Noticia, Análisis, Opinión, Educativo y Patrocinado.</li><li>Activos digitales: las noticias enlazan a su fuente original (autoridades, organismos y medios) y las guías educativas son contenido propio con fuentes citadas; ninguna constituye asesoría de inversión.</li><li>Las noticias con más de 30 días muestran un aviso de posible desactualización.</li><li>Las noticias internacionales se obtienen de RSS oficiales; si una fuente no está disponible, simplemente no se publican sus ítems hasta que vuelva a responder.</li><li>Correcciones: los errores se corrigen en el repositorio público con registro de cambios. Escríbanos desde <Link to="/contacto">Contacto</Link>.</li></ul></Static>;
 export const Privacidad = () => <Static title="Política de privacidad"><p>No usamos cookies de seguimiento ni publicidad. La preferencia de tema (claro/oscuro) se guarda solo en su navegador.</p><p>Las calculadoras funcionan en su navegador: los montos que ingresa no se envían a ningún servidor. El conversor de divisas consulta la API pública Frankfurter, que recibe su dirección IP como cualquier sitio web.</p><p>El formulario de contacto abre su propio programa de correo; no almacenamos los mensajes en este sitio.</p><p><strong>Boletín.</strong> Si te suscribes al boletín gratuito, tu correo se envía directamente a MailerLite, nuestro proveedor de correo electrónico, que lo almacena y envía el boletín. Solo usamos tu correo para enviarte el boletín; no lo vendemos ni lo compartimos con anunciantes. Puedes darte de baja en cualquier momento con el enlace al pie de cada boletín. No recopilamos datos de tarjetas ni de pagos. Consulta la política de privacidad de MailerLite en mailerlite.com/legal/privacy-policy.</p><p>Nunca le pediremos credenciales bancarias, números de tarjeta, PIN ni códigos de autenticación.</p><p><strong>Analítica.</strong> Usamos Cloudflare Web Analytics para conocer, de forma agregada, cuántas personas visitan el sitio, qué páginas leen, desde qué países y con qué tipo de dispositivo o navegador. Esta herramienta no usa cookies ni almacenamiento local para seguimiento, no crea perfiles ni te identifica individualmente, y no la usamos con fines publicitarios. Cloudflare procesa datos técnicos de la visita, como la dirección IP, para generar esas estadísticas. Más información en la política de privacidad de Cloudflare.</p><p>Referencia: Ley 81 de 2019 de protección de datos personales de Panamá. <em>Texto pendiente de revisión legal.</em></p></Static>;
 export const Terminos = () => <Static title="Términos de uso"><p>El contenido es informativo y educativo. Puede citarse con enlace a la fuente. Las marcas mencionadas pertenecen a sus titulares y se citan solo con fines informativos.</p><p>No garantizamos la exactitud de datos de terceros; cada dato enlaza a su origen. <em>Texto pendiente de revisión legal local.</em></p></Static>;
 export const AvisoLegal = () => <Static title="Aviso financiero"><p>Nada en este sitio constituye asesoría financiera, legal o tributaria, ni una oferta o recomendación de compra o venta de valores. Las calculadoras producen estimaciones con los datos que usted ingresa. Rendimientos pasados no garantizan resultados futuros. Consulte con entidades autorizadas por la Superintendencia de Bancos (SBP) o la Superintendencia del Mercado de Valores (SMV).</p></Static>;

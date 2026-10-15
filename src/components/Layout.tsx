@@ -4,7 +4,7 @@ import NewsletterForm from './NewsletterForm';
 import { CONTENT_UPDATED, formatDate } from '../lib/content';
 
 export const NAV = [
-  ['/', 'Inicio'], ['/banca-panama', 'Banca en Panamá'], ['/internacional', 'Internacional'], ['/bancos', 'Bancos y comparador'],
+  ['/', 'Inicio'], ['/banca-panama', 'Banca en Panamá'], ['/internacional', 'Internacional'], ['/activos-digitales', 'Activos digitales'],
   ['/inversiones', 'Inversiones'], ['/calculadoras', 'Calculadoras'], ['/medios-de-pago', 'Medios de pago'], ['/fintech', 'Banca digital y fintech'],
   ['/educacion', 'Ahorro y educación'], ['/finanzas-avanzadas', 'Finanzas avanzadas'], ['/opinion', 'Opinión y análisis'], ['/glosario', 'Glosario'], ['/acerca', 'Acerca de'],
 ] as const;

@@ -19,14 +19,15 @@ npm run ingest       # descarga noticias de RSS oficiales (Fed, BCE, BIS)
 - `src/lib/calc.ts` – funciones financieras puras (préstamo, amortización, ahorro, meta, plazo fijo, deudas, inflación, fondo de emergencia, VPN, TIR, divisas) + `calc.test.ts`.
 - `src/lib/content.ts` – carga, búsqueda y filtros del contenido.
 - `content/articles/*.json` – artículos (un archivo por artículo).
-- `src/data/*.json` – contenido editorial (noticias de Panamá, glosario, bancos, indicadores, tasas, fuentes). `news-intl.json` lo genera `npm run ingest`.
+- `src/data/*.json` – contenido editorial (noticias de Panamá, noticias de activos digitales `news-digital.json`, guías educativas `education-digital.json`, glosario, indicadores, fuentes; `banks.json` solo alimenta el filtro «Banco» de las noticias). `news-intl.json` lo genera `npm run ingest`.
 - `src/pages/` – páginas; `src/components/` – layout y UI.
 - `scripts/` – ingesta RSS, validación de contenido, postbuild (sitemap/robots/404), prueba de humo.
 - `public/_redirects`, `public/_headers` (Cloudflare Pages/Netlify), `vercel.json` (Vercel): fallback SPA y cabeceras de seguridad (CSP).
 
 ## Flujo editorial (sin panel inseguro)
 No hay panel de administración con usuario/contraseña: el contenido se edita en los JSON de `src/data/` mediante commits o pull requests en GitHub (control de acceso = permisos del repositorio, con historial y revisión). `npm run build` rechaza noticias sin fuente https, sin fecha, con fecha futura o con tipo inválido.
-Reglas: cada noticia lleva `url`, `source`, `date` (fecha de publicación) y `type` (noticia, analisis, opinion, educativo, patrocinado). Nunca inventar tasas ni cotizaciones: el comparador solo ofrece calculadoras, sin tabla de tasas.
+Reglas: cada noticia lleva `url`, `source`, `date` (fecha de publicación) y `type` (noticia, analisis, opinion, educativo, patrocinado). Nunca inventar tasas ni cotizaciones. La antigua página «Bancos y comparador» fue eliminada; `/bancos` redirige a `/calculadoras`.
+Activos digitales (`/activos-digitales`): `news-digital.json` es un arreglo de noticias con el mismo esquema que `news-panama.json` y `category: "activos-digitales"`; las guías educativas (`education-digital.json`) se muestran en `/activos-digitales/<slug>` y siempre llevan fuentes y el aviso «Contenido educativo, no es asesoría de inversión».
 Opción futura: Decap CMS (gratuito, basado en Git) requiere un proveedor OAuth de GitHub (p. ej. un Worker de Cloudflare); no está configurado.
 
 ## Variables de entorno (todas públicas, ver `.env.example`)
@@ -67,8 +68,6 @@ Recomendado: **Cloudflare Pages** (plan gratuito con ancho de banda generoso, 50
 - SPA sin prerenderizado: los buscadores modernos ejecutan JS, pero el SEO por página es mejor con SSG (fase 2: `vite-react-ssg` o Astro).
 - Noticias de Panamá curadas manualmente (al 7 oct 2026); no hay ingesta automática de medios locales.
 - "Más leídas" vacía hasta conectar analítica real (Cloudflare Web Analytics, gratis y sin cookies).
-- Comparador sin tasas: requiere verificación editorial de tarifarios.
-- Directorio de bancos: licencias "Pendiente de verificación" contra el registro de la SBP; lista inicial de 10 entidades.
 - Sin cotizaciones bursátiles (requieren proveedor con licencia).
 - Títulos internacionales en inglés (idioma original); traducción automática no implementada.
 - Textos legales pendientes de revisión legal local. Inglés: arquitectura lista para i18n en fase 2 (textos aún embebidos en componentes).

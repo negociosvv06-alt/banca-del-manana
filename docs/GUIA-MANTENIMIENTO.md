@@ -23,7 +23,9 @@ Esta guía explica, sin necesidad de saber programar, cómo funciona el portal, 
 | `content/articles/` | **Artículos** (un archivo `.json` por artículo). Aquí llega el artículo diario "Banca e IA". |
 | `src/data/news-panama.json` | Noticias de Panamá (se cargan a mano). |
 | `src/data/news-intl.json` | Noticias internacionales (se generan solas desde Fed, BCE y BIS). No editar a mano. |
-| `src/data/banks.json` | Directorio de bancos. |
+| `src/data/news-digital.json` | Noticias de **Activos digitales** (menú `/activos-digitales`). Mismo esquema que Panamá, con `category: "activos-digitales"`. |
+| `src/data/education-digital.json` | Guías educativas de Activos digitales (`/activos-digitales/<slug>`). |
+| `src/data/banks.json` | Lista de bancos usada solo por el filtro «Banco» de las noticias (ya no hay página «Bancos y comparador»; `/bancos` redirige a calculadoras). |
 | `src/data/indicators.json` | Indicadores del sistema bancario de la portada. |
 | `src/data/glossary.json` | Glosario financiero. |
 | `src/data/sources.json` | Lista de fuentes y su tipo (RSS, API o manual). |
@@ -64,8 +66,9 @@ Crear `content/articles/AAAA-MM-DD-identificador.json` con esta plantilla:
 En `src/data/news-panama.json`, copie un bloque `{ ... }` existente, péguelo al inicio de la lista (después del `[`) y cambie:
 `id` (único), `title`, `summary`, `date` (fecha de publicación de la fuente), `source` (medio), `url`, `category` (`regulacion`, `sistema`, `bancos`, `pagos`, `credito`, `tecnologia`, `ciberseguridad`, `economia`), `type`, `country`, `banks` (ids de banks.json, p. ej. `["caja-de-ahorros"]` o `[]`), `tags`.
 
-### 3.3 Bancos
-En `src/data/banks.json`, cada banco tiene `id`, `name`, `type`, `license`, `website`, `channels`, `notes`. Cambie `license` de "Pendiente de verificación" al dato exacto solo después de verificarlo en el registro de la Superintendencia de Bancos.
+### 3.3 Noticias de activos digitales
+En `src/data/news-digital.json` (lista, la más nueva primero), cada noticia lleva `id` (único), `title`, `summary`, `date` (fecha de publicación de la fuente, AAAA-MM-DD), `source`, `url` (https), `category` (siempre `"activos-digitales"`), `type` (`noticia`), `country` (`Panamá` o el país/región), `lang` (`es` o `en`), `banks` (`[]`), `tags`. La etiqueta `banca` en `tags` la muestra en el filtro «Banca» y la etiqueta `Panamá` en el filtro «Panamá». Solo noticias reales y verificadas; si una fuente no responde, no se publica nada de ella.
+Las guías educativas están en `src/data/education-digital.json` (`id` = slug, `title`, `summary`, `date`, `aiAssisted`, `sections`, `sources`).
 
 ### 3.4 Indicadores
 En `src/data/indicators.json`, cada indicador tiene `label`, `value`, `unit`, `change`, `period`, `source`, `url`, `published`. Actualícelos cuando la SBP publique un nuevo Informe de Actividad Bancaria y cambie `asOf`.
@@ -127,13 +130,10 @@ Nota: el sitio principal de Cloudflare **no** tiene recompilación cada 6 horas;
 
 ### Solo manual (no se actualiza solo)
 - Noticias de Panamá (`news-panama.json`): la SBP no tiene RSS.
-- Directorio de bancos y verificación de licencias.
 - Indicadores del sistema bancario.
 - Glosario y textos legales.
 
 ### Pendientes
-- Verificar licencias de los bancos en el registro de la SBP.
-- Cargar tasas verificadas en el comparador.
 - Activar Cloudflare Web Analytics y luego conectar el bloque "Más leídas" con datos reales.
 - Revisión legal local de Privacidad, Términos y Aviso financiero.
 - Versión en inglés (fase 2) y, si se quiere, dominio propio (tiene costo anual).

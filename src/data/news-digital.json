@@ -1,0 +1,231 @@
+[
+  {
+    "id": "eba-usdc-token-significativo",
+    "title": "La EBA clasifica a USDC como el primer token de dinero electrónico «significativo» bajo MiCA",
+    "summary": "La Autoridad Bancaria Europea (EBA) clasificó a USDC, emitido en la UE por Circle Internet Financial Europe SAS, como token de dinero electrónico significativo. Desde el 12 de noviembre de 2026 estará bajo supervisión dual: la EBA asumirá fondos propios, reservas, liquidez y planes de recuperación y reembolso, mientras la ACPR francesa mantiene gobernanza y otros aspectos. Hay 45 tokens de dinero electrónico notificados en la UE.",
+    "date": "2026-10-14",
+    "source": "Autoridad Bancaria Europea (EBA)",
+    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Unión Europea",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "MiCA",
+      "USDC",
+      "banca"
+    ]
+  },
+  {
+    "id": "tether-efy-finance-latam",
+    "title": "Tether invierte en EFY Finance para ampliar pagos con USDT y USAT en Latinoamérica, incluida Panamá",
+    "summary": "Tether confirmó el 13 de octubre su participación en la ronda inicial de EFY Finance, fintech colombiana de pagos transfronterizos y custodia con stablecoins. El acuerdo busca ampliar USDT y USAT en Colombia, Bolivia, México, Panamá, El Salvador y Ecuador, conectando las stablecoins con el sistema financiero tradicional; en Bolivia, Banco Unión ya integró USDT en su billetera Yasta.",
+    "date": "2026-10-14",
+    "source": "CriptoNoticias",
+    "url": "https://www.criptonoticias.com/negocios/tether-usdt-colombia-bolivia-mexico-panama-elsalvador-ecuador/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Latinoamérica",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "USDT",
+      "Panamá",
+      "pagos",
+      "banca"
+    ]
+  },
+  {
+    "id": "sbp-fmi-activos-virtuales-vasp",
+    "title": "Superintendencia de Bancos: la misión del FMI revisó con la SBP los riesgos de activos virtuales y de los VASP",
+    "summary": "La SBP informó que, en las reuniones de la Consulta del Artículo IV con el FMI, la agenda incluyó los activos virtuales y los proveedores de servicios de activos virtuales (VASP), en particular la evaluación de riesgos y los enfoques regulatorios. También se revisó el impacto inicial de los Acuerdos 1-2026 (prevención del uso indebido) y 3-2026 (sanciones administrativas).",
+    "date": "2026-10-14",
+    "source": "Superintendencia de Bancos de Panamá (SBP)",
+    "url": "https://www.superbancos.gob.pa/node/1812",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "FMI",
+      "VASP",
+      "activos virtuales",
+      "banca"
+    ]
+  },
+  {
+    "id": "laestrella-fmi-criptoactivos-red-seguridad",
+    "title": "FMI avala banca panameña, pero pide reforzar la red financiera y la supervisión de criptoactivos",
+    "summary": "La Estrella de Panamá reseña el cierre de la misión técnica del FMI con la SBP: destaca la resiliencia del sistema bancario y la necesidad de fortalecer la red de seguridad financiera y la supervisión de los activos virtuales, con evaluación de riesgos e instrumentos de supervisión para los VASP.",
+    "date": "2026-10-12",
+    "source": "La Estrella de Panamá",
+    "url": "https://www.laestrella.com.pa/economia/fmi-avala-banca-panamena-pero-pide-reforzar-la-red-financiera-y-criptoactivos-NE26443916",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "FMI",
+      "SBP",
+      "criptoactivos",
+      "VASP",
+      "banca"
+    ]
+  },
+  {
+    "id": "bok-sin-cbdc-minorista",
+    "title": "El Banco de Corea afirma que no planea emitir una CBDC minorista y distingue su proyecto Hangang",
+    "summary": "El Banco de Corea aclaró que no tiene planes de emitir una moneda digital de banco central para el público ni investiga una. Su Proyecto Hangang usa moneda digital mayorista y «tokens de depósito» emitidos por bancos, que solo pueden mantener los bancos; los tokens de depósito tienen reserva de 7 % y cobertura del seguro de depósitos.",
+    "date": "2026-10-09",
+    "source": "Seoul Economic Daily",
+    "url": "https://en.sedaily.com/finance/2026/10/09/bank-of-korea-says-it-has-no-plan-to-issue-retail-cbdc",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "tokens de depósito",
+      "banca",
+      "Corea del Sur"
+    ]
+  },
+  {
+    "id": "esma-stablecoins-no-mica",
+    "title": "ESMA: los proveedores autorizados bajo MiCA deben dejar de prestar servicios sobre stablecoins que no cumplan MiCA",
+    "summary": "La ESMA publicó una opinión según la cual los proveedores de servicios de criptoactivos (CASP) autorizados en la UE deben cesar servicios relacionados con stablecoins (ART y EMT) que no cumplan MiCA. Las exposiciones preexistentes deben corregirse lo antes posible y a más tardar tres meses después de la publicación; solo se permite lo necesario para liquidar, convertir, retirar, transferir o custodiar esos activos.",
+    "date": "2026-10-08",
+    "source": "ESMA",
+    "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Unión Europea",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "MiCA",
+      "ESMA"
+    ]
+  },
+  {
+    "id": "sec-etf-3x-bitcoin-ether",
+    "title": "La SEC aprueba la regla de Cboe BZX para listar fondos con apalancamiento 3x en bitcoin y ether",
+    "summary": "La SEC aprobó el 2 de octubre el cambio de regla de Cboe BZX que permite listar seis fondos de Volatility Shares, entre ellos 3x Bitcoin y 3x Ether, que buscan el triple del rendimiento diario de contratos de futuros (no mantienen las monedas). Son productos de corto plazo de alto riesgo; la orden no fija fecha de inicio de cotización.",
+    "date": "2026-10-02",
+    "source": "SEC (Comisión de Valores de EE. UU.)",
+    "url": "https://www.sec.gov/files/rules/sro/cboebzx/2026/34-106577.pdf",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "ETF",
+      "SEC",
+      "bitcoin",
+      "ether",
+      "apalancamiento"
+    ]
+  },
+  {
+    "id": "sec-propuesta-custodia-cripto",
+    "title": "La SEC propone reglas de custodia de criptoactivos para asesores de inversión y fondos regulados",
+    "summary": "La SEC propuso un marco para que asesores de inversión registrados y fondos regulados custodien criptoactivos: permitiría la autocustodia en ciertas circunstancias y el uso de compañías fiduciarias estatales como custodios. El periodo de comentarios dura 60 días tras su publicación en el Registro Federal.",
+    "date": "2026-10-01",
+    "source": "SEC (Comisión de Valores de EE. UU.)",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "SEC",
+      "custodia",
+      "criptoactivos",
+      "banca"
+    ]
+  },
+  {
+    "id": "basilea-revision-estandar-criptoactivos",
+    "title": "Comité de Basilea: avanza la revisión de su estándar para exposiciones bancarias a criptoactivos; novedades a fin de año",
+    "summary": "Tras su reunión del 28 y 29 de septiembre en Indonesia, el Comité de Supervisión Bancaria de Basilea informó que avanzó en la revisión puntual de su estándar prudencial para las exposiciones de los bancos a criptoactivos y que ofrecerá una actualización antes de que termine 2026.",
+    "date": "2026-10-01",
+    "source": "Banco de Pagos Internacionales (BIS)",
+    "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Internacional",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "Basilea",
+      "criptoactivos",
+      "banca",
+      "BIS"
+    ]
+  },
+  {
+    "id": "tesoro-genius-certificacion-estados",
+    "title": "Tesoro de EE. UU. fija los procedimientos para revisar certificaciones estatales de emisores de stablecoins (ley GENIUS)",
+    "summary": "El Departamento del Tesoro, en nombre del Comité de Revisión de Certificación de Stablecoins, publicó una regla interina vigente desde el 30 de septiembre con formularios y procedimientos para evaluar certificaciones de reguladores estatales de stablecoins de pago. Aún no se aceptan certificaciones hasta completar un trámite administrativo; los comentarios cierran el 30 de noviembre de 2026.",
+    "date": "2026-09-30",
+    "source": "Registro Federal de EE. UU. (Departamento del Tesoro)",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-19966.htm",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "GENIUS Act",
+      "Tesoro"
+    ]
+  },
+  {
+    "id": "fed-propuestas-genius-emisores-stablecoins",
+    "title": "La Fed propone reglas para emisores de stablecoins de pago supervisados por la Junta y para bancos que quieran emitirlas",
+    "summary": "La Reserva Federal pidió comentarios sobre dos propuestas de la ley GENIUS: la primera exigiría respaldo total con reservas permitidas (como letras del Tesoro de corto plazo), requisitos de capital y gestión de riesgos, y reglas de custodia; la segunda crearía el proceso de solicitud para bancos supervisados por la Fed que quieran emitir stablecoins mediante una subsidiaria.",
+    "date": "2026-09-24",
+    "source": "Reserva Federal (Fed)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "GENIUS Act",
+      "Fed",
+      "banca"
+    ]
+  },
+  {
+    "id": "smv-conversatorio-activos-virtuales-fiscales",
+    "title": "La SMV capacita a 42 fiscales superiores sobre activos virtuales, sus riesgos y su regulación",
+    "summary": "La Superintendencia del Mercado de Valores (SMV) realizó, a través de su Dirección Jurídica, un conversatorio sobre el ecosistema y funcionamiento de los activos virtuales, sus principales riesgos y aspectos regulatorios, dirigido a fiscales superiores del Ministerio Público.",
+    "date": "2026-09-17",
+    "source": "Superintendencia del Mercado de Valores (SMV)",
+    "url": "https://supervalores.gob.pa/smv-desarrolla-conversatorio-sobre-activos-virtuales-dirigido-a-fiscales-superiores-del-ministerio-publico/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SMV",
+      "activos virtuales",
+      "regulación"
+    ]
+  }
+]

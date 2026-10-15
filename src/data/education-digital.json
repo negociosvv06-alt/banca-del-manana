@@ -1,0 +1,617 @@
+[
+ {
+  "id": "que-son-activos-digitales",
+  "title": "Qué son los activos digitales",
+  "summary": "Representaciones digitales de valor que se pueden transferir o negociar por medios electrónicos: criptomonedas, stablecoins, tokens y más.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Una definición sencilla",
+    "p": [
+     "Un activo digital es una representación de valor que existe en formato electrónico y que puede transferirse, guardarse o negociarse digitalmente. El GAFI/FATF, el organismo internacional que fija estándares contra el lavado de dinero, usa el término «activo virtual» para una representación digital de valor que puede negociarse o transferirse digitalmente y usarse para pagos o inversión; excluye el dinero en efectivo digital emitido por bancos centrales, los valores y otros activos que ya están cubiertos por otros estándares.",
+     "«Activo digital», «activo virtual» y «criptoactivo» se usan a veces como sinónimos, aunque cada país y cada norma define el término a su manera. Por eso conviene leer siempre la definición legal que aplica en cada jurisdicción."
+    ]
+   },
+   {
+    "h": "Tipos más comunes",
+    "ul": [
+     "Criptomonedas sin respaldo, como bitcoin: no las emite un banco central ni una empresa; su valor depende de la oferta y la demanda.",
+     "Stablecoins: tokens que buscan mantener un valor fijo frente a una moneda, casi siempre el dólar.",
+     "Tokens de utilidad o de gobernanza: dan acceso a una aplicación o derecho a votar en un protocolo.",
+     "Activos tokenizados: representaciones digitales de bienes o valores del mundo tradicional.",
+     "Moneda digital de banco central (CBDC): dinero oficial en formato digital, que se considera distinto de un activo virtual privado."
+    ]
+   },
+   {
+    "h": "Qué debes tener presente",
+    "p": [
+     "El valor de muchos activos digitales cambia con rapidez y puede caer de forma drástica. Según la FTC de EE. UU., las criptomonedas tienden a ser más volátiles que inversiones tradicionales como acciones y bonos, y los fondos mantenidos en cuentas cripto no están asegurados por un gobierno como los depósitos bancarios.",
+     "Este contenido explica conceptos; no recomienda comprar ni vender ningún activo."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "GAFI/FATF, guía para un enfoque basado en riesgo para activos virtuales y VASP (2021)",
+    "url": "https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html"
+   },
+   {
+    "name": "FTC (EE. UU.), «What To Know About Cryptocurrency and Scams»",
+    "url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams"
+   },
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   }
+  ]
+ },
+ {
+  "id": "blockchain-cadena-de-bloques",
+  "title": "Qué es blockchain (cadena de bloques)",
+  "summary": "Un registro compartido y difícil de alterar donde las transacciones se agrupan en bloques encadenados.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "La idea central",
+    "p": [
+     "Una blockchain o cadena de bloques es una base de datos que muchas computadoras mantienen en común. Las transacciones se agrupan en bloques; cada bloque queda enlazado al anterior mediante funciones criptográficas (hashes), formando una cadena. Modificar un bloque antiguo obligaría a recalcular todos los que le siguen, lo que hace que alterar el historial sea muy difícil.",
+     "El NIST (EE. UU.) describe las blockchains como registros digitales distribuidos de transacciones firmadas criptográficamente, agrupadas en bloques y enlazadas al bloque anterior; los bloques se añaden después de ser validados mediante un mecanismo de consenso."
+    ]
+   },
+   {
+    "h": "Cómo se acuerda qué se registra",
+    "p": [
+     "Las redes públicas usan mecanismos de consenso para decidir qué bloques son válidos. Los más conocidos son la prueba de trabajo (minería) y la prueba de participación (validadores que aportan fondos como garantía). Los validadores reciben incentivos por seguir las reglas. El BIS señala que mantener ese consenso es costoso y que existe un compromiso entre descentralización, seguridad y capacidad de procesar muchas transacciones."
+    ]
+   },
+   {
+    "h": "Públicas y privadas",
+    "ul": [
+     "Públicas (permissionless): cualquiera puede leer y participar; por ejemplo, Bitcoin y Ethereum.",
+     "Privadas o con permisos (permissioned): solo participantes autorizados; se usan sobre todo en pruebas de bancos y organismos."
+    ]
+   },
+   {
+    "h": "Mitos frecuentes",
+    "ul": [
+     "«Es anónima»: normalmente es seudónima. Las transacciones son públicas y asociadas a direcciones; con otros datos, a veces es posible identificar a las personas (FTC).",
+     "«Es infalible»: el registro es difícil de alterar, pero las aplicaciones, las wallets y los intercambios que se montan encima sí pueden fallar o ser atacados.",
+     "«Todo lo que usa blockchain vale algo»: la tecnología no garantiza que un proyecto sea honesto o rentable."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "Satoshi Nakamoto, «Bitcoin: A Peer-to-Peer Electronic Cash System» (2008)",
+    "url": "https://bitcoin.org/bitcoin.pdf"
+   },
+   {
+    "name": "NIST IR 8202, «Blockchain Technology Overview»",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf"
+   },
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   },
+   {
+    "name": "FTC (EE. UU.), «What To Know About Cryptocurrency and Scams»",
+    "url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams"
+   }
+  ]
+ },
+ {
+  "id": "p2p-peer-to-peer",
+  "title": "Qué es P2P (peer-to-peer) y riesgos al usarlo",
+  "summary": "Compra y venta directa entre personas, con riesgos de fraude, pagos revertidos y falta de protección legal.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Qué significa P2P",
+    "p": [
+     "P2P significa «peer-to-peer» o «de persona a persona». En el mundo de los activos digitales se usa en dos sentidos distintos:",
+     "El primero es técnico: redes P2P donde los equipos se comunican directamente sin servidor central; el documento original de Bitcoin describe precisamente «un sistema de efectivo electrónico peer-to-peer». El segundo es comercial: los mercados P2P de ciertas plataformas, donde un comprador y un vendedor acuerdan precio y método de pago (transferencia, Yappy u otros) y la plataforma suele retener temporalmente los activos hasta confirmar el pago. Las condiciones dependen de cada plataforma: léelas antes de operar.",
+     "El GAFI también habla de «transacciones peer-to-peer» para referirse a transferencias entre wallets sin que intervenga un proveedor regulado, y advierte que presentan riesgos de lavado de dinero que las autoridades deben mitigar."
+    ]
+   },
+   {
+    "h": "Riesgos al usar un mercado P2P",
+    "ul": [
+     "Estafas con comprobantes falsos: te muestran una captura de pago que no se acreditó realmente. Confirma siempre el dinero en tu cuenta bancaria antes de liberar los activos.",
+     "Pagos de terceros o con origen dudoso: recibir dinero de alguien que no es tu contraparte puede causar bloqueos o reclamos por parte del banco.",
+     "Contracargos o reclamos posteriores: si el pago en dinero tradicional se revierte o se denuncia después, podrías quedar expuesto.",
+     "Sin protección legal: según la FTC, los pagos con cripto normalmente no son reversibles y no tienen las protecciones legales de una tarjeta de crédito.",
+     "Suplantación y phishing: perfiles falsos, enlaces de «soporte» y presión para salir de la plataforma y hablar por otro chat.",
+     "Origen de fondos: tu banco puede preguntarte por el origen de los fondos; consulta con tu banco y con un asesor sobre sus políticas."
+    ]
+   },
+   {
+    "h": "Buenas prácticas generales",
+    "ul": [
+     "Opera solo dentro de la plataforma y dentro de sus reglas; no aceptes «acuerdos» por fuera.",
+     "Verifica la reputación y el historial de la contraparte.",
+     "No compartas contraseñas, códigos de verificación ni frases semilla con nadie, ni siquiera con supuesto personal de soporte.",
+     "Empieza con montos que puedas perder sin afectar tus finanzas.",
+     "Conserva los comprobantes y los datos de cada operación."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "FTC (EE. UU.), «What To Know About Cryptocurrency and Scams»",
+    "url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams"
+   },
+   {
+    "name": "GAFI/FATF, guía para un enfoque basado en riesgo para activos virtuales y VASP (2021)",
+    "url": "https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html"
+   },
+   {
+    "name": "Satoshi Nakamoto, «Bitcoin: A Peer-to-Peer Electronic Cash System» (2008)",
+    "url": "https://bitcoin.org/bitcoin.pdf"
+   }
+  ]
+ },
+ {
+  "id": "wallets-llaves-privadas",
+  "title": "Wallets: custodia propia vs. exchange, y llaves privadas",
+  "summary": "Una wallet no «guarda monedas»: guarda las llaves que controlan tus fondos. Quien tiene las llaves, controla los activos.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Wallet, dirección y llaves",
+    "p": [
+     "Según ethereum.org, una cuenta es un par de llaves: la llave pública sirve para generar la dirección que puedes compartir, y la llave privada debe mantenerse en secreto porque sirve para firmar transacciones. La wallet es la herramienta que te permite usar esas llaves: ver el saldo, enviar y recibir.",
+     "Muchas wallets generan una frase semilla (seed phrase) que permite recuperar la wallet. Quien tenga esa frase puede controlar tus fondos; es la única forma de recuperarla y nunca debe compartirse ni guardarse en una computadora conectada, según ethereum.org."
+    ]
+   },
+   {
+    "h": "Custodia propia vs. custodia de un exchange",
+    "ul": [
+     "Custodia propia (self-custody o «no custodial»): tú controlas las llaves. Tienes control total, pero también toda la responsabilidad: si pierdes la frase semilla, nadie puede recuperarla; ethereum.org lo resume como «no hay servicio al cliente en cripto».",
+     "Custodia de un exchange o proveedor (custodial): la plataforma guarda los activos y tú entras con usuario y contraseña. Es más cómodo y puede recuperarse el acceso, pero confías en la empresa: ethereum.org advierte que si el exchange tiene problemas financieros, tus fondos estarían en riesgo; y la FTC recuerda que no están asegurados como un depósito bancario."
+    ]
+   },
+   {
+    "h": "Tipos de wallet",
+    "ul": [
+     "Hardware: dispositivos que mantienen las llaves fuera de línea; ethereum.org las describe como muy seguras.",
+     "Aplicaciones móviles, de escritorio y extensiones de navegador: prácticas, pero conectadas a internet.",
+     "Wallets alojadas en un exchange: la plataforma administra las llaves por ti."
+    ]
+   },
+   {
+    "h": "Cuidados básicos",
+    "ul": [
+     "Las transacciones no se pueden revertir: verifica varias veces la dirección y la red antes de enviar.",
+     "Guarda la frase semilla en papel, en un lugar seguro, y nunca la fotografíes ni la escribas en un chat.",
+     "Desconfía de cualquier persona que te pida tu frase semilla o tu llave privada; ningún servicio legítimo lo hará.",
+     "Guarda en favoritos la dirección de tu wallet web para evitar sitios falsos."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "ethereum.org, «Crypto wallets»",
+    "url": "https://ethereum.org/en/wallets/"
+   },
+   {
+    "name": "FTC (EE. UU.), «What To Know About Cryptocurrency and Scams»",
+    "url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams"
+   },
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   }
+  ]
+ },
+ {
+  "id": "stablecoins",
+  "title": "Stablecoins: qué son y qué riesgos tienen",
+  "summary": "Tokens que buscan mantener un valor estable, normalmente un dólar. Su estabilidad depende de sus reservas y de quien los emite.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Qué son",
+    "p": [
+     "Una stablecoin es un token que vive en una blockchain y promete valer un monto fijo de una moneda tradicional, por ejemplo un dólar. Según el BIS, más del 99 % está denominada en dólares estadounidenses y la mayoría es emitida por una única entidad central, cuyas reservas respaldan la promesa y su capacidad de atender los reembolsos."
+    ]
+   },
+   {
+    "h": "Para qué se usan",
+    "ul": [
+     "Como puerta de entrada y salida del ecosistema cripto, para operar sin la volatilidad de otras criptomonedas.",
+     "En pagos y envíos transfronterizos, donde pueden ser más rápidas y baratas en algunas rutas, aunque el BIS aclara que no siempre ocurre así.",
+     "Como forma de acceder a dólares en países con alta inflación o controles de capital."
+    ]
+   },
+   {
+    "h": "Riesgos y consideraciones",
+    "ul": [
+     "Riesgo del emisor y de las reservas: la estabilidad depende de la calidad y transparencia del respaldo y de la capacidad de reembolso.",
+     "Pérdida de paridad: el BIS documenta desviaciones sustanciales del valor de $1 en distintos episodios.",
+     "Sin seguro de depósitos por defecto: tenerlas no es lo mismo que tener un depósito en un banco.",
+     "Riesgos de integridad: el BIS señala que, al circular entre wallets sin intermediarios, pueden usarse para evadir controles contra el lavado de dinero.",
+     "Marco legal cambiante: la regulación avanza distinto en cada país."
+    ]
+   },
+   {
+    "h": "Regulación reciente (octubre de 2026)",
+    "ul": [
+     "Unión Europea: MiCA regula a los emisores; la EBA clasificó a USDC como token de dinero electrónico significativo y la ESMA pidió a los proveedores autorizados dejar de prestar servicios sobre stablecoins que no cumplan MiCA.",
+     "Estados Unidos: la ley GENIUS creó el marco federal para stablecoins de pago; en septiembre de 2026 la Reserva Federal y el Tesoro publicaron propuestas y reglas para su aplicación.",
+     "Panamá: no encontramos una ley integral vigente específica; consulta la sección de regulación en Panamá."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   },
+   {
+    "name": "CPMI-IOSCO, principios para infraestructuras de mercado aplicados a stablecoins (2022)",
+    "url": "https://www.bis.org/cpmi/publ/d206.htm"
+   },
+   {
+    "name": "Reglamento (UE) 2023/1114 (MiCA), EUR-Lex",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj"
+   },
+   {
+    "name": "EBA, clasificación de USDC como token significativo (14 oct 2026)",
+    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union"
+   },
+   {
+    "name": "Reserva Federal, propuestas bajo la ley GENIUS (24 sep 2026)",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm"
+   },
+   {
+    "name": "FSB, criptoactivos y stablecoins globales",
+    "url": "https://www.fsb.org/work-of-the-fsb/financial-innovation-and-structural-change/crypto-assets-and-global-stablecoins/"
+   }
+  ]
+ },
+ {
+  "id": "exchanges-y-kyc",
+  "title": "Exchanges y KYC: cómo funcionan las plataformas de compra y venta",
+  "summary": "Los exchanges conectan compradores y vendedores de activos digitales. El KYC es la verificación de identidad que exigen para cumplir normas contra el lavado de dinero.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Qué es un exchange",
+    "p": [
+     "Un exchange es una plataforma que permite comprar, vender o intercambiar activos digitales, y en muchos casos custodiarlos. Pueden ser centralizados (una empresa opera la plataforma y guarda los activos) o descentralizados (los intercambios ocurren mediante contratos inteligentes y cada usuario conserva sus llaves).",
+     "Según el BIS, muchos usuarios acceden a través de wallets alojadas en exchanges que incorporan clientes de forma similar a un banco."
+    ]
+   },
+   {
+    "h": "Qué es el KYC",
+    "p": [
+     "KYC significa «conozca a su cliente» (know your customer). Es el proceso por el cual una entidad verifica tu identidad, por ejemplo con tu documento y a veces una selfie o un comprobante de domicilio, y evalúa riesgos de lavado de dinero. Los estándares del GAFI exigen que los proveedores de servicios de activos virtuales (VASP) se licencien o registren y estén sujetos a supervisión, con las mismas medidas que se aplican a instituciones financieras.",
+     "La «regla de viaje» (travel rule) del GAFI obliga a que los VASP obtengan y transmitan datos del originador y del beneficiario en transferencias."
+    ]
+   },
+   {
+    "h": "Antes de usar una plataforma",
+    "ul": [
+     "Verifica si está autorizada en algún país y bajo qué supervisor; en Panamá, hasta donde pudimos verificar, no existe hoy una licencia general específica para este tipo de proveedores (ver regulación en Panamá).",
+     "Lee sus términos: comisiones, retiros, qué pasa con tus activos en caso de quiebra.",
+     "Activa la autenticación en dos pasos y desconfía de enlaces recibidos por mensajes.",
+     "Recuerda que, según la FTC, si el exchange quiebra o es hackeado, el Estado no tiene obligación de recuperar tu dinero."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "GAFI/FATF, guía para un enfoque basado en riesgo para activos virtuales y VASP (2021)",
+    "url": "https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html"
+   },
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   },
+   {
+    "name": "FTC (EE. UU.), «What To Know About Cryptocurrency and Scams»",
+    "url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams"
+   }
+  ]
+ },
+ {
+  "id": "smart-contracts",
+  "title": "Smart contracts (contratos inteligentes)",
+  "summary": "Programas que se ejecutan solos en una blockchain cuando se cumplen condiciones predefinidas.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Qué son",
+    "p": [
+     "Según ethereum.org, los contratos inteligentes son programas almacenados en la blockchain que siguen una lógica de tipo «si esto, entonces aquello» y se ejecutan según las reglas definidas en su código, que no puede cambiarse una vez creado. Una metáfora útil es la máquina expendedora: ciertas entradas garantizan ciertos resultados sin intervención de un tercero."
+    ]
+   },
+   {
+    "h": "Para qué se usan",
+    "ul": [
+     "Stablecoins y otros tokens.",
+     "Intercambios automáticos entre activos.",
+     "Seguros que pagan automáticamente al cumplirse una condición.",
+     "Emisión de activos digitales únicos y de tokens de activos tokenizados."
+    ]
+   },
+   {
+    "h": "Limitaciones y riesgos",
+    "ul": [
+     "«El código manda»: si el programa tiene un error o una vulnerabilidad, puede ejecutarse igual y causar pérdidas.",
+     "Firmar a ciegas: ethereum.org advierte que los datos de una transacción con un contrato son difíciles de leer para una persona, por lo que muchos usuarios aprueban operaciones sin entender qué harán.",
+     "No es automáticamente un contrato legal: su validez jurídica depende de cada legislación.",
+     "Los contratos de estafa existen: lee la información de la aplicación y evita aprobar permisos que no entiendes."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "ethereum.org, «Introduction to smart contracts»",
+    "url": "https://ethereum.org/en/smart-contracts/"
+   },
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   }
+  ]
+ },
+ {
+  "id": "tokenizacion-de-activos",
+  "title": "Tokenización de activos",
+  "summary": "Representar en una plataforma programable un derecho sobre un activo real o financiero, como un bono o un depósito.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "La idea",
+    "p": [
+     "Según el BIS, la tokenización es el proceso de registrar en una plataforma programable derechos sobre activos reales o financieros que existen en un registro tradicional. El token integra el registro del activo con las reglas que rigen su transferencia, lo que permite acciones condicionadas, por ejemplo, que el pago solo ocurra si se entrega el activo (entrega contra pago)."
+    ]
+   },
+   {
+    "h": "Ejemplos y estado actual",
+    "ul": [
+     "Bonos tokenizados: el BIS contó más de 20 bonos tokenizados de soberanos y organismos supranacionales, por más de USD 4 000 millones en nueve monedas; el mercado aún es incipiente.",
+     "Dinero tokenizado: bancos y bancos centrales exploran depósitos tokenizados, como el Proyecto Hangang del Banco de Corea, donde los tokens de depósito emitidos por bancos solo los mantienen bancos.",
+     "Pagos transfronterizos y mercados de valores: se estudian plataformas unificadas que podrían reducir intermediarios y tiempos."
+    ]
+   },
+   {
+    "h": "Desafíos",
+    "ul": [
+     "Incertidumbre legal y regulatoria sobre la propiedad y el tratamiento de los tokens.",
+     "Interoperabilidad con los sistemas actuales y fragmentación entre redes.",
+     "Experiencia limitada del mercado.",
+     "Un token no es automáticamente valioso o seguro: depende del activo que respalda y de quién lo emite."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   },
+   {
+    "name": "Seoul Economic Daily, Banco de Corea y CBDC minorista (9 oct 2026)",
+    "url": "https://en.sedaily.com/finance/2026/10/09/bank-of-korea-says-it-has-no-plan-to-issue-retail-cbdc"
+   }
+  ]
+ },
+ {
+  "id": "cbdc-moneda-digital-de-banco-central",
+  "title": "CBDC: moneda digital de banco central",
+  "summary": "Dinero oficial en formato digital emitido por el banco central. No es una criptomoneda privada ni una stablecoin.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Qué es",
+    "p": [
+     "Una CBDC (central bank digital currency) es una forma digital de la moneda de un país, emitida y respaldada por su banco central. Se diferencia de las criptomonedas privadas y de las stablecoins, que emiten particulares.",
+     "Un informe conjunto de los bancos centrales de Canadá, la zona euro, Japón, Suecia, Suiza, el Reino Unido, la Reserva Federal de EE. UU. y el BIS estableció que, antes de emitir una CBDC, las autoridades deberían tener confianza en que no comprometería la estabilidad monetaria y financiera y que podría convivir con otras formas de dinero."
+    ]
+   },
+   {
+    "h": "Minorista y mayorista",
+    "ul": [
+     "Minorista (para el público): sería dinero digital del banco central para personas y empresas.",
+     "Mayorista: para transacciones entre instituciones financieras y bancos centrales."
+    ]
+   },
+   {
+    "h": "Un debate abierto",
+    "p": [
+     "No todos los bancos centrales avanzan igual. En octubre de 2026, el Banco de Corea afirmó que no planea emitir una CBDC para el público y que su Proyecto Hangang, con moneda digital mayorista y tokens de depósito emitidos por bancos, es distinto. El debate gira en torno a privacidad, impacto en el sistema bancario y estabilidad financiera."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "BIS y otros bancos centrales, «Central bank digital currencies: foundational principles and core features» (2020)",
+    "url": "https://www.bis.org/publ/othp33.htm"
+   },
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   },
+   {
+    "name": "Seoul Economic Daily, Banco de Corea y CBDC minorista (9 oct 2026)",
+    "url": "https://en.sedaily.com/finance/2026/10/09/bank-of-korea-says-it-has-no-plan-to-issue-retail-cbdc"
+   }
+  ]
+ },
+ {
+  "id": "seguridad-y-estafas-comunes",
+  "title": "Seguridad y estafas comunes con activos digitales",
+  "summary": "Phishing, falsas promesas de rendimiento, suplantaciones y estafas románticas. Ningún negocio legítimo exige pagos en cripto por adelantado.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Señales de alerta",
+    "ul": [
+     "Promesas de ganancias garantizadas o «sin riesgo»: la FTC es clara en que solo los estafadores garantizan ganancias.",
+     "Quien te contacta sin que lo pidas ofreciéndote «gestionar» tu dinero en cripto.",
+     "Famosos o «influencers» que multiplican lo que les envíes.",
+     "Alguien que conociste en una app de citas y te enseña a invertir en cripto.",
+     "Cualquier persona o empresa que exija un pago en criptomonedas por adelantado, incluidos supuestos bancos, autoridades o empleadores.",
+     "Presión de tiempo, enlaces inesperados o páginas muy parecidas a las oficiales."
+    ]
+   },
+   {
+    "h": "Phishing y robo de frases semilla",
+    "ul": [
+     "Nadie legítimo te pedirá tu frase semilla, tu llave privada ni tus códigos de verificación.",
+     "No hagas clic en enlaces de mensajes inesperados, aunque parezcan de una empresa o banco conocido.",
+     "Guarda en favoritos las direcciones de los sitios que usas y verifica el dominio."
+    ]
+   },
+   {
+    "h": "Si ya enviaste dinero",
+    "p": [
+     "Los pagos con cripto normalmente no se pueden revertir. Contacta de inmediato al exchange o servicio que usaste, reúne direcciones, hashes y capturas de la conversación, y presenta denuncia ante las autoridades de tu país. En Panamá, consulta con el Ministerio Público y con tu banco si usaste transferencias bancarias."
+    ]
+   },
+   {
+    "h": "Otros riesgos",
+    "ul": [
+     "Volatilidad extrema: los precios pueden bajar con rapidez.",
+     "Productos apalancados: los fondos o contratos con apalancamiento pueden perder mucho valor en un día; por eso son de alto riesgo.",
+     "Pérdida de acceso: si pierdes tu frase semilla o contraseña, normalmente nadie puede ayudarte a recuperar los fondos."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "FTC (EE. UU.), «What To Know About Cryptocurrency and Scams»",
+    "url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams"
+   },
+   {
+    "name": "ethereum.org, «Crypto wallets»",
+    "url": "https://ethereum.org/en/wallets/"
+   },
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   }
+  ]
+ },
+ {
+  "id": "regulacion-en-panama",
+  "title": "Activos digitales y regulación en Panamá: lo verificable",
+  "summary": "Resumen cauteloso de lo que se sabe en fuentes oficiales. Consulta siempre con un asesor y con las autoridades.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Aviso importante",
+    "p": [
+     "Contenido educativo, no es asesoría legal, tributaria ni de inversión. La regulación cambia; verifica siempre en las fuentes oficiales y consulta con un abogado o contador panameño."
+    ]
+   },
+   {
+    "h": "Lo que se puede verificar (octubre de 2026)",
+    "ul": [
+     "Proyectos de ley: la Asamblea Nacional ha estudiado el Proyecto de Ley 326, que busca un marco para la supervisión, registro y control de los proveedores de servicios de activos virtuales (PSAV) conforme a los estándares del GAFI, y el Proyecto de Ley 247, sobre uso de criptomonedas y fomento de la economía digital. En enero de 2026 ambos estaban en estudio en subcomisiones. Revisa el seguimiento legislativo oficial para conocer su etapa actual.",
+     "Hasta donde pudimos verificar en fuentes públicas, no encontramos una ley integral vigente ni una licencia general específica para proveedores de servicios de activos virtuales en Panamá.",
+     "Supervisores bancarios: en octubre de 2026 la SBP informó que, con la misión del FMI, analizó los activos virtuales y los VASP, en particular la evaluación de riesgos y los enfoques regulatorios.",
+     "Supervisor del mercado de valores: la SMV realizó en septiembre de 2026 una capacitación sobre activos virtuales para fiscales superiores.",
+     "Prevención de lavado de dinero: la SBP citó en 2026 sus Acuerdos 1-2026 (prevención del uso indebido) y 3-2026 (sanciones administrativas) como parte de su marco actual."
+    ]
+   },
+   {
+    "h": "Lo que no cubrimos",
+    "ul": [
+     "Tratamiento fiscal y cómo declarar ganancias o activos: el debate sobre el tratamiento tributario forma parte de los proyectos de ley en discusión. Consulta con un contador o asesor tributario y con la Dirección General de Ingresos.",
+     "Si una plataforma concreta es legal o segura en Panamá: pregunta a un abogado y a las superintendencias.",
+     "Cómo trata tu banco las operaciones relacionadas con cripto: cada entidad tiene sus propias políticas de debida diligencia; consulta directamente con tu banco."
+    ]
+   },
+   {
+    "h": "Qué puedes hacer",
+    "ul": [
+     "Verifica en el sitio de la SBP y de la SMV si una entidad que te ofrece servicios está supervisada.",
+     "Desconfía de promesas de rendimientos garantizados.",
+     "Consulta a un asesor y a las fuentes oficiales antes de actuar."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "Asamblea Nacional, subcomisión de Economía sobre el proyecto de ley 326 (15 ene 2026)",
+    "url": "https://www.asamblea.gob.pa/Noticias/Noticias/SUBCOMISION-DE-ECONOMIA-ANALIZA-LA-REGULACION-DEL-TEMA-DE-LOS-SERVICIOS-ACTIVOS-VIRTUALES"
+   },
+   {
+    "name": "Asamblea Nacional, debate sobre el proyecto de ley 247 (28 ene 2026)",
+    "url": "https://www.asamblea.gob.pa/Noticias/Noticias/AVANZA-DEBATE-SOBRE-CRIPTOMONEDAS-EN-PANAMA?Menu-Type=Componente+-+Noticias"
+   },
+   {
+    "name": "Asamblea Nacional, seguimiento legislativo de proyectos",
+    "url": "https://sistemas.asamblea.gob.pa/segLegis/viewsPublico/SeguimientoLegislativo"
+   },
+   {
+    "name": "SBP, informe sobre la misión del FMI y los VASP (14 oct 2026)",
+    "url": "https://www.superbancos.gob.pa/node/1812"
+   },
+   {
+    "name": "SMV, conversatorio sobre activos virtuales (17 sep 2026)",
+    "url": "https://supervalores.gob.pa/smv-desarrolla-conversatorio-sobre-activos-virtuales-dirigido-a-fiscales-superiores-del-ministerio-publico/"
+   }
+  ]
+ },
+ {
+  "id": "glosario-rapido-activos-digitales",
+  "title": "Glosario rápido de activos digitales",
+  "summary": "Los términos que más escucharás: wallet, llave privada, stablecoin, KYC, smart contract y más. Enlace al glosario completo.",
+  "date": "2026-10-14",
+  "aiAssisted": true,
+  "sections": [
+   {
+    "h": "Términos esenciales",
+    "ul": [
+     "Activo digital / activo virtual: representación digital de valor que puede transferirse o negociarse electrónicamente.",
+     "Blockchain: registro compartido de transacciones agrupadas en bloques encadenados.",
+     "Wallet: herramienta para usar las llaves que controlan tus fondos.",
+     "Llave privada: secreto que permite firmar transacciones; quien la tiene controla los fondos.",
+     "Frase semilla: lista de palabras que permite recuperar una wallet.",
+     "P2P: operaciones directas entre personas.",
+     "Stablecoin: token que busca mantener valor estable, normalmente un dólar.",
+     "Exchange: plataforma para comprar, vender o intercambiar activos digitales.",
+     "KYC: verificación de identidad del cliente.",
+     "VASP / PSAV: proveedor de servicios de activos virtuales.",
+     "Smart contract: programa que se ejecuta solo en una blockchain.",
+     "Tokenización: representar un activo en una plataforma programable.",
+     "CBDC: moneda digital emitida por un banco central."
+    ]
+   },
+   {
+    "h": "Más definiciones",
+    "p": [
+     "El glosario general del portal incluye estos y otros términos de banca y finanzas. Revisa también «Stablecoin», «Tokenización», «CBDC», «KYC» y «Phishing»."
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "GAFI/FATF, guía para un enfoque basado en riesgo para activos virtuales y VASP (2021)",
+    "url": "https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Fatfrecommendations/Guidance-rba-virtual-assets-2021.html"
+   },
+   {
+    "name": "BIS, Informe Económico Anual 2025, cap. III «The next-generation monetary and financial system»",
+    "url": "https://www.bis.org/publ/arpdf/ar2025e3.htm"
+   },
+   {
+    "name": "ethereum.org, «Crypto wallets»",
+    "url": "https://ethereum.org/en/wallets/"
+   }
+  ]
+ }
+]
