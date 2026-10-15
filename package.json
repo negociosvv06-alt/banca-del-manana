@@ -13,7 +13,7 @@
     "typecheck": "tsc -b",
     "test": "vitest run",
     "build:fresh": "npm run ingest; npm run build",
-    "build:cloudflare": "BASE_PATH=/ VITE_SITE_URL=https://banca-del-manana-web.negociosvv06.workers.dev npm run build && rm -f dist/_redirects",
+    "build:cloudflare": "BASE_PATH=/ VITE_SITE_URL=https://bancadelmanana.com npm run build && rm -f dist/_redirects",
     "build:ghpages": "BASE_PATH=/banca-del-manana/ VITE_SITE_URL=https://negociosvv06-alt.github.io/banca-del-manana npm run build",
     "deploy:cloudflare": "npm run build:cloudflare && npx --yes wrangler@3 pages deploy dist --project-name=banca-del-manana --branch=main"
   },

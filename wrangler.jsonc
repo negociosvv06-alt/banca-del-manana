@@ -1,9 +1,16 @@
 {
   "name": "banca-del-manana-web",
   "compatibility_date": "2026-10-01",
+  "main": "./worker/index.js",
   "workers_dev": true,
+  "routes": [
+    { "pattern": "bancadelmanana.com", "custom_domain": true },
+    { "pattern": "www.bancadelmanana.com", "custom_domain": true }
+  ],
   "assets": {
     "directory": "./dist",
-    "not_found_handling": "single-page-application"
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": true
   }
 }
