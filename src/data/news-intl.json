@@ -1,9 +1,9 @@
 {
- "lastRun": "2026-10-15T02:40:11.523Z",
+ "lastRun": "2026-10-15T13:04:31.246Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-15T02:40:11.523Z",
+   "fetchedAt": "2026-10-15T13:04:31.246Z",
    "count": 12
   },
   "ecb": {
@@ -14,11 +14,29 @@
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-15T02:40:11.523Z",
+   "fetchedAt": "2026-10-15T13:04:31.246Z",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "fsb-ia-buenas-practicas-2026",
+   "title": "El FSB publica 12 buenas prácticas para una adopción responsable de la IA en las instituciones financieras",
+   "summary": "El Consejo de Estabilidad Financiera (FSB) publicó su informe final con 12 prácticas para gobernar la IA: papel del directorio y la alta gerencia, gestión de riesgos en todo el ciclo de vida, gobierno de datos, explicabilidad, supervisión humana efectiva, riesgos cibernéticos y dependencia de terceros proveedores de IA.",
+   "date": "2026-10-15",
+   "source": "Consejo de Estabilidad Financiera (FSB)",
+   "url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FSB",
+    "inteligencia artificial",
+    "gobernanza"
+   ]
+  },
   {
    "id": "bis-J1c2luZXNzLXJpc2tzLWFuZA",
    "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
@@ -33,6 +51,43 @@
    "banks": [],
    "tags": [
     "BIS"
+   ]
+  },
+  {
+   "id": "bangkok-blueprint-fraude-digital",
+   "title": "FMI y Banco Mundial lanzan el «Bangkok Blueprint» contra el fraude digital en servicios financieros",
+   "summary": "En las Reuniones Anuales de Bangkok, el FMI y el Grupo Banco Mundial, junto con el Banco de Tailandia, presentaron un marco de políticas contra estafas y delitos digitales que propone responsabilidad compartida entre actores, cooperación internacional ante el fraude transfronterizo e intercambio de buenas prácticas.",
+   "date": "2026-10-14",
+   "source": "Reuniones Anuales FMI-Banco Mundial 2026 (Tailandia)",
+   "url": "https://www.am2026thailand.go.th/press-releases/the-launch-of-the-bangkok-blueprint-regional-experiences-and-policy-lessons-for-fraud-resilient-financial-services",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FMI",
+    "Banco Mundial",
+    "fraude",
+    "ciberseguridad"
+   ]
+  },
+  {
+   "id": "bce-elderson-resiliencia-2026-10-14",
+   "title": "BCE (Elderson): ante la incertidumbre climática, la banca debe medir, prepararse y reforzar su resiliencia",
+   "summary": "En la conferencia BCE-Banco de Inglaterra sobre riesgo climático, Frank Elderson pidió a los bancos no limitarse a los modelos: usar escenarios exigentes y criterio experto, y mantener capital, liquidez y planes de transición para absorber shocks imprevisibles, una lógica que extendió a la IA, la computación cuántica y la demografía.",
+   "date": "2026-10-14",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB",
+    "riesgo climático",
+    "supervisión"
    ]
   },
   {
@@ -65,6 +120,43 @@
    "banks": [],
    "tags": [
     "BIS"
+   ]
+  },
+  {
+   "id": "fmi-weo-octubre-2026",
+   "title": "FMI eleva levemente su previsión: la economía mundial crecería 3,1 % en 2026 y 3,4 % en 2027",
+   "summary": "En su Perspectivas de la Economía Mundial de octubre, el FMI prevé que la inflación general mundial suba a 4,7 % en 2026 por la energía y los alimentos y baje a 4,1 % en 2027, y advierte que la resiliencia es desigual: los importadores de energía y las economías fuera de la cadena de valor de la IA enfrentan más presión.",
+   "date": "2026-10-13",
+   "source": "Fondo Monetario Internacional (FMI)",
+   "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FMI",
+    "WEO",
+    "crecimiento",
+    "inflación"
+   ]
+  },
+  {
+   "id": "fmi-gfsr-octubre-2026",
+   "title": "FMI: los mercados resisten, pero una corrección de la IA, un salto de rendimientos soberanos o un ciberataque podrían desatar turbulencias",
+   "summary": "El Informe sobre la Estabilidad Financiera Mundial de octubre señala que la banca global sigue siendo resiliente, aunque persisten bolsones de bancos débiles, y alerta sobre el apalancamiento en crédito privado y fondos de cobertura y los nuevos riesgos de la tokenización de activos.",
+   "date": "2026-10-13",
+   "source": "Fondo Monetario Internacional (FMI)",
+   "url": "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FMI",
+    "GFSR",
+    "estabilidad financiera"
    ]
   },
   {

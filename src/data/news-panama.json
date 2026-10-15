@@ -1,5 +1,26 @@
 [
   {
+    "id": "bda-pagos-banconal-sismo",
+    "title": "BDA habilita una cuenta en el Banco Nacional para que sus clientes sigan pagando préstamos tras el terremoto",
+    "summary": "El Banco de Desarrollo Agropecuario informó que, mientras espera el informe técnico de la UTP sobre su Casa Matriz tras el sismo del 9 de octubre, sus clientes pueden abonar sus préstamos en todo el país mediante una cuenta corriente del BDA en el Banco Nacional de Panamá. La entidad también apoya a productores afectados y centros de acopio.",
+    "date": "2026-10-14",
+    "source": "Telemetro",
+    "url": "https://www.telemetro.com/nacionales/bda-habilita-pagos-prestamos-cuenta-del-banco-nacional-n6095221",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "banco-nacional"
+    ],
+    "tags": [
+      "terremoto",
+      "BDA",
+      "préstamos",
+      "pagos"
+    ]
+  },
+  {
     "id": "fideicomisos-terremoto-banconal-caja",
     "title": "Terremoto: el Gobierno canalizará la reconstrucción con un fideicomiso público en Banconal y uno privado en Caja de Ahorros",
     "summary": "El MEF informó que los recursos públicos para atender el sismo del 9 de octubre se manejarán solo a través de un fideicomiso en el Banco Nacional, ya refrendado por la Contraloría y con cuenta abierta, que recibirá donaciones de organismos multilaterales y pagos de seguros catastróficos. Las donaciones de empresas irán a un segundo fideicomiso en la Caja de Ahorros, gobernado por el sector privado y enfocado en reparar y construir viviendas de familias damnificadas.",
@@ -18,6 +39,46 @@
       "fideicomiso",
       "MEF",
       "reconstrucción"
+    ]
+  },
+  {
+    "id": "bid-banconal-mipymes-interior",
+    "title": "BID busca que sus dos líneas de USD 150 millones vía Banconal lleguen a 12 mil mipymes, la mitad del interior",
+    "summary": "Según el BID, las dos líneas de USD 150 millones cada una canalizadas por el Banco Nacional combinan financiamiento directo para capital de trabajo e inversión con un fondo de garantías que facilita a pequeñas empresas acceder a préstamos bancarios. La meta es beneficiar a 12 mil negocios, al menos la mitad fuera de la capital, con atención especial al turismo.",
+    "date": "2026-10-13",
+    "source": "Panamá América",
+    "url": "https://www.panamaamerica.com.pa/economia/bid-gestiona-que-fondo-de-garantia-beneficie-empresas-del-interior-1267481",
+    "category": "credito",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "banco-nacional"
+    ],
+    "tags": [
+      "BID",
+      "mipymes",
+      "fondo de garantía",
+      "crédito"
+    ]
+  },
+  {
+    "id": "siacap-banco-mundial-sbr",
+    "title": "Gabinete aprueba asesoría del Banco Mundial por hasta USD 300 mil para implantar supervisión basada en riesgos en el SIACAP",
+    "summary": "El Consejo de Gabinete autorizó un acuerdo de asesoría reembolsable (RAS II) entre el MEF, el SIACAP y el BIRF para consolidar la supervisión basada en riesgos del sistema de pensiones de los servidores públicos: alertas tempranas, monitoreo de portafolios, un marco de inversiones con métricas de riesgo, un departamento de riesgos y planes de contingencia.",
+    "date": "2026-10-13",
+    "source": "Panamá América",
+    "url": "https://www.panamaamerica.com.pa/economia/aprueban-acuerdo-con-el-banco-mundial-para-fortalecer-la-supervision-del-siacap-por-300-mil",
+    "category": "regulacion",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SIACAP",
+      "Banco Mundial",
+      "pensiones",
+      "supervisión basada en riesgos"
     ]
   },
   {
