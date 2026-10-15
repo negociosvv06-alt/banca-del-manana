@@ -25,7 +25,6 @@ Esta guía explica, sin necesidad de saber programar, cómo funciona el portal, 
 | `src/data/news-intl.json` | Noticias internacionales (se generan solas desde Fed, BCE y BIS). No editar a mano. |
 | `src/data/banks.json` | Directorio de bancos. |
 | `src/data/indicators.json` | Indicadores del sistema bancario de la portada. |
-| `src/data/rates.json` | Tasas del comparador (hoy vacío = "No publicado"). |
 | `src/data/glossary.json` | Glosario financiero. |
 | `src/data/sources.json` | Lista de fuentes y su tipo (RSS, API o manual). |
 | `src/pages/`, `src/components/`, `src/lib/` | Código del sitio (diseño, páginas, calculadoras). |
@@ -35,7 +34,7 @@ Esta guía explica, sin necesidad de saber programar, cómo funciona el portal, 
 
 ## 3. Cómo agregar o editar contenido
 
-**Regla de oro:** cada dato necesita fuente con enlace `https://` y fecha. Si no se puede verificar, no se publica (o se marca "Pendiente de verificación" / "No publicado"). Si un archivo tiene un error, la publicación se detiene y el sitio anterior sigue en línea; no se rompe nada.
+**Regla de oro:** cada dato necesita fuente con enlace `https://` y fecha. Si no se puede verificar, no se publica (o se marca "Pendiente de verificación"). Si un archivo tiene un error, la publicación se detiene y el sitio anterior sigue en línea; no se rompe nada.
 
 ### 3.1 Artículo nuevo
 Crear `content/articles/AAAA-MM-DD-identificador.json` con esta plantilla:
@@ -73,9 +72,6 @@ En `src/data/indicators.json`, cada indicador tiene `label`, `value`, `unit`, `c
 
 ### 3.5 Glosario
 En `src/data/glossary.json` agregue `{"term":"Término","def":"Definición."},` en cualquier lugar de la lista (se ordena solo).
-
-### 3.6 Tasas del comparador
-`src/data/rates.json` está vacío a propósito. Para cargar tasas verificadas pídamelo (sección 5): se debe indicar banco, producto, tasa, fecha y enlace al tarifario oficial.
 
 ## 4. Editar desde el celular (sin instalar nada)
 1. Abra https://github.com/negociosvv06-alt/banca-del-manana en el navegador e inicie sesión con la cuenta **negociosvv06-alt**.
@@ -133,7 +129,6 @@ Nota: el sitio principal de Cloudflare **no** tiene recompilación cada 6 horas;
 - Noticias de Panamá (`news-panama.json`): la SBP no tiene RSS.
 - Directorio de bancos y verificación de licencias.
 - Indicadores del sistema bancario.
-- Tasas del comparador (hoy "No publicado").
 - Glosario y textos legales.
 
 ### Pendientes

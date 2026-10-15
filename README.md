@@ -26,7 +26,7 @@ npm run ingest       # descarga noticias de RSS oficiales (Fed, BCE, BIS)
 
 ## Flujo editorial (sin panel inseguro)
 No hay panel de administración con usuario/contraseña: el contenido se edita en los JSON de `src/data/` mediante commits o pull requests en GitHub (control de acceso = permisos del repositorio, con historial y revisión). `npm run build` rechaza noticias sin fuente https, sin fecha, con fecha futura o con tipo inválido.
-Reglas: cada noticia lleva `url`, `source`, `date` (fecha de publicación) y `type` (noticia, analisis, opinion, educativo, patrocinado). Nunca inventar tasas: el comparador muestra "No publicado" hasta que `rates.json` tenga entradas verificadas.
+Reglas: cada noticia lleva `url`, `source`, `date` (fecha de publicación) y `type` (noticia, analisis, opinion, educativo, patrocinado). Nunca inventar tasas ni cotizaciones: el comparador solo ofrece calculadoras, sin tabla de tasas.
 Opción futura: Decap CMS (gratuito, basado en Git) requiere un proveedor OAuth de GitHub (p. ej. un Worker de Cloudflare); no está configurado.
 
 ## Variables de entorno (todas públicas, ver `.env.example`)

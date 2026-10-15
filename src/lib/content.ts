@@ -3,7 +3,6 @@ import intl from '../data/news-intl.json';
 import banksRaw from '../data/banks.json';
 import glossaryRaw from '../data/glossary.json';
 import indicatorsRaw from '../data/indicators.json';
-import ratesRaw from '../data/rates.json';
 
 export type ContentType = 'noticia' | 'analisis' | 'opinion' | 'educativo' | 'patrocinado';
 export interface NewsItem { id: string; title: string; summary: string; date: string; source: string; url: string; category: string; type: ContentType; country: string; banks: string[]; tags: string[]; lang?: string; stale?: boolean; staleNote?: string }
@@ -21,7 +20,6 @@ export const AI_LABEL = 'Contenido elaborado con asistencia de IA, revisado edit
 export const banks = banksRaw;
 export const glossary = glossaryRaw as { term: string; def: string }[];
 export const indicators = indicatorsRaw;
-export const rates = ratesRaw;
 export const CONTENT_UPDATED = newsPanama.reduce((m, n) => (n.date > m ? n.date : m), '');
 
 export const TYPE_LABEL: Record<ContentType, string> = { noticia: 'Noticia', analisis: 'Análisis', opinion: 'Opinión', educativo: 'Educativo', patrocinado: 'Patrocinado' };
