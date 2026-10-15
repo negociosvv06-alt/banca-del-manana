@@ -1,23 +1,72 @@
 {
- "lastRun": "2026-10-12T02:49:22.590Z",
+ "lastRun": "2026-10-15T02:40:11.523Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-12T02:49:22.590Z",
+   "fetchedAt": "2026-10-15T02:40:11.523Z",
    "count": 12
   },
   "ecb": {
-   "ok": true,
+   "ok": false,
+   "error": "fetch failed",
    "fetchedAt": "2026-10-12T02:49:22.590Z",
    "count": 12
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-12T02:49:22.590Z",
+   "fetchedAt": "2026-10-15T02:40:11.523Z",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "bis-J1c2luZXNzLXJpc2tzLWFuZA",
+   "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+   "summary": "The Bank for International Settlements’ Committee on Payments and Market Infrastructures (CPMI) and the International Organization of Securities Commissions (IOSCO) today published a final report on financial market infrastructures’ (FMIs) management of general business risks and general business lo",
+   "date": "2026-10-14",
+   "source": "Banco de Pagos Internacionales (BIS)",
+   "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "BIS"
+   ]
+  },
+  {
+   "id": "fed-ldGFyeTIwMjYxMDEzYS5odG0",
+   "title": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
+   "summary": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
+   "date": "2026-10-13",
+   "source": "Reserva Federal de EE. UU. (Fed)",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Estados Unidos",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FED"
+   ]
+  },
+  {
+   "id": "bis-YWRhLXVuaXRlZC1raW5nZG9t",
+   "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
+   "summary": "The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada and the United Kingdom are assessed as la",
+   "date": "2026-10-13",
+   "source": "Banco de Pagos Internacionales (BIS)",
+   "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "BIS"
+   ]
+  },
   {
    "id": "fed-vdGhlcjIwMjYxMDA5YS5odG0",
    "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
@@ -64,7 +113,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "ecb-MxODRlN2QwZDAuZW4uaHRtbA",
@@ -80,7 +130,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "fed-ldGFyeTIwMjYxMDA3YS5odG0",
@@ -112,7 +163,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "ecb-BkZjkxZTRlNDQuZW4uaHRtbA",
@@ -128,7 +180,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "ecb-wZGE5NzhmMTU5LmVuLmh0bWw",
@@ -144,7 +197,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "ecb-JjOTQ0MDAyOTcuZW4uaHRtbA",
@@ -160,7 +214,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "fed-cmRlcnMyMDI2MTAwNWEuaHRt",
@@ -192,7 +247,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "bis-qdXJpc2RpY3Rpb25zLTIwMjc",
@@ -272,7 +328,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "ecb-QxOWVmZTE4ZTAuZW4uaHRtbA",
@@ -288,7 +345,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "ecb-fmEwYmU2NzE5M2IuZW4ucGRm",
@@ -304,7 +362,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "ecb-jZjNjNjMwMzc5LmVuLmh0bWw",
@@ -320,7 +379,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "bis-tZGlzY3Vzcy1yaXNrcy1hbmQ",
@@ -384,7 +444,8 @@
    "banks": [],
    "tags": [
     "ECB"
-   ]
+   ],
+   "stale": true
   },
   {
    "id": "fed-iY3JlZzIwMjYwOTI5YS5odG0",
@@ -425,22 +486,6 @@
    "date": "2026-09-24",
    "source": "Reserva Federal de EE. UU. (Fed)",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "fed-lbWVudDIwMjYwOTI0YS5odG0",
-   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-   "summary": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-   "date": "2026-09-24",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
    "category": "internacional",
    "type": "noticia",
    "country": "Estados Unidos",
@@ -521,38 +566,6 @@
    "date": "2026-06-02",
    "source": "Banco de Pagos Internacionales (BIS)",
    "url": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "bis-wYXltZW50cy13b3JrLXdpbGw",
-   "title": "Project Agorá shows how tokenisation can improve wholesale cross-border payments; work will advance to real-value testing",
-   "summary": "The Project Agorá prototype demonstrates how tokenisation and programmable technologies can address long-standing inefficiencies in wholesale cross-border payments at scale, while preserving the safety and integrity of settlement in central bank reserves.",
-   "date": "2026-05-27",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20260527-project-agora-shows-how-tokenisation-can-improve-wholesale-cross-border-payments-work-will",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "bis-Z3ktcmlzay1tYW5hZ2VtZW50",
-   "title": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
-   "summary": "Agrees to publish range of practices report on information and communication technology risk management. Progresses its targeted review of the prudential standard for banks' cryptoasset exposures. Considers targeted updates of its principles on liquidity risk.",
-   "date": "2026-05-20",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-management",
    "category": "internacional",
    "type": "noticia",
    "country": "Internacional",
