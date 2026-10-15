@@ -1,21 +1,60 @@
 [
   {
-    "id": "eba-usdc-token-significativo",
-    "title": "La EBA clasifica a USDC como el primer token de dinero electrónico «significativo» bajo MiCA",
-    "summary": "La Autoridad Bancaria Europea (EBA) clasificó a USDC, emitido en la UE por Circle Internet Financial Europe SAS, como token de dinero electrónico significativo. Desde el 12 de noviembre de 2026 estará bajo supervisión dual: la EBA asumirá fondos propios, reservas, liquidez y planes de recuperación y reembolso, mientras la ACPR francesa mantiene gobernanza y otros aspectos. Hay 45 tokens de dinero electrónico notificados en la UE.",
-    "date": "2026-10-14",
-    "source": "Autoridad Bancaria Europea (EBA)",
-    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
+    "id": "mastercard-bvnk-global-money-platform",
+    "title": "Mastercard y BVNK lanzan Global Money Platform para unir fiat y stablecoins",
+    "summary": "Mastercard y BVNK anunciaron el 15 de octubre la plataforma Global Money Platform, que integra cuentas multicurrency (fiat y stablecoins), conversión en tiempo real, tarjetas vinculadas a stablecoins y pagos locales a bancos vía Mastercard Move. Es la primera gran integración tras la adquisición de BVNK en agosto de 2026; Nuvei y Marqeta estarán entre los primeros en adoptarla. El sistema apunta a bancos, fintechs y empresas, con soporte futuro para depósitos tokenizados.",
+    "date": "2026-10-15",
+    "source": "BVNK / Mastercard",
+    "url": "https://www.bvnk.com/press/mastercard-and-bvnk-launch-global-money-platform-to-power-a-multi-money-world",
     "category": "activos-digitales",
     "type": "noticia",
-    "country": "Unión Europea",
+    "country": "Internacional",
     "lang": "en",
     "banks": [],
     "tags": [
       "stablecoins",
-      "MiCA",
-      "USDC",
-      "banca"
+      "pagos",
+      "Mastercard",
+      "banca",
+      "tokenización"
+    ]
+  },
+  {
+    "id": "versabank-vusd-tokenized-deposits-eeuu",
+    "title": "VersaBank inicia la fase comercial de depósitos tokenizados VUSD en Estados Unidos",
+    "summary": "VersaBank anunció el 15 de octubre el inicio de la fase comercial en EE. UU. de sus Real Bank Tokenized Deposits (RBTD), bajo la marca VUSD: representaciones en blockchain de depósitos bancarios convencionales, con interés y elegibles al seguro FDIC, emitidos por VersaBank USA. El banco planea listarlos en exchanges de activos digitales y, tras un periodo inicial de inversión en letras del Tesoro, usarlos para crecer su Structured Receivable Program; también ofrece la tecnología a bancos regionales.",
+    "date": "2026-10-15",
+    "source": "VersaBank (Newsfile)",
+    "url": "https://www.newsfilecorp.com/release/319128/VersaBank-Initiates-Commercial-Phase-of-Tokenized-Deposit-Program-in-the-United-States",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "depósitos tokenizados",
+      "VUSD",
+      "banca",
+      "tokenización"
+    ]
+  },
+  {
+    "id": "occ-informe-debanking-activos-digitales",
+    "title": "OCC: los nueve mayores bancos nacionales restringieron servicios a sectores como activos digitales",
+    "summary": "La Oficina del Contralor de la Moneda (OCC) publicó el 14 de octubre un informe sobre prácticas de «debanking» en JPMorgan Chase, Bank of America, Citibank, Wells Fargo, U.S. Bank, Capital One, PNC, TD Bank y BMO. Entre 2020 y septiembre de 2025, todos mantuvieron políticas que limitaron el acceso a servicios financieros a ciertos sectores, incluidos los activos digitales, a menudo por riesgo reputacional poco definido y preocupaciones de delito financiero. El contralor Gould dijo que, pese a esfuerzos de contención, la OCC valorará más cambios supervisorios.",
+    "date": "2026-10-14",
+    "source": "OCC (Oficina del Contralor de la Moneda)",
+    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-90.html",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "OCC",
+      "banca",
+      "activos digitales",
+      "regulación"
     ]
   },
   {
@@ -56,6 +95,103 @@
       "VASP",
       "activos virtuales",
       "banca"
+    ]
+  },
+  {
+    "id": "eba-usdc-token-significativo",
+    "title": "La EBA clasifica a USDC como el primer token de dinero electrónico «significativo» bajo MiCA",
+    "summary": "La Autoridad Bancaria Europea (EBA) clasificó a USDC, emitido en la UE por Circle Internet Financial Europe SAS, como token de dinero electrónico significativo. Desde el 12 de noviembre de 2026 estará bajo supervisión dual: la EBA asumirá fondos propios, reservas, liquidez y planes de recuperación y reembolso, mientras la ACPR francesa mantiene gobernanza y otros aspectos. Hay 45 tokens de dinero electrónico notificados en la UE.",
+    "date": "2026-10-14",
+    "source": "Autoridad Bancaria Europea (EBA)",
+    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Unión Europea",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "MiCA",
+      "USDC",
+      "banca"
+    ]
+  },
+  {
+    "id": "bny-citadel-tesoros-tokenizados",
+    "title": "BNY y Citadel Securities prueban Treasuries tokenizados para acelerar el colateral en Wall Street",
+    "summary": "BNY, el mayor banco de custodia del mundo, y Citadel Securities completaron el 13 de octubre una operación con Treasuries estadounidenses tokenizados para mostrar cómo mover colateral de la liquidación al financiamiento más rápido. El objetivo es reducir cuellos de botella al reutilizar bonos del Tesoro usados como garantía. BNY planea ampliar efectivo digital y depósitos tokenizados, y extender horarios de liquidación tradicional hacia Asia y Europa.",
+    "date": "2026-10-13",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "Treasuries",
+      "BNY",
+      "custodia",
+      "banca"
+    ]
+  },
+  {
+    "id": "citi-fraser-depositos-tokenizados",
+    "title": "CEO de Citi: los clientes institucionales prefieren depósitos tokenizados a stablecoins",
+    "summary": "En la presentación de resultados del tercer trimestre (13 de octubre), la CEO de Citigroup, Jane Fraser, dijo que Citi Token Services y la tokenización de depósitos es el área que más entusiasma al banco: opera en siete mercados y se conecta con liquidación 24/7. Según Fraser, las stablecoins resultan más engorrosas por complejidad y cumplimiento. El negocio de Treasury and Trade Solutions creció con fuerza en depósitos y transacciones transfronterizas.",
+    "date": "2026-10-13",
+    "source": "PYMNTS",
+    "url": "https://www.pymnts.com/earnings/2026/citi-ceo-says-corporate-finance-wants-tokenized-deposits-not-stablecoins/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "depósitos tokenizados",
+      "Citi",
+      "stablecoins",
+      "banca"
+    ]
+  },
+  {
+    "id": "wells-fargo-stablecoin-depositos-tokenizados",
+    "title": "Wells Fargo avanza en depósitos tokenizados y prepara una stablecoin con otros 20 bancos",
+    "summary": "En la conferencia de resultados del 13 de octubre, el CEO Charlie Scharf indicó que Wells Fargo lanzó el mes pasado depósitos tokenizados en su blockchain propia para clientes corporativos y comerciales, y que el banco trabaja con unas 20 instituciones (entre ellas Bank of America, Citi y Goldman Sachs) para emitir una stablecoin en dólares en el primer semestre de 2027, orientada a pagos mayoristas, retail y liquidación de activos digitales. Scharf admitió que los casos de uso de stablecoins en EE. UU. aún son poco claros, pero construyen soluciones por anticipado.",
+    "date": "2026-10-13",
+    "source": "CryptoBriefing",
+    "url": "https://cryptobriefing.com/wells-fargo-ceo-stablecoin-use-cases-unclear/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "depósitos tokenizados",
+      "Wells Fargo",
+      "banca"
+    ]
+  },
+  {
+    "id": "fsb-stablecoins-riesgos-transfronterizos",
+    "title": "FSB: las reglas transfronterizas de stablecoins globales siguen sin probarse en una crisis severa",
+    "summary": "El Consejo de Estabilidad Financiera (FSB) publicó el 12 de octubre un análisis sobre arreglos de stablecoins globales: son inherentemente transfronterizos y multisectoriales, y las regulaciones nacionales avanzan a ritmos distintos. Advierte que esquemas multiemisor pueden dejar reservas en una jurisdicción mientras la demanda de reembolso golpea otra, y pide más intercambio de información, monitoreo y planes ante estrés o quiebra. La capitalización del mercado de stablecoins pasó de unos 206.000 a 306.000 millones de dólares desde inicios de 2025.",
+    "date": "2026-10-12",
+    "source": "Consejo de Estabilidad Financiera (FSB)",
+    "url": "https://www.fsb.org/2026/10/global-stablecoin-arrangements-cross-border-vulnerabilities-and-financial-stability-monitoring/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Internacional",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "FSB",
+      "regulación",
+      "banca",
+      "estabilidad financiera"
     ]
   },
   {
