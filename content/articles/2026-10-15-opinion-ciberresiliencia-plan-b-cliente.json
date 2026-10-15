@@ -1,0 +1,44 @@
+{
+  "id": "opinion-ciberresiliencia-plan-b-cliente",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: si la app del banco se cae, el cliente necesita un plan B que funcione",
+  "date": "2026-10-15",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "FMI (blog) – Global Financial Markets Face Rising Risks From AI, Bond Yields, and Cyberattacks",
+      "url": "https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "The Next Web – US and European regulators question banks about AI agents and cyber risks",
+      "url": "https://thenextweb.com/news/us-and-european-regulators-question-banks-about-ai-agents-and-cyber-risks",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – 2.º Colegio de Supervisores del Grupo Financiero GNB",
+      "url": "https://www.superbancos.gob.pa/node/1807",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "La Prensa – Fraudes por correo y WhatsApp: un clic puede poner en riesgo tu dinero y tus datos",
+      "url": "https://www.prensa.com/economia/fraudes-por-correo-y-whatsapp-un-clic-puede-poner-en-riesgo-tu-dinero-y-tus-datos/",
+      "date": "2026-10-09"
+    }
+  ],
+  "body": [
+    "La conversación sobre ciberseguridad en la banca suele quedarse en cómo evitar el ataque. Esta semana, el FMI y los supervisores europeos pusieron el foco en otra pregunta igual de importante: qué pasa con el cliente cuando, a pesar de todo, los sistemas fallan.",
+    "Empiezo por los hechos. El 13 de octubre, el Fondo Monetario Internacional advirtió en su Informe sobre la Estabilidad Financiera Mundial que los ciberataques se han convertido en una fuente creciente de riesgo sistémico. Un incidente grave, dice el FMI, podría interrumpir pagos, operaciones de mercado o el acceso a los depósitos, sobre todo si afecta a una gran institución, a un sistema de pagos, a un proveedor de nube o a una plataforma de software. El dato que más me llamó la atención: en más del 70 % de los casos reportados este año, los proveedores de software casi no tuvieron tiempo de corregir una falla antes de que fuera explotada. En 2021 solían tener cerca de 300 días.",
+    "Al día siguiente, Reuters reportó que el Banco de Inglaterra quiere que los bancos más grandes revisen sistemas de respaldo totalmente separados de su infraestructura principal, capaces de mantener el banco funcionando si los sistemas centrales son atacados. El Banco Central Europeo, por su parte, dio plazo a los bancos hasta finales de octubre para presentar planes contra amenazas cibernéticas habilitadas por inteligencia artificial, y les pide mapear dónde usan IA para poder apagarla y reiniciar de forma segura.",
+    "Panamá no está al margen. La Prensa publicó el 9 de octubre que el centro de operaciones de seguridad de Tigo Business detectó más de 4 mil millones de intentos de ataque contra organizaciones panameñas en el último año, con un crecimiento superior al 50 % anual. Es justo reconocer que, en esa misma nota, un especialista de la Asociación Panameña de Ciberseguridad describió a la banca como uno de los sectores con menor incidencia, gracias a la regulación y a controles estrictos. Y la Superintendencia de Bancos de Panamá incluyó la digitalización, la ciberseguridad y la continuidad de los servicios bancarios entre los temas del Colegio de Supervisores que organizó este mes.",
+    "Mi punto de vista es este: la resiliencia no se mide solo por cuántos ataques se bloquean, sino por cómo se atiende al cliente en las horas en que algo no funciona. Y esa experiencia se diseña antes de la crisis, no durante.",
+    "Quien ha trabajado en canales de atención lo sabe bien. Cuando la app o la banca en línea tienen una interrupción, la presión se traslada de inmediato al teléfono, al WhatsApp y a las sucursales. Si esos canales dependen de los mismos sistemas que fallaron, o si el personal no tiene un guion claro, el cliente recibe la peor combinación posible: no puede operar y tampoco recibe información. En ese vacío aparecen los estafadores, con mensajes que ofrecen «ayuda» para recuperar el acceso.",
+    "Por eso creo que un plan B bancario debería tener, como mínimo, cuatro piezas. Primera: una lista de servicios esenciales que deben seguir disponibles en modo degradado, como consultar saldos, bloquear una tarjeta o reportar un fraude, aunque otras funciones se suspendan. Segunda: canales alternos que no dependan del mismo sistema central, probados con simulacros reales y no solo en papel. Tercera: comunicación oportuna y honesta por los canales oficiales, con un mensaje simple que diga qué está fallando, qué sí funciona y qué nunca le vamos a pedir al cliente. Cuarta: un equipo de atención entrenado para estos escenarios, con permisos claros para priorizar casos urgentes.",
+    "Hay una lección adicional que conecta con la inteligencia artificial. Si los bancos incorporan agentes de IA en la atención o en la ciberdefensa, el plan B debe incluir qué ocurre cuando hay que apagarlos. Los supervisores europeos ya lo están pidiendo. Un asistente virtual que se desactiva sin aviso, sin un traspaso ordenado a personas, puede convertir una medida de seguridad en una crisis de servicio.",
+    "También le toca algo al cliente. Tener al menos dos formas de pago, guardar el número oficial del banco escrito en un lugar seguro, mantener un pequeño colchón disponible y, sobre todo, desconfiar de cualquier mensaje que llegue durante una caída prometiendo soluciones rápidas a cambio de claves o códigos. Ningún banco serio pide esos datos.",
+    "La confianza en la banca se construye en los días normales, pero se pone a prueba en los días difíciles. Lo que el FMI y los supervisores están diciendo, en el fondo, es que esos días difíciles serán más probables. Prepararse para ellos con el cliente en el centro no es un gasto de tecnología: es parte del servicio.",
+    "Las opiniones expresadas son personales y no representan a ninguna institución."
+  ]
+}

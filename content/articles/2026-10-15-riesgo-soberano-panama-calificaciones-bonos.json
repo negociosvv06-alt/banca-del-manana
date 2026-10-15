@@ -1,0 +1,55 @@
+{
+  "id": "riesgo-soberano-panama-calificaciones-rendimientos-bonos",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "Riesgo soberano de Panamá: cómo leer las calificaciones y el rendimiento de los bonos globales",
+  "date": "2026-10-15",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "MEF – S&P Global Ratings ratifica el grado de inversión de Panamá en BBB-, con perspectiva estable",
+      "url": "https://www.mef.gob.pa/2026/09/sp-global-ratings-ratifica-el-grado-de-inversion-de-panama-en-bbb-con-perspectiva-estable/",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "La Prensa – Así ve la calificadora de riesgo Moody's la economía de Panamá",
+      "url": "https://www.prensa.com/economia/moodys-busca-resolver-este-ano-la-perspectiva-negativa-de-panama-sobre-el-grado-de-inversion/",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "La Estrella de Panamá – Fitch Ratings mantiene 'estable' la nota de Panamá y vigila la mina y El Niño",
+      "url": "https://www.laestrella.com.pa/economia/fitch-ratings-mantiene-estable-la-nota-de-panama-y-vigila-la-mina-y-el-nino-CA24246985",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "MEF Panamá – Quarterly Public Debt Report, March 2026",
+      "url": "https://fpublico.mef.gob.pa/reportes/BINFORMEDEUDAI/Quarterly%20Report%20-%20March%202026.pdf",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "LatinFinance – Panama diversifying debt to retain its allure: FinMin",
+      "url": "https://latinfinance.com/daily-brief/2026/10/13/panama-diversifying-debt-to-retain-credit-allure-finmin/",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Reuters vía The Globe and Mail – Bond market whiplash: U.S. yields jump then pull back",
+      "url": "https://www.theglobeandmail.com/investing/article-bond-market-whiplash-us-yields-jump-then-pull-back-reflecting-feds/",
+      "date": "2026-10-14"
+    }
+  ],
+  "body": [
+    "Panamá tiene hoy una calificación «dividida»: dos agencias la mantienen en grado de inversión y una no. Aprende a leer qué significan esas notas, qué es el diferencial de un bono soberano y por qué ambos importan para el costo del dinero en el país.",
+    "Qué mide una calificación soberana. Es la opinión de una agencia sobre la capacidad y la disposición de un gobierno para pagar su deuda a tiempo. Las tres grandes agencias usan escalas parecidas. En S&P y Fitch, el último escalón del grado de inversión es BBB-; por debajo, desde BB+, comienza el llamado grado especulativo. En Moody's, el equivalente al último escalón del grado de inversión es Baa3. La perspectiva (estable, positiva o negativa) indica hacia dónde podría moverse la nota en los próximos meses.",
+    "Dónde está Panamá. S&P Global Ratings ratificó en septiembre de 2026 la calificación de largo plazo en BBB-, con perspectiva estable, según informó el Ministerio de Economía y Finanzas (MEF) el 22 de septiembre. La agencia sustentó la perspectiva en la continuidad de las políticas y en la reducción del déficit fiscal para 2026 y 2027, y proyecta un crecimiento cercano a 4.5 % en 2026.",
+    "Moody's mantiene a Panamá en Baa3, el último nivel del grado de inversión, pero con perspectiva negativa. En septiembre, Jaime Reusche, vicepresidente del Grupo de Riesgo Soberano de Moody's, dijo a La Prensa que esperan resolver esa perspectiva antes de que termine el año y resumió la situación así: Panamá «es grado de inversión y no es grado de inversión al mismo tiempo». Moody's destaca como fortalezas el crecimiento, la dolarización y el Canal, y como debilidades la deuda elevada, el mayor costo financiero y la baja recaudación.",
+    "Fitch mantiene la nota en BB+, un escalón por debajo del grado de inversión, con perspectiva estable, según su actualización reseñada por La Estrella de Panamá en julio de 2026. Fitch estimó que la deuda bruta del gobierno general subió a 65.7 % del PIB en 2025 y que la carga de intereses respecto a los ingresos rondará el 20 %.",
+    "Por qué importa el grado de inversión. Muchos inversionistas institucionales, como ciertos fondos de pensiones y aseguradoras, tienen reglas internas que limitan cuánto pueden invertir en deuda sin grado de inversión. Cuando un país pierde esa categoría en varias agencias, la base de compradores potenciales puede reducirse y el país suele tener que ofrecer un rendimiento mayor para colocar su deuda. Ese mayor costo puede trasladarse, con el tiempo, a otros emisores del país.",
+    "El diferencial: la prima por riesgo. Para comparar el riesgo de un bono soberano en dólares se usa el diferencial (spread): el rendimiento del bono de Panamá menos el rendimiento de un bono del Tesoro de EE. UU. de plazo similar, expresado en puntos básicos (100 puntos básicos = 1 punto porcentual). La fórmula es: diferencial = rendimiento del bono soberano − rendimiento del Tesoro comparable.",
+    "Un ejemplo ilustrativo, con cifras hipotéticas: si un bono de Panamá a 10 años rindiera 6.50 % y el Tesoro a 10 años rindiera 5.00 %, el diferencial sería de 150 puntos básicos. Esa diferencia es lo que el mercado exige por asumir el riesgo de Panamá frente al de EE. UU. Si el Tesoro sube y el diferencial se mantiene, el rendimiento del bono panameño también sube; si mejora la percepción de riesgo, el diferencial se estrecha. Como referencia real, el 14 de octubre el Tesoro a 10 años cerró cerca de 5.19 %, según Reuters, después de tocar 5.33 % por la mañana.",
+    "Lo que dicen los datos oficiales de deuda. Según el informe trimestral del MEF a marzo de 2026, en el primer trimestre la República emitió dos bonos globales por 1,490 millones de dólares cada uno, con vencimiento en 2034 y 2038 y cupones de 5.227 % y 5.662 %. Los fondos se usaron en una operación de manejo de pasivos para recomprar parcialmente nueve bonos globales por 2,968.6 millones. Al cierre de marzo, la deuda pública sumaba 60,008.49 millones de dólares, el costo promedio ponderado era 4.75 % y el plazo promedio al vencimiento, 10.40 años. El 82.03 % de la deuda era externa y el 78.24 %, a tasa fija. El mismo informe señala que los rendimientos de los bonos globales de Panamá subieron 14 puntos básicos en promedio en el trimestre, frente a 19 puntos básicos del Tesoro de EE. UU.",
+    "Cómo leer estas cifras. Un plazo promedio largo y una mayoría de deuda a tasa fija reducen la exposición inmediata a alzas de tasas, porque menos deuda se refinancia cada año. En cambio, una carga de intereses alta frente a los ingresos limita el espacio fiscal, y es justamente lo que vigilan las agencias. El 13 de octubre, LatinFinance tituló que el ministro de Economía busca diversificar la deuda para que Panamá siga siendo un crédito atractivo «cuando el capital escasea» y que no ve los bonos temáticos etiquetados como una prioridad.",
+    "Qué vigilar en los próximos meses: la decisión de Moody's sobre la perspectiva negativa, la ejecución fiscal frente a las metas, la decisión del gobierno sobre la mina de Cobre Panamá, que las agencias mencionan como factor clave, y la evolución de las tasas del Tesoro tras el dato de inflación de septiembre.",
+    "Aviso: este contenido es educativo. No es asesoría de inversión ni una recomendación sobre bonos de Panamá ni de ningún otro emisor, y no promete rendimientos. Las calificaciones son opiniones de las agencias y pueden cambiar. Antes de invertir, consulte con un asesor con licencia de la Superintendencia del Mercado de Valores (SMV)."
+  ]
+}

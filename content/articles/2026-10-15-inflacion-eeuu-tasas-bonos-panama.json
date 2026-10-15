@@ -1,0 +1,54 @@
+{
+  "id": "inflacion-eeuu-septiembre-2026-tasas-bonos-panama",
+  "section": "inversiones",
+  "type": "analisis",
+  "title": "La inflación de EE. UU. sube a 3.7 %: qué significa para tasas, bonos y ahorros en un país dolarizado",
+  "date": "2026-10-15",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "U.S. Bureau of Labor Statistics – Consumer Price Index, September 2026",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Reuters vía The Globe and Mail – Bond market whiplash: U.S. yields jump then pull back",
+      "url": "https://www.theglobeandmail.com/investing/article-bond-market-whiplash-us-yields-jump-then-pull-back-reflecting-feds/",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Reuters vía Euronext – Dollar gains, Wall Street stocks fall after hot inflation data",
+      "url": "https://live.euronext.com/en/financial-news/dollar-jumps-stocks-and-bonds-dented-hot-us-inflation-data",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "CNBC – Fed may now have to hike twice or increase by a half point in December, traders bet",
+      "url": "https://www.cnbc.com/2026/10/14/fed-may-now-have-to-hike-twice-or-increase-by-a-half-point-in-december-traders-bet.html",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "FMI (blog) – Global Financial Markets Face Rising Risks From AI, Bond Yields, and Cyberattacks",
+      "url": "https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "MEF Panamá – Quarterly Public Debt Report, March 2026",
+      "url": "https://fpublico.mef.gob.pa/reportes/BINFORMEDEUDAI/Quarterly%20Report%20-%20March%202026.pdf",
+      "date": "2026-03-31"
+    }
+  ],
+  "body": [
+    "La inflación de Estados Unidos subió a 3.7 % anual en septiembre y el mercado volvió a apostar por alzas de tasas de la Reserva Federal. Explicamos qué pasó, por qué importa en Panamá y qué preguntas hacerse antes de mover sus ahorros o inversiones.",
+    "El dato. El 14 de octubre, la Oficina de Estadísticas Laborales de EE. UU. (BLS) informó que el índice de precios al consumidor (CPI) subió 0.6 % en septiembre, tras 0.4 % en agosto. En 12 meses, la inflación pasó de 3.4 % a 3.7 %. La gasolina subió 9.1 % en el mes y explicó más de la mitad del aumento; el índice de energía acumula un alza de 20.4 % en un año. La inflación subyacente, que excluye alimentos y energía, subió 0.3 % en el mes y 2.6 % anual, frente a 2.4 % en agosto. Según Reuters, los economistas esperaban 3.6 % en el dato general y 2.5 % en el subyacente.",
+    "La reacción del mercado. Los rendimientos de los bonos del Tesoro de EE. UU. saltaron en la mañana y luego retrocedieron. De acuerdo con Reuters, el bono a 10 años llegó a 5.3293 % y cerró cerca de 5.19 %; el de 2 años, el más sensible a las expectativas sobre la Fed, tocó 4.9521 % y terminó en torno a 4.80 %. El dólar subió a su nivel más alto desde abril de 2025 frente a una canasta de monedas. En Wall Street, el S&P 500 cayó 1.11 % y el Nasdaq 1.88 %, con las tecnológicas a la cabeza de las pérdidas. El petróleo Brent cerró en 106.06 dólares por barril.",
+    "¿Subirá la Fed sus tasas? Las probabilidades cambiaron durante el día y dependen de la fuente. Con datos de LSEG, Reuters reportó que la probabilidad de un alza en la reunión del 27 y 28 de octubre subió de 22 % a cerca de 40 % en la mañana y bajó a alrededor de 33 % por la tarde. CNBC, con la herramienta FedWatch de CME, reportó en la mañana 53.7 % para octubre y más de 95 % de probabilidad de al menos un alza antes de fin de año. No son predicciones: son apuestas del mercado que pueden cambiar con el siguiente dato.",
+    "Parte del debate se explica por señales distintas dentro de la propia Fed. Reuters menciona comentarios recientes de John Williams, presidente de la Fed de Nueva York, y del vicepresidente Philip Jefferson que sugieren paciencia; la vicepresidenta de Supervisión, Michelle Bowman, dijo que hay tiempo para esperar tras la última alza. En cambio, la presidenta de la Fed de Boston, Susan Collins, dijo que cree que será necesario subir las tasas otra vez antes de fin de año.",
+    "Por qué importa en Panamá. Panamá usa el dólar estadounidense, por lo que las tasas de EE. UU. son una referencia importante para el costo del dinero en el país y para el precio de los bonos en dólares. Un ejemplo con datos oficiales: según el informe trimestral de deuda del Ministerio de Economía y Finanzas (MEF), en el primer trimestre de 2026 los rendimientos de los bonos globales de Panamá subieron 14 puntos básicos en promedio, mientras los del Tesoro de EE. UU. subieron 19 puntos básicos, en un contexto de tensiones en Medio Oriente, petróleo más caro y expectativas de inflación al alza.",
+    "Lección básica: precio y rendimiento van en sentido contrario. Cuando los rendimientos del mercado suben, los bonos que ya existen y pagan un cupón fijo pierden valor, porque los nuevos bonos ofrecen más. Cuanto más largo el plazo, mayor suele ser esa sensibilidad; en Banca del Mañana lo explicamos en el artículo sobre la duración de los bonos. Esto importa sobre todo a quien necesite vender antes del vencimiento: quien mantiene un bono hasta el final recibe lo pactado, siempre que el emisor pague.",
+    "Para quien ahorra. En un entorno de tasas altas, los depósitos a plazo y otros instrumentos de renta fija pueden ofrecer tasas más atractivas que hace unos años. Pero conviene mirar el rendimiento real, es decir, la tasa que recibe menos la inflación. Si una inversión paga menos que la inflación, su dinero pierde poder de compra aunque el saldo crezca. Compare también plazos, penalidades por retiro anticipado y si el producto está cubierto por la regulación correspondiente.",
+    "Para quien invierte en acciones. El FMI advirtió el 13 de octubre, en su Informe sobre la Estabilidad Financiera Mundial, que rendimientos soberanos más altos elevan las tasas de descuento y pueden presionar las valoraciones de otros activos, incluidos los vinculados a la inteligencia artificial. El organismo identificó como riesgos crecientes una corrección del mercado ligada a la IA y un alza más brusca de los rendimientos de la deuda pública. La caída del Nasdaq del 14 de octubre es un recordatorio de esa sensibilidad.",
+    "Preguntas útiles antes de decidir: ¿cuándo voy a necesitar este dinero? ¿Podría mantener la inversión si su precio cae temporalmente? ¿Tengo un fondo de emergencia aparte? ¿Estoy concentrado en un solo tipo de activo o sector? ¿Entiendo las comisiones? ¿La persona o firma que me asesora tiene licencia de la Superintendencia del Mercado de Valores (SMV)?",
+    "Aviso: este contenido es educativo e informativo. No constituye asesoría de inversión ni recomendación de compra o venta de ningún instrumento, y no promete rendimientos. Toda inversión conlleva riesgos, incluida la posible pérdida del capital. Antes de invertir, consulte con un asesor de inversiones con licencia de la SMV y considere su perfil de riesgo."
+  ]
+}

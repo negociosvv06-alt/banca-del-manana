@@ -1,0 +1,45 @@
+{
+  "id": "supervisores-agentes-ia-ciberseguridad-bancos-2026",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Supervisores bancarios ponen la lupa en los agentes de IA: límites, auditoría y un botón de apagado",
+  "date": "2026-10-15",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Reuters vía The Manila Times – Banking watchdogs ramp up AI scrutiny",
+      "url": "https://www.manilatimes.net/2026/10/14/business/foreign-business/banking-watchdogs-ramp-upaiscrutiny/2444833",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "The Next Web – US and European regulators question banks about AI agents and cyber risks",
+      "url": "https://thenextweb.com/news/us-and-european-regulators-question-banks-about-ai-agents-and-cyber-risks",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "CNBC – Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "FMI (blog) – Global Financial Markets Face Rising Risks From AI, Bond Yields, and Cyberattacks",
+      "url": "https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks",
+      "date": "2026-10-13"
+    }
+  ],
+  "body": [
+    "La Fed, la OCC y la FDIC están preguntando a los bancos cómo limitan, vigilan y apagan sus agentes de inteligencia artificial, mientras Bank of America revela cuánto le cuesta corregir fallas de software que la IA ayuda a descubrir. Qué significa para la banca y para sus clientes.",
+    "Qué están preguntando en Estados Unidos. Según Reuters, que citó a seis personas conocedoras del tema, tres reguladores bancarios de EE. UU. —la Reserva Federal, la Oficina del Contralor de la Moneda (OCC) y la Corporación Federal de Seguro de Depósitos (FDIC)— están consultando a bancos grandes, medianos y pequeños sobre su uso de modelos avanzados de IA. Las preguntas se centran en la IA «agéntica», es decir, sistemas que pueden ejecutar tareas con poca supervisión humana, sobre todo en ciberseguridad: si los bancos usan agentes para detectar, priorizar y responder a amenazas.",
+    "El detalle de las preguntas es revelador: qué límites tienen esos sistemas, cómo se monitorean y aprueban sus acciones, si el banco puede rastrear y auditar cada decisión de un agente, qué salvaguardas impiden que un agente se exceda en su autoridad, si las personas siguen participando en las decisiones clave y cómo se puede apagar un sistema autónomo. También preguntan si los bancos usan tecnología desarrollada en China. Según las mismas fuentes, los reguladores todavía están recopilando información y no han dicho qué deben hacer los bancos. Las tres agencias declinaron comentar a Reuters.",
+    "Qué piden en Europa. En el Reino Unido y la zona euro, el Banco de Inglaterra y el Banco Central Europeo (BCE) presionan a los bancos para que mejoren sus planes de recuperación ante ataques, preocupados de que los avances en IA causen disrupciones en los mercados antes de lo previsto. De acuerdo con lo reportado, los supervisores británicos quieren que los bancos más grandes revisen sistemas de respaldo totalmente separados de su infraestructura principal, y el BCE dio plazo hasta finales de octubre para presentar planes contra amenazas cibernéticas habilitadas por IA. A los bancos de la zona euro también se les pide mapear dónde usan IA, incluso a través de proveedores externos, para poder apagar esos sistemas y reiniciarlos de forma segura.",
+    "Por qué ahora. Reuters vincula este escrutinio a una serie de incidentes recientes. Entre ellos, la empresa de ciberseguridad CrowdStrike dijo este mes que una persona en China probablemente usó un agente de IA desarrollado en China y la herramienta Claude Code de Anthropic en un ataque contra bancos de Corea del Sur. Se trata de la atribución de una empresa privada, no de una conclusión oficial.",
+    "El Fondo Monetario Internacional (FMI) puso cifras al problema en su Informe sobre la Estabilidad Financiera Mundial de octubre. En un blog del 13 de octubre, sus autores señalan que en más del 70 % de los casos reportados en lo que va de 2026, los proveedores de software casi no tuvieron tiempo de corregir una vulnerabilidad antes de que fuera explotada; en 2021, los proveedores solían tener cerca de 300 días. El FMI advierte que los modelos de IA de frontera pueden acelerar tanto los ataques como las defensas, y que un incidente grave podría interrumpir pagos, operaciones de mercado o el acceso a los depósitos.",
+    "El costo visible: Bank of America. El 14 de octubre, tras presentar sus resultados del tercer trimestre, el director ejecutivo de Bank of America, Brian Moynihan, dijo a CNBC que el banco contrató 1,000 consultores externos en el segundo trimestre para apoyar a las 3,000 personas que ya tenía dedicadas a corregir fallas de software, tanto propio como de proveedores. Esas fallas quedaron expuestas por modelos avanzados como Mythos, de Anthropic, que fue entregado en abril a un grupo reducido de bancos, empresas tecnológicas y agencias de gobierno.",
+    "Moynihan explicó a los analistas que el banco gastó «un par de cientos de millones» de dólares en el tercer trimestre entre esa corrección de software y asuntos regulatorios de prevención de blanqueo de capitales, y dijo que espera que ese costo baje con el tiempo. En el otro lado de la balanza, el banco tiene unos 130 proyectos internos de IA y prevé que los ahorros generados suban de 300 millones de dólares este año a 700 millones en 2027. Es la doble cara de la IA: la misma tecnología que ahorra costos obliga a gastar para defenderse.",
+    "Qué significa para un banco, también en Panamá. Las preguntas de los supervisores de EE. UU. sirven como lista de verificación para cualquier entidad que esté incorporando IA, incluidos los centros de contacto y los canales digitales: ¿existe un inventario de todos los agentes y modelos en uso, incluidos los de proveedores? ¿Cada agente tiene permisos mínimos y montos o acciones que no puede ejecutar sin aprobación humana? ¿Queda registro auditable de lo que decidió y por qué? ¿Se ha probado de verdad el procedimiento para apagarlo? ¿Cuánto tarda el banco en aplicar un parche crítico?",
+    "Ninguna de estas preguntas exige frenar la innovación. Lo que plantean es que la velocidad de adopción no supere la capacidad de control. Como resumió a Reuters Michael Woodbridge, socio de ciberseguridad de Grant Thornton en Londres, la adopción de la IA a menudo va más rápido que la capacidad de poner controles.",
+    "Qué significa para el cliente. Es posible que el usuario note más confirmaciones en operaciones sensibles o mantenimientos de sistemas más frecuentes. Mantener la app del banco actualizada, activar las notificaciones y desconfiar de cualquier mensaje que pida códigos o claves sigue siendo la mejor defensa personal. Ningún banco serio pide su PIN, su clave ni el código que le llega por mensaje.",
+    "Hecho y pendiente. Lo confirmado: los supervisores de EE. UU. y Europa están preguntando y pidiendo planes; un gran banco ya cuantificó el costo de defenderse. Lo pendiente: si esas consultas terminarán en guías formales o reglas obligatorias, algo que según las fuentes de Reuters todavía no se ha decidido. Este análisis es informativo y no constituye asesoría financiera ni de seguridad."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "banistmo-yappy-interoperabilidad-pagos-2026",
+  "section": "pagos",
+  "type": "noticia",
+  "title": "Banistmo se suma a Yappy: qué cambia para sus clientes y cómo usarlo con seguridad",
+  "date": "2026-10-15",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "La Estrella de Panamá – Así funcionará la integración de Yappy en la banca móvil de Banistmo",
+      "url": "https://www.laestrella.com.pa/economia/asi-funcionara-la-integracion-de-yappy-en-la-banca-movil-de-banistmo-DO26288649",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "En El Medio Panamá – Banistmo incorpora Yappy y amplía las opciones de pagos digitales para más de 600 mil clientes",
+      "url": "https://www.enelmediopanama.com/2026/10/12/banistmo-incorpora-yappy-y-amplia-las-opciones-de-pagos-digitales-para-mas-de-600-mil-clientes/",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Yappy – ¿Cómo puedo cambiar mi cuenta principal? (preguntas frecuentes)",
+      "url": "https://www.yappy.com.pa/faq-items/como-puedo-cambiar-mi-cuenta-principal/",
+      "date": "2025-05-19"
+    },
+    {
+      "name": "La Prensa – Bancos deberán alertar sobre posibles errores en transferencias electrónicas (Acuerdo 8-2026 de la SBP)",
+      "url": "https://www.prensa.com/economia/bancos-deberan-alertar-sobre-posibles-errores-en-transferencias-electronicas/",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "Desde octubre, los clientes de Banistmo pueden enviar y recibir dinero por Yappy con usuarios de otros bancos, directamente desde la app del banco. Te explicamos qué cambia, qué se mantiene y qué cuidados tomar antes de pulsar «enviar».",
+    "La noticia. Banistmo, integrante del Grupo Financiero BSC en Panamá, incorporó en octubre de 2026 la plataforma Yappy a su oferta de pagos y transferencias dentro de su aplicación móvil, según informaron La Estrella de Panamá el 7 de octubre y En El Medio Panamá el 12 de octubre. De acuerdo con datos del banco, la medida alcanza a más de 600 mil clientes en todo el país.",
+    "Con esta incorporación, la app de Banistmo reúne en un mismo lugar Yappy, Kuara, Xpress y las transferencias con número de celular entre cuentas Banistmo. Es decir, Yappy no reemplaza las opciones que ya existían: se suma a ellas.",
+    "La presidenta de Banistmo, Aimeé Sentmat de Grimaldo, describió el paso como parte de la estrategia del banco para impulsar la «interoperabilidad transaccional» y ampliar las opciones de manejo de dinero de sus clientes. Por parte de la plataforma, Yolianna Alfaro, vicepresidenta y gerente general de Yappy S.A., señaló que sumar nuevas entidades forma parte de la apuesta por un ecosistema de pagos digitales más abierto en Panamá.",
+    "¿Qué bancos están en la red? Según el recuento de En El Medio Panamá, antes de este anuncio Yappy identificaba como entidades participantes a Banco General, Banisi, Caja de Ahorros, Credicorp Bank, Davivienda, MetroBank y St. Georges Bank. Con Banistmo, la red llega a ocho bancos. La forma de acceso varía: según La Estrella, en Banco General, Banistmo y St. Georges Bank se puede usar desde la banca móvil del banco y desde Yappy App; en Caja de Ahorros, Credicorp Bank, Davivienda y MetroBank, a través de Yappy App; y en Banisi, mediante su propia aplicación. La plataforma indica, según En El Medio, que su ecosistema supera 1.7 millones de usuarios en Panamá.",
+    "Por qué importa: la interoperabilidad. Uno de los grandes retos de los pagos digitales es que personas con cuentas en bancos distintos puedan transferirse dinero de forma sencilla. Cuando una billetera o un servicio de pagos solo funciona entre clientes de ciertas entidades, el usuario termina abriendo cuentas adicionales o usando varios métodos según a quién le paga. Cada banco que se conecta a una red común reduce esa fricción: pagarle a un familiar, dividir una cuenta, pagar a un emprendedor con un código QR o mover dinero entre cuentas propias se vuelve más simple.",
+    "¿Tiene costo? Según lo reportado por En El Medio Panamá, Yappy indica que no cobra un costo adicional por las transacciones enviadas con el número de celular, aunque cada banco puede establecer cargos relacionados con sus propios canales digitales o transacciones. Antes de usar el servicio con frecuencia, conviene revisar el tarifario vigente de tu banco.",
+    "Cómo activarlo. Los clientes de Banistmo pueden vincular su cuenta a Yappy y establecerla como cuenta principal, que es la cuenta donde se reciben los Yappys. Quien ya usa Yappy con otro banco puede cambiarla. Según la sección de preguntas frecuentes de Yappy, el proceso en Yappy App es: abrir el menú de la esquina superior izquierda, entrar a «Métodos de pago», pulsar «Cambiar» en «Tu cuenta principal», elegir la nueva cuenta y confirmar con biometría (huella, reconocimiento facial o patrón). Los nuevos usuarios deben completar la afiliación. Banistmo publica el paso a paso en su sitio web oficial.",
+    "Seguridad: lo que viene con el Acuerdo 8-2026. La Superintendencia de Bancos de Panamá (SBP) aprobó el 22 de septiembre el Acuerdo 8-2026, que, según La Prensa, aplica a bancos oficiales y de licencia general que ofrezcan transferencias por banca en línea, aplicaciones móviles y pagos o monederos móviles. La norma exige que, antes de autorizar una transferencia nacional, el banco permita comprobar gratis y de inmediato si la cuenta de destino está habilitada y si el nombre del beneficiario coincide con el titular registrado o con el alias usado, como un número de celular. Si no coincide, el banco debe advertirlo. Los bancos tienen nueve meses desde la promulgación para adecuarse, así que no todas estas validaciones están disponibles todavía.",
+    "Mientras tanto, estos hábitos ayudan a pagar con tranquilidad: verifica el nombre que aparece en pantalla antes de confirmar; si no reconoces el nombre, detente y confirma con la persona por otro medio. Desconfía de quien te pida «devolver» un Yappy que supuestamente te enviaron por error: revisa primero tu saldo en la app oficial. No compartas tus claves, códigos de verificación ni tu biometría con nadie, aunque digan llamar del banco o de Yappy. Activa las notificaciones de movimientos y revisa tus límites de transferencia.",
+    "La lectura. La entrada de Banistmo muestra que la competencia en pagos digitales en Panamá ya no se trata solo de tener una buena aplicación, sino de que las plataformas se comuniquen entre sí. Para el usuario, la pregunta deja de ser «¿tienes Yappy en mi banco?» y pasa a ser «¿cómo pago de forma rápida y segura?»."
+  ]
+}
