@@ -59,3 +59,11 @@ input[aria-invalid=true],textarea[aria-invalid=true]{border-color:#c0392b}.field
 .site-header .logo,[data-theme=light] .site-header .logo{color:#fff}.site-footer .logo,[data-theme=light] .site-footer .logo{color:var(--text)}
 main:focus,main:focus-visible{outline:none}
 .ai-label{font-size:.75rem;background:var(--teal-soft);color:var(--text);border-radius:6px;padding:.1rem .45rem}p.ai-label{font-size:.85rem;padding:.4rem .7rem}
+.newsletter h2,.newsletter h3{margin-top:0}.newsletter p{margin:.4rem 0}
+.newsletter.card{background:linear-gradient(135deg,var(--teal-soft),var(--surface));border-color:var(--teal);margin:2rem 0}
+.kicker-nl{text-transform:uppercase;font-size:.72rem;letter-spacing:.12em;font-weight:700;color:var(--teal)}
+.newsletter-compact{border-top:1px solid var(--border);padding-top:1rem;margin-top:1.5rem}
+.nl-form{display:flex;gap:.5rem;flex-wrap:wrap;max-width:520px;margin:.6rem 0}.nl-form input{flex:1 1 220px}
+.nl-ok{background:var(--teal-soft);color:#0b5f58;border-radius:8px;padding:.6rem .8rem;font-weight:600}[data-theme=dark] .nl-ok{color:#9be7df}
+.newsletter .field-err{min-height:1.1em;margin:0}
+.footer-news{margin-bottom:1.5rem}

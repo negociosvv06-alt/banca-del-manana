@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
+import NewsletterForm from './NewsletterForm';
 import { CONTENT_UPDATED, formatDate } from '../lib/content';
 
 export const NAV = [
@@ -38,6 +39,7 @@ export default function Layout() {
       </header>
       <main id="main" tabIndex={-1} className="container"><Outlet /></main>
       <footer className="site-footer">
+        <div className="container footer-news"><NewsletterForm variant="compact" heading="h2" /></div>
         <div className="container footer-grid">
           <div><Logo /><p>Información y educación financiera sobre Panamá y el mundo. Montos en dólares estadounidenses (USD) salvo indicación.</p><p className="small">Contenido actualizado al {formatDate(CONTENT_UPDATED)}.</p></div>
           <div><h2>Secciones</h2><ul>{NAV.slice(1, 7).map(([to, l]) => <li key={to}><Link to={to}>{l}</Link></li>)}</ul></div>
