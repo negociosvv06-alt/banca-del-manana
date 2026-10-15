@@ -24,7 +24,7 @@ export function NewsCard({ n }: { n: NewsItem }) {
       <div className="meta"><Badge type={n.type} /><span className="cat">{CATEGORY_LABEL[n.category] ?? n.category}</span>{n.lang === 'en' && <span className="lang" title="Contenido original en inglés">EN</span>}</div>
       <h3><a href={n.url} target="_blank" rel="noopener noreferrer">{n.title}</a></h3>
       {n.summary && <p>{n.summary}</p>}
-      {(n.stale || n.staleNote || old) && <p className="warn" role="note">⚠ {n.staleNote ?? (n.stale ? 'La fuente no respondió en la última actualización; se muestra la versión anterior.' : 'Publicación con más de 30 días: puede estar desactualizada.')}</p>}
+      {(n.staleNote || old) && <p className="warn" role="note">⚠ {n.staleNote ?? 'Publicación con más de 30 días: puede estar desactualizada.'}</p>}
       <p className="source">Fuente: <a href={n.url} target="_blank" rel="noopener noreferrer">{n.source}</a> · <time dateTime={n.date}>{formatDate(n.date)}</time></p>
     </article>
   );

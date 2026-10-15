@@ -10,7 +10,7 @@
    "ok": false,
    "error": "fetch failed",
    "fetchedAt": "2026-10-12T02:49:22.590Z",
-   "count": 12
+   "count": 0
   },
   "bis": {
    "ok": true,
@@ -100,40 +100,6 @@
    ]
   },
   {
-   "id": "ecb-hMTAxNTNkMDkwLmVuLmh0bWw",
-   "title": "Meeting of 9-10 September 2026",
-   "summary": "",
-   "date": "2026-10-08",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
-   "id": "ecb-MxODRlN2QwZDAuZW4uaHRtbA",
-   "title": "Piero Cipollone: Interview with Corriere della Sera",
-   "summary": "",
-   "date": "2026-10-08",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
    "id": "fed-ldGFyeTIwMjYxMDA3YS5odG0",
    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
    "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
@@ -150,74 +116,6 @@
    ]
   },
   {
-   "id": "ecb-Y0NDczNTA0MzQuZW4uaHRtbA",
-   "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-   "summary": "",
-   "date": "2026-10-07",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
-   "id": "ecb-BkZjkxZTRlNDQuZW4uaHRtbA",
-   "title": "Frank Elderson: Effective supervision through timely remediation",
-   "summary": "",
-   "date": "2026-10-06",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
-   "id": "ecb-wZGE5NzhmMTU5LmVuLmh0bWw",
-   "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-   "summary": "",
-   "date": "2026-10-06",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
-   "id": "ecb-JjOTQ0MDAyOTcuZW4uaHRtbA",
-   "title": "Philip R. Lane: Interview with Ansa",
-   "summary": "",
-   "date": "2026-10-06",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
    "id": "fed-cmRlcnMyMDI2MTAwNWEuaHRt",
    "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
    "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
@@ -232,23 +130,6 @@
    "tags": [
     "FED"
    ]
-  },
-  {
-   "id": "ecb-xZDhkOTk4ZWY0LmVuLmh0bWw",
-   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-   "summary": "",
-   "date": "2026-10-05",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
   },
   {
    "id": "bis-qdXJpc2RpY3Rpb25zLTIwMjc",
@@ -315,74 +196,6 @@
    ]
   },
   {
-   "id": "ecb-U0YzZiNTY3MmIuZW4uaHRtbA",
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "summary": "",
-   "date": "2026-10-02",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
-   "id": "ecb-QxOWVmZTE4ZTAuZW4uaHRtbA",
-   "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
-   "summary": "",
-   "date": "2026-10-02",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
-   "id": "ecb-fmEwYmU2NzE5M2IuZW4ucGRm",
-   "title": "Isabel Schnabel: Central banks on-chain",
-   "summary": "",
-   "date": "2026-10-01",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
-   "id": "ecb-jZjNjNjMwMzc5LmVuLmh0bWw",
-   "title": "Christine Lagarde: Where AI risks meet",
-   "summary": "",
-   "date": "2026-10-01",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
-  },
-  {
    "id": "bis-tZGlzY3Vzcy1yaXNrcy1hbmQ",
    "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
    "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
@@ -429,23 +242,6 @@
    "tags": [
     "FED"
    ]
-  },
-  {
-   "id": "ecb-EwMDg0YTVmM2QuZW4uaHRtbA",
-   "title": "Christine Lagarde: Interview with La Croix",
-   "summary": "",
-   "date": "2026-09-30",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ],
-   "stale": true
   },
   {
    "id": "fed-iY3JlZzIwMjYwOTI5YS5odG0",

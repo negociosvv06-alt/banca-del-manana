@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { allNews, searchNews, searchSite, newsPanama, banks } from './content';
+import { allNews, searchNews, searchSite, newsPanama, newsIntl, banks, glossary } from './content';
 describe('contenido', () => {
   it('toda noticia tiene fuente https, fecha ISO y título', () => {
     for (const n of allNews) {
@@ -19,4 +19,11 @@ describe('contenido', () => {
     expect(searchNews(newsPanama, { q: 'zzzxxx' })).toHaveLength(0);
   });
   it('búsqueda global vacía', () => expect(searchSite('  ').news).toHaveLength(0));
+  it('no se publica ningún ítem marcado stale (fuente caída)', () => { expect(allNews.some((n) => n.stale)).toBe(false); expect(newsIntl.some((n) => n.stale)).toBe(false); });
+  it('glosario: ≥40 términos únicos con definición, orden alfabético', () => {
+    expect(glossary.length).toBeGreaterThanOrEqual(40);
+    expect(new Set(glossary.map((g) => g.term.toLowerCase())).size).toBe(glossary.length);
+    glossary.forEach((g) => { expect(g.term.length).toBeGreaterThan(1); expect(g.def.length).toBeGreaterThan(20); });
+    ['Yappy', 'Kuara', 'Punto Pago', 'ACH Xpress', 'Telered', 'SMV', 'SBP'].forEach((t) => expect(glossary.some((g) => g.term === t)).toBe(true));
+  });
 });

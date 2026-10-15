@@ -10,8 +10,10 @@ export interface NewsItem { id: string; title: string; summary: string; date: st
 export interface Article { id: string; section: string; type: ContentType; title: string; date: string; author?: string; aiAssisted?: boolean; sources?: { name: string; url: string; date?: string }[]; body: string[] }
 const articleFiles = import.meta.glob<Article>('../../content/articles/*.json', { eager: true, import: 'default' });
 
-export const newsPanama = panama as NewsItem[];
-export const newsIntl = (intl as { items: NewsItem[] }).items;
+// Los ítems marcados `stale` (fuente caída) nunca se muestran al público.
+const visible = (n: NewsItem) => !n.stale;
+export const newsPanama = (panama as NewsItem[]).filter(visible);
+export const newsIntl = (intl as { items: NewsItem[] }).items.filter(visible);
 export const intlMeta = intl as unknown as { lastRun: string; sources: Record<string, { ok: boolean; fetchedAt: string | null; count: number; error?: string }> };
 export const allNews: NewsItem[] = [...newsPanama, ...newsIntl].sort((a, b) => b.date.localeCompare(a.date));
 export const articles: Article[] = Object.values(articleFiles).sort((a, b) => b.date.localeCompare(a.date));

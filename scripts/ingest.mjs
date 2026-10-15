@@ -1,5 +1,5 @@
 // Ingesta de noticias internacionales desde RSS oficiales verificados.
-// Uso: npm run ingest. Si una fuente falla, se conservan sus noticias previas marcadas como desactualizadas.
+// Uso: npm run ingest. Si una fuente falla, se omiten sus ítems (no se publican) y el fallo solo se registra en la salida.
 import { XMLParser } from 'fast-xml-parser';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { SOURCES } from './sources.mjs';
@@ -33,10 +33,9 @@ for (const src of SOURCES.filter((s) => s.type === 'rss')) {
     out.sources[src.id] = { ok: true, fetchedAt: now, count: items.length };
     console.log(`✓ ${src.id}: ${items.length}`);
   } catch (e) {
-    const old = prev.items.filter((i) => i.id.startsWith(src.id + '-')).map((i) => ({ ...i, stale: true }));
-    out.items.push(...old);
-    out.sources[src.id] = { ok: false, error: String(e.message ?? e), fetchedAt: prev.sources?.[src.id]?.fetchedAt ?? null, count: old.length };
-    console.warn(`✗ ${src.id}: ${e.message} (se conservan ${old.length} previas)`);
+    // Fuente caída: se omiten sus ítems (sin marca visible para el visitante); solo se registra en el log.
+    out.sources[src.id] = { ok: false, error: String(e.message ?? e), fetchedAt: prev.sources?.[src.id]?.fetchedAt ?? null, count: 0 };
+    console.warn(`✗ ${src.id}: ${e.message} (se omiten sus ítems)`);
   }
 }
 out.items.sort((a, b) => b.date.localeCompare(a.date));
