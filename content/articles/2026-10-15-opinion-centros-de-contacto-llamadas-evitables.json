@@ -1,0 +1,59 @@
+{
+  "id": "opinion-centros-de-contacto-llamadas-evitables",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: las mejores llamadas son las que nunca tuvieron que hacerse",
+  "date": "2026-10-15",
+  "author": "Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Vanguard Consulting – Failure Demand (definición, rangos típicos y cómo eliminarla)",
+      "url": "https://beyondcommandandcontrol.com/failure-demand/"
+    },
+    {
+      "name": "John Seddon – Memorando ante el Comité de Administración Pública, Cámara de los Comunes (Reino Unido)",
+      "url": "https://publications.parliament.uk/pa/cm200203/cmselect/cmpubadm/62-viii/3012305.htm"
+    },
+    {
+      "name": "Gartner – Only 14% of Customer Service Issues Are Fully Resolved in Self-Service",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2024-08-19-gartner-survey-finds-only-14-percent-of-customer-service-issues-are-fully-resolved-in-self-service",
+      "date": "2024-08-19"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP modernizará la atención de reclamos bancarios (Acuerdo 9-2025)",
+      "url": "https://www.superbancos.gob.pa/node/1621",
+      "date": "2025-12-04"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-DR-CIRCULAR-2025-0116 (emisión del Acuerdo 9-2025)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2025/Circular-2025-0116.pdf",
+      "date": "2025-11-18"
+    }
+  ],
+  "body": [
+    "Cuando un cliente llama a un centro de contacto, casi nunca lo hace por gusto. Llama porque no entendió un cobro, porque la app falló a mitad de una operación, porque el estado de cuenta no le dice lo que necesita saber o porque nadie le explicó qué pasaba después de pedir un producto. Ese teléfono que suena es, muchas veces, el último recurso de alguien a quien el producto no le resolvió algo. Y eso cambia por completo la forma de mirar un centro de contacto.",
+    "## Por qué la gente llama de verdad",
+    "Si uno escucha las llamadas con atención, los motivos se repiten: dudas sobre cómo funciona un producto, fallas en canales digitales, procesos confusos que obligan a ir y volver, cobros o comisiones que el cliente no esperaba, estados de cuenta difíciles de leer y falta de información sobre el estado de una solicitud. Pocos de estos contactos son una petición normal del servicio. La mayoría son síntomas de algo que se pudo diseñar mejor desde el principio.",
+    "El experto en gestión John Seddon le puso nombre a esto: demanda de fallo (failure demand), es decir, la demanda causada por no hacer algo, o por no hacerlo bien, para el cliente. Según Vanguard, la consultora que él dirige, en las organizaciones de servicio tradicionales esta demanda suele ser entre el 40 % y el 60 % del total, y en algunos sectores puede superar el 80 %. En un caso de reparaciones de vivienda que Seddon presentó al Parlamento británico, alrededor del 40 % de las llamadas eran seguimientos y quejas por trabajos mal hechos. No es un dato de la banca panameña, y hay que decirlo con claridad, pero la lógica sirve de espejo: si una parte importante de las llamadas existe porque algo falló antes, el problema no está en el teléfono.",
+    "## El error de tratar el centro de contacto como un costo",
+    "Cuando se mide a un centro de contacto solo por tiempo promedio de atención y número de llamadas, se premia contestar rápido y no resolver bien. Peor aún: si el contacto evitable se trata como trabajo normal, se contrata más gente para atenderlo y el problema de fondo queda intacto. Seddon advertía justamente eso: mover la demanda de fallo a un centro de llamadas y tratarla como trabajo normal institucionaliza el desperdicio.",
+    "Hay un segundo error, más actual: creer que el autoservicio lo arregla todo. Una encuesta de Gartner a 5,728 clientes, realizada en diciembre de 2023, encontró que solo el 14 % de los problemas se resuelve por completo en autoservicio, y que incluso en los asuntos que los clientes consideran muy simples el porcentaje es del 36 %. El 45 % de quienes empezaron por autoservicio dijo que la empresa no entendía lo que intentaban hacer, y en el 43 % de los fallos el cliente no encontró contenido relevante. Un autoservicio que no funciona no elimina la llamada: solo la retrasa y la vuelve más molesta.",
+    "## La solución empieza en la construcción del producto",
+    "Si la llamada evitable nace en el diseño, es ahí donde se corrige. Estas son las prácticas que considero más útiles:",
+    "Primero, analizar los motivos de contacto en las palabras del cliente y no en las categorías internas del sistema. Vanguard recomienda registrar lo que el cliente dice o escribe, clasificarlo y separar qué parte es demanda de valor (lo que el servicio existe para hacer) y qué parte es demanda de fallo. Esa clasificación es el insumo más barato y más honesto que tiene una institución.",
+    "Segundo, devolver esa información a quien diseña. Cada motivo recurrente debería tener un dueño en producto, tecnología, operaciones o riesgo, con una fecha para corregir la causa: reescribir un mensaje, simplificar un trámite, mostrar el cobro antes de que ocurra o arreglar la falla técnica. Cerrar ese ciclo es lo que convierte la voz del cliente en mejora real.",
+    "Tercero, diseñar procesos que se entiendan a la primera: menos pasos, menos idas y vueltas, y estados visibles. Si el cliente tiene que llamar para saber en qué va su solicitud, el proceso está incompleto.",
+    "Cuarto, comunicar de forma proactiva. Avisar antes de un cobro, de una interrupción o de un cambio de condiciones cuesta mucho menos que atender mil llamadas de sorpresa. Gartner recomienda justamente invertir en entregar soluciones de autoservicio de forma proactiva usando datos de la cuenta y del uso del producto.",
+    "Quinto, construir un autoservicio que de verdad resuelva, con contenido que responda a lo que la gente busca y que se mejore continuamente con lo que aprenden los agentes.",
+    "## Cómo medirlo sin caer en la trampa",
+    "Un indicador práctico es la tasa de contacto: cuántos contactos se generan por cada 1,000 clientes, por producto y por motivo. Sirve para ver dónde se concentra el problema y si una mejora de diseño funcionó. Con una advertencia que Vanguard repite: poner una meta de reducción sin cambiar el sistema solo lleva a maquillar números. La medida debe señalar dónde hay que rediseñar, no presionar a los agentes para que atiendan menos.",
+    "## Lo que dice el regulador en Panamá",
+    "En Panamá, el cliente bancario tiene una vía formal cuando algo no se resuelve. La Superintendencia de Bancos informó que, según el Acuerdo 9-2025, los bancos cuentan con 30 días para atender un reclamo y, si no responden o el cliente queda insatisfecho, este puede acudir a la Superintendencia. Para reclamos de hasta B/.1,500 o relacionados con transparencia e información bancaria se aplica un procedimiento oral más sencillo. Según la circular de la SBP, el acuerdo entra en vigor el 15 de noviembre de 2026. Cada reclamo formal es la señal final de que una llamada anterior no resolvió el problema, y una oportunidad para aprender antes de llegar ahí.",
+    "## Un centro de contacto es una fuente de inteligencia",
+    "Un centro de contacto bien aprovechado es el sensor más sensible de una institución: detecta una falla de la app antes que el monitoreo, un texto confuso antes que la encuesta y una fricción de producto antes que el informe trimestral. Verlo solo como un costo es desperdiciar el dato más valioso que se tiene sobre el cliente.",
+    "## Qué hacer desde mañana",
+    "Mi llamado es sencillo. Si trabajas en banca, fintech o cualquier servicio, escoge hoy los cinco motivos de contacto más frecuentes de un producto, escríbelos con las palabras del cliente y pregúntate en cada uno qué decisión de diseño lo provocó. Pon un nombre y una fecha para corregir al menos uno. La mejor llamada, para el cliente y para la institución, es la que nunca tuvo que hacerse.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

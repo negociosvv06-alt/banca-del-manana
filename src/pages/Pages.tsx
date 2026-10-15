@@ -90,7 +90,7 @@ export function ArticlePage({ id }: { id?: string }) {
   const a = articles.find((x) => x.id === id);
   useSeo(a?.title ?? 'Artículo no encontrado', a?.body[0] ?? '');
   if (!a) return <NotFound />;
-  return <article className="prose"><div className="meta"><Badge type={a.type} /></div><h1>{a.title}</h1><p className="source">{a.author ?? 'Equipo editorial'} · {formatDate(a.date)}</p>{a.aiAssisted && <p className="ai-label" role="note">{AI_LABEL}</p>}{a.body.map((p, i) => <p key={i}>{p}</p>)}{a.sources?.length ? <><h2>Fuentes</h2><ul>{a.sources.filter((s) => s.url.startsWith('https://')).map((s) => <li key={s.url}><a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a>{s.date && ` (${formatDate(s.date)})`}</li>)}</ul></> : null}
+  return <article className="prose"><div className="meta"><Badge type={a.type} /></div><h1>{a.title}</h1><p className="source">{a.author ?? 'Equipo editorial'} · {formatDate(a.date)}</p>{a.aiAssisted && <p className="ai-label" role="note">{AI_LABEL}</p>}{a.body.map((p, i) => p.startsWith('## ') ? <h2 key={i}>{p.slice(3)}</h2> : <p key={i}>{p}</p>)}{a.sources?.length ? <><h2>Fuentes</h2><ul>{a.sources.filter((s) => s.url.startsWith('https://')).map((s) => <li key={s.url}><a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a>{s.date && ` (${formatDate(s.date)})`}</li>)}</ul></> : null}
     {a.type === 'opinion' && <p className="small muted">Las opiniones son responsabilidad de su autor.</p>}<p className="small muted">Contenido informativo; no constituye asesoría financiera.</p><NewsletterForm variant="compact" heading="h2" /></article>;
 }
 
