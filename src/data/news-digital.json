@@ -1,5 +1,123 @@
 [
   {
+    "id": "visa-direct-stablecoins-produccion",
+    "title": "Visa Direct pasa de piloto a producción comercial con prefinanciamiento en stablecoins",
+    "summary": "Visa anunció el 15 de octubre que las capacidades con stablecoins de Visa Direct dejan la fase piloto y entran en operación comercial. Inyo Global, procesador que atiende a remesadoras, fintechs y bancos, es el primer habilitador: sus clientes pueden prefinanciar pagos transfronterizos con USDC casi en tiempo real, en lugar de depender solo de las ventanas de fondeo tradicionales.",
+    "date": "2026-10-15",
+    "source": "Visa",
+    "url": "https://investor.visa.com/news/news-details/2026/Visa-Direct-Launches-Stablecoin-Powered-Money-Movement-as-Pilots-Move-to-Production/default.aspx",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos",
+      "Visa",
+      "USDC",
+      "banca"
+    ]
+  },
+  {
+    "id": "cross-river-ripple-rlusd-core-bancario",
+    "title": "Cross River Bank integra la stablecoin RLUSD de Ripple en su núcleo bancario",
+    "summary": "Cross River Bank, banco estadounidense miembro de la FDIC, anunció el 15 de octubre que integrará RLUSD, la stablecoin en dólares de Ripple, en su sistema central (Core Operating System) con soporte para el XRP Ledger. Las fintechs clientes podrán convertir entre dólares y RLUSD, liquidar pagos transfronterizos y de tesorería 24/7 y acceder a ACH, transferencias y pagos en tiempo real desde una sola API. El servicio está disponible por ahora solo en algunos estados.",
+    "date": "2026-10-15",
+    "source": "Business Wire (Cross River / Ripple)",
+    "url": "https://www.businesswire.com/news/home/20261015918706/en/Cross-River-Embeds-Ripple-USD-Stablecoin-on-the-XRP-Ledger-into-its-Core-Banking-Infrastructure-Expanding-Faster-Payment-Capabilities-for-Businesses",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "RLUSD",
+      "Ripple",
+      "pagos",
+      "banca"
+    ]
+  },
+  {
+    "id": "gennius-coinbase-dolar-digital-bancos-latam",
+    "title": "Gennius y Coinbase llevan servicios regulados de dólar digital a bancos de Latinoamérica",
+    "summary": "Gennius, plataforma de pagos y tokenización, y Coinbase lanzaron el 15 de octubre servicios de dólar digital para instituciones financieras latinoamericanas, empezando por un banco en Argentina. El eje es ONED USD, respaldado 1:1 por USDC en custodia de Coinbase y emitido sobre Base. Los clientes del banco pueden convertir depósitos y puntos de lealtad, pagar con una tarjeta Visa y mover fondos 24/7 dentro de la app de su propio banco; el plan prevé un despliegue regional.",
+    "date": "2026-10-15",
+    "source": "FF News",
+    "url": "https://ffnews.com/news/gennius-brings-stablecoin-and-digital-asset-services-to-banks-across-latin-ameri-8b80b63b",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Latinoamérica",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "Coinbase",
+      "depósitos tokenizados",
+      "Latinoamérica",
+      "banca"
+    ]
+  },
+  {
+    "id": "toss-gwangju-bank-pago-qr-stablecoin",
+    "title": "Toss y Gwangju Bank completan una prueba de pagos QR con stablecoins en comercios físicos",
+    "summary": "La fintech surcoreana Toss y Gwangju Bank informaron el 15 de octubre que completaron una prueba de concepto de pagos con stablecoins mediante código QR: el cliente inicia el pago en la app del banco y lo completa en la de Toss, con liquidación simultánea al comercio. La prueba se hizo en un entorno separado, con un comercio virtual y sin datos ni activos reales; ambas preparan una segunda fase con comercios reales.",
+    "date": "2026-10-15",
+    "source": "The Paypers",
+    "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/toss-gwangju-bank-complete-stablecoin-qr-payment-proof-of-concept",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos",
+      "Corea del Sur",
+      "banca"
+    ]
+  },
+  {
+    "id": "cleartoken-consensys-liquidacion-24-7",
+    "title": "ClearToken y Consensys se alían para que los bancos liquiden activos tokenizados 24/7",
+    "summary": "ClearToken, infraestructura de mercado británica, y Consensys anunciaron el 15 de octubre una alianza para que los bancos muevan activos tokenizados y efectivo en infraestructura que opere de forma continua. ClearToken, con aprobación Gate 2 en el sandbox de valores digitales del Banco de Inglaterra, busca liquidar entrega contra pago en cualquier momento contra dinero fiat, depósitos tokenizados o stablecoins, sujeto a autorización de compensación del Banco de Inglaterra.",
+    "date": "2026-10-15",
+    "source": "FinTech Global",
+    "url": "https://fintech.global/2026/10/15/cleartoken-and-consensys-team-up-on-24-7-settlement/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Reino Unido",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "liquidación",
+      "Banco de Inglaterra",
+      "banca"
+    ]
+  },
+  {
+    "id": "riksbank-corona-digital-preparacion-legal",
+    "title": "El Riksbank pide al Parlamento sueco preparar desde ya la base legal para una corona digital",
+    "summary": "El banco central de Suecia envió a la Comisión de Finanzas del Riksdag una carta en la que recomienda iniciar sin demora el trabajo legislativo para una posible corona digital (e-krona), citando el avance del euro digital y la expansión de stablecoins en otras monedas. El Riksbank aclara que no ha decidido emitirla y estima que su introducción tomaría al menos cinco años, sin contar los cambios legales.",
+    "date": "2026-10-15",
+    "source": "Cointelegraph",
+    "url": "https://ct.com/news/sweden-riksbank-digital-krona-cbdc-legislation",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Suecia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "Riksbank",
+      "corona digital",
+      "stablecoins",
+      "banca"
+    ]
+  },
+  {
     "id": "mastercard-bvnk-global-money-platform",
     "title": "Mastercard y BVNK lanzan Global Money Platform para unir fiat y stablecoins",
     "summary": "Mastercard y BVNK anunciaron el 15 de octubre la plataforma Global Money Platform, que integra cuentas multicurrency (fiat y stablecoins), conversión en tiempo real, tarjetas vinculadas a stablecoins y pagos locales a bancos vía Mastercard Move. Es la primera gran integración tras la adquisición de BVNK en agosto de 2026; Nuvei y Marqeta estarán entre los primeros en adoptarla. El sistema apunta a bancos, fintechs y empresas, con soporte futuro para depósitos tokenizados.",
@@ -36,6 +154,26 @@
       "VUSD",
       "banca",
       "tokenización"
+    ]
+  },
+  {
+    "id": "qivalis-licencia-dnb-stablecoin-euro",
+    "title": "Qivalis, respaldada por 37 bancos europeos, obtiene licencia de dinero electrónico para su stablecoin en euros",
+    "summary": "El banco central de los Países Bajos (DNB) autorizó el 14 de octubre a Qivalis, empresa de Ámsterdam respaldada por 37 bancos de 15 países, como entidad de dinero electrónico, lo que la habilita para emitir un token en euros bajo MiCA. El token aún no existe: Qivalis prevé emitirlo en los próximos meses, después de cumplir los requisitos pendientes y publicar su libro blanco.",
+    "date": "2026-10-14",
+    "source": "Crypto Watch Desk",
+    "url": "https://cryptowatchdesk.com/news/qivalis-dnb-e-money-licence-bank-backed-euro-stablecoin",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Unión Europea",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "MiCA",
+      "euro",
+      "Países Bajos",
+      "banca"
     ]
   },
   {
