@@ -1,9 +1,9 @@
 {
- "lastRun": "2026-10-15T13:13:50.214Z",
+ "lastRun": "2026-10-16T13:01:48.701Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-15T13:13:50.214Z",
+   "fetchedAt": "2026-10-16T13:01:48.701Z",
    "count": 12
   },
   "ecb": {
@@ -14,11 +14,70 @@
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-15T13:13:50.214Z",
+   "fetchedAt": "2026-10-16T13:01:48.701Z",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "fmi-bce-alza-tasas-europa-2026-10",
+   "title": "FMI: el BCE necesitaría al menos otra subida de 25 pb en 2026 para anclar la inflación",
+   "summary": "En su informe periódico sobre Europa, el FMI indicó que haría falta al menos un alza adicional de 25 puntos básicos en los tipos del BCE en 2026 para mantener contenida la inflación subyacente, tras las subidas de junio y septiembre. El organismo también advirtió que un apoyo fiscal mal calibrado ante precios de la energía podría dificultar la desinflación.",
+   "date": "2026-10-16",
+   "source": "Reuters (vía Euronext)",
+   "url": "https://live.euronext.com/en/financial-news/imf-expects-least-one-more-25-bps-ecb-rate-hike-2026",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FMI",
+    "ECB",
+    "tipos de interés",
+    "inflación"
+   ],
+   "manual": true
+  },
+  {
+   "id": "bis-hbmQtY29uc3VsdHMtZy1zaWI",
+   "title": "Comité de Basilea frena el «window dressing» en bancos G-SIB y consulta la metodología de evaluación",
+   "summary": "El Comité de Basilea publicó enmiendas finales para limitar el window dressing en el marco de bancos de importancia sistémica global (G-SIB): a partir de 2030 los indicadores se reportarán y divulgarán con promedios del año, no con valores de cierre. También sube el umbral de reporte a EUR 350 mil millones desde 2027 y abre consulta sobre el tratamiento de exposiciones transfronterizas en la Unión Bancaria Europea.",
+   "date": "2026-10-16",
+   "source": "Banco de Pagos Internacionales (BIS)",
+   "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "es",
+   "banks": [],
+   "tags": [
+    "BIS",
+    "Basilea",
+    "G-SIB",
+    "supervisión"
+   ]
+  },
+  {
+   "id": "unicredit-bce-commerzbank-2026-10",
+   "title": "El BCE autoriza a UniCredit a superar el 30 % y tomar el control de Commerzbank",
+   "summary": "UniCredit informó que el Banco Central Europeo le autorizó a cruzar el umbral del 30 % del capital de Commerzbank y a aumentar su participación sin límite superior. Tras completar los procesos regulatorios restantes hacia fin de año, espera cerca del 50 % de los derechos de voto y el control del banco alemán, la mayor operación bancaria transfronteriza en Europa desde la crisis financiera.",
+   "date": "2026-10-15",
+   "source": "UniCredit",
+   "url": "https://www.unicreditgroup.eu/en/press-media/press-releases-price-sensitive/2026/october/unicredit-receives-ecb-approval-to-acquire-control-of-commerzban.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB",
+    "UniCredit",
+    "Commerzbank",
+    "fusiones"
+   ],
+   "manual": true
+  },
   {
    "id": "fsb-ia-buenas-practicas-2026",
    "title": "El FSB publica 12 buenas prácticas para una adopción responsable de la IA en las instituciones financieras",
@@ -443,22 +502,6 @@
    "date": "2026-06-23",
    "source": "Banco de Pagos Internacionales (BIS)",
    "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "bis-d5LXJpc2stbWFuYWdlbWVudA",
-   "title": "Basel Committee publishes report on information and communication technology risk management",
-   "summary": "The Basel Committee has published a report describing a range of observed information and communication technology (ICT) risk management practices across jurisdictions to address non-malicious ICT incidents.",
-   "date": "2026-06-02",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management",
    "category": "internacional",
    "type": "noticia",
    "country": "Internacional",
