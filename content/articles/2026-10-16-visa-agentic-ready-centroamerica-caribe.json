@@ -1,0 +1,37 @@
+{
+  "id": "visa-agentic-ready-centroamerica-caribe-2026",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Visa Agentic Ready: cómo se preparan bancos y comercios de la región para que un agente de IA compre por usted",
+  "date": "2026-10-16",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Panamá Banking News – Visa prepara a bancos y comercios de Centroamérica y el Caribe para las compras con agentes de IA",
+      "url": "https://panamabankingnews.com/banca/visa-prepara-a-bancos-y-comercios-de-centroamerica-y-el-caribe-para-las-compras-con-agentes-de-ia/",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Financial Stability Board – FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+      "url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "MarketScreener / Reuters – El supervisor financiero internacional pide un mayor control humano de la inteligencia artificial agéntica",
+      "url": "https://es.marketscreener.com/noticias/el-supervisor-financiero-internacional-pide-un-mayor-control-humano-de-la-inteligencia-artificial-ag-ce785dd3d98cf020",
+      "date": "2026-10-15"
+    }
+  ],
+  "body": [
+    "Visa está desplegando en Centroamérica y el Caribe su programa Visa Agentic Ready para que bancos, fintechs y comercios puedan procesar compras iniciadas por agentes de inteligencia artificial. Explicamos qué cambia, qué condiciones de seguridad pide la red de pagos y qué debe mirar el cliente.",
+    "La noticia. El 13 de octubre, Panamá Banking News publicó una entrevista con Pablo Aduriz, director de Producto e Innovación de Visa América Central y el Caribe. Aduriz afirmó que el comercio agéntico «no es algo futuro» y que Visa ya está desplegando el programa en la región. La iniciativa busca preparar a emisores, adquirentes, fintechs y comercios para transacciones que un agente de IA ejecuta en nombre del consumidor.",
+    "Dos fases, no una sola moda. Según el ejecutivo, el comportamiento del consumidor ya cambió: las personas usan herramientas de IA para descubrir, comparar y seleccionar productos. Esa primera fase, dijo, ya es masiva y cotidiana. La segunda —la compra delegada, en la que el agente ejecuta directamente el pago— todavía es incipiente. Visa trabaja con instituciones financieras y comercios para que la infraestructura esté lista cuando ese uso se masifique.",
+    "Qué implica para bancos y comercios. Aduriz explicó que los comercios tendrán que interactuar con un agente que «está entrando a hacer una compra», con otro tipo de perfil y de decisiones, y no solo aparecer en resultados de búsqueda. Los bancos, a los que Visa provee la credencial de pago, deberán estar listos para que sea un agente quien compre en nombre del titular. Visa ya trabaja con emisores en la región para probar capacidades y, en paralelo, amplía el trabajo con adquirentes, proveedores de servicios de pago, fintechs y comercios del lado de la aceptación.",
+    "Consentimiento, control y supervisión. El reto central, según Visa, es la seguridad: cómo asegurar que el agente tiene el consentimiento de la persona, controles preestablecidos (montos, formas y reglas) y supervisión. Aduriz indicó que, cuando la transacción se ejecuta dentro de esos permisos, puede gestionarse bajo el marco de reglas y protecciones aplicables de Visa, y que el tratamiento de una disputa dependerá del flujo, la autenticación y los participantes. Visa también anunció una colaboración estratégica con OpenAI para ayudar a habilitar pagos iniciados por agentes con controles, tokenización y capacidades de seguridad.",
+    "Stablecoins en el mismo mapa. En la misma entrevista, Aduriz señaló que Visa ya soporta más de 160 programas de tarjetas vinculadas a stablecoins a nivel global y que el volumen de pagos de esos programas creció casi 200 % interanual. Citó casos de uso como remesas, pagos transfronterizos y pagos entre empresas, y explicó que las tarjetas vinculadas permiten compras diarias desde una billetera en stablecoins sin conversión manual en cada compra. Añadió que hay actores en Centroamérica y el Caribe que operan con tarjetas vinculadas y con liquidación en stablecoins. Sobre los tiempos de liquidación, fue cauteloso: se espera una reducción respecto a rieles tradicionales, pero depende de programas, actores y regulación de cada país.",
+    "El marco que piden los supervisores globales. Dos días después, el 15 de octubre, el Consejo de Estabilidad Financiera (FSB) publicó su informe final de 12 prácticas sólidas para la adopción responsable de IA en instituciones financieras. El FSB pide gobernanza a nivel de toda la organización, evaluación de riesgos a lo largo del ciclo de vida de la IA y, de forma explícita, supervisión humana adecuada. Según el resumen de Reuters recogido por MarketScreener, el organismo reforzó las recomendaciones sobre IA agéntica: en casos de mayor riesgo, una supervisión humana más intensiva es crítica; las entidades deben fijar umbrales claros basados en riesgo para decidir cuándo un agente debe pedir aprobación humana; y deben asumir que los agentes «no razonan como los humanos» y pueden interpretar objetivos de formas imprevistas.",
+    "Qué mirar si usted es cliente. Todavía no es el momento de «dejar que un bot pague todo». Si su banco o una app ofrece asistentes que sugieren o ejecutan pagos, revise: (1) si usted define límites de monto, comercios o categorías; (2) si cada operación sensible pide confirmación; (3) si puede apagar o pausar el asistente; (4) qué canal oficial usar si algo sale mal. Ningún banco serio pide PIN, claves ni códigos OTP por WhatsApp, correo o llamada no solicitada.",
+    "Hecho y pendiente. Lo confirmado: Visa despliega preparación regional para comercio agéntico con énfasis en consentimiento y controles, y el FSB fija prácticas de supervisión humana. Lo pendiente: cuándo la compra plenamente delegada será cotidiana en Panamá y cómo cada emisor local traducirá esos controles en la app del cliente. Este artículo es informativo y no constituye asesoría financiera ni de seguridad."
+  ]
+}

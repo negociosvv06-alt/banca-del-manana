@@ -1,0 +1,50 @@
+{
+  "id": "opinion-fsb-supervision-humana-ia-agentica",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: si un agente de IA mueve dinero, un humano tiene que poder decir «no»",
+  "date": "2026-10-16",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Financial Stability Board – FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)",
+      "url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "MarketScreener / Reuters – El supervisor financiero internacional pide un mayor control humano de la inteligencia artificial agéntica",
+      "url": "https://es.marketscreener.com/noticias/el-supervisor-financiero-internacional-pide-un-mayor-control-humano-de-la-inteligencia-artificial-ag-ce785dd3d98cf020",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Panamá Banking News – Visa prepara a bancos y comercios de Centroamérica y el Caribe para las compras con agentes de IA",
+      "url": "https://panamabankingnews.com/banca/visa-prepara-a-bancos-y-comercios-de-centroamerica-y-el-caribe-para-las-compras-con-agentes-de-ia/",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP establece nuevas reglas (Acuerdos 8-2026 y 9-2026)",
+      "url": "https://www.superbancos.gob.pa/node/1805",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "El 15 de octubre, el Consejo de Estabilidad Financiera (FSB) publicó su guía definitiva de prácticas sólidas para que bancos y otras entidades adopten inteligencia artificial con responsabilidad. El mensaje que más me interesa no es técnico: si un sistema puede actuar casi solo, alguien tiene que poder detenerlo.",
+    "## Lo que dijo el FSB",
+    "El informe final identifica 12 prácticas, agrupadas en gobernanza de toda la organización y gestión de riesgos a lo largo del ciclo de vida de la IA. El FSB anima de forma explícita a que la junta directiva y la alta gerencia usen esas prácticas al diseñar o revisar sus marcos de gobernanza, riesgo y control. Incluye evaluación de materialidad, gobernanza de datos, explicabilidad, evaluación de desempeño, ciberriesgos ligados a la IA y dependencia de terceros.",
+    "Sobre la IA agéntica —sistemas capaces de planificar y ejecutar tareas con poca intervención humana—, Reuters resume un endurecimiento respecto al borrador de junio: en usos de mayor riesgo, una supervisión humana más intensiva será crítica; las entidades deben fijar umbrales claros basados en riesgo para decidir cuándo el agente pide aprobación humana; y el FSB eliminó la idea de tratar a la IA como «empleados sintéticos». En su lugar, pide asumir que los agentes no razonan como las personas y pueden interpretar objetivos de formas imprevistas.",
+    "## Por qué me parece el punto correcto",
+    "He visto demasiadas veces, en canales de servicio, lo que pasa cuando un proceso automatizado avanza sin un freno humano claro: el cliente recibe un mensaje confuso, una operación que no entendió o un «el sistema lo hizo» que no resuelve el problema. La velocidad sin mandato claro no es eficiencia; es traslado del riesgo al usuario.",
+    "Por eso celebro que el estándar internacional deje de romanticizar al agente y lo trate como lo que es: una herramienta poderosa que puede equivocarse de manera distinta a como se equivoca una persona. Pedir autorización humana en detonantes de riesgo no es frenar la innovación: es poner el volante donde debe estar.",
+    "## La región ya habla de compras delegadas",
+    "Dos días antes, Visa explicó en entrevista con Panamá Banking News que despliega en Centroamérica y el Caribe su programa Agentic Ready. El propio lenguaje de la red de pagos insiste en tres condiciones: consentimiento, controles preestablecidos y supervisión. Esa coincidencia no es casual. Quienes mueven dinero a escala saben que sin límites el comercio agéntico no escala con confianza.",
+    "## Qué debería verse en la práctica bancaria",
+    "Traduzco el estándar a preguntas concretas. ¿Existe un inventario de agentes y modelos, incluidos los de proveedores? ¿Hay montos, comercios o acciones que el agente no puede ejecutar sin una persona? ¿Queda registro auditable de qué decidió y por qué? ¿Se ha probado el procedimiento para apagarlo? ¿El cliente entiende, en lenguaje claro, qué está delegando?",
+    "En Panamá, el Acuerdo 8-2026 de la SBP —que exige validar al beneficiario antes de una transferencia nacional— apunta en una lógica parecida aunque el tema sea otro: mostrar información clave antes de autorizar y advertir inconsistencias. La lección compartida es simple: la claridad previa reduce el daño posterior.",
+    "## Lo que le toca al cliente",
+    "No hay que esperar a que todo esté perfecto para actuar. Si una app ofrece un asistente que sugiere o ejecuta pagos, revise límites, confirmaciones y cómo desactivarlo. Mantenga notificaciones activas. Y recuerde la regla de oro: ningún banco serio pide PIN, claves ni códigos por WhatsApp, correo o llamada no solicitada.",
+    "## Mi llamado",
+    "La IA puede mejorar servicio, detección de fraude y eficiencia. Pero el día en que un agente mueva dinero en nombre de un cliente, la pregunta correcta no será solo «¿qué tan rápido lo hizo?», sino «¿quién podía decir que no, y quedó constancia?». Ese es el listón que el FSB acaba de dejar por escrito. Ojalá juntas directivas y equipos de producto lo lean antes de encender el piloto automático.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

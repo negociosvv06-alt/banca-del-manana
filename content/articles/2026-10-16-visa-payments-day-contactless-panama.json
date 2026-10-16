@@ -1,0 +1,41 @@
+{
+  "id": "visa-payments-day-contactless-panama-ia-riesgo-2026",
+  "section": "pagos",
+  "type": "noticia",
+  "title": "El 93 % de las compras presenciales con Visa en Panamá ya son sin contacto: qué sigue en seguridad y pagos",
+  "date": "2026-10-16",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "El Espectador de Panamá – Visa Payments Day 2026 pone el foco en IA, innovación y seguridad",
+      "url": "https://elespectadordepanama.com/2026/10/07/visa-payments-day-2026-pone-el-foco-en-ia-innovacion-y-seguridad/",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "La Voz Noticias – Visa: 93% de las transacciones presenciales en Panamá ya se realizan sin contacto",
+      "url": "https://lavoznoticias.com/blog/2026/10/12/visa-panama-93-pagos-sin-contacto-inteligencia-artificial/",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP establece nuevas reglas para fortalecer la seguridad y transparencia de las operaciones bancarias (Acuerdos 8-2026 y 9-2026)",
+      "url": "https://www.superbancos.gob.pa/node/1805",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "La Prensa – Bancos deberán alertar sobre posibles errores en transferencias electrónicas",
+      "url": "https://www.prensa.com/economia/bancos-deberan-alertar-sobre-posibles-errores-en-transferencias-electronicas/",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "A junio de 2026, el 93 % de las transacciones presenciales con credenciales Visa en Panamá ya eran sin contacto. En el Visa Payments Day, la industria puso el foco en inteligencia artificial y gestión de riesgo. Te contamos qué significa para quien paga con tarjeta, celular o billetera.",
+    "El dato. Según cifras de Visa presentadas en el Visa Payments Day Panamá 2026 y reportadas por El Espectador de Panamá (7 de octubre) y La Voz Noticias (12 de octubre), el 93 % de las transacciones presenciales realizadas con credenciales Visa en el país eran contactless a junio de 2026. Esa cifra ubica a Panamá como el tercer mercado de América Latina con mayor adopción de pagos sin contacto.",
+    "El encuentro. El evento reunió a 125 representantes de bancos emisores, adquirentes, fintechs y comercios. Liz Marie Pareja, gerente general de Visa para Panamá, Nicaragua y Belice, dijo que el país ha avanzado en la adopción de pagos digitales y que la próxima etapa requiere innovar sobre una base sólida de confianza y seguridad. Subrayó que Visa ve la inteligencia artificial y la gestión de riesgo como capacidades cada vez más conectadas para acompañar nuevas formas de pagar y mover dinero.",
+    "De la tarjeta al ecosistema completo. Visa indicó que está ampliando su visión de riesgo más allá de las transacciones con tarjeta hacia una protección más integral: pagos cuenta a cuenta (A2A), pagos en tiempo real, apertura y verificación de cuentas (onboarding), prevención del fraude y ciberseguridad. Según lo reportado, capacidades como Featurespace ya aplican IA adaptativa para detectar anomalías en distintos flujos financieros, y Visa busca fortalecer esa estrategia una vez complete la adquisición de BioCatch, especializada en análisis de comportamiento para prevenir fraudes antes del momento del pago.",
+    "Por qué importa el «sin contacto». Pagar acercando la tarjeta o el celular reduce fricción en el comercio y acelera la fila, pero no elimina la necesidad de controles. El contacto físico ya no es el único punto de decisión: también importan los límites diarios, las notificaciones de movimientos, el bloqueo remoto de la tarjeta y la costumbre de no compartir el código de verificación ni el PIN. Un pago rápido es útil; un pago que nadie revisa es un riesgo.",
+    "El otro riel: transferencias y validación del beneficiario. Mientras el contactless avanza en el punto de venta, la Superintendencia de Bancos de Panamá (SBP) refuerza controles en las transferencias electrónicas. El 8 de octubre, la SBP informó la aprobación de los Acuerdos 8-2026 y 9-2026. El Acuerdo 8-2026, del 22 de septiembre, exige que los bancos permitan validar, de forma gratuita e inmediata antes de autorizar una transferencia nacional, si la cuenta de destino está habilitada y si el nombre del beneficiario coincide con el titular o el alias registrado. Si no coincide, el banco debe advertir. Según La Prensa, los bancos tienen nueve meses desde la promulgación para adecuarse.",
+    "Qué puede hacer usted hoy. Active o revise las notificaciones de compras y transferencias en la app oficial de su banco. Defina límites diarios que se ajusten a su uso real. Prefiera comercios conocidos y revise el monto en la pantalla del datáfono antes de acercar la tarjeta. Para transferencias, confirme el nombre que aparece en pantalla; si no lo reconoce, cancele y verifique por otro canal. Desconfíe de mensajes urgentes que pidan «actualizar datos» con un enlace: ningún banco serio solicita PIN, claves u OTP por WhatsApp, SMS o correo no solicitado.",
+    "La lectura. El 93 % de contactless muestra que el hábito de pago digital ya está instalado en Panamá. El siguiente reto, según el propio mensaje de la industria en el Payments Day, no es solo pagar más rápido, sino mover dinero —tarjeta, cuenta a cuenta o en tiempo real— con controles que acompañen esa velocidad. La regulación local sobre verificación de beneficiario apunta en la misma dirección: más claridad antes de pulsar «enviar»."
+  ]
+}
