@@ -9,7 +9,6 @@ Esta guía explica, sin necesidad de saber programar, cómo funciona el portal, 
 | Qué | Enlace |
 |---|---|
 | Sitio principal (Cloudflare) | https://banca-del-manana-web.negociosvv06.workers.dev/ |
-| Copia en GitHub Pages | https://negociosvv06-alt.github.io/banca-del-manana/ |
 | Repositorio (código y contenido) | https://github.com/negociosvv06-alt/banca-del-manana |
 | Historial de automatizaciones (GitHub Actions) | https://github.com/negociosvv06-alt/banca-del-manana/actions |
 | Panel de Cloudflare (cuenta negociosvv06@gmail.com) | https://dash.cloudflare.com/ → Workers & Pages → **banca-del-manana-web** |
@@ -107,7 +106,7 @@ npm run build:cloudflare && npm run preview   # vista de producción en http://l
 ## 7. Cómo se publica
 - Cada vez que se guarda un cambio en la rama `main` (desde GitHub, el celular, el asistente o la rutina diaria):
   1. **Cloudflare Workers Builds** compila (`npm run build:cloudflare`) y publica (`npx wrangler deploy`) el sitio principal.
-  2. **GitHub Actions** compila y publica la copia de GitHub Pages, y ejecuta la verificación (CI).
+  2. **GitHub Actions** ejecuta la verificación (CI); ya no publica ninguna copia.
 - Cada compilación descarga de nuevo las noticias de Fed, BCE y BIS. Si una fuente falla, se mantienen las anteriores marcadas como desactualizadas.
 - Si la compilación falla (por ejemplo, un JSON mal escrito), **no se publica nada** y sigue en línea la versión anterior.
 
@@ -120,8 +119,6 @@ Las tareas programadas de GitHub usan hora UTC; abajo está convertida a hora de
 | Publicar el sitio principal | Cloudflare Workers Builds | En cada cambio guardado en `main` |
 | Artículo diario "Banca e IA" (crear, revisar tipos, pruebas, compilar y subir) | Rutina del asistente | Todos los días a las **6:17 a. m.** (al subirlo dispara todas las publicaciones de esta tabla) |
 | CI: revisión de tipos, pruebas, compilación y auditoría de seguridad (`ci.yml`) | GitHub Actions | En cada cambio subido y en cada pull request |
-| Publicar la copia en GitHub Pages (`deploy.yml`) | GitHub Actions | En cada cambio en `main` + cada 6 horas: **1:15 a. m., 7:15 a. m., 1:15 p. m. y 7:15 p. m.** (cron `15 */6 * * *` UTC) + manual |
-| Despliegue alternativo a Cloudflare Pages (`cloudflare.yml`) | GitHub Actions | En cada cambio en `main` + **1:45 a. m., 7:45 a. m., 1:45 p. m. y 7:45 p. m.** (cron `45 */6 * * *` UTC) + manual. **Hoy se omite** porque no existen los secretos `CLOUDFLARE_API_TOKEN`/`CLOUDFLARE_ACCOUNT_ID`. Es redundante con Workers Builds y se puede eliminar. |
 | Noticias internacionales (RSS de Fed, BCE y BIS) | Dentro de cada compilación | En cada publicación: la de Cloudflare (cada cambio, al menos una vez al día con el artículo de las 6:17 a. m.) y la de GitHub Pages (además cada 6 horas) |
 | Tipos de cambio del conversor de divisas | Navegador del visitante, API Frankfurter (referencia del BCE) | En vivo cada vez que alguien abre el conversor; el BCE publica una vez por día hábil |
 | Sitemap, robots.txt y validación de contenido | Dentro de cada compilación | En cada publicación |
@@ -137,5 +134,4 @@ Nota: el sitio principal de Cloudflare **no** tiene recompilación cada 6 horas;
 - Activar Cloudflare Web Analytics y luego conectar el bloque "Más leídas" con datos reales.
 - Revisión legal local de Privacidad, Términos y Aviso financiero.
 - Versión en inglés (fase 2) y, si se quiere, dominio propio (tiene costo anual).
-- Eliminar `cloudflare.yml` si no se va a usar Cloudflare Pages.
 - Los títulos internacionales se muestran en inglés (idioma original).

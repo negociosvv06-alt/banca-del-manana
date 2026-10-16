@@ -2,15 +2,16 @@ import { useEffect, type ReactNode } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { CATEGORY_LABEL, TYPE_LABEL, formatDate, type NewsItem, type ContentType } from '../lib/content';
 
-export const SITE = { name: 'Banca del Mañana', url: (import.meta.env.VITE_SITE_URL as string | undefined) ?? 'https://negociosvv06-alt.github.io/banca-del-manana' };
+export const SITE = { name: 'Banca del Mañana', url: (import.meta.env.VITE_SITE_URL as string | undefined) ?? 'https://bancadelmanana.com' };
 
 export function useSeo(title: string, description: string) {
   useEffect(() => {
     document.title = title ? `${title} | ${SITE.name}` : `${SITE.name} – Banca, finanzas e innovación en Panamá`;
     const set = (sel: string, attr: string, val: string) => { const el = document.querySelector(sel); if (el) el.setAttribute(attr, val); };
-    set('meta[name="description"]', 'content', description);
+    const desc = description.length > 155 ? description.slice(0, 154).replace(/\s+\S*$/, '').replace(/[\s,;:.]+$/, '') + '…' : description;
+    set('meta[name="description"]', 'content', desc);
     set('meta[property="og:title"]', 'content', document.title);
-    set('meta[property="og:description"]', 'content', description);
+    set('meta[property="og:description"]', 'content', desc);
     set('link[rel="canonical"]', 'href', new URL(SITE.url).origin + window.location.pathname);
   }, [title, description]);
 }

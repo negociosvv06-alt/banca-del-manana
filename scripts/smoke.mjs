@@ -1,18 +1,43 @@
-// Prueba de humo sobre la vista de producción (npm run preview). Uso: node scripts/smoke.mjs [baseUrl]
+// Prueba de humo. Uso: node scripts/smoke.mjs [baseUrl]
+//  - Sin Worker (npm run preview, http://localhost:4173): rutas inexistentes responden 200 con la pantalla 404 del SPA.
+//  - Con Worker (wrangler dev / producción): WORKER=1 node scripts/smoke.mjs http://localhost:8787
+//    además exige 404 reales, redirecciones 301 y metadatos propios por ruta (título, descripción, canonical, JSON-LD).
 import { chromium } from 'playwright-core';
+import { readFileSync, existsSync } from 'node:fs';
+const WORKER = !!process.env.WORKER;
 const BASE = process.argv[2] || 'http://localhost:4173';
 const exe = process.env.CHROME_PATH || '/usr/bin/google-chrome';
-const routes = ['/', '/banca-panama', '/banca-panama?cat=pagos', '/internacional', '/activos-digitales', '/activos-digitales/blockchain-cadena-de-bloques', '/activos-digitales/p2p-peer-to-peer', '/bancos', '/inversiones', '/calculadoras', '/calculadoras/prestamo', '/calculadoras/divisas', '/medios-de-pago', '/fintech', '/educacion', '/finanzas-avanzadas', '/opinion', '/glosario', '/acerca', '/metodologia', '/contacto', '/privacidad', '/terminos', '/aviso-legal', '/fuentes', '/buscar?q=yappy', '/articulo/fondo-emergencia', '/no-existe'];
+const BAD = ['/no-existe', '/articulo/no-existe', '/activos-digitales/no-existe', '/calculadoras/no-existe'];
+const routes = ['/', '/banca-panama', '/banca-panama?cat=pagos', '/internacional', '/activos-digitales', '/activos-digitales/blockchain-cadena-de-bloques', '/activos-digitales/p2p-peer-to-peer', '/bancos', '/inversiones', '/calculadoras', '/calculadoras/prestamo', '/calculadoras/divisas', '/medios-de-pago', '/fintech', '/educacion', '/finanzas-avanzadas', '/opinion', '/glosario', '/acerca', '/metodologia', '/contacto', '/privacidad', '/terminos', '/aviso-legal', '/fuentes', '/buscar?q=yappy', '/articulo/fondo-emergencia', ...BAD];
+// Todas las rutas válidas del build (dist/routes.json) deben abrir (200) y mostrar un h1.
+if (existsSync('dist/routes.json')) for (const r of JSON.parse(readFileSync('dist/routes.json', 'utf8'))) if (!routes.includes(r)) routes.push(r);
+let fail = 0;
+if (WORKER) {
+  const get = (p, o) => fetch(BASE + p, { redirect: 'manual', ...o });
+  const titles = new Set(), descs = new Set();
+  for (const r of JSON.parse(readFileSync('dist/routes.json', 'utf8'))) {
+    const res = await get(r); const html = await res.text();
+    const t = html.match(/<title>([^<]*)<\/title>/)?.[1], d = html.match(/name="description" content="([^"]*)"/)?.[1], c = html.match(/rel="canonical" href="([^"]*)"/)?.[1];
+    const okMeta = res.status === 200 && t && d && d.length <= 155 + 20 && c === 'https://bancadelmanana.com' + (r === '/' ? '/' : r) && !titles.has(t) && !descs.has(d);
+    titles.add(t); descs.add(d);
+    if (!okMeta) { fail++; console.log(`✗ meta ${r} [${res.status}] t=${t} c=${c}`); }
+    if (r.startsWith('/articulo/') && !/"@type":"(News|OpinionNews)Article"/.test(html)) { fail++; console.log('✗ sin JSON-LD de artículo ' + r); }
+  }
+  console.log(`✓ metadatos propios y canonical en ${titles.size} rutas`);
+  for (const b of BAD) { const res = await get(b); if (res.status !== 404) { fail++; console.log(`✗ ${b} debería ser 404, fue ${res.status}`); } }
+  for (const [a, b] of [['/bancos', '/calculadoras'], ['/bancos/x', '/calculadoras'], ['/glosario/', '/glosario']]) { const res = await get(a); if (res.status !== 301 || !res.headers.get('location')?.endsWith(b)) { fail++; console.log(`✗ ${a} → ${res.status} ${res.headers.get('location')}`); } }
+  console.log('✓ 404 reales y redirecciones 301 comprobadas');
+}
 const browser = await chromium.launch({ executablePath: exe, args: ['--no-sandbox'] });
 const page = await browser.newPage();
 const errors = [];
-page.on('console', (m) => m.type() === 'error' && errors.push(`${page.url()}: ${m.text()}`));
+page.on('console', (m) => m.type() === 'error' && !(WORKER && /status of 404/.test(m.text()) && /no-existe/.test(page.url())) && errors.push(`${page.url()}: ${m.text()}`));
 page.on('pageerror', (e) => errors.push(`${page.url()}: ${e.message}`));
-let fail = 0;
 for (const r of routes) {
   const res = await page.goto(BASE + r, { waitUntil: 'networkidle' });
   const h1 = await page.locator('h1').first().textContent().catch(() => '');
-  const ok = res.status() === 200 && h1;
+  const bad = BAD.includes(r) || r === '/no-existe';
+  const ok = res.status() === (bad && WORKER ? 404 : 200) && h1;
   if (!ok) fail++;
   console.log(`${ok ? '✓' : '✗'} ${r} [${res.status()}] ${h1?.trim().slice(0, 60)}`);
 }
