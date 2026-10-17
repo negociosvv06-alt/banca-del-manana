@@ -1,0 +1,50 @@
+{
+  "id": "visa-mastercard-stablecoins-pagos-internacionales-2026-10",
+  "section": "pagos",
+  "type": "noticia",
+  "title": "Visa y Mastercard llevan las stablecoins a los pagos internacionales: qué cambia y qué no para empresas y usuarios en Panamá",
+  "date": "2026-10-17",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Mastercard – Mastercard and BVNK launch Global Money Platform to power a multi-money world",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/october/mastercard-and-bvnk-launch-global-money-platform-to-power-a-mult.html",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Visa – Visa Direct Launches Stablecoin-Powered Money Movement as Pilots Move to Production",
+      "url": "https://investor.visa.com/news/news-details/2026/Visa-Direct-Launches-Stablecoin-Powered-Money-Movement-as-Pilots-Move-to-Production/default.aspx",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Negocios.com – Mastercard lanza una plataforma para pagar con criptomonedas en 200 países",
+      "url": "https://www.negocios.com/articulo/empresas/mastercard-sacude-banca-lanza-plataforma-pagar-criptomonedas-200-paises/20261015144804495853.html",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Aviso al público (SBP-2026-03212)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/comunicados/2026/aviso7-2026.pdf",
+      "date": "2026-04-27"
+    }
+  ],
+  "body": [
+    "El 15 de octubre, las dos redes de tarjetas más grandes del mundo anunciaron, el mismo día, pasos concretos para usar stablecoins en el movimiento de dinero entre países. Mastercard lanzó su Global Money Platform junto con BVNK, empresa que adquirió en agosto de 2026, y Visa informó que sus capacidades con stablecoins en Visa Direct pasan de la etapa piloto a la operación comercial. Para un país dolarizado y con fuerte actividad internacional como Panamá, vale la pena entender qué significa y, sobre todo, qué no significa todavía.",
+    "## Primero, ¿qué es una stablecoin?",
+    "Una stablecoin es un activo digital diseñado para mantener un valor relativamente estable frente a una moneda tradicional, normalmente el dólar. Se transfiere por redes blockchain, lo que permite mover saldos a cualquier hora, incluidos fines de semana. Pero su estabilidad depende de las reservas que la respaldan, de quién la emite y de cómo está estructurado el producto. No es lo mismo que un depósito en un banco regulado.",
+    "## Lo que anunció Mastercard",
+    "Según el comunicado oficial, la Global Money Platform reúne, mediante una sola interfaz de programación (API), la red de pagos de Mastercard y la infraestructura de stablecoins de BVNK. Bancos, fintech y empresas podrán integrar en sus propios productos y con su propia marca cuentas multimoneda donde convivan monedas tradicionales y stablecoins, conversión en tiempo real, tarjetas vinculadas a stablecoins y pagos a cuentas bancarias locales a través de Mastercard Move.",
+    "Mastercard indica que Mastercard Move permitirá usar saldos en stablecoins para pagar directamente en la moneda local del destinatario, con una cobertura que espera ampliar a más de 40 monedas en más de 200 países y territorios en 2027. La emisión de tarjetas estará disponible en más de 130 países. Entre los primeros en integrar la plataforma figuran Nuvei y Marqeta. La compañía también menciona soporte futuro para comercio con agentes de IA y para depósitos tokenizados. De acuerdo con Negocios.com, la adquisición de BVNK se valoró en hasta 1,800 millones de dólares.",
+    "El ejemplo que usa Mastercard es ilustrativo: una empresa manufacturera que cobra en varias monedas y paga a proveedores en el exterior hoy maneja cuentas, proveedores y saldos prefondeados por separado, lo que inmoviliza capital de trabajo. La propuesta es concentrar liquidez, conversión, cobros y pagos en un solo lugar.",
+    "## Lo que anunció Visa",
+    "Visa explicó que, tras los pilotos de 2025, la función de prefondeo con stablecoins de Visa Direct entra en producción. El primer habilitador es Inyo Global, proveedor de infraestructura para remesadoras, fintech, bancos y empresas de pagos, que permitirá a sus clientes elegibles prefondear pagos transfronterizos con USDC casi en tiempo real, en lugar de depender solo de las ventanas de fondeo tradicionales. Según Visa, la plataforma de Inyo permite enviar pagos nacionales e internacionales a más de 180 países. La disponibilidad varía según elegibilidad y geografía.",
+    "## Qué cambia para Panamá",
+    "En el corto plazo, el cambio es principalmente «detrás del mostrador». Ambos anuncios están dirigidos a empresas, procesadores, remesadoras y entidades financieras, no a que el usuario común pague con criptomonedas en el supermercado. Si la tecnología cumple lo prometido, los beneficios podrían llegar indirectamente: liquidaciones más rápidas, menos capital inmovilizado y operación en fines de semana para empresas que pagan o cobran en el exterior, como importadores, exportadores de servicios o plataformas de remesas.",
+    "Para quienes usan dólares a diario, como en Panamá, una stablecoin atada al dólar no resuelve un problema de tipo de cambio en el uso local. Su posible utilidad está en la velocidad y el horario de las transferencias entre países y entre plataformas.",
+    "## Lo que no cambia: las precauciones",
+    "Que dos grandes redes adopten la tecnología no convierte en seguro cualquier producto que use la palabra «stablecoin». Antes de usar una plataforma, verifique quién la ofrece y si cuenta con autorización o licencia de la autoridad competente para esa actividad, como recomienda la Superintendencia de Bancos de Panamá en sus avisos al público. Pregunte qué pasa con su dinero si la empresa cierra, qué respaldo tiene el saldo, cuánto cuesta convertirlo a dólares en su cuenta bancaria y en qué plazo.",
+    "Desconfíe de ofertas que prometan rendimientos «garantizados» por mantener stablecoins o que le pidan enviar fondos a billeteras desconocidas. Ningún banco ni red de pagos legítima le pedirá por WhatsApp, SMS o llamada su PIN, contraseñas o códigos de un solo uso.",
+    "## En resumen",
+    "Visa y Mastercard están conectando la infraestructura de pagos tradicional con las stablecoins para mover dinero más rápido y a cualquier hora. Es una señal de hacia dónde va el negocio de los pagos internacionales. Para el usuario panameño, la recomendación es seguir de cerca la novedad, aprovecharla solo a través de entidades autorizadas y no confundir una tecnología de pagos con una inversión. Este artículo es informativo y no constituye una recomendación de inversión."
+  ]
+}

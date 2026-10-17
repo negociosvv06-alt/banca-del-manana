@@ -1,0 +1,52 @@
+{
+  "id": "opinion-multa-bank-of-america-cumplimiento-no-se-terceriza",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: la multa récord a Bank of America recuerda que el cumplimiento no se puede tercerizar",
+  "date": "2026-10-17",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "U.S. Department of the Treasury – U.S. Treasury Announces Record Enforcement Actions Against Bank of America",
+      "url": "https://home.treasury.gov/news/press-releases/sb0657/",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "OCC – OCC Imposes $750 Million Assessment Against Bank of America for Deficient BSA/AML Compliance",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-89.html",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Panamá Banking News – EE.UU. multa a Bank of America con más de US$1,210 millones por fallas antilavado y violaciones a sanciones de la OFAC",
+      "url": "https://panamabankingnews.com/banca/ee-uu-multa-a-bank-of-america-con-mas-de-us1210-millones-por-fallas-antilavado-y-violaciones-a-sanciones-de-la-ofac/",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP reúne a autoridades supervisoras en el 2.º Colegio de Supervisores del Grupo Financiero GNB",
+      "url": "https://www.superbancos.gob.pa/node/1807",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Misión del FMI culmina reuniones con la SBP",
+      "url": "https://www.superbancos.gob.pa/node/1812",
+      "date": "2026-10-14"
+    }
+  ],
+  "body": [
+    "El 13 de octubre, el Departamento del Tesoro de Estados Unidos anunció sanciones por más de US$1,210 millones contra Bank of America, el segundo banco más grande de ese país, por fallas en prevención de lavado de dinero y violaciones a programas de sanciones. Más allá del monto, lo que me parece más valioso para cualquier banquero, también en Panamá, es el diagnóstico: según el Tesoro, el banco terminó tercerizando en la práctica una parte sustancial de su obligación de detectar y reportar actividad sospechosa.",
+    "## Lo que dicen los reguladores",
+    "La Red de Control de Delitos Financieros (FinCEN) impuso una multa de US$1,200 millones, que acredita la sanción civil de US$750 millones aplicada por la Oficina del Contralor de la Moneda (OCC), la mayor en la historia de esa agencia. A eso se suma un acuerdo de US$11.6 millones con la Oficina de Control de Activos Extranjeros (OFAC) por 475 presuntas violaciones a programas de sanciones.",
+    "El relato oficial es incómodo. El Tesoro afirma que el banco priorizó sus ingresos y minimizó el impacto en sus recursos de cumplimiento; que dependió de consultas de las autoridades y de solicitudes de otras instituciones en lugar de sus propios controles automatizados; y que dejó acumular alertas sin investigar durante largos periodos. Resultado: más de US$5,000 millones en transacciones sospechosas no reportadas a tiempo. La OCC añade que el oficial de cumplimiento y su equipo carecían de las habilidades necesarias, que el personal clave no recibió capacitación adecuada y que, más de un año después de una orden de cese y desistimiento de diciembre de 2024, el banco aún no escalaba actividades potencialmente sospechosas a sus investigadores.",
+    "## Por qué me importa",
+    "Primero, porque el problema no fue la falta de tecnología, sino de prioridad. Un banco con recursos casi ilimitados tuvo un sistema de monitoreo que, según la OCC, dejó sin vigilar adecuadamente billones de dólares en transacciones. Cuando el cumplimiento se ve como un costo que hay que minimizar, la cuenta llega igual, solo que más tarde y más cara.",
+    "Segundo, porque el Tesoro dejó una frase que debería estar en la pared de toda área de riesgo: las instituciones no pueden ignorar señales de alerta crecientes o advertencias internas sobre controles ineficaces, «bajo el pretexto de la innovación o de otra forma». En una época en la que todos hablamos de IA, automatización y eficiencia, el mensaje es que automatizar no exime de entender, investigar y actuar.",
+    "Tercero, porque las advertencias internas existieron. El Tesoro relata que personal de cumplimiento escaló preocupaciones sobre posible lavado basado en comercio y fraude, sin una respuesta oportuna. Documentar una preocupación y archivarla no es gestionar el riesgo. Una cultura sana es la que escucha a quien levanta la mano.",
+    "## La lectura para Panamá",
+    "Nuestro sistema bancario conoce bien el costo reputacional de las listas y los señalamientos internacionales. Por eso es positivo ver que la supervisión local insiste en estos temas. En la reunión del Colegio de Supervisores del Grupo Financiero GNB, organizada por la Superintendencia de Bancos de Panamá, la agenda incluyó prevención del blanqueo de capitales, riesgos de los servicios financieros digitales y uso de nuevas tecnologías. Y, al cierre de las reuniones con la misión del FMI, la SBP informó que el Fondo destacó la resiliencia del sistema bancario panameño y subrayó la importancia de seguir fortaleciendo la gestión de riesgos, el marco de resolución bancaria y la integridad financiera.",
+    "Mi lectura es que la integridad financiera no se demuestra con un manual bien escrito, sino con alertas que se investigan, equipos capacitados, datos confiables y una alta gerencia que asigna recursos aunque no generen ingresos visibles. Y que el cliente honesto también gana: un banco que conoce a sus clientes y monitorea bien es un banco que detecta antes el fraude que lo afecta a él.",
+    "## Mi llamado",
+    "Que el caso Bank of America no se lea como un problema lejano de un gigante estadounidense. Es un recordatorio, con cifra récord, de que el cumplimiento es parte del producto y de la confianza. Se puede apoyar en tecnología y en terceros, pero la responsabilidad de mirar, preguntar y reportar no se delega.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

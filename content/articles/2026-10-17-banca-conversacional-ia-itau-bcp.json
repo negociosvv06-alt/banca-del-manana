@@ -1,0 +1,47 @@
+{
+  "id": "banca-conversacional-ia-itau-bcp-clab-2026",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Banca conversacional con IA: lo que Itaú, el BCP y el CLAB 2026 anticipan para el banco de los próximos años",
+  "date": "2026-10-17",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "OpenAI – How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Infomercado – ¿Cómo será la banca en 2030? El BCP adelanta lo que viene para sus clientes",
+      "url": "https://infomercado.pe/bcp-proyecta-una-banca-conversacional-con-ia-hacia-2030/",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Primicias – McKinsey advierte que los bancos digitales están cambiando las reglas de competencia del sector financiero (CLAB 2026)",
+      "url": "https://www.primicias.ec/economia/inteligencia-artificial-banca-modelo-negocio-asobanca-clab-135088/",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Valor Econômico / Bloomberg – Bancos dos EUA bloqueiam IA que tenta movimentar dinheiro",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/16/bancos-dos-eua-bloqueiam-ia-que-tenta-movimentar-dinheiro.ghtml",
+      "date": "2026-10-16"
+    }
+  ],
+  "body": [
+    "En las últimas 48 horas, tres anuncios de la región apuntaron en la misma dirección: el próximo cambio grande en la banca no será otra aplicación con más botones, sino una conversación. Itaú, en Brasil, detalló cómo lleva un asistente de inteligencia artificial (IA) a toda su base de clientes; el BCP, en Perú, presentó su visión de una banca conversacional hacia 2030; y en el congreso latinoamericano de tecnología bancaria CLAB 2026, en Quito, McKinsey advirtió que la IA obliga a los bancos a rediseñar su modelo operativo, no solo a probar herramientas.",
+    "## Itaú: un asistente para todo, con gobierno detrás",
+    "Según un caso publicado el 16 de octubre, Itaú desarrolla «ia.i», una capa conversacional que se activa por texto o voz y reúne en un solo entorno consultas de cuenta, crédito, tarjetas, seguros y otros servicios. El asistente alcanzó cerca de 300,000 clientes en su primera fase y el banco espera ofrecerlo a toda su base de clientes a finales de 2026. Un detalle relevante: el diseño contempla conectar al cliente con atención humana especializada cuando hace falta.",
+    "Detrás de la experiencia visible hay una plataforma interna llamada IARA, que da a los equipos acceso controlado a distintos modelos de IA según las políticas del banco. Itaú la presenta como la pieza que permite controlar costos, precisión de las respuestas y políticas de IA responsable en un sector muy regulado. En su área legal, esa plataforma trabaja sobre más de 90 millones de documentos y ejecuta más de 2 millones de tareas al mes, con ganancias de eficiencia de entre 20 % y 80 % en etapas de esos procesos, según el mismo caso. Los próximos pasos que menciona el banco incluyen simulaciones y contratación de productos, y análisis recurrentes de ingresos, gastos y hábitos del cliente.",
+    "## BCP: del menú a la conversación",
+    "El 15 de octubre, el BCP presentó cifras de su conferencia «Tendencias que están redefiniendo la banca al 2030». De acuerdo con Infomercado, el banco pasó de 8.8 millones de clientes digitales en diciembre de 2023 a 17.3 millones en agosto de 2026, el 81 % de su base total. Su billetera Yape procesó en agosto un promedio de 37 millones de operaciones diarias.",
+    "Patricia Wissar, gerente de División de Canales Digitales y Capacidades de Transformación del BCP, resumió la apuesta: la diferencia ya no estará en digitalizar más procesos, sino en experiencias que comprendan mejor al cliente y le permitan resolver con menos esfuerzo. Hacia 2030, el banco espera que los clientes dejen de navegar entre menús para conversar con la aplicación, con un sistema que recuerde el contexto. En el grupo Credicorp ya hay más de 100 casos de uso de IA en operación y entre el 45 % y el 60 % de los procesos de atención al cliente de sus subsidiarias se automatizaron con IA. El plan es que estas herramientas pasen de responder consultas a recomendar alternativas y, después, a ejecutar operaciones que el cliente autorice. El propio responsable de IA del grupo advirtió que ese avance exigirá fortalecer la confianza, el control y la supervisión.",
+    "## McKinsey en el CLAB: no basta con herramientas aisladas",
+    "En el CLAB 2026, organizado por Asobanca y la Federación Latinoamericana de Bancos (Felaban) el 15 y 16 de octubre, Ricardo Bernal, de McKinsey, señaló que la IA generativa llegó a muchos usuarios en poco tiempo, a diferencia de transformaciones digitales anteriores que tardaban entre cinco y 15 años. Puso como referencia a Nubank, con alrededor de 130 millones de clientes y 10,000 empleados, frente a bancos tradicionales que en muchos casos atienden unos 600 clientes por empleado. Su advertencia central: implementar herramientas sueltas no garantiza mejores resultados; hay que transformar procesos, ordenar los datos y gestionar los riesgos.",
+    "## El contrapeso: quién puede mover el dinero",
+    "La conversación no es solo de entusiasmo. El 16 de octubre, el CEO de Charles Schwab, Rick Wurster, dijo a Bloomberg Television que su firma bloquea activamente agentes de IA externos no autorizados que intentan mover dinero de clientes, y que prefiere que los clientes usen el asistente propio de la casa. Según Valor Econômico, sus comentarios coinciden con los de Jamie Dimon, de JPMorgan Chase, quien dijo esa semana que tampoco dará a agentes externos acceso irrestricto a las cuentas de los clientes.",
+    "## Qué significa para Panamá",
+    "La tendencia regional sugiere tres lecciones útiles para bancos y usuarios en Panamá. Primero, la IA conversacional promete menos fricción, pero solo funciona si tiene datos ordenados y una salida clara hacia una persona cuando el caso lo amerita, como reclamos, fraude o clientes vulnerables. Segundo, la gobernanza llega antes que la escala: Itaú construyó su plataforma de control antes de abrir el asistente a millones de clientes. Tercero, la autorización importa: cuando un asistente pase de informar a ejecutar, el cliente debe saber qué puede hacer, con qué límites y cómo revocarlo.",
+    "Para el usuario, el consejo práctico no cambia: use solo los canales oficiales de su banco, no entregue usuarios, contraseñas ni códigos de un solo uso a aplicaciones o asistentes de terceros, y desconfíe de cualquier «asistente» que le pida credenciales por mensajería. La banca conversacional puede hacer más simple la relación con el dinero; la seguridad sigue dependiendo de que nadie más tenga sus llaves."
+  ]
+}

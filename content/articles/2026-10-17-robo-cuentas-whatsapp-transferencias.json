@@ -1,0 +1,53 @@
+{
+  "id": "robo-cuentas-whatsapp-estafa-transferencias-2026-10",
+  "section": "educacion",
+  "type": "educativo",
+  "title": "Le escriben «desde» el WhatsApp de un familiar pidiendo una transferencia: cómo opera el robo de cuentas y cómo proteger la suya",
+  "date": "2026-10-17",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Procuraduría General de la Nación – Cinco personas aprehendidas en Chiriquí y Panamá Oeste por presunto fraude vía WhatsApp",
+      "url": "https://ministeriopublico.gob.pa/notas-de-prensa/cinco-personas-aprehendidas-en-chiriqui-y-panama-oeste-por-presunto-fraude-via-whatsapp/",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "WhatsApp, Centro de ayuda – Cómo administrar los ajustes de la verificación en dos pasos",
+      "url": "https://faq.whatsapp.com/1920866721452534/?locale=es_LA",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP establece nuevas reglas para fortalecer la seguridad y transparencia de las operaciones bancarias",
+      "url": "https://www.superbancos.gob.pa/node/1805",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Aviso al público (SBP-2026-03212)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/comunicados/2026/aviso7-2026.pdf",
+      "date": "2026-04-27"
+    }
+  ],
+  "body": [
+    "«Hola, ¿me puedes hacer un favor? Necesito pagar algo urgente y mi app no funciona. Te lo devuelvo mañana». Si ese mensaje llega desde el número de un familiar, un compañero o un amigo, lo natural es querer ayudar. Justamente por eso funciona una de las estafas más dañinas del momento: el robo de cuentas de WhatsApp para pedir transferencias.",
+    "## Lo que pasó esta semana",
+    "El 15 de octubre, la Procuraduría General de la Nación informó la aprehensión de cinco personas, cuatro en Chiriquí y una en Panamá Oeste, en la operación «Chat Scam», por su presunta vinculación con delitos contra la seguridad informática y contra el patrimonio económico (fraude informático). Según el Ministerio Público, las investigaciones corresponden a causas de 2025 en las que el modus operandi era apoderarse indebidamente de cuentas de WhatsApp y, usurpando la identidad de su titular, pedir a sus contactos transferencias de dinero a terceras personas. En la operación se incautaron cinco celulares.",
+    "## Cómo funciona la estafa",
+    "El patrón es sencillo. Primero, el delincuente toma control de la cuenta de WhatsApp de una persona. Después escribe a sus contactos haciéndose pasar por ella, con una historia urgente: un pago pendiente, una emergencia médica, un problema con el banco. Pide una transferencia a una cuenta que no es de la persona real y promete devolver el dinero pronto.",
+    "El comunicado del Ministerio Público no detalla cómo se tomaban las cuentas. Una vía conocida es convencer a la víctima de compartir el código de verificación que WhatsApp envía al registrar el número en otro teléfono. Por eso el centro de ayuda de WhatsApp tiene una sección específica para quien recibe un código de verificación que no solicitó. Si alguien le pide «el código que te acaba de llegar», es una señal de alarma: con ese código pueden registrar su número en otro dispositivo.",
+    "## Si recibe un pedido de dinero por WhatsApp",
+    "Verifique por otro canal. Llame a la persona a su número de siempre, preferiblemente con llamada de voz normal, o confirme con alguien cercano. Si «no puede hablar», sospeche.",
+    "Haga una pregunta que solo la persona real sabría responder. Los estafadores suelen evadir o insistir en la urgencia.",
+    "Revise a nombre de quién está la cuenta destino. Si le piden transferir a un tercero «porque es más rápido», deténgase. La Superintendencia de Bancos de Panamá aprobó el Acuerdo 8-2026, que exige a los bancos permitir validar el nombre del beneficiario antes de una transferencia nacional; los bancos tienen un plazo para implementarlo. Mientras tanto, lea con atención el nombre que su banca en línea le muestre, cuando esté disponible.",
+    "No se deje presionar por el tiempo. La urgencia es la herramienta principal del fraude. Ninguna emergencia real se arruina por tomarse cinco minutos para confirmar.",
+    "## Cómo proteger su propia cuenta",
+    "Active la verificación en dos pasos. WhatsApp permite activar esta función, cambiar la contraseña asociada, actualizar su correo electrónico y revisar sus dispositivos de confianza. Según su centro de ayuda, la plataforma está cambiando el PIN de seis dígitos de la verificación en dos pasos por una contraseña; si ya tenía un PIN, puede cambiarlo desde los ajustes.",
+    "Nunca comparta códigos de verificación. Ni con «el soporte de WhatsApp», ni con un supuesto empleado del banco, ni con un conocido que diga que se lo envió por error.",
+    "Revise los dispositivos vinculados. Si ve una sesión que no reconoce, ciérrela.",
+    "Proteja también su línea telefónica y su correo. Si alguien controla su número o su correo de recuperación, le será más fácil tomar su cuenta.",
+    "## Si ya cayó en la trampa",
+    "Contacte de inmediato a su banco por sus canales oficiales para reportar la transferencia y pedir que se intente detener o rastrear. Denuncie el hecho: la Superintendencia de Bancos recomienda acudir al Ministerio Público o a la Casa de Justicia Comunitaria de Paz de su área. Avise a sus contactos si su cuenta fue tomada, para que no respondan a pedidos de dinero, y recupere la cuenta siguiendo los pasos del centro de ayuda de WhatsApp.",
+    "## Recuerde",
+    "La SBP insiste en que el primer anillo de seguridad de su patrimonio es usted mismo. Ningún banco ni entidad legítima le pedirá por WhatsApp, SMS o llamada su PIN, contraseñas o códigos de un solo uso. Y ningún familiar se ofenderá porque usted confirme antes de transferir."
+  ]
+}
