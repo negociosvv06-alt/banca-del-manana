@@ -1,5 +1,141 @@
 [
   {
+    "id": "megabancos-japon-stablecoin-conjunta-poc",
+    "title": "Los tres megabancos de Japón completan su prueba de una stablecoin en yenes emitida en conjunto",
+    "summary": "Mizuho, MUFG y SMBC, junto a Mitsubishi UFJ Trust and Banking y la tecnológica TISI, anunciaron el 16 de octubre los resultados de una prueba de concepto realizada del 17 al 23 de julio con apoyo de la Agencia de Servicios Financieros de Japón. Emitieron una stablecoin en yenes bajo la Ley de Servicios de Pago y verificaron su emisión, transferencia y redención en pagos entre sedes de Mitsubishi Corporation en Japón y el exterior. Los bancos seguirán evaluando cumplimiento, protección al usuario, prevención de lavado y ciberseguridad antes de una implementación real.",
+    "date": "2026-10-16",
+    "source": "Mizuho Bank / MUFG / SMBC",
+    "url": "https://library.mizuhogroup.com/asset/ece61a72-35dc-40cd-b8d9-4f9b47777d04/bk_20261016release_eng.pdf",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Japón",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos transfronterizos",
+      "Japón",
+      "banca"
+    ]
+  },
+  {
+    "id": "jack-henry-google-cloud-depositos-tokenizados",
+    "title": "Jack Henry y Google Cloud acercan los depósitos tokenizados a bancos comunitarios y cooperativas",
+    "summary": "Jack Henry, proveedor de sistemas centrales para más de 7.200 entidades financieras, anunció el 16 de octubre que será el primer proveedor de core bancario en integrarse con Google Cloud Universal Ledger, un registro distribuido administrado por Google. El objetivo es que bancos regionales y cooperativas de crédito de EE. UU. puedan ofrecer depósitos tokenizados con liquidación casi inmediata 24/7 y flujos de pago programables, sin perder la relación con sus depositantes.",
+    "date": "2026-10-16",
+    "source": "Jack Henry (PR Newswire)",
+    "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-expands-collaboration-google-cloud-deliver-tokenized",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "depósitos tokenizados",
+      "tokenización",
+      "core bancario",
+      "banca"
+    ]
+  },
+  {
+    "id": "marqeta-coinbase-tarjetas-stablecoins",
+    "title": "Marqeta y Coinbase se alían para emitir tarjetas de pago respaldadas por stablecoins",
+    "summary": "La plataforma de emisión de tarjetas Marqeta anunció el 16 de octubre una colaboración con Coinbase para que sus clientes empresariales ofrezcan tarjetas que permitan gastar saldos en stablecoins en comercios que aceptan tarjetas. Coinbase se encargará de la custodia y la conversión a moneda fiduciaria, con liquidación en su red Base, mientras Marqeta gestionará la emisión, el procesamiento y las relaciones con bancos y redes. No se informaron fechas de lanzamiento ni tarifas.",
+    "date": "2026-10-16",
+    "source": "Marqeta",
+    "url": "https://investors.marqeta.com/news-releases/news-release-details/marqeta-and-coinbase-collaborate-enable-stablecoin-backed-card/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "tarjetas",
+      "pagos",
+      "Coinbase",
+      "banca"
+    ]
+  },
+  {
+    "id": "sbi-startale-open-standard-jpysc-ousd",
+    "title": "SBI y Startale exploran conectar la stablecoin en yenes JPYSC con el dólar digital OUSD",
+    "summary": "SBI Holdings y Startale anunciaron el 16 de octubre su ingreso a Open Standard, alianza de más de 140 empresas (entre ellas Visa, Mastercard, Stripe, BlackRock y Coinbase) que impulsa la stablecoin en dólares Open USD. Ambas explorarán un piloto de interoperabilidad entre OUSD y JPYSC, stablecoin en yenes emitida por el banco fiduciario SBI Shinsei Trust Bank, para agilizar la liquidación entre yenes y dólares.",
+    "date": "2026-10-16",
+    "source": "SBI Holdings",
+    "url": "https://www.sbigroup.co.jp/english/news/pdf/2026/1016_a_en.pdf",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Japón",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "interoperabilidad",
+      "Japón",
+      "banca"
+    ]
+  },
+  {
+    "id": "deutsche-bank-custodia-cripto-semanas",
+    "title": "Deutsche Bank está a semanas de lanzar su custodia de criptoactivos en Alemania",
+    "summary": "Gerald Podobnik, codirector del banco corporativo de Deutsche Bank, dijo a Reuters en las reuniones del FMI y el Banco Mundial que el servicio de custodia de bitcoin y ether para clientes institucionales y corporativos en Alemania se lanzará en semanas, y que llegará a centros financieros de Asia en 2027. El despliegue por fases sumará luego servicios con stablecoins, depósitos tokenizados y emisión de valores tokenizados; no está dirigido a clientes minoristas.",
+    "date": "2026-10-16",
+    "source": "CoinMarketCap (con información de Reuters)",
+    "url": "https://coinmarketcap.com/academy/article/deutsche-bank-crypto-custody-launch-weeks-away-asia",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Alemania",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "custodia",
+      "bitcoin",
+      "MiCA",
+      "Deutsche Bank",
+      "banca"
+    ]
+  },
+  {
+    "id": "ppro-damisa-stablecoins-latinoamerica",
+    "title": "PPRO y Damisa usan stablecoins reguladas para liquidar pagos transfronterizos, empezando por Latinoamérica",
+    "summary": "La empresa de métodos de pago locales PPRO se asoció con la británica Damisa para mover fondos de tesorería entre países mediante stablecoins reguladas, con liquidación el mismo día en la moneda elegida. El esquema, anunciado el 15 de octubre, arrancó en Latinoamérica y busca reducir la dependencia de cadenas de bancos corresponsales y el capital inmovilizado en prefondeo; ahora se extenderá a otros mercados.",
+    "date": "2026-10-16",
+    "source": "CoinTrust",
+    "url": "https://www.cointrust.com/market-news/ppro-and-damisa-expand-stablecoin-settlement-across-borders",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Latinoamérica",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos transfronterizos",
+      "banca corresponsal",
+      "banca"
+    ]
+  },
+  {
+    "id": "lulubit-acciones-tokenizadas-panama",
+    "title": "La app panameña Lulubit lanza la compra de acciones y ETF tokenizados desde $1",
+    "summary": "Según una nota de prensa publicada el 15 de octubre, Lulubit, app financiera con más de 100.000 usuarios en Panamá y la región, habilitó un módulo para comprar y vender tokens que replican acciones y ETF de EE. UU., respaldados 1:1 y fraccionables. Arranca con ocho acciones y el ETF SPY, con depósitos por ACH desde bancos panameños. La empresa lo presentará el 21 de octubre en Ciudad de Panamá. Panamá aún no tiene una ley vigente para proveedores de activos virtuales.",
+    "date": "2026-10-15",
+    "source": "La Prensa Panamá (nota de prensa de Lulubit)",
+    "url": "https://www.prensa.com/notas-de-prensa/lulubit-permite-invertir-en-apple-amazon-y-sp500-desde-1-y-directamente-en-su-app/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "fintech",
+      "Panamá",
+      "ACH",
+      "banca"
+    ]
+  },
+  {
     "id": "visa-direct-stablecoins-produccion",
     "title": "Visa Direct pasa de piloto a producción comercial con prefinanciamiento en stablecoins",
     "summary": "Visa anunció el 15 de octubre que las capacidades con stablecoins de Visa Direct dejan la fase piloto y entran en operación comercial. Inyo Global, procesador que atiende a remesadoras, fintechs y bancos, es el primer habilitador: sus clientes pueden prefinanciar pagos transfronterizos con USDC casi en tiempo real, en lugar de depender solo de las ventanas de fondeo tradicionales.",
