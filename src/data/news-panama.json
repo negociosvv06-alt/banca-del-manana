@@ -1,22 +1,43 @@
 [
   {
-    "id": "sbp-fmi-articulo-iv-2026-10",
-    "title": "SBP: la misión del FMI culmina reuniones del Artículo IV y destaca la resiliencia de la banca panameña",
-    "summary": "La Superintendencia de Bancos informó el cierre de las reuniones con la misión del FMI en el marco de la Consulta del Artículo IV. Se revisaron el seguimiento al FSAP 2023, la implementación de los Acuerdos 1-2026 y 3-2026, riesgos de activos virtuales y VASP, y el trabajo del Consejo de Coordinación Financiera. El FMI valoró la resiliencia del sistema y los avances en capital y supervisión, e insistió en reforzar gestión de riesgos, resolución bancaria e integridad financiera.",
-    "date": "2026-10-14",
-    "source": "SBP",
-    "url": "https://www.superbancos.gob.pa/node/1812",
-    "category": "regulacion",
+    "id": "ccrif-seguro-terremoto-2026-10",
+    "title": "Panamá recibirá USD 17,4 millones del seguro catastrófico CCRIF tras el terremoto del 9 de octubre",
+    "summary": "El MEF confirmó que el país cobrará una indemnización paramétrica de USD 17,4 millones del CCRIF SPC, activada por el sismo de magnitud 7,5 del 9 de octubre. La póliza, contratada por el MEF y pagada vía el Fondo de Ahorro de Panamá, debe desembolsarse en hasta 14 días para liquidez inmediata de respuesta; no implica costo fiscal adicional. Con este pago, los desembolsos históricos del CCRIF a Panamá suman cerca de USD 47 millones desde 2018.",
+    "date": "2026-10-16",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/economia/panama-recibira-174-millones-de-seguro-catastrofico-tras-terremoto/",
+    "category": "economia",
     "type": "noticia",
     "country": "Panamá",
     "lang": "es",
     "banks": [],
     "tags": [
-      "SBP",
-      "FMI",
-      "Artículo IV",
-      "FSAP",
-      "supervisión"
+      "CCRIF",
+      "MEF",
+      "Fondo de Ahorro",
+      "terremoto",
+      "seguro paramétrico"
+    ]
+  },
+  {
+    "id": "bg-tasas-plazo-fijo-mi-meta-2026-10",
+    "title": "Banco General ajusta tasas de depósitos a plazo fijo y de la cuenta de ahorros Mi Meta",
+    "summary": "Banco General informó que, a partir del 15 de octubre de 2026, se actualizan las tasas de interés de sus depósitos a plazo fijo (regular y Estrellas) y de la cuenta de ahorros Mi Meta. El banco remite a sus tablas oficiales de productos para consultar las nuevas condiciones aplicables a cada modalidad.",
+    "date": "2026-10-15",
+    "source": "Banco General",
+    "url": "https://www.bgeneral.com/nuevas-tasas-para-depositos-a-plazo-fijo-y-cuenta-de-ahorros-mi-meta/",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "banco-general"
+    ],
+    "tags": [
+      "tasas",
+      "depósitos",
+      "plazo fijo",
+      "ahorro"
     ]
   },
   {
@@ -58,6 +79,26 @@
       "activos digitales",
       "IA",
       "sostenibilidad"
+    ]
+  },
+  {
+    "id": "sbp-fmi-articulo-iv-2026-10",
+    "title": "SBP: la misión del FMI culmina reuniones del Artículo IV y destaca la resiliencia de la banca panameña",
+    "summary": "La Superintendencia de Bancos informó el cierre de las reuniones con la misión del FMI en el marco de la Consulta del Artículo IV. Se revisaron el seguimiento al FSAP 2023, la implementación de los Acuerdos 1-2026 y 3-2026, riesgos de activos virtuales y VASP, y el trabajo del Consejo de Coordinación Financiera. El FMI valoró la resiliencia del sistema y los avances en capital y supervisión, e insistió en reforzar gestión de riesgos, resolución bancaria e integridad financiera.",
+    "date": "2026-10-14",
+    "source": "SBP",
+    "url": "https://www.superbancos.gob.pa/node/1812",
+    "category": "regulacion",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "FMI",
+      "Artículo IV",
+      "FSAP",
+      "supervisión"
     ]
   },
   {

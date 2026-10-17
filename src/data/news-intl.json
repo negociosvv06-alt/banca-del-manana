@@ -1,9 +1,9 @@
 {
- "lastRun": "2026-10-16T13:01:48.701Z",
+ "lastRun": "2026-10-17T13:03:57.864Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-16T13:01:48.701Z",
+   "fetchedAt": "2026-10-17T13:03:57.864Z",
    "count": 12
   },
   "ecb": {
@@ -14,11 +14,84 @@
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-16T13:01:48.701Z",
+   "fetchedAt": "2026-10-17T13:03:57.864Z",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "bce-lagarde-bond-selloff-2026-10-17",
+   "title": "Lagarde (BCE): el selloff de bonos endurece el crédito y frenará más la inflación de lo previsto",
+   "summary": "En las Reuniones Anuales del FMI y el Banco Mundial en Bangkok, la presidenta del BCE, Christine Lagarde, afirmó que el alza reciente de los tipos a largo plazo ha endurecido las condiciones de financiamiento en la zona euro y ralentizará el crecimiento y el traspaso de precios más de lo proyectado en septiembre. El BCE ha subido tipos dos veces en cuatro meses y el mercado espera otra en diciembre. Joachim Nagel (Bundesbank) sostuvo que «el trabajo no está hecho» frente a la inflación.",
+   "date": "2026-10-17",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/17/ecbs-lagarde-says-bond-selloff-will-slow-inflation.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB",
+    "Lagarde",
+    "tipos de interés",
+    "inflación",
+    "bonos"
+   ],
+   "manual": true
+  },
+  {
+   "id": "bce-tips-cross-border-contact-group-2026-10",
+   "title": "El Eurosistema convoca un grupo de contacto de mercado para los pagos instantáneos transfronterizos TIPS",
+   "summary": "El BCE invitó a proveedores de servicios de pago y cámaras de compensación minoristas a expresar interés en el grupo de contacto de mercado de TIPS cross-border, que asesorará al Market Infrastructure Board sobre valor de negocio, diseño funcional, pruebas y operación. El plazo de solicitudes vence el 15 de noviembre de 2026; la primera reunión está prevista para el primer trimestre de 2027. La iniciativa forma parte de la estrategia de pagos del Eurosistema para mejorar la interoperabilidad y abaratamiento de los pagos transfronterizos.",
+   "date": "2026-10-16",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261016.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB",
+    "TIPS",
+    "pagos instantáneos",
+    "pagos transfronterizos"
+   ],
+   "manual": true
+  },
+  {
+   "id": "bis-hbmQtY29uc3VsdHMtZy1zaWI",
+   "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
+   "summary": "The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review.",
+   "date": "2026-10-16",
+   "source": "Banco de Pagos Internacionales (BIS)",
+   "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Internacional",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "BIS"
+   ]
+  },
+  {
+   "id": "fed-lbWVudDIwMjYxMDE2YS5odG0",
+   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "date": "2026-10-16",
+   "source": "Reserva Federal de EE. UU. (Fed)",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Estados Unidos",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "FED"
+   ]
+  },
   {
    "id": "fmi-bce-alza-tasas-europa-2026-10",
    "title": "FMI: el BCE necesitaría al menos otra subida de 25 pb en 2026 para anclar la inflación",
@@ -40,23 +113,23 @@
    "manual": true
   },
   {
-   "id": "bis-hbmQtY29uc3VsdHMtZy1zaWI",
-   "title": "Comité de Basilea frena el «window dressing» en bancos G-SIB y consulta la metodología de evaluación",
-   "summary": "El Comité de Basilea publicó enmiendas finales para limitar el window dressing en el marco de bancos de importancia sistémica global (G-SIB): a partir de 2030 los indicadores se reportarán y divulgarán con promedios del año, no con valores de cierre. También sube el umbral de reporte a EUR 350 mil millones desde 2027 y abre consulta sobre el tratamiento de exposiciones transfronterizas en la Unión Bancaria Europea.",
-   "date": "2026-10-16",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+   "id": "fsb-ia-buenas-practicas-2026",
+   "title": "El FSB publica 12 buenas prácticas para una adopción responsable de la IA en las instituciones financieras",
+   "summary": "El Consejo de Estabilidad Financiera (FSB) publicó su informe final con 12 prácticas para gobernar la IA: papel del directorio y la alta gerencia, gestión de riesgos en todo el ciclo de vida, gobierno de datos, explicabilidad, supervisión humana efectiva, riesgos cibernéticos y dependencia de terceros proveedores de IA.",
+   "date": "2026-10-15",
+   "source": "Consejo de Estabilidad Financiera (FSB)",
+   "url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
    "category": "internacional",
    "type": "noticia",
    "country": "Internacional",
-   "lang": "es",
+   "lang": "en",
    "banks": [],
    "tags": [
-    "BIS",
-    "Basilea",
-    "G-SIB",
-    "supervisión"
-   ]
+    "FSB",
+    "inteligencia artificial",
+    "gobernanza"
+   ],
+   "manual": true
   },
   {
    "id": "unicredit-bce-commerzbank-2026-10",
@@ -75,25 +148,6 @@
     "UniCredit",
     "Commerzbank",
     "fusiones"
-   ],
-   "manual": true
-  },
-  {
-   "id": "fsb-ia-buenas-practicas-2026",
-   "title": "El FSB publica 12 buenas prácticas para una adopción responsable de la IA en las instituciones financieras",
-   "summary": "El Consejo de Estabilidad Financiera (FSB) publicó su informe final con 12 prácticas para gobernar la IA: papel del directorio y la alta gerencia, gestión de riesgos en todo el ciclo de vida, gobierno de datos, explicabilidad, supervisión humana efectiva, riesgos cibernéticos y dependencia de terceros proveedores de IA.",
-   "date": "2026-10-15",
-   "source": "Consejo de Estabilidad Financiera (FSB)",
-   "url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FSB",
-    "inteligencia artificial",
-    "gobernanza"
    ],
    "manual": true
   },
@@ -432,25 +486,9 @@
    ]
   },
   {
-   "id": "fed-iY3JlZzIwMjYwOTI0YS5odG0",
-   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-   "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-   "date": "2026-09-24",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
    "id": "bis-dHktaW5kaWNhdG9ycy1zaG93",
    "title": "Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows",
-   "summary": "As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025. The average Liquidity Coverage Ratio (LCR) of Group 1 banks improved slightly, while the Net Stable Funding Ratio (NSFR) decreased slightly. The ave",
+   "summary": "As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025.",
    "date": "2026-09-23",
    "source": "Banco de Pagos Internacionales (BIS)",
    "url": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show",
