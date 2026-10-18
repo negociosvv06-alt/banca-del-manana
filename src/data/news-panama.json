@@ -1,5 +1,44 @@
 [
   {
+    "id": "cepal-exportaciones-canal-2026-10",
+    "title": "Cepal proyecta una caída de 14 % en las exportaciones de bienes de Panamá y destaca el repunte del Canal",
+    "summary": "En su informe Perspectivas del Comercio Internacional de América Latina y el Caribe 2026, la Cepal estima que las exportaciones panameñas de bienes, sin la Zona Libre de Colón, caerán 14 % este año por la suspensión de Cobre Panamá y la normalización de envíos, frente a un alza regional de 20 %; con la Zona Libre incluida, prevé un crecimiento de 24 %. Entre enero y agosto, el tránsito por el Canal subió 5,8 % (9.532 buques), la carga 17,6 % y los peajes 8,4 %, aunque el organismo advierte riesgos por restricciones de calado y la sequía asociada a El Niño.",
+    "date": "2026-10-17",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/economia/cepal-preve-caida-de-exportaciones-y-destaca-avance-del-canal/",
+    "category": "economia",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "Cepal",
+      "exportaciones",
+      "Canal de Panamá",
+      "comercio exterior",
+      "Cobre Panamá"
+    ]
+  },
+  {
+    "id": "pbn-fintech-inclusion-financiera-2026-10",
+    "title": "Columna: las fintech como complemento de la banca para cerrar la brecha de inclusión financiera en Panamá",
+    "summary": "En una columna de opinión, el especialista Marcelo Deschamps, exfuncionario del Banco Central de Brasil, recuerda que según el Banco Mundial solo el 64,1 % de los adultos panameños tenía cuenta en un banco o proveedor de dinero móvil en 2024, por debajo del 73 % de América Latina. Plantea que bancos, fintechs y proveedores de pago pueden ampliar el uso real de pagos, ahorro, crédito y seguros, y cita el caso de Pix en Brasil, sin descuidar los controles antilavado, la protección al consumidor y la seguridad digital.",
+    "date": "2026-10-17",
+    "source": "Panamá Banking News",
+    "url": "https://panamabankingnews.com/columna-de-opinion-y-analisis/de-la-banca-tradicional-a-la-inclusion-digital-el-papel-de-las-fintech-en-el-futuro-financiero-de-panama/",
+    "category": "tecnologia",
+    "type": "analisis",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "fintech",
+      "inclusión financiera",
+      "pagos digitales",
+      "opinión"
+    ]
+  },
+  {
     "id": "ccrif-seguro-terremoto-2026-10",
     "title": "Panamá recibirá USD 17,4 millones del seguro catastrófico CCRIF tras el terremoto del 9 de octubre",
     "summary": "El MEF confirmó que el país cobrará una indemnización paramétrica de USD 17,4 millones del CCRIF SPC, activada por el sismo de magnitud 7,5 del 9 de octubre. La póliza, contratada por el MEF y pagada vía el Fondo de Ahorro de Panamá, debe desembolsarse en hasta 14 días para liquidez inmediata de respuesta; no implica costo fiscal adicional. Con este pago, los desembolsos históricos del CCRIF a Panamá suman cerca de USD 47 millones desde 2018.",

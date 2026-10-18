@@ -1,20 +1,19 @@
 {
- "lastRun": "2026-10-17T13:03:57.864Z",
+ "lastRun": "2026-10-18T13:06:57.048Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-17T13:03:57.864Z",
+   "fetchedAt": "2026-10-18T13:06:57.048Z",
    "count": 12
   },
   "ecb": {
-   "ok": false,
-   "error": "fetch failed",
-   "fetchedAt": "2026-10-12T02:49:22.590Z",
-   "count": 0
+   "ok": true,
+   "fetchedAt": "2026-10-18T13:06:57.048Z",
+   "count": 12
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-17T13:03:57.864Z",
+   "fetchedAt": "2026-10-18T13:06:57.048Z",
    "count": 10
   }
  },
@@ -39,6 +38,22 @@
     "bonos"
    ],
    "manual": true
+  },
+  {
+   "id": "ecb-3MDE1ZWEzMDk5LmVuLmh0bWw",
+   "title": "Christine Lagarde: IMFC Statement",
+   "summary": "",
+   "date": "2026-10-17",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
   },
   {
    "id": "bce-tips-cross-border-contact-group-2026-10",
@@ -223,6 +238,22 @@
    ]
   },
   {
+   "id": "ecb-5ZGI5YmY0ZmQ2LmVuLmh0bWw",
+   "title": "Philip R. Lane: The AI opportunity for Europe",
+   "summary": "",
+   "date": "2026-10-13",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
    "id": "fed-ldGFyeTIwMjYxMDEzYS5odG0",
    "title": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
    "summary": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -294,6 +325,38 @@
    ]
   },
   {
+   "id": "ecb-hMTAxNTNkMDkwLmVuLmh0bWw",
+   "title": "Meeting of 9-10 September 2026",
+   "summary": "",
+   "date": "2026-10-08",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "id": "ecb-MxODRlN2QwZDAuZW4uaHRtbA",
+   "title": "Piero Cipollone: Interview with Corriere della Sera",
+   "summary": "",
+   "date": "2026-10-08",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
    "id": "fed-lbWVudDIwMjYxMDA4YS5odG0",
    "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
    "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
@@ -307,6 +370,22 @@
    "banks": [],
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "id": "ecb-Y0NDczNTA0MzQuZW4uaHRtbA",
+   "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+   "summary": "",
+   "date": "2026-10-07",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
    ]
   },
   {
@@ -326,6 +405,54 @@
    ]
   },
   {
+   "id": "ecb-BkZjkxZTRlNDQuZW4uaHRtbA",
+   "title": "Frank Elderson: Effective supervision through timely remediation",
+   "summary": "",
+   "date": "2026-10-06",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "id": "ecb-JjOTQ0MDAyOTcuZW4uaHRtbA",
+   "title": "Philip R. Lane: Interview with Ansa",
+   "summary": "",
+   "date": "2026-10-06",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "id": "ecb-wZGE5NzhmMTU5LmVuLmh0bWw",
+   "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+   "summary": "",
+   "date": "2026-10-06",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
    "id": "bis-qdXJpc2RpY3Rpb25zLTIwMjc",
    "title": "Basel III applicable in almost all member jurisdictions by 2027",
    "summary": "Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely mo",
@@ -342,6 +469,22 @@
    ]
   },
   {
+   "id": "ecb-xZDhkOTk4ZWY0LmVuLmh0bWw",
+   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+   "summary": "",
+   "date": "2026-10-05",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
    "id": "fed-cmRlcnMyMDI2MTAwNWEuaHRt",
    "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
    "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
@@ -355,6 +498,38 @@
    "banks": [],
    "tags": [
     "FED"
+   ]
+  },
+  {
+   "id": "ecb-QxOWVmZTE4ZTAuZW4uaHRtbA",
+   "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+   "summary": "",
+   "date": "2026-10-02",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "id": "ecb-U0YzZiNTY3MmIuZW4uaHRtbA",
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "summary": "",
+   "date": "2026-10-02",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
    ]
   },
   {
