@@ -1,5 +1,124 @@
 [
   {
+    "id": "goldman-wells-morgan-tokenizacion-crecimiento",
+    "title": "Goldman Sachs, Wells Fargo y Morgan Stanley ven la tokenización como oportunidad de negocio",
+    "summary": "En sus llamadas de resultados del tercer trimestre, tres grandes bancos de Wall Street explicaron su visión sobre la tokenización. El CEO de Goldman, David Solomon, dijo que podría generar más productos y actividad de trading, aunque por ahora es «pequeña y marginal». El CFO de Wells Fargo afirmó que sus depósitos tokenizados ya procesan pagos transfronterizos en producción, con abonos en dos minutos o menos y bajo volumen. Morgan Stanley cree que mover activos con más rapidez aumentará la demanda de asesoría patrimonial. Ninguno cuantificó ingresos.",
+    "date": "2026-10-17",
+    "source": "CoinDesk en Español",
+    "url": "https://www.coindesk.com/es/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "depósitos tokenizados",
+      "pagos transfronterizos",
+      "banca"
+    ]
+  },
+  {
+    "id": "fdic-hill-regla-final-genius-stablecoins",
+    "title": "FDIC prepara su regla final de stablecoins bajo la Ley GENIUS; la OCC finalizaría la suya antes de que acabe octubre",
+    "summary": "En la DC Fintech Week, el presidente de la FDIC, Travis Hill, dijo que los comentarios a su propuesta se centraron en las actividades permitidas a emisores de stablecoins, los activos de reserva, la resolución y los depósitos tokenizados, temas que la agencia analiza para su regla final. Señaló que coordina con la OCC, cuyo contralor, Jonathan Gould, indicó que su regla final llegaría antes de fin de octubre. Hill también advirtió que los pagos 24/7 podrían complicar el cierre ordenado de un banco en problemas.",
+    "date": "2026-10-17",
+    "source": "Bank Policy Institute (BPInsights)",
+    "url": "https://bpi.com/bpinsights-october-17-2026/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "regulación",
+      "Ley GENIUS",
+      "FDIC",
+      "OCC",
+      "banca"
+    ]
+  },
+  {
+    "id": "nexo-panama-cripto-tokens-ley-valores",
+    "title": "Panamá: la ley de valores no menciona criptoactivos ni tokens y tres proyectos siguen sin primer debate",
+    "summary": "Un reportaje de Nexo publicado el 16 de octubre revisa que el Texto Único de la ley del mercado de valores no menciona criptoactivos, activos virtuales ni tokens. La SMV respondió en 2018 y en 2025, en casos puntuales, que ciertos esquemas con tokens o criptomonedas no requerían su licencia, aunque esas opiniones no fijan una regla general. Según las fichas de la Asamblea Nacional, tres proyectos sobre proveedores de activos virtuales, entre ellos el 326 y el 454, siguen sin fecha de primer debate. Latinex dijo que quiere listar activos digitales desde Panamá.",
+    "date": "2026-10-16",
+    "source": "Nexo",
+    "url": "https://nexo.la/criptomonedas-fuera-mercado-valores/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "regulación",
+      "SMV",
+      "Asamblea Nacional",
+      "tokenización",
+      "Panamá"
+    ]
+  },
+  {
+    "id": "aba-bancos-piden-extender-plazo-fed-genius",
+    "title": "Gremios bancarios de EE. UU. piden a la Fed 60 días más para comentar sus reglas de stablecoins",
+    "summary": "La Asociación de Banqueros Estadounidenses (ABA), el Bank Policy Institute, la Consumer Bankers Association y los bancos comunitarios (ICBA) solicitaron extender del 30 de noviembre al 29 de enero el plazo de comentarios de las dos propuestas de la Reserva Federal para aplicar la Ley GENIUS: una sobre cómo un banco miembro obtiene aprobación para que una subsidiaria emita stablecoins de pago y otra sobre reservas, capital, redención, custodia y reportes. Argumentan que necesitan analizar primero la regla final de la OCC y pidieron requisitos similares entre agencias.",
+    "date": "2026-10-16",
+    "source": "ABA Banking Journal",
+    "url": "https://bankingjournal.aba.com/2026/10/banking-groups-urge-fed-to-extend-comment-period-for-genius-act-proposals/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "regulación",
+      "Reserva Federal",
+      "Ley GENIUS",
+      "banca"
+    ]
+  },
+  {
+    "id": "bce-estudio-limites-tenencia-cbdc",
+    "title": "Estudio del BCE: los límites de tenencia de una moneda digital pueden atraer saldos hacia el tope",
+    "summary": "Un documento de trabajo del Banco Central Europeo (n.º 3300) probó con 761 participantes de Francia, Alemania, Italia y España cómo reaccionan las personas a un tope de tenencia de una moneda digital de banco central. Quienes estaban por debajo del límite tendieron a aumentar sus saldos cuando el tope era alto, mientras que con un tope bajo los efectos se compensaron. Añadir una conversión automática desde la cuenta bancaria al pagar elevó el uso y redujo los saldos, un diseño que el BCE contempla para el euro digital con el fin de proteger los depósitos bancarios.",
+    "date": "2026-10-16",
+    "source": "Rate Brief (sobre documento de trabajo del BCE)",
+    "url": "https://ratebrief.org/news/euro/ecb-working-paper-cbdc-holding-limits-can-pull-balances-up-reverse-waterfall-raises-use-cuts-holdings/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Zona euro",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "euro digital",
+      "BCE",
+      "depósitos",
+      "banca"
+    ]
+  },
+  {
+    "id": "vaneck-retira-etf-lido-staked-ether",
+    "title": "VanEck retira ante la SEC su propuesta de ETF de ether en staking basado en Lido",
+    "summary": "VanEck pidió a la SEC, mediante un formulario fechado el 14 de octubre, retirar el registro de su Lido Staked Ethereum ETF porque no piensa seguir con la distribución; el registro nunca fue declarado efectivo y no se vendieron acciones. El fondo habría tenido stETH, el token de staking líquido del protocolo Lido. Según Bitcoin.com News, el mercado se volvió más competido tras el lanzamiento en marzo del fondo de ether en staking de BlackRock y la oferta de staking de corredores como Interactive Brokers.",
+    "date": "2026-10-16",
+    "source": "Bitcoin.com News",
+    "url": "https://news.bitcoin.com/finance/vaneck-withdraws-lido-staked-ether-etf/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "ETF",
+      "SEC",
+      "ether",
+      "staking"
+    ]
+  },
+  {
     "id": "megabancos-japon-stablecoin-conjunta-poc",
     "title": "Los tres megabancos de Japón completan su prueba de una stablecoin en yenes emitida en conjunto",
     "summary": "Mizuho, MUFG y SMBC, junto a Mitsubishi UFJ Trust and Banking y la tecnológica TISI, anunciaron el 16 de octubre los resultados de una prueba de concepto realizada del 17 al 23 de julio con apoyo de la Agencia de Servicios Financieros de Japón. Emitieron una stablecoin en yenes bajo la Ley de Servicios de Pago y verificaron su emisión, transferencia y redención en pagos entre sedes de Mitsubishi Corporation en Japón y el exterior. Los bancos seguirán evaluando cumplimiento, protección al usuario, prevención de lavado y ciberseguridad antes de una implementación real.",
@@ -618,24 +737,6 @@
       "GENIUS Act",
       "Fed",
       "banca"
-    ]
-  },
-  {
-    "id": "smv-conversatorio-activos-virtuales-fiscales",
-    "title": "La SMV capacita a 42 fiscales superiores sobre activos virtuales, sus riesgos y su regulación",
-    "summary": "La Superintendencia del Mercado de Valores (SMV) realizó, a través de su Dirección Jurídica, un conversatorio sobre el ecosistema y funcionamiento de los activos virtuales, sus principales riesgos y aspectos regulatorios, dirigido a fiscales superiores del Ministerio Público.",
-    "date": "2026-09-17",
-    "source": "Superintendencia del Mercado de Valores (SMV)",
-    "url": "https://supervalores.gob.pa/smv-desarrolla-conversatorio-sobre-activos-virtuales-dirigido-a-fiscales-superiores-del-ministerio-publico/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Panamá",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "SMV",
-      "activos virtuales",
-      "regulación"
     ]
   }
 ]
