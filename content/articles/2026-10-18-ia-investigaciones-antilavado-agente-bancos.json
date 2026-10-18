@@ -1,0 +1,59 @@
+{
+  "id": "ia-investigaciones-antilavado-fis-agente-bancos-2026-10",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "IA contra el lavado de dinero: un agente que arma los expedientes llega a los bancos, pero la decisión sigue siendo humana",
+  "date": "2026-10-18",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "FIS – FIS AML Investigations Agent Now Commercially Available to Help Banks Tackle the Scale and Cost of Financial Crime Compliance",
+      "url": "https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-aml-investigations-agent-now-commercially-available",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Amalgamated Bank – Amalgamated Bank Helps Pioneer AI-Powered Financial Crime Investigations",
+      "url": "https://www.amalgamatedbank.com/news/amalgamated-bank-helps-pioneer-ai-powered-financial-crime-investigations-bringing-new",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "SectorFrame – FIS brings an AI investigator to the money-laundering queue",
+      "url": "https://sectorframe.com/fis-anthropic-claude-aml-investigations-agent-bank-compliance-launch/",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "BBVA – BBVA crea un modelo para escalar la IA a todo el Grupo e impulsar su transformación centrada en el cliente",
+      "url": "https://www.bbva.com/es/innovacion/bbva-crea-un-modelo-para-escalar-la-ia-a-todo-el-grupo-e-impulsar-su-transformacion-centrada-en-el-cliente/",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Yahoo Finance – Jamie Dimon Warns AI Agents That Make Payments on Your Behalf 'May Not' Act Properly",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jamie-dimon-warns-ai-agents-104507673.html",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Misión del FMI culmina reuniones con la SBP",
+      "url": "https://www.superbancos.gob.pa/node/1812",
+      "date": "2026-10-14"
+    }
+  ],
+  "body": [
+    "Detrás de cada alerta de posible lavado de dinero hay una persona que tiene que reunir piezas dispersas: el historial de la cuenta, el perfil del cliente, los pagos relacionados y la razón por la que un patrón parece sospechoso. Esa recopilación consume buena parte del trabajo antes de que alguien pueda siquiera opinar. Esta semana, la empresa de tecnología bancaria FIS anunció que ofrece a los bancos de Estados Unidos un agente de inteligencia artificial diseñado precisamente para ese tramo del proceso. Es una señal de que la IA en la banca también llega a las áreas de cumplimiento, no solo al cliente.",
+    "## Qué se anunció",
+    "El 15 de octubre, FIS informó que su AML Investigations Agent (agente de investigaciones antilavado) está disponible comercialmente para cualquier banco con sede en Estados Unidos, incluidos los que hoy no son sus clientes. La herramienta fue desarrollada por FIS con apoyo de Anthropic, usa los modelos Claude y funciona en la nube privada de FIS. Su socio de diseño, Amalgamated Bank de Nueva York, comenzó a implementarla.",
+    "Según la empresa, el agente reúne la evidencia relevante, analiza la actividad de cada cliente según su tipo, su historial y su comportamiento esperado, y prepara un resumen de la investigación. FIS pone un ejemplo sencillo: un aumento estacional de depósitos en efectivo no se ve igual que depósitos fraccionados para quedar justo por debajo de los umbrales de reporte, y una transferencia internacional habitual no es lo mismo que un envío sin explicación a una jurisdicción de alto riesgo.",
+    "## Las cifras, con su letra pequeña",
+    "FIS cita estimaciones de terceros para dimensionar el problema: las instituciones financieras de Estados Unidos gastarían entre US$35,000 y US$40,000 millones al año en operaciones antilavado (LexisNexis, 2023); los analistas dedicarían entre 40 % y 60 % de su tiempo a reunir datos antes de poder analizar (AnChain.AI, 2025), y las tasas de falsos positivos de la industria rondarían entre 90 % y 95 % (Datos Insights, 2023).",
+    "Sobre el impacto, la empresa y el banco hablan de reducciones de más de 90 % en el tiempo de revisión inicial de alertas, cerca de 98 % en la investigación más profunda de casos y más de 80 % en la redacción de los reportes de operaciones sospechosas. Conviene leer bien: son proyecciones basadas en el análisis que hizo Amalgamated de sus flujos actuales frente a las capacidades esperadas del agente, no resultados medidos tras meses de uso. Como subraya el medio especializado SectorFrame, el anuncio es el paso a una oferta comercial, no una productividad ya comprobada.",
+    "## El punto clave: quién decide",
+    "Lo más relevante del diseño, al menos en el papel, son sus controles. FIS afirma que cada resultado del agente es una recomendación; que ningún caso puede cerrarse sin la confirmación explícita de un analista; que cada afirmación del resumen enlaza al registro, documento o imagen de cheque de donde salió, y que cada recomendación, su razonamiento y la decisión final quedan en un registro de auditoría, listo para revisión interna o de los supervisores. Amalgamated lo resume así: el investigador sigue siendo responsable de la determinación final.",
+    "Ese enfoque coincide con lo que otros bancos están haciendo. BBVA informó el 6 de octubre que, tras un año concentrado en casos de uso concretos, está extendiendo sus agentes de IA a procesos transversales como las reclamaciones y la prevención del crimen financiero, bajo un marco común para crear, desplegar y gobernar agentes. En Estados Unidos, Jamie Dimon, presidente de JPMorgan Chase, recordó esta semana que su banco usa IA desde 2012 en riesgo y fraude, pero advirtió que la tecnología avanza «como un tsunami» y debe gestionarse. Según reportó Reuters, citado por Yahoo Finance, la Reserva Federal, la OCC y la FDIC están preguntando a los bancos por sus sistemas avanzados de IA y sus salvaguardas.",
+    "## Por qué importa en Panamá",
+    "Para un centro bancario como el panameño, la prevención del blanqueo de capitales no es un tema técnico: es reputación país. La Superintendencia de Bancos de Panamá (SBP) informó el 14 de octubre que en sus reuniones con la misión del FMI se revisó la implementación de las normas de 2026 sobre sanciones administrativas (Acuerdo 3-2026) y prevención del uso indebido (Acuerdo 1-2026), y que el Fondo subrayó la importancia de seguir fortaleciendo la integridad financiera.",
+    "En ese contexto, herramientas como la de FIS plantean una oportunidad y una responsabilidad. La oportunidad: liberar a los analistas de la recopilación mecánica para que dediquen su criterio a los casos complejos y reducir las colas de alertas sin revisar. La responsabilidad: cualquier banco que adopte agentes de IA en cumplimiento tendrá que demostrar que entiende cómo funcionan, que puede explicar cada decisión, que los datos de sus clientes están protegidos y que la última palabra la tiene una persona capacitada.",
+    "## Lo que significa para usted como cliente",
+    "Si su banco usa más IA para monitorear transacciones, algunas revisiones podrían ser más rápidas. Pero el principio no cambia: si su banco le pide documentar el origen de unos fondos o le consulta por una operación inusual, lo hace por obligación legal. Responda por los canales oficiales y desconfíe de cualquier mensaje que, en nombre de una supuesta «verificación antilavado», le pida contraseñas, PIN o códigos de un solo uso. Ningún banco legítimo los solicita.",
+    "La lección de esta semana es clara: la IA puede acelerar el trabajo de reunir evidencia, pero la responsabilidad de mirar, decidir y reportar sigue siendo humana. Este artículo es informativo y no evalúa ni recomienda ningún producto."
+  ]
+}

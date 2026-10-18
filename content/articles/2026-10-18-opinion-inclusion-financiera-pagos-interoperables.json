@@ -1,0 +1,59 @@
+{
+  "id": "opinion-inclusion-financiera-no-se-mide-en-cuentas-pagos-interoperables",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: la inclusión financiera no se mide en cuentas abiertas, sino en pagos que conecten a todos",
+  "date": "2026-10-18",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Panamá Banking News – De la banca tradicional a la inclusión digital: el papel de las Fintech en el futuro financiero de Panamá",
+      "url": "https://panamabankingnews.com/columna-de-opinion-y-analisis/de-la-banca-tradicional-a-la-inclusion-digital-el-papel-de-las-fintech-en-el-futuro-financiero-de-panama/",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "FinObservatory – Panama Financial Inclusion (datos del Global Findex 2025 del Banco Mundial)",
+      "url": "https://finobservatory.org/inclusion/PAN",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Banco de la República (Colombia) – Bre-B cumple un año transformando la forma de realizar pagos y transferencias en Colombia",
+      "url": "https://d1b4gd4m8561gs.cloudfront.net/es/noticias/bre-b-cumple-un-anio-en-colombia",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "EBANX – Colombia's Bre-B marks one year with faster adoption than Brazil's Pix, EBANX analysis finds",
+      "url": "https://business.ebanx.com/en/press-room/press-releases/colombias-bre-b-marks-one-year-with-faster-adoption-than-brazils-pix-ebanx-analysis-finds",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Banconómico – Yappy supera 1,8 millones de usuarios en Panamá",
+      "url": "https://www.banconomico.com/panama/economia-practica-pa/yappy-supera-18-millones-de-usuarios-en-panama/",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP establece nuevas reglas para fortalecer la seguridad y transparencia de las operaciones bancarias",
+      "url": "https://www.superbancos.gob.pa/node/1805",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "Panamá es un centro bancario internacional, con una economía dolarizada y uno de los ingresos por habitante más altos de la región. Y, sin embargo, una parte importante de su población sigue fuera del sistema financiero o lo usa muy poco. Una columna publicada este viernes en Panamá Banking News por Marcelo Deschamps, exfuncionario del Banco Central de Brasil, lo plantea con claridad: tener una cuenta no es lo mismo que estar incluido. Estoy de acuerdo, y creo que el debate merece datos y una propuesta concreta.",
+    "## Lo que dicen los números",
+    "Según el Global Findex 2025 del Banco Mundial, el 64.1 % de los adultos panameños tenía en 2024 una cuenta en un banco o con un proveedor de dinero móvil. La columna recuerda que el promedio de América Latina ronda el 73 %. El avance desde 2011, cuando la cifra era 24.9 %, es enorme, pero las brechas siguen ahí: 70.4 % de los hombres frente a 58.1 % de las mujeres; 73.9 % en zonas urbanas frente a 55.9 % en las rurales; 76.5 % en el 60 % más rico frente a 45.5 % en el 40 % más pobre.",
+    "El uso es todavía más revelador que el acceso. En la misma ronda, el 52.1 % de los adultos dijo haber hecho o recibido un pago digital; el 32.9 % ahorró en un banco o con dinero móvil, y apenas el 15.9 % obtuvo un préstamo por esas vías. Es decir, millones de personas tienen una cuenta que no se traduce en ahorro formal ni en crédito.",
+    "## La lección de Colombia",
+    "Mientras tanto, la vecina Colombia acaba de cumplir un año con Bre-B, su sistema de pagos inmediatos interoperable. Según el Banco de la República, en doce meses se realizaron más de 1,700 millones de transacciones; más de 36 millones de usuarios tienen al menos una «llave» registrada, y el 62 % de las operaciones es inferior a 50,000 pesos, señal de que se usa para pagos cotidianos. Antes de Bre-B, unas 25 entidades participaban en esquemas de pagos inmediatos; hoy hay 245 conectadas, incluidas más de 172 cooperativas.",
+    "Un análisis de la empresa de pagos EBANX estima que Bre-B ya llega al 83 % de los adultos colombianos, frente al 65 % que alcanzó Pix en Brasil tras su primer año. La clave, según esa misma fuente, fue una decisión de diseño: hacer obligatoria la interoperabilidad de las transferencias inmediatas para todas las instituciones y conectar los sistemas existentes en lugar de construir uno nuevo desde cero.",
+    "## Lo que tenemos en Panamá",
+    "En Panamá no partimos de cero. Yappy supera 1.8 millones de clientes y 34,000 comercios, tiene más de siete bancos conectados y otros cuatro en proceso, según declaraciones de su gerente general recogidas por Banconómico. Existen además las transferencias interbancarias inmediatas y las soluciones de cada banco. Son avances valiosos, logrados en gran medida por iniciativa privada.",
+    "Pero el cliente sigue teniendo que preguntarse si la persona a quien le va a pagar está en la misma red que él. Y el pequeño comercio todavía tiene que decidir cuántas herramientas de cobro ofrecer para no perder una venta. Cuando la interoperabilidad depende de acuerdos uno a uno, avanza, pero a un ritmo distinto del que se logra con reglas comunes para todos.",
+    "## Mi propuesta",
+    "Primero, medir mejor. Coincido con Deschamps en que el país necesita indicadores nacionales, frecuentes y desagregados por región, género, ingreso y edad, que midan no solo cuántas cuentas se abren, sino cuántas se usan, para qué y a qué costo. Sin esa base, cualquier meta de inclusión es un número optimista.",
+    "Segundo, conversar en serio sobre estándares comunes. No se trata de copiar un modelo ni de sustituir lo que ya funciona, sino de que bancos, billeteras, fintech y autoridades acuerden reglas mínimas para que cualquier persona pueda pagar a cualquier otra, de forma inmediata y segura, sin importar su banco. La experiencia de Colombia y Brasil muestra que la confianza crece cuando el sistema es simple y homogéneo para el usuario.",
+    "Tercero, que la seguridad crezca al mismo ritmo. Más pagos inmediatos significan también más oportunidades para el fraude. Medidas como la verificación del nombre del beneficiario antes de transferir, que la Superintendencia de Bancos ya ordenó con el Acuerdo 8-2026, van en la dirección correcta y deberían ser parte del diseño desde el inicio, no un parche posterior.",
+    "Desde los canales de atención se ve todos los días: el cliente no piensa en redes ni en sistemas, piensa en si su dinero llegó. La inclusión financiera real será aquella en la que una persona en un pueblo del interior pueda cobrar, ahorrar y pagar con la misma facilidad que alguien en la ciudad. Ese es el indicador que deberíamos perseguir.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

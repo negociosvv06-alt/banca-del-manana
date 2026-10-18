@@ -1,0 +1,51 @@
+{
+  "id": "tabla-amortizacion-cuota-costo-total-credito-acuerdo-9-2026",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "La tabla de amortización por dentro: cómo se calcula su cuota, cuánto paga de intereses y qué exigirá el modelo de la SBP",
+  "date": "2026-10-18",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Superintendencia de Bancos de Panamá – Acuerdo No. 9-2026 y su Anexo «Ejemplo de Tabla de Amortización»",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/acuerdos/2026/Acuerdo_09-2026.pdf",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-DR-CIRCULAR-2026-0103 (emisión del Acuerdo No. 9-2026)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0103.pdf",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP establece nuevas reglas para fortalecer la seguridad y transparencia de las operaciones bancarias",
+      "url": "https://www.superbancos.gob.pa/node/1805",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Nexo Capital – La Superintendencia de Bancos extiende el plazo y fija un modelo de tabla de amortización",
+      "url": "https://nexocapital.pa/articulo/sbp-tabla-amortizacion-transparencia-credito",
+      "date": "2026-10-09"
+    }
+  ],
+  "body": [
+    "Cuando firma un préstamo, la tabla de amortización es el documento que muestra, cuota por cuota, cuánto de su pago va a intereses, cuánto reduce la deuda y qué cargos adicionales se suman. La Superintendencia de Bancos de Panamá (SBP) acaba de publicar un modelo ilustrativo de esa tabla, y es una buena excusa para entender las matemáticas que hay detrás de cada cuota.",
+    "## Qué cambió en la norma",
+    "El Acuerdo No. 9-2026, del 22 de septiembre y publicado en la Gaceta Oficial el 8 de octubre según Nexo Capital, extiende hasta el 31 de marzo de 2027 la entrada en vigencia del Acuerdo No. 6-2026, que modifica las reglas de transparencia del Acuerdo No. 1-2011. Además, añade un anexo con un ejemplo de tabla de amortización. La SBP aclara que el modelo es ilustrativo, pero que los bancos deberán asegurarse de que sus tablas contemplen, como mínimo, los lineamientos del anexo.",
+    "Esos lineamientos piden mostrar: a) el monto desembolsado; b) el plazo y la periodicidad de las cuotas; c) la tasa de interés aplicable, su modalidad (por ejemplo, variable), la tasa de interés efectiva y la forma de cálculo; d) el monto de cada cuota con su desglose en capital, intereses y, cuando corresponda, seguros, comisiones y cargos recurrentes; e) el saldo antes y después de cada pago; f) la fecha o el número de cada cuota, y g) el costo total del crédito, definido como la diferencia entre el monto aprobado y el total por pagar. Las observaciones del anexo mencionan el FECI del 1 % cuando aplique, los seguros pactados (vida, robo, incendio), las comisiones (de manejo, de renovación) y otros cargos recurrentes como el ITBMS.",
+    "## La fórmula de la cuota fija",
+    "La mayoría de los préstamos de consumo e hipotecarios en cuotas iguales usa el llamado sistema francés. La cuota se calcula así: Cuota = P × i ÷ [1 − (1 + i)^−n], donde P es el capital prestado, i es la tasa de interés del periodo (la tasa anual dividida entre 12 si los pagos son mensuales) y n es el número de cuotas.",
+    "Cada mes, el interés se calcula sobre el saldo pendiente: Interés = saldo × i. Lo que sobra de la cuota después de pagar ese interés es lo que amortiza, es decir, lo que reduce la deuda. Como al principio el saldo es alto, los primeros pagos son casi todo interés; con el tiempo la proporción se invierte.",
+    "## El ejemplo de la SBP, en números",
+    "El anexo usa un préstamo de B/.148,500 a 30 años, con 360 cuotas mensuales de B/.843.17. El total de las cuotas suma B/.303,540, por lo que el costo total del crédito es de B/.155,040: más que el propio capital prestado. En la primera cuota, B/.680.63 son intereses y solo B/.162.54 reducen la deuda; es decir, cerca del 81 % del primer pago se va en intereses.",
+    "Un detalle útil para practicar: si se recalcula con la fórmula, una cuota de B/.843.17 y un primer interés de B/.680.63 son consistentes con una tasa nominal de 5.5 % anual, no con el 6.5 % que aparece en el cuadro de supuestos (a 6.5 %, la cuota sería de unos B/.938.62). La propia SBP advierte que el documento es solo ilustrativo; lo valioso es la estructura. Con la tasa de 5.5 %, según nuestro cálculo, el capital amortizado no supera al interés de la cuota hasta el pago número 210, en el año 18 del préstamo.",
+    "## Tasa nominal frente a tasa efectiva",
+    "La tasa nominal es la que se usa para calcular los intereses. La tasa efectiva refleja el costo anual cuando se considera la capitalización y, según la forma de cálculo que indica el anexo, también comisiones, seguros y otros cargos. Solo por capitalización mensual, una tasa nominal de 12 % equivale a una tasa efectiva de 12.68 %: (1 + 0.12 ÷ 12)^12 − 1. Si además se suman seguros y comisiones, la diferencia crece. En el ejemplo de la SBP, la tasa efectiva indicada es de 7.25 %. Al comparar préstamos, compare la tasa efectiva y el costo total, no solo la nominal.",
+    "## Un ejemplo propio: el efecto de un abono extraordinario",
+    "Supongamos un préstamo de B/.10,000 a 5 años (60 cuotas) con una tasa nominal de 12 % anual, sin seguros ni comisiones para simplificar. La cuota es de B/.222.44. En el primer mes, B/.100.00 son intereses y B/.122.44, capital. Al final habrá pagado B/.13,346.67: un costo total de B/.3,346.67.",
+    "Si en el mes 12, con un saldo de unos B/.8,447, hace un abono extraordinario de B/.1,000 a capital, tiene dos caminos. Si mantiene la cuota, terminaría de pagar en el mes 53 y los intereses totales bajarían a unos B/.2,782, un ahorro aproximado de B/.564. Si en cambio pide reducir la cuota y mantener el plazo, la nueva cuota sería de unos B/.196.11 y los intereses totales quedarían en unos B/.3,083, un ahorro cercano a B/.264. Acortar el plazo ahorra más intereses; bajar la cuota da más alivio mensual. Antes de abonar, revise en su contrato si existen cargos o condiciones para pagos anticipados.",
+    "## Cómo usar esto",
+    "Pida siempre la tabla completa antes de firmar y verifique que la suma de las cuotas coincida con el total por pagar. Revise qué seguros y comisiones se incluyen y si la tasa es fija o variable: en un crédito de tasa variable, la tabla inicial es una proyección que puede cambiar. Y si quiere hacer sus propios números, la calculadora de préstamos de Banca del Mañana le muestra la tabla mes a mes.",
+    "Este contenido es educativo. Los cálculos son ilustrativos, redondeados y no incluyen cargos que pueden aplicar en cada caso; no constituyen asesoría financiera. Consulte las condiciones exactas con su banco."
+  ]
+}

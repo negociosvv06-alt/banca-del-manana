@@ -1,0 +1,65 @@
+{
+  "id": "pymes-pagos-digitales-miedo-fraude-mastercard-panama-2026-10",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "El 97 % de las pymes ya cobra con medios digitales, pero la mitad dice que el miedo al fraude frena su crecimiento: qué puede hacer un comercio en Panamá",
+  "date": "2026-10-18",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "La Tribuna – Estudio regional: Preocupaciones sobre ciberseguridad obstaculiza crecimiento digital de PYMES",
+      "url": "https://www.latribuna.hn/2026/10/17/estudio-regional-preocupaciones-sobre-ciberseguridad-obstaculiza-crecimiento-digital-de-pymes/",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "The Gleaner – Cyber fears threaten SME growth despite digital payment boom – Mastercard",
+      "url": "https://jamaica-gleaner.com/article/news/20261008/cyber-fears-threaten-sme-growth-despite-digital-payment-boom-mastercard",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Tabulado – Mastercard propone conectar pagos digitales, financiamiento y ciberseguridad para las pymes",
+      "url": "https://www.tabulado.net/mastercard-propone-conectar-pagos-digitales-financiamiento-y-ciberseguridad-para-las-pymes/",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "DPL News – Panamá | BAC acelera la transformación digital de las empresas con el 'Pay Evolution Day'",
+      "url": "https://dplnews.com/panama-bac-acelera-la-transformacion-digital-de-las-empresas-con-el-pay-evolution-day/",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Vida Digital – BAC reúne a más de 200 empresarios en Pay-Volution para analizar el futuro de los pagos y la inteligencia artificial",
+      "url": "https://vidadigital.com.pa/bac-pay-volution-panama-pagos-inteligencia-artificial/",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "Banconómico – Yappy supera 1,8 millones de usuarios en Panamá",
+      "url": "https://www.banconomico.com/panama/economia-practica-pa/yappy-supera-18-millones-de-usuarios-en-panama/",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "Cobrar con tarjeta, con código QR o con una transferencia desde el celular ya es normal para la mayoría de los pequeños negocios de la región. El reto ahora es otro: hacerlo con tranquilidad. Un estudio regional de Mastercard, presentado esta semana en Centroamérica, lo pone en cifras: casi todas las pequeñas y medianas empresas (pymes) aceptan pagos digitales, pero muchas sienten que el riesgo de fraude y de ciberataques les impide crecer más.",
+    "## Lo que encontró el estudio",
+    "El informe «Perspectivas de Ciberseguridad para las PYME» (2026 SME Cybersecurity Outlook) encuestó en el segundo trimestre de 2026 a 2,400 propietarios y responsables de decisiones de pymes en 12 mercados de América Latina y el Caribe, entre ellos Panamá, junto con la firma de investigación PCMI. Sus principales hallazgos:",
+    "El 97 % de las pymes ya acepta pagos digitales.",
+    "El 51 % considera el fraude y los ciberataques como el mayor obstáculo para ampliar su uso de pagos digitales.",
+    "Cuatro de cada diez dicen que los riesgos cibernéticos retrasaron o frenaron la adopción de nuevas herramientas digitales o sistemas de pago, y casi un tercio pospuso su expansión al comercio electrónico o a nuevos mercados.",
+    "Aunque el 93 % dice estar familiarizado con la ciberseguridad, solo el 18 % se siente altamente preparado para proteger su negocio, y una de cada cinco empresas no tiene un plan de respuesta o recuperación ante un ataque.",
+    "Hay también una lectura optimista. Casi la mitad de los encuestados cree que una mejor protección contra el fraude podría ayudarle a crecer 25 % o más, y el 42 % ve en las ventas en línea y digitales una de sus mayores oportunidades para los próximos dos años. Al presentar el estudio en Tegucigalpa, el gerente de Mastercard para Guatemala, Honduras y El Salvador, Marvin Rodríguez, comentó que cerca del 35 % de las empresas de la región que usan medios de pago reportó incidentes de ciberseguridad en el último año, y aclaró que un incidente no significa necesariamente que el ataque se haya concretado.",
+    "## El contexto en Panamá",
+    "En el país, los cobros digitales para comercios crecen por varias vías. Yappy, por ejemplo, cuenta con más de 34,000 comercios, según Banconómico, desde grandes empresas hasta emprendedores, con herramientas como códigos QR, enlaces y botones de pago en línea. Su gerente general, Yolianna Alfaro, reconoció en declaraciones recogidas por Banconómico que todavía hay trabajo por hacer en educación financiera y digital, y que parte de la población sigue prefiriendo el efectivo.",
+    "Los bancos también están moviendo ficha. BAC Panamá realizó Pay-Volution, una convención con más de 200 líderes de pequeñas, medianas y grandes empresas, en alianza con Mastercard, con contenidos sobre transformación digital, ciberseguridad, automatización y eficiencia operativa. «La pregunta no es si la tecnología va a transformar sus negocios, porque esa transformación ya está ocurriendo», dijo Armando Balma, vicepresidente de banca personas y medios de pago de BAC Panamá.",
+    "Y hay un argumento menos visible a favor del cobro digital: la información. Ximena Baeza, vicepresidenta de Comercialización Pymes de Mastercard para la región, explicó en el Summit País Digital 2026 que sustituir el efectivo por pagos digitales genera trazabilidad, orden e historial, lo que puede acercar a la empresa al financiamiento de capital de trabajo.",
+    "## Cinco hábitos de seguridad para su negocio",
+    "Ninguna de estas medidas sustituye las recomendaciones de su banco o de su proveedor de pagos, pero ayudan a cerrar las puertas más comunes:",
+    "1. Confirme el pago en su propia app o en su estado de cuenta, no en una captura de pantalla. Una imagen enviada por el cliente no prueba que el dinero llegó.",
+    "2. Separe las finanzas del negocio de las personales. Además de ordenar sus cuentas, le ayuda a cumplir las condiciones de cada plataforma. Yappy, por ejemplo, considera comercio a un usuario personal que en dos meses consecutivos recibe más de 50 transacciones y más de US$10,000; ambas condiciones deben cumplirse.",
+    "3. Proteja los accesos. Active la verificación en dos pasos, no comparta contraseñas entre empleados y retire los accesos de quien deja de trabajar con usted. Ningún banco le pedirá por teléfono, WhatsApp o correo su contraseña, PIN o códigos de un solo uso.",
+    "4. Desconfíe de la urgencia. Supuestos proveedores que cambian «de último minuto» la cuenta donde deben recibir el pago, o mensajes que exigen actualizar datos para no perder su terminal, son señales clásicas de fraude. Verifique siempre por un canal que usted ya conoce.",
+    "5. Tenga un plan sencillo para cuando algo salga mal. Anote los teléfonos oficiales de su banco y de su proveedor de pagos, sepa cómo bloquear un acceso y quién en su negocio debe actuar. Una de cada cinco pymes de la región no tiene ese plan.",
+    "## La lectura de fondo",
+    "El estudio sugiere que el acceso a los pagos digitales ya no es el principal obstáculo para muchas pymes; la confianza sí lo es. Para los bancos, las billeteras y las redes de pago, eso significa que la próxima etapa de la digitalización no se gana solo con más terminales o más comercios afiliados, sino con educación, herramientas de prevención y atención rápida cuando hay un incidente. Para el pequeño empresario, el mensaje es práctico: cobrar digitalmente puede ayudarle a vender más y a construir historial, siempre que la seguridad forme parte del negocio desde el primer día.",
+    "Este artículo es informativo. Las condiciones, tarifas y límites de cada servicio de pago pueden cambiar; consúltelas directamente con su banco o proveedor."
+  ]
+}

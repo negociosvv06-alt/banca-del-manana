@@ -1,0 +1,63 @@
+{
+  "id": "fmi-apalancamiento-ia-liquidez-portafolio-2026-10",
+  "section": "inversiones",
+  "type": "analisis",
+  "title": "La deuda detrás del auge de la IA: lo que advierte el FMI sobre apalancamiento y liquidez, y qué revisar en su plan de inversión",
+  "date": "2026-10-18",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "FMI – Global Financial Stability Report, October 2026: Resilience, Risk, and Transformation",
+      "url": "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Blog del FMI – Global Financial Markets Face Rising Risks From AI, Bond Yields, and Cyberattacks",
+      "url": "https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "FMI – GFSR octubre 2026, Background Analysis 1.1: Rising Leverage in the AI Ecosystem",
+      "url": "https://www.imf.org/-/media/files/publications/gfsr/2026/october/english/backgroundanalysis11.pdf",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "FMI – Perspectivas de la economía mundial, octubre de 2026",
+      "url": "https://www.imf.org/es/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Bloomberg Línea – S&P 500 cae y el Nasdaq 100 sufre su mayor caída semanal desde 2025 ante dudas sobre la IA",
+      "url": "https://www.bloomberglinea.com/mercados/el-sp-500-opera-con-cautela-tras-una-semana-de-presion-tecnologica-y-dudas-sobre-la-fed/",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "XTB – Resumen de la semana: la tecnología se hunde, los bonos vuelven como refugio y Wall Street rota",
+      "url": "https://www.xtb.com/lat/analisis-y-noticias/analisis-de-mercado/resumen-de-la-semana-la-tecnologia-se-hunde-los-bonos-vuelven-como-refugio-y-wall-street-rota",
+      "date": "2026-10-16"
+    }
+  ],
+  "body": [
+    "El Fondo Monetario Internacional (FMI) publicó esta semana su Informe sobre la Estabilidad Financiera Mundial con un mensaje que conviene entender aunque usted no invierta en acciones tecnológicas: buena parte del auge de la inteligencia artificial (IA) se está financiando con deuda, y el apalancamiento puede convertir una corrección de precios en un problema mayor. Pocos días después, el mercado ofreció un ejemplo de por qué esa advertencia importa.",
+    "## Las tres amenazas que señala el FMI",
+    "Según el informe, presentado el 13 de octubre, los mercados se han mantenido resistentes gracias al crecimiento económico y a las buenas ganancias empresariales, pero los riesgos para la estabilidad financiera siguen siendo elevados. El FMI identifica tres que podrían endurecer bruscamente las condiciones financieras: una corrección de los precios de activos vinculados a la IA si la inversión o la rentabilidad del sector decepcionan; un alza fuerte de los rendimientos de los bonos soberanos por inflación o por preocupaciones fiscales, y ciberataques cada vez más sofisticados.",
+    "El contexto macro acompaña esa cautela. En sus Perspectivas de la economía mundial, el FMI proyecta que el crecimiento global se desacelere a 3.1 % en 2026 y que la inflación mundial suba a 4.7 % este año, con riesgos inclinados a la baja.",
+    "## El papel de la deuda en el auge de la IA",
+    "El punto más llamativo del informe es el apalancamiento. Los grandes operadores de centros de datos están emitiendo cada vez más deuda, y algunos inversionistas se endeudan para comprar acciones ligadas a la IA. El FMI revisó además 14 acuerdos de «financiamiento circular» entre empresas del sector desde 2023, en los que capital y préstamos circulan entre las propias empresas de la IA: encontró unos US$300,000 millones en inversiones de capital y US$650,000 millones en deuda, a cambio de compromisos de ingresos futuros por US$1.4 billones.",
+    "¿Por qué preocupa? Porque si una empresa clave de esa cadena enfrenta tensiones, pueden caer a la vez las proyecciones de ingresos, las valoraciones y el valor de la deuda acumulada. El análisis de respaldo del informe agrega que la aparición de modelos de IA de código abierto más baratos podría intensificar la competencia y presionar los márgenes, y que tasas de interés más altas son otro posible detonante.",
+    "## Lo que pasó en el mercado esta semana",
+    "El viernes 16 de octubre, de acuerdo con Bloomberg Línea, el S&P 500 acumuló una pérdida semanal de más de 2 % y el Nasdaq 100 registró su mayor caída semanal desde 2025, en medio de dudas sobre la rentabilidad de las inversiones en IA y un nuevo repunte del petróleo. El foco estuvo en CoreWeave, una empresa de infraestructura de centros de datos que depende de deuda de alto rendimiento: sus acciones llegaron a caer 14 % en la jornada después de que sus bonos cotizaran en niveles asociados con dificultades financieras. El índice de semiconductores de Filadelfia sumó ocho sesiones seguidas a la baja.",
+    "No todo cayó. El análisis semanal de XTB muestra una rotación: mientras el sector tecnológico del S&P 500 retrocedía 4.8 % en su conteo, consumo defensivo subía 3.9 % y salud 3.7 %, y los bonos del Tesoro volvieron a funcionar como refugio. Es decir, el golpe se concentró donde más se había apostado.",
+    "## Liquidez: el otro riesgo que menciona el FMI",
+    "El informe también alerta sobre la liquidez fuera de los bancos. Fondos de pensiones y aseguradoras han aumentado su exposición a activos poco líquidos y a derivados, y algunos fondos de crédito privado se comprometieron a prestar dinero a pedido de sus clientes. Si las condiciones se endurecen, esos clientes podrían retirar fondos justo cuando los propios fondos enfrentan presión. En la banca, el FMI estima que, en su escenario adverso, bancos con el 22 % de los activos bancarios mundiales quedarían con capital por debajo de los mínimos regulatorios, frente al 18 % de hace un año. Para los mercados emergentes, señala que las primas de riesgo siguen comprimidas, pero que los choques recientes han reducido sus colchones.",
+    "## Qué puede revisar usted",
+    "Esto no es una predicción de caída ni una invitación a vender o comprar. Es un recordatorio de preguntas básicas que todo inversionista, grande o pequeño, debería poder responder:",
+    "1. ¿Cuánto de mi portafolio depende del mismo tema? Muchos fondos indexados y ETF globales tienen un peso importante en tecnología. Revise la composición de lo que ya tiene antes de agregar más de lo mismo.",
+    "2. ¿Estoy invirtiendo con dinero prestado? Comprar con margen o con un préstamo amplifica las ganancias, pero también las pérdidas, y puede obligarle a vender en el peor momento. Es justamente el mecanismo que preocupa al FMI.",
+    "3. ¿Qué tan rápido puedo recuperar mi dinero? Lea las condiciones de rescate de cada fondo. Un producto que invierte en activos poco líquidos puede limitar o retrasar los retiros en momentos de estrés.",
+    "4. ¿Mi horizonte coincide con el riesgo? El dinero que necesitará en los próximos meses, como su fondo de emergencia, no debería estar expuesto a la volatilidad de la bolsa.",
+    "5. ¿Mi intermediario está autorizado? En Panamá, verifique que la casa de valores o el asesor tenga licencia de la Superintendencia del Mercado de Valores (SMV).",
+    "Advertencia. Este contenido es educativo e informativo, no constituye asesoría de inversión ni una recomendación sobre ningún valor, y no promete rendimientos. Los precios de las inversiones pueden subir o bajar, y los resultados pasados no garantizan resultados futuros. Si lo necesita, consulte a un profesional con licencia de la SMV."
+  ]
+}
