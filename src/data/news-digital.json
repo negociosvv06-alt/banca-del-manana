@@ -1,5 +1,138 @@
 [
   {
+    "id": "jpmorgan-jpm-coin-ethereum-institucional",
+    "title": "JPMorgan lleva su token de depósitos JPM Coin a Ethereum para clientes institucionales",
+    "summary": "Kinexys, la unidad de blockchain de JPMorgan, anunció el 19 de octubre que su token de depósitos en dólares JPM Coin (JPMD), lanzado en noviembre de 2025 en la red Base, ya funciona también en Ethereum para clientes institucionales. El token representa depósitos bancarios existentes del banco y permite transferencias entre redes compatibles con Ethereum. JPMorgan indicó que Kinexys acumula más de 4 billones de dólares en transacciones, con un promedio de 7.000 millones diarios. El banco subraya que JPMD es un depósito tokenizado y no una stablecoin.",
+    "date": "2026-10-19",
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "depósitos tokenizados",
+      "tokenización",
+      "Ethereum",
+      "banca"
+    ]
+  },
+  {
+    "id": "allium-pagos-stablecoins-crecen-45-por-ciento",
+    "title": "Los pagos con stablecoins crecen 45 % en 2026 aunque la oferta en circulación casi no sube",
+    "summary": "Un informe de la firma de análisis Allium, citado por CoinDesk, indica que los pagos con stablecoins sumaron 482.000 millones de dólares entre enero y septiembre de 2026, un 45 % más que un año antes, y que el número de pagos superó los 1.000 millones. En cambio, el valor total en circulación rondaba los 305.000 millones a fines de septiembre, apenas 0,4 % más que en enero. El gasto con tarjetas vinculadas a stablecoins llegó a 3.900 millones. Ese mismo período, Mastercard, Visa y Stripe anunciaron servicios que combinan stablecoins con sus redes de pago tradicionales.",
+    "date": "2026-10-18",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Internacional",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos",
+      "tarjetas",
+      "banca"
+    ]
+  },
+  {
+    "id": "okx-ice-acciones-tokenizadas-objeciones-emisores",
+    "title": "Broadcom, Verizon y otras empresas se oponen a que sus acciones se negocien tokenizadas en OKX-ICE",
+    "summary": "Nueve empresas, entre ellas Broadcom, Verizon y UnitedHealth, objetaron que sus acciones se negocien en la plataforma de acciones tokenizadas que preparan OKX e Intercontinental Exchange (dueña de la Bolsa de Nueva York), según un aviso público del 15 de octubre. La plataforma operaría bajo la exención temporal de cinco años que la SEC aprobó el 17 de septiembre, con negociación las 24 horas y liquidación en stablecoins. Nasdaq también dijo que no quiere que sus propias acciones se tokenicen. Analistas de TD Securities señalan que depender de una exención temporal frena la inversión institucional.",
+    "date": "2026-10-18",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "acciones tokenizadas",
+      "SEC",
+      "regulación"
+    ]
+  },
+  {
+    "id": "sec-regulation-crypto-assets-cierre-comentarios",
+    "title": "Cierra el 20 de octubre el período de comentarios de la propuesta «Regulation Crypto Assets» de la SEC",
+    "summary": "La propuesta de la SEC presentada el 18 de agosto crearía dos exenciones para ofertas de contratos de inversión vinculados a criptoactivos: una de hasta 5 millones de dólares en cuatro años y otra de hasta 75 millones en cada período de 12 meses, además de un puerto seguro condicionado. El presidente de la SEC, Paul Atkins, insiste en que reglas duraderas dependen del Congreso a través de la Ley CLARITY, que no superó una votación de procedimiento en el Senado el 15 de septiembre (49 a 50). La SEC aún no ha aprobado la regla final.",
+    "date": "2026-10-18",
+    "source": "TokenPost",
+    "url": "https://www.tokenpost.com/news/regulation/34307",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "SEC",
+      "regulación",
+      "Ley CLARITY",
+      "criptoactivos"
+    ]
+  },
+  {
+    "id": "emiratos-singapur-cooperacion-cbdc-pagos-qr",
+    "title": "Los bancos centrales de Emiratos Árabes Unidos y Singapur ampliarán su cooperación en monedas digitales",
+    "summary": "El Banco Central de Emiratos Árabes Unidos y la Autoridad Monetaria de Singapur acordaron extender su cooperación a las monedas digitales de banco central (CBDC), los pagos transfronterizos con códigos QR y las finanzas verdes. El encuentro se celebró en Bangkok, durante las reuniones anuales del FMI y el Banco Mundial. Emiratos prepara el lanzamiento por fases de su Dírham Digital, que funcionará con un modelo de dos niveles: el banco central emite y las entidades financieras con licencia lo distribuyen a través de billeteras digitales.",
+    "date": "2026-10-18",
+    "source": "Khaleej Times",
+    "url": "https://www.khaleejtimes.com/business/uae-singapore-plan-digital-payments-through-cbdc-qr-codes",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Emiratos Árabes Unidos / Singapur",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "bancos centrales",
+      "pagos transfronterizos",
+      "banca"
+    ]
+  },
+  {
+    "id": "world-id-suite-bancos-deepfakes",
+    "title": "World, el proyecto de identidad de Sam Altman, lanza una versión de World ID para bancos contra fraudes con deepfakes",
+    "summary": "World presentó en la conferencia Money20/20 un paquete de verificación de identidad dirigido a bancos y empresas financieras, que reúne su app World ID, una verificación para detectar participantes falsos en llamadas de Zoom y una herramienta para delegar pruebas de identidad a agentes de inteligencia artificial. Nombró como socios de diseño a OpenExchange, Bain Capital, VanEck Funds y Outtake, pero no identificó a ningún banco que ya use el producto ni su precio. El proyecto está ligado al token WLD.",
+    "date": "2026-10-18",
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Internacional",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "identidad digital",
+      "fraude",
+      "inteligencia artificial",
+      "banca"
+    ]
+  },
+  {
+    "id": "wageen-tokens-deuda-el-salvador-panama",
+    "title": "La plataforma panameña de transporte Wageen busca hasta US$20 millones con deuda tokenizada inscrita en El Salvador",
+    "summary": "Financiero News informó que Wageen, plataforma de movilidad panameña, ofrece la emisión de activos digitales WAG1: hasta 20 millones de tokens de 1 dólar, a cinco años y con una tasa fija anual del 11 %. La emisión se inscribió el 23 de enero de 2026 ante la Comisión Nacional de Activos Digitales de El Salvador, porque Panamá aún no tiene un marco específico para este tipo de ofertas. Los fondos se destinarían a tecnología, operaciones y expansión. El caso muestra cómo empresas panameñas buscan financiamiento fuera de la banca tradicional mediante tokens.",
+    "date": "2026-10-17",
+    "source": "Financiero News",
+    "url": "https://www.financieronews.com/post/wageen-busca-captar-us-20-millones-con-tokens-digitales-que-ofrecen-11-de-inter%C3%A9s",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "deuda tokenizada",
+      "El Salvador",
+      "Panamá"
+    ]
+  },
+  {
     "id": "goldman-wells-morgan-tokenizacion-crecimiento",
     "title": "Goldman Sachs, Wells Fargo y Morgan Stanley ven la tokenización como oportunidad de negocio",
     "summary": "En sus llamadas de resultados del tercer trimestre, tres grandes bancos de Wall Street explicaron su visión sobre la tokenización. El CEO de Goldman, David Solomon, dijo que podría generar más productos y actividad de trading, aunque por ahora es «pequeña y marginal». El CFO de Wells Fargo afirmó que sus depósitos tokenizados ya procesan pagos transfronterizos en producción, con abonos en dos minutos o menos y bajo volumen. Morgan Stanley cree que mover activos con más rapidez aumentará la demanda de asesoría patrimonial. Ninguno cuantificó ingresos.",
