@@ -1,0 +1,57 @@
+{
+  "id": "opinion-transparencia-costo-total-credito-canales-2026-10",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: la transparencia bancaria no se cumple con entregar la tabla, se cumple cuando el cliente la entiende",
+  "date": "2026-10-19",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Mirada Económica – Bancos obligados a transparentar todos sus cobros con nueva regulación",
+      "url": "https://miradaeconomica.com/bancos-obligados-a-transparentar-todos-sus-cobros-con-nueva-regulacion/",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP establece nuevas reglas para fortalecer la seguridad y transparencia de las operaciones bancarias",
+      "url": "https://www.superbancos.gob.pa/node/1805",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Acuerdo No. 6-2026",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/acuerdos/2026/Acuerdo_06-2026.pdf",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-DR-2026-0103, emisión del Acuerdo No. 9-2026",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0103.pdf",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Sencillo – Tasas de tarjetas de crédito en Panamá, septiembre 2026 (tasas reportadas a la SBP)",
+      "url": "https://www.getsencillo.com/tasas/tarjetas-de-credito",
+      "date": "2026-10-19"
+    }
+  ],
+  "body": [
+    "Este fin de semana, Mirada Económica publicó un repaso de las obligaciones de transparencia que la normativa panameña impone a los bancos: comunicar de forma gratuita, clara y comprensible tasas, comisiones, recargos y cargos de terceros; entregar la tabla de amortización con el costo total del crédito; avisar antes de cambiar condiciones; mostrar en pantalla el costo de una operación en el cajero antes de hacerla. El artículo cierra con una frase que comparto plenamente: la información clara no es un favor del banco, es una condición para que el consumidor decida con conocimiento.",
+    "Quiero sumar una idea desde la experiencia de los canales de atención: la transparencia no termina cuando el documento se entrega. Empieza ahí.",
+    "## Las reglas ya están escritas",
+    "La Superintendencia de Bancos ha hecho su parte. El Acuerdo 6-2026 modificó el artículo 9 del Acuerdo 1-2011 para detallar qué debe contener la tabla de amortización: el capital, el plazo, la tasa nominal y la efectiva con su forma de cálculo, el desglose de cada cuota en capital, intereses, seguros y comisiones, el saldo antes y después de cada pago y el costo total del crédito. Exige, además, que el banco aclare las dudas del cliente y entregue sin costo una tabla recalculada cuando cambien la tasa o las condiciones.",
+    "En octubre, la SBP comunicó el Acuerdo 9-2026, que extiende la entrada en vigor del Acuerdo 6-2026 hasta el 31 de marzo de 2027 para dar a los bancos más tiempo de adecuar procesos y sistemas, y añade un modelo ilustrativo de tabla de amortización como referencia. Es una decisión razonable: cambiar sistemas toma tiempo y es mejor hacerlo bien.",
+    "Pero ese plazo adicional también es una oportunidad. Los bancos no necesitan esperar a marzo de 2027 para practicar lo esencial: explicar.",
+    "## Lo que se ve desde el canal",
+    "En un centro de contacto, muchas llamadas que parecen reclamos son, en realidad, preguntas que nadie respondió a tiempo. ¿Por qué mi cuota subió? ¿Por qué debo más de lo que pedí? ¿Qué es este cargo? Casi siempre la información existía, pero estaba en un contrato largo o en un documento que el cliente firmó sin entender.",
+    "Ahí está el punto. Un documento técnicamente completo puede seguir siendo opaco para quien lo recibe. La tasa efectiva, el costo total y el peso de los seguros dentro de la cuota son conceptos que muchas personas no manejan, y no tienen por qué manejarlos si nadie se los explica con palabras sencillas.",
+    "Las diferencias que están en juego no son menores. Según la tabla que publica Sencillo con las tasas que los bancos reportaron a la SBP en septiembre, la tasa nominal de las tarjetas de crédito iba de 9 % a 26.52 %. Para una familia que arrastra un saldo, entender esa diferencia y cómo se calcula lo que paga puede significar cientos de dólares al año.",
+    "## Mi propuesta",
+    "Primero, una explicación en lenguaje claro junto con cada tabla. Un resumen de una página, al inicio, con tres datos destacados: cuánto recibe, cuánto pagará en total y cuánto de cada cuota se va en intereses y seguros al principio del crédito. Si el cliente solo lee eso, ya sabe lo más importante.",
+    "Segundo, preparar a los canales. Los asesores de sucursal, de banca telefónica y de WhatsApp deben poder explicar una tabla de amortización con la misma soltura con la que explican un saldo. Eso es formación, guiones claros y herramientas que muestren al cliente su propio caso, no uno genérico.",
+    "Tercero, avisos que se entiendan. Cuando cambia una tasa variable, la notificación debería decir en una línea cuánto cambia la cuota y cuánto el costo total, además de adjuntar la tabla recalculada que exige la norma.",
+    "Cuarto, medir la comprensión, no solo la entrega. Las encuestas después de un desembolso pueden incluir una pregunta simple: ¿sabe cuánto pagará en total por su préstamo? Si la respuesta es no, el proceso tiene algo que mejorar, aunque el expediente esté completo.",
+    "## Una ventaja, no una carga",
+    "Algunos verán estas obligaciones como un costo regulatorio más. Yo las veo como una ventaja competitiva. El cliente que entiende lo que firmó llama menos con reclamos, confía más y se queda más tiempo. La transparencia bien hecha reduce contactos evitables y mejora la relación, que es exactamente lo que cualquier banco busca.",
+    "La regla ya está escrita y el plazo está definido. Lo que falta, y no depende de ningún acuerdo, es la decisión de que cada cliente salga de la conversación sabiendo cuánto pagará, por qué y qué alternativas tiene.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

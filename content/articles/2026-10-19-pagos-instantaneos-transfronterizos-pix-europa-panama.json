@@ -1,0 +1,66 @@
+{
+  "id": "pagos-instantaneos-transfronterizos-pix-europa-panama-2026-10",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "Los pagos instantáneos empiezan a cruzar fronteras y a abrirse a las fintech: lo que muestran Brasil, Europa y Paraguay, y la tarea pendiente de Panamá",
+  "date": "2026-10-19",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "JusConsulta – Banco Central busca conectar Pix ao sistema de pagamentos da Europa",
+      "url": "https://www.jusconsulta.com.br/noticias/banco-central-busca-conectar-pix-ao-sistema-de-pagamentos-da-europa",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Rate Brief – ECB, EBA and EEA authorities sign an MoU on non-bank access to central-bank payment systems",
+      "url": "https://ratebrief.org/news/euro/ecb-eba-ncb-nsa-mou-non-bank-psp-access-central-bank-payment-systems-psd2/",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Banco Central Europeo – Memorandum of Understanding on information sharing in support of the access of non-bank payment service providers",
+      "url": "https://www.ecb.europa.eu//pub/pdf/other/ecb.2026-10-16_MoU.en.pdf",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "muchotexto.net – Paraguay proyecta conectar sus pagos",
+      "url": "https://muchotexto.net/articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Panamá Banking News – Banco Nacional impulsa interoperabilidad de pagos instantáneos y avanza hacia esquema 24/7",
+      "url": "https://panamabankingnews.com/fintech/banco-nacional-impulsa-interoperabilidad-de-pagos-instantaneos-y-avanza-hacia-esquema-24-7/",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "Nexo – Yappy, ACH y Kuara: el puente para que se hablen ya tiene fecha",
+      "url": "https://nexo.la/interoperabilidad-pagos-riel-banco-nacional/",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Empresas de Remesas (registro actualizado al 15 de septiembre de 2026)",
+      "url": "https://www.superbancos.gob.pa/otros-sujetos/empresas-remesas",
+      "date": "2026-10-19"
+    }
+  ],
+  "body": [
+    "Durante años, la conversación sobre pagos instantáneos fue doméstica: cómo lograr que una persona le pague a otra en segundos dentro de su propio país. Las noticias de los últimos días muestran que la agenda ya es otra. Los bancos centrales están estudiando cómo conectar sus sistemas entre países y cómo abrirlos, con controles, a proveedores que no son bancos. Para Panamá, que todavía trabaja en que sus propias billeteras se hablen entre sí, estas señales sirven como mapa de lo que viene.",
+    "## Brasil y Europa: Pix y TIPS, en fase técnica",
+    "Según reportó el portal brasileño JusConsulta el 16 de octubre, el director de regulación del Banco Central de Brasil, Gilneu Vivan, viajó a Frankfurt para reunirse con el Banco Central Europeo (BCE) y avanzar en los estudios sobre una posible conexión entre Pix, el sistema de pagos instantáneos brasileño, y TIPS, la plataforma de liquidación de pagos instantáneos del Eurosistema. Ambas instituciones anunciaron en septiembre una evaluación conjunta de viabilidad que examina aspectos operativos, jurídicos y de negocio.",
+    "Es importante no exagerar el alcance: la nota aclara que el anuncio no significa que la operación conjunta haya comenzado y que ninguna de las dos instituciones fijó plazo para decidir. Si avanzara, las transferencias entre Brasil y la zona del euro podrían hacerse en segundos y en moneda local, con menos intermediarios. La misma fuente indica que el BCE explora conexiones similares con India y Suiza y participa en Nexus, la iniciativa coordinada por el Banco de Pagos Internacionales para interconectar sistemas nacionales.",
+    "## Europa: reglas para que los no bancos entren al sistema",
+    "El 16 de octubre, el BCE, la Autoridad Bancaria Europea y supervisores y bancos centrales del Espacio Económico Europeo firmaron un memorando de entendimiento para compartir información sobre los proveedores de pagos no bancarios que acceden a los sistemas operados por bancos centrales. Como explica Rate Brief, no es una regla nueva, sino un marco operativo: el banco central concede el acceso, pero la autorización del proveedor la vigila el supervisor, y sin un canal entre ambos podría ocurrir que una empresa con licencia suspendida siguiera operando. El memorando define qué información se comparte, cuándo y cómo.",
+    "La lección es sencilla: abrir la infraestructura de pagos a fintech y otras entidades puede ampliar la competencia y el acceso, pero exige coordinación estrecha entre quien opera el sistema y quien supervisa a los participantes.",
+    "## Paraguay: un sistema propio que quiere salir al exterior",
+    "En Sudamérica, el portal paraguayo muchotexto.net publicó el 16 de octubre un análisis de la hoja de ruta del Banco Central del Paraguay. Según esa publicación, el sistema de pagos paraguayo liquidó en 2025 el equivalente a 160,010 millones de dólares, más de tres veces el PIB del país, y su módulo instantáneo concentra el 97.2 % de las operaciones. Hoy participan 138 entidades, entre ellas 71 cooperativas, y el pago entre personas es gratuito. Un código QR interoperable debutó en julio de 2026.",
+    "El plan incluye llevar el sistema a más comercios, al pago de impuestos y estudiar una conexión con Pix. Pero la misma fuente es cauta: no hay acuerdo firmado y el sector estima que una integración oficial no llegaría antes de 2030. Mientras tanto, empresas privadas ya permiten a comercios paraguayos cobrar con Pix. El análisis concluye que el principal obstáculo es regulatorio, no tecnológico: topes por transacción, validación de identidad y prevención del lavado de dinero entre jurisdicciones.",
+    "## ¿Y Panamá?",
+    "Panamá tiene piezas importantes, pero todavía fragmentadas. En agosto, el gerente general del Banco Nacional de Panamá, Javier Carrizo Esquivel, explicó que la entidad trabaja en un riel público de pagos que complemente el riel privado existente, con miras a incluir a fintech, cooperativas y financieras que hoy no forman parte del grupo principal de bancos. Según Panamá Banking News, el sistema de liquidación bruta en tiempo real amplió su ventana de tres a cinco sesiones diarias, y la meta declarada es operar las 24 horas, los siete días de la semana. El banco también mencionó que trabaja en soluciones de pagos transfronterizos, sin detallar plazos.",
+    "Por su parte, el medio Nexo recogió que el superintendente de Bancos, Milton Ayón, puso como meta cerrar la interoperabilidad este año y, en el peor de los casos, en 2027. Nexo resume el estado actual así: cada billetera alcanza solo a los bancos de su red, y si el destinatario está fuera, la transferencia cae al ACH tradicional y el dinero aparece el día hábil siguiente. ACH Xpress, con 21 bancos conectados y un límite de 5,000 dólares por operación según esa fuente, sigue siendo el riel más amplio.",
+    "## Lo que el usuario panameño puede esperar, y lo que puede hacer hoy",
+    "Las experiencias de Brasil, Europa y Paraguay apuntan a tres condiciones para que un sistema de pagos funcione para todos: reglas comunes que todos los participantes cumplan, acceso abierto pero supervisado para nuevos actores, y seguridad incorporada desde el diseño. Panamá ya dio un paso en la tercera con el Acuerdo 8-2026 de la Superintendencia de Bancos, que exige validar los datos del beneficiario antes de una transferencia nacional.",
+    "Mientras la interoperabilidad total llega, conviene que el usuario conozca qué red usa su banco y la del destinatario, cuáles son los límites y horarios de cada opción, y si la transferencia será inmediata o al día hábil siguiente. Si envía dinero al exterior, use bancos o empresas de remesas que figuren en el registro de la Superintendencia de Bancos y compare el costo total, incluido el tipo de cambio que se aplique. Y, como siempre, verifique el nombre del beneficiario antes de confirmar.",
+    "El mundo de los pagos se está conectando. La pregunta para Panamá ya no es si sus billeteras se hablarán entre sí, sino cuán rápido y con qué reglas, y si el país estará listo cuando las conexiones crucen sus fronteras.",
+    "Contenido informativo y educativo elaborado con asistencia de IA a partir de las fuentes citadas. No constituye recomendación sobre ningún proveedor de pagos."
+  ]
+}

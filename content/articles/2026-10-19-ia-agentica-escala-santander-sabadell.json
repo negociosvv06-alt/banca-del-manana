@@ -1,0 +1,48 @@
+{
+  "id": "ia-agentica-escala-santander-nvidia-sabadell-2026-10",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "De la prueba piloto a todo el banco: Santander y Sabadell aceleran la IA agéntica, y qué lecciones deja para la banca en Panamá",
+  "date": "2026-10-19",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Forbes España – Santander se alía con Nvidia para extender la inteligencia artificial a todo el banco",
+      "url": "https://forbes.es/empresas/1048174/santander-se-alia-con-nvidia-para-extender-la-inteligencia-artificial-a-todo-el-banco/",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "RRHH Digital – Banco Sabadell y T-Systems sellan un acuerdo para la adopción de IA agéntica a escala y con soberanía tecnológica",
+      "url": "https://www.rrhhdigital.com/secciones/empresa/803842/banco-sabadell-y-t-systems-sellan-un-acuerdo-para-la-adopcion-de-ia-agentica-a-escala-y-con-soberania-tecnologica/",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Posicionamiento Web – Galicia lanza su banca agéntica para transformar la atención con IA",
+      "url": "https://www.posicionamiento-web.ar/2026/10/17/galicia-lanza-su-banca-agentica-para-transformar-la-atencion-con-ia/",
+      "date": "2026-10-17"
+    }
+  ],
+  "body": [
+    "Durante dos años, buena parte de la banca mundial habló de inteligencia artificial en tiempo futuro: laboratorios, pilotos y pruebas de concepto. Las noticias de este fin de semana muestran un cambio de fase. Dos de los mayores grupos bancarios de España anunciaron acuerdos para llevar la IA, y en particular la llamada IA agéntica, del laboratorio al funcionamiento diario de toda la organización. En Argentina, el Banco Galicia comunicó una estrategia de «banca agéntica». Para quien sigue la banca en Panamá, lo interesante no es solo el anuncio, sino cómo están planteando el control, el costo y la supervisión.",
+    "## Santander: medir antes de escalar",
+    "Según Forbes España, Banco Santander firmó un acuerdo de colaboración de tres años con Nvidia, la empresa especializada en chips y computación para IA, con el objetivo de extender estas soluciones a todo el banco. La alianza se enmarca en su plan estratégico 2026-2028, en el que el grupo se fijó la meta de generar más de 1,000 millones de euros de valor de negocio con IA, mediante una combinación de nuevos ingresos y ahorros.",
+    "El detalle más útil para otros bancos es el método. A través del Santander AI Lab, el banco usa una plataforma llamada Model Arena para comparar modelos de IA, medir su rendimiento y escoger el más adecuado para cada tarea. La idea es no depender de modelos demasiado grandes y costosos cuando uno más pequeño y especializado puede resolver lo mismo. Forbes reporta que, en determinadas interacciones, esas pruebas redujeron el costo de ejecución de unos cinco euros a tres céntimos, manteniendo resultados satisfactorios.",
+    "El acuerdo contempla llevar estas capacidades a la prevención del fraude y del blanqueo de capitales, a la toma de decisiones en tiempo real y al desarrollo de agentes de IA capaces de ejecutar tareas bancarias. Según la misma fuente, antes de desplegarse, estas herramientas pasan por evaluaciones y pruebas en entornos controlados. Del lado del cliente, Santander trabaja en asistentes conversacionales para que una persona pueda preguntar por voz cuánto gastó en una categoría o localizar un movimiento concreto, en lugar de navegar por menús.",
+    "## Sabadell: gobierno común y sin depender de un solo proveedor",
+    "Banco Sabadell, que se presenta como el cuarto grupo bancario de España y atiende a siete millones de clientes, anunció un acuerdo con T-Systems, la división de servicios digitales del Grupo Deutsche Telekom. De acuerdo con la nota publicada por RRHH Digital, el banco usará la plataforma de IA agéntica de T-Systems para desplegar casos de uso que puedan extenderse a otros procesos y entidades del grupo «manteniendo un marco homogéneo de seguridad, gobierno y supervisión».",
+    "Dos ideas destacan en ese anuncio. La primera es que la plataforma está pensada para gobernar y controlar agentes creados con distintas tecnologías y modelos, y para integrarlos con los sistemas del banco cumpliendo los requisitos normativos. La segunda es la arquitectura abierta, que busca evitar la dependencia de un único proveedor y permite escoger modelos e infraestructura según rendimiento, costo, seguridad, criticidad y cumplimiento. El banco también menciona el enfoque de nube «soberana», es decir, mayor control sobre dónde están sus datos y sus operaciones críticas.",
+    "## Galicia: el anuncio llega antes que el detalle",
+    "En Argentina, Galicia comunicó el lanzamiento de una estrategia de banca agéntica basada en IA generativa para optimizar sus servicios y transformar la atención en canales digitales y sucursales. La nota que recoge el anuncio advierte algo importante: la información disponible no detalla qué productos estarán alcanzados, qué operaciones podrá realizar la tecnología ni bajo qué controles funcionará. Es un buen recordatorio de que «agéntico» es hoy una palabra de moda, y que lo relevante para el cliente es qué puede hacer exactamente el sistema y quién responde si se equivoca.",
+    "## Qué es la IA agéntica, en palabras simples",
+    "Un asistente tradicional responde preguntas. Un agente de IA, en cambio, puede encadenar pasos: interpretar lo que se le pide, consultar información y ejecutar acciones dentro de límites definidos. En un banco, eso puede ir desde preparar un expediente para un analista hasta iniciar una gestión en nombre del cliente. Por eso los tres anuncios coinciden, con distinto nivel de detalle, en un mismo punto: el valor no está solo en el modelo, sino en la capa de control que decide qué puede hacer el agente, lo registra y permite detenerlo.",
+    "## Lecciones para la banca en Panamá",
+    "Primero, medir el costo por tarea. El ejemplo de Santander muestra que escoger el modelo adecuado para cada uso puede cambiar por completo la economía de un proyecto. Para bancos de tamaño mediano, como la mayoría de los que operan en Panamá, esa disciplina puede ser la diferencia entre un piloto que se queda en la gaveta y un servicio que llega a todos los clientes.",
+    "Segundo, gobernar antes de escalar. Tanto Sabadell como Santander hablan de marcos homogéneos de supervisión y de pruebas en entornos controlados antes del despliegue. Es la misma línea que han planteado los supervisores internacionales y que este portal ha seguido en semanas recientes: límites claros, trazabilidad y la posibilidad de que una persona intervenga.",
+    "Tercero, empezar por donde el beneficio es claro y el riesgo, acotado. La prevención del fraude, el apoyo a los equipos de cumplimiento y las consultas de información del propio cliente son usos donde la IA puede ahorrar tiempo sin tomar decisiones finales sobre el dinero de las personas.",
+    "Cuarto, explicar al cliente. Si un banco anuncia banca agéntica, el usuario merece saber qué tareas hará el sistema, qué no hará, cómo se protege su información y cómo hablar con una persona cuando lo necesite.",
+    "## Lo que conviene vigilar",
+    "Ninguno de estos anuncios significa que la IA vaya a reemplazar la atención humana ni que los clientes vayan a delegar sus finanzas en un robot de la noche a la mañana. Lo que sí indican es que los grandes bancos ya pasaron de preguntarse si usar IA a preguntarse cómo hacerlo de forma rentable y controlada. La pregunta para la región es si la adopción irá acompañada de la misma inversión en gobierno, seguridad y transparencia que exhiben estos anuncios.",
+    "Contenido informativo y educativo elaborado con asistencia de IA y revisado con base en las fuentes citadas. No constituye recomendación sobre ninguna entidad ni producto."
+  ]
+}
