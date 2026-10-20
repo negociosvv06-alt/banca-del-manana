@@ -1,5 +1,82 @@
 [
   {
+    "id": "fmi-deuda-panama-perspectivas-2026-10",
+    "title": "FMI advierte sobre el encarecimiento de la deuda: Panamá crecería 5 % en 2026 y 4,2 % en 2027",
+    "summary": "Al cierre de las Reuniones Anuales en Bangkok, el FMI alertó que el alza de los costos de financiamiento a largo plazo, sumada a deudas elevadas y altas necesidades de refinanciamiento, deja a los gobiernos más expuestos a los mercados. Para Panamá proyecta un crecimiento de 5 % en 2026 y 4,2 % en 2027. Según el MEF, la deuda pública cerró septiembre en USD 62.777 millones, USD 859,2 millones más que en agosto, y el déficit a agosto equivale a 3,56 % del PIB estimado, levemente por encima de la meta anual de 3,5 %.",
+    "date": "2026-10-20",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/economia/las-advertencias-del-fmi-para-latinoamerica-y-panama-el-manejo-de-la-deuda/",
+    "category": "economia",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "FMI",
+      "deuda pública",
+      "crecimiento",
+      "MEF",
+      "finanzas públicas"
+    ]
+  },
+  {
+    "id": "moodys-dolarizacion-banca-panama-2026-10",
+    "title": "Moody’s: la dolarización da estabilidad a la banca panameña pero limita su respuesta ante episodios de estrés",
+    "summary": "Moody’s Ratings señala que el crédito al sector privado creció apenas 1,3 % interanual a junio de 2026, pese a una economía que avanzaba cerca de 4,4 %, por condiciones financieras restrictivas, la debilidad de la construcción y cambios regulatorios en hipotecas. La calificadora destaca que la ausencia de riesgo cambiario es una fortaleza, pero al no haber prestamista de última instancia los bancos dependen más de su propia liquidez, de los corresponsales y de los mercados internacionales, lo que puede encarecer el fondeo y moderar el crédito.",
+    "date": "2026-10-19",
+    "source": "Economía Panamá",
+    "url": "https://economiapanama.com/en/dolarizacion-limita-capacidad-de-respuesta-de-la-banca-panamena-a-situaciones-de-estres-moodys/",
+    "category": "sistema",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "Moody’s",
+      "dolarización",
+      "liquidez",
+      "crédito",
+      "sistema bancario"
+    ]
+  },
+  {
+    "id": "sbp-bhd-international-bank-razon-social-2026-10",
+    "title": "SBP autoriza a BHD International Bank (Panamá) a cambiar su razón social a BHD International Bank, S.A.",
+    "summary": "La Superintendencia de Bancos publicó como cambio relevante la Resolución SBP-BAN-R-2026-00656, del 21 de septiembre de 2026, que autoriza a BHD International Bank (Panamá), S.A. a operar en adelante bajo la razón social BHD International Bank, S.A.",
+    "date": "2026-10-19",
+    "source": "Superintendencia de Bancos de Panamá",
+    "url": "https://www.superbancos.gob.pa/node/1816",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "cambios relevantes",
+      "razón social"
+    ]
+  },
+  {
+    "id": "smv-estudiantes-sociedades-inversion-privadas-2026-10",
+    "title": "SMV explica a estudiantes de Derecho de la USMA la regulación de las sociedades de inversión privadas",
+    "summary": "Como parte de su programa de educación financiera, la Superintendencia del Mercado de Valores expuso a estudiantes de cuarto año de Derecho de la USMA el marco de la Ley del Mercado de Valores para las sociedades de inversión privadas: qué son, los requisitos para ser inversionista calificado, las facultades de las autoridades y los mecanismos de fiscalización aplicables.",
+    "date": "2026-10-19",
+    "source": "SMV",
+    "url": "https://supervalores.gob.pa/estudiantes-conocen-la-regulacion-de-las-sociedades-de-inversion-privadas/",
+    "category": "regulacion",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SMV",
+      "educación financiera",
+      "sociedades de inversión",
+      "mercado de valores"
+    ]
+  },
+  {
     "id": "deficit-fiscal-agosto-2026-10",
     "title": "El déficit fiscal de Panamá suma USD 3.387 millones a agosto, en línea con la meta según el MEF",
     "summary": "El Ministerio de Economía y Finanzas informó que el déficit del Sector Público No Financiero alcanzó USD 3.387 millones al cierre de agosto, USD 560,7 millones menos que en el mismo período de 2025. El Gobierno considera la cifra cónsona con la meta fiscal del año y espera que los ingresos que se concentran en los últimos meses contribuyan a cumplirla.",
