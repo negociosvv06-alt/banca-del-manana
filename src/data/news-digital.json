@@ -1,5 +1,140 @@
 [
   {
+    "id": "banco-tailandia-consulta-stablecoins-baht",
+    "title": "El Banco de Tailandia consulta reglas para stablecoins en baht: respaldo total en depósitos y sin intereses",
+    "summary": "El Banco de Tailandia abrió el 20 de octubre una consulta pública sobre los principios para regular las stablecoins vinculadas al baht. La propuesta exige que el respaldo esté al 100 % en depósitos bancarios repartidos entre varios bancos, que cada moneda pueda canjearse 1:1 por baht en un día hábil y prohíbe pagar intereses o rendimientos a los tenedores. También plantea limitar el número de emisores en la fase inicial, separar el respaldo del patrimonio del emisor con publicación diaria y auditoría anual, y exigir licencia como servicio de pagos. El documento aún está en consulta y no es una norma vigente.",
+    "date": "2026-10-20",
+    "source": "Money & Banking Magazine",
+    "url": "https://en.moneyandbanking.co.th/2026/280262/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Tailandia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "regulación",
+      "bancos centrales",
+      "banca"
+    ]
+  },
+  {
+    "id": "banco-corea-banco-inglaterra-cooperacion-tokenizacion",
+    "title": "El Banco de Corea y el Banco de Inglaterra amplían su cooperación en proyectos de tokenización",
+    "summary": "El Banco de Corea informó el 20 de octubre que amplía su cooperación con el Banco de Inglaterra en tokenización, tras la visita a Seúl de Sarah Breeden, subgobernadora de estabilidad financiera del banco británico. Ambas partes revisaron avances del Proyecto Agorá, la iniciativa del BIS que explora depósitos bancarios tokenizados y dinero mayorista de banco central para pagos transfronterizos, y del Proyecto Hangang, el piloto coreano de moneda digital mayorista. El Banco de Corea dijo que compartirá su experiencia y participará en las discusiones globales sobre el tema.",
+    "date": "2026-10-20",
+    "source": "Yonhap",
+    "url": "https://en.yna.co.kr/view/AEN20261020002500320",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur / Reino Unido",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "CBDC",
+      "bancos centrales",
+      "Proyecto Agorá",
+      "banca"
+    ]
+  },
+  {
+    "id": "sifma-pide-sec-aclarar-exencion-innovacion-valores-tokenizados",
+    "title": "SIFMA pide a la SEC aclarar la exención para valores tokenizados antes de que abran las nuevas plataformas",
+    "summary": "La asociación de la industria de valores de EE. UU., SIFMA, presentó el 19 de octubre una carta a la SEC sobre la llamada Exención de Innovación, que permite negociar acciones tokenizadas en plataformas especiales durante cinco años. SIFMA señala que la exención entró en vigor sin período de comentarios y que varias plataformas podrían empezar a operar en 30 días. Pide aclarar cuatro áreas: aviso y consentimiento de los emisores, protección del inversionista y prevención de delitos financieros, límites de volumen, y derechos de los accionistas. Entre sus propuestas figuran exigir consentimiento expreso del emisor y una opción universal de exclusión.",
+    "date": "2026-10-19",
+    "source": "SIFMA",
+    "url": "https://www.sifma.org/news/press-releases/sifma-urges-sec-to-resolve-key-questions-on-innovation-exemption-before-tokenized-securities-venues-launch",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "SEC",
+      "regulación",
+      "acciones tokenizadas"
+    ]
+  },
+  {
+    "id": "mastercard-stablecoin-security-riesgo-pagos",
+    "title": "Mastercard lanza Stablecoin Security para que los bancos evalúen el riesgo de pagos con stablecoins",
+    "summary": "Mastercard presentó el 19 de octubre, en Money20/20 USA, Stablecoin Security, un servicio que combina datos de pagos y análisis de blockchain para ayudar a las instituciones financieras a detectar fraude, estafas, sanciones y otros riesgos de delitos financieros en pagos con stablecoins, incluso antes de que los fondos se muevan en la cadena. Funciona mediante una API que entrega una puntuación de riesgo y se integra a los procesos de cumplimiento existentes. Arranca en Norteamérica con Borderless.xyz y Keyrails como primeros socios y se espera su disponibilidad mundial en 2027.",
+    "date": "2026-10-19",
+    "source": "Mastercard",
+    "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/october/Mastercard-brings-risk-intelligence-to-stablecoin-payments.html",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos",
+      "cumplimiento",
+      "prevención de fraude",
+      "banca"
+    ]
+  },
+  {
+    "id": "euronet-fireblocks-tarjetas-respaldadas-stablecoins",
+    "title": "Euronet y Fireblocks permitirán a bancos y fintech emitir tarjetas con saldo en stablecoins",
+    "summary": "Euronet y Fireblocks anunciaron el 19 de octubre que bancos, fintech y otras instituciones podrán lanzar con su propia marca programas de tarjetas financiadas con stablecoins sobre las plataformas de emisión Ren y CoreCard de Euronet. Fireblocks aporta las billeteras integradas que guardan y mueven los saldos; el cliente usa sus credenciales habituales, sin frases semilla ni una app cripto aparte, y el comercio sigue recibiendo moneda local. Las empresas citan que en el segundo trimestre fiscal de 2026 Visa tenía más de 160 programas de tarjetas vinculadas a stablecoins.",
+    "date": "2026-10-19",
+    "source": "Euronet (GlobeNewswire)",
+    "url": "https://euronetworldwide.gcs-web.com/news-releases/news-release-details/euronet-and-fireblocks-power-next-era-mainstream-payments",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "tarjetas",
+      "pagos",
+      "banca"
+    ]
+  },
+  {
+    "id": "monfi-bank-lanza-stablecoin-musd-emitida-por-banco",
+    "title": "Monfi Bank, banco digital de Malasia, lanza MUSD, una stablecoin en dólares emitida por el propio banco",
+    "summary": "Monfi Digital Bank, banco digital internacional con licencia y sede en Malasia, anunció el 19 de octubre el lanzamiento de Monfi USD (MUSD), una stablecoin en dólares emitida directamente por el banco. Según el comunicado, sus reservas están 1:1 en efectivo y equivalentes en dólares en una cuenta segregada del propio balance del banco, se concilian a diario y tienen verificación externa anual; el canje a la par es una obligación del banco. Por ahora está disponible solo para instituciones y clientes privados calificados que pasen sus controles de conocimiento del cliente.",
+    "date": "2026-10-19",
+    "source": "Monfi Bank (GlobeNewswire)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/19/3383756/0/en/monfi-bank-launches-monfi-usd-musd-the-only-regulated-bank-issued-stablecoin.html",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Malasia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "banca digital",
+      "banca"
+    ]
+  },
+  {
+    "id": "euro-digital-negociaciones-limites-comisiones",
+    "title": "Euro digital: las negociaciones en la UE se centran en los límites de tenencia y las comisiones a comercios",
+    "summary": "Un análisis publicado el 19 de octubre repasa el estado de las negociaciones entre el Parlamento Europeo y el Consejo sobre el euro digital, que buscan un acuerdo político antes de fin de 2026. Las diferencias principales son quién fija el límite de tenencia por persona, qué referencia se usa para topar las comisiones que pagan los comercios y si las empresas podrán tener euros digitales. El BCE prevé un piloto con 36 bancos y proveedores de pagos en la segunda mitad de 2027 y una posible emisión en 2029 si la ley llega a tiempo. Los bancos temen que topes bajos no cubran sus costos.",
+    "date": "2026-10-19",
+    "source": "The European Post",
+    "url": "https://theeuropeanpost.eu/research-analysis/digital-euro-negotiations-turn-on-holding-limits-and-fees/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Unión Europea",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "euro digital",
+      "BCE",
+      "regulación",
+      "banca"
+    ]
+  },
+  {
     "id": "jpmorgan-jpm-coin-ethereum-institucional",
     "title": "JPMorgan lleva su token de depósitos JPM Coin a Ethereum para clientes institucionales",
     "summary": "Kinexys, la unidad de blockchain de JPMorgan, anunció el 19 de octubre que su token de depósitos en dólares JPM Coin (JPMD), lanzado en noviembre de 2025 en la red Base, ya funciona también en Ethereum para clientes institucionales. El token representa depósitos bancarios existentes del banco y permite transferencias entre redes compatibles con Ethereum. JPMorgan indicó que Kinexys acumula más de 4 billones de dólares en transacciones, con un promedio de 7.000 millones diarios. El banco subraya que JPMD es un depósito tokenizado y no una stablecoin.",
