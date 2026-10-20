@@ -1,0 +1,49 @@
+{
+  "id": "poppy-protocolo-agentes-ia-bancos-bbva-2026-10",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Cuando su agente de IA llame al banco: qué es Poppy, el protocolo de Sierra y Meta al que se sumó BBVA, y qué tendría que resolver la banca",
+  "date": "2026-10-20",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "BBVA – BBVA participará en el diseño de un protocolo común impulsado por Sierra AI y Meta para conectar agentes de IA con empresas",
+      "url": "https://www.bbva.com/es/innovacion/bbva-participara-en-el-diseno-de-un-protocolo-comun-impulsado-por-sierra-ai-y-meta-para-conectar-agentes-de-ia-con-empresas/",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Sierra – Sharing a draft of Personal Agent Protocol",
+      "url": "https://sierra.ai/blog/poppy",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "Territorio FinTech – BBVA se une a Meta y Sierra AI para desarrollar un protocolo que conecte agentes de inteligencia artificial con empresas",
+      "url": "https://territoriofintech.com/inteligencia-artificial/bbva-meta-sierra-ai-protocolo-poppy-agentes-inteligencia-artificial/",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "Expansión – La IA toma el control de tus apps bancarias: así cambia tu dinero y la competencia del sector",
+      "url": "https://expansion.mx/tecnologia/2026/10/19/la-ia-toma-el-control-de-tus-apps-bancarias-asi-cambia-tu-dinero-y-la-competencia-del-sector",
+      "date": "2026-10-19"
+    }
+  ],
+  "body": [
+    "Hasta ahora, casi toda la conversación sobre inteligencia artificial en la banca ha mirado hacia adentro: el banco usa IA para atender, detectar fraudes o revisar expedientes. La noticia que circuló este fin de semana mira hacia afuera. ¿Qué pasa cuando no es el banco, sino el cliente, quien llega con su propio agente de IA y le pide que haga gestiones en su nombre? BBVA anunció que se convirtió en el primer banco europeo en participar en el diseño de Personal Agent Protocol, conocido como Poppy, una propuesta impulsada por Sierra AI y Meta para ordenar justamente esa relación.",
+    "## Qué es Poppy",
+    "Según el borrador publicado por Sierra el 9 de octubre, Poppy busca resolver un problema práctico. Hoy, cuando una persona le pide a su agente personal de IA que compre algo o resuelva un reclamo, el agente muchas veces tiene que iniciar sesión como si fuera el cliente y navegar páginas diseñadas para personas. La empresa no tiene una forma estándar de saber que está tratando con un agente, ni a quién representa.",
+    "La propuesta parte de un principio sencillo: el cliente decide qué acceso le da a su agente, y la empresa fija qué puede hacer ese agente. Para lograrlo, el borrador define cinco piezas. Primero, un archivo público en una dirección estándar del sitio web de la empresa que le dice al agente cómo interactuar con ella. Segundo, sesiones en las que el agente se identifica como tal. Tercero, el inicio de sesión: cuando una tarea necesita la cuenta del cliente, la persona se autentica en la página de la empresa y el agente recibe un permiso limitado a lo que el cliente aprobó. Cuarto, una misma sesión para la web, las interfaces de programación (API) y las conversaciones con el agente de la propia empresa. Y quinto, la empresa decide por qué canal atiende al agente.",
+    "El protocolo se apoya en estándares que la industria ya usa, como OAuth, HTTPS, OpenAPI y MCP. Sierra anunció además 35 socios de diseño que aportarán comentarios, entre ellos bancos y empresas de pagos como Bank of America, Wells Fargo, BBVA, Visa, Mastercard, PayPal, Adyen y Plaid.",
+    "## Por qué le interesa a un banco",
+    "BBVA explicó que la IA está pasando de asistentes que responden preguntas a agentes que ejecutan tareas, y que eso obliga a las empresas a decidir cómo permitir que esos agentes accedan a sus servicios sin poner en riesgo la privacidad ni los permisos del cliente. David Puente, responsable de Soluciones para Clientes Minoristas del banco, lo resumió así: la seguridad debe estar en el centro de las interacciones entre agentes de IA y servicios digitales.",
+    "El banco menciona usos posibles a futuro: que un cliente use un agente para comparar productos, recopilar información o iniciar determinadas gestiones financieras, siempre dentro de los permisos que haya fijado. Territorio FinTech aclara un punto importante: la iniciativa está en desarrollo y la participación de BBVA no significa que estas funciones ya estén disponibles para sus clientes.",
+    "El ejemplo que Sierra mostró en su evento ayuda a dimensionar el cambio. Según el borrador, un agente personal visitó el sitio de una empresa hipotecaria en Estados Unidos, encontró al agente de esa empresa, pidió permiso al usuario para conectarse y, después de que el usuario se autenticó y compartió sus datos de crédito e ingresos, ambos agentes trabajaron en el precio, el abono y la tasa hasta producir una carta de preaprobación. El usuario, dice Sierra, mantuvo el control en cada paso.",
+    "## La pregunta que importa: quién responde si algo sale mal",
+    "Un reportaje de Expansión publicado el 19 de octubre pone el foco en el punto delicado. Cuando la IA deja de solo responder y empieza a actuar, cambia la pregunta central: qué puede hacer el sistema por su cuenta y quién responde si se equivoca. Una instrucción mal interpretada podría terminar en una transferencia al destinatario equivocado o por un monto distinto. Por eso la diferencia entre recomendar una acción y ejecutarla es fundamental.",
+    "Un protocolo común ayuda a ordenar la identificación y los permisos, pero no resuelve por sí solo todos los temas que en banca son críticos: qué operaciones requieren siempre la autorización expresa del cliente, cómo se registra quién instruyó qué, cómo se atiende un reclamo cuando intervino un agente y cómo se evita que un estafador use un agente para suplantar a un cliente.",
+    "## Qué significa para la banca en Panamá",
+    "En Panamá esto todavía no es una realidad para el cliente, pero conviene mirarlo con tiempo. Para los bancos, la lección es que los canales digitales y los centros de contacto podrían empezar a recibir no solo personas, sino agentes que actúan por personas. Eso exige pensar en reglas claras: identificar cuándo se trata de un agente, limitar lo que puede hacer, pedir confirmación humana para operaciones sensibles y dejar registro de todo.",
+    "Para el cliente, la recomendación es prudente. No entregue su usuario, contraseña ni códigos de verificación a ninguna aplicación o asistente que prometa hacer trámites bancarios por usted. Si en el futuro su banco habilita este tipo de servicios, deberá hacerlo por sus canales oficiales, con permisos que usted pueda ver, limitar y retirar. Y recuerde que ningún banco ni agente legítimo le pedirá claves u OTP por mensajes o llamadas.",
+    "La banca conversacional ya está aquí. Lo que viene es una banca en la que las conversaciones también pueden ser entre máquinas. Que esa transición sea segura dependerá de que los permisos, la trazabilidad y la última palabra sigan en manos del cliente."
+  ]
+}

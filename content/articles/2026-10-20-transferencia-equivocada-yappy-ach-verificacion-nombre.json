@@ -1,0 +1,55 @@
+{
+  "id": "transferencia-equivocada-yappy-ach-verificacion-nombre-2026-10",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "Envió dinero a la persona equivocada por Yappy o ACH Xpress: qué puede hacer su banco, qué no, y cómo cambiará con la verificación del nombre",
+  "date": "2026-10-20",
+  "author": "Redacción Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Mirada Económica – Panamá obligará a los bancos a verificar al destinatario antes de autorizar transferencias electrónicas",
+      "url": "https://miradaeconomica.com/panama-obligara-a-los-bancos-a-verificar-al-destinatario-antes-de-autorizar-transferencias-electronicas/",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Crítica – Entre la «viveza» y la estafa: quedarse con una transferencia te puede joder",
+      "url": "https://www.critica.com.pa/nacional/entre-la-viveza-y-la-estafa-quedarse-con-una-transferencia-te-puede-joder-518047",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-DR-2026-0102, emisión del Acuerdo No. 8-2026",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0102.pdf",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "American Banker – How real-time pay is pressuring bank authentication",
+      "url": "https://www.americanbanker.com/payments/news/how-real-time-pay-is-pressuring-bank-authentication",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "SNIP Noticias – Panamá mantiene tercer lugar en inclusión financiera; mejora el ahorro, pero cae el acceso (Índice de Inclusión Financiera Credicorp 2026)",
+      "url": "https://noticiasdepanama.com/economia/panama-mantiene-tercer-lugar-en-inclusion-financiera-mejora-el-ahorro-pero-cae-el-acceso/",
+      "date": "2026-10-19"
+    }
+  ],
+  "body": [
+    "Pagar con el celular ya es parte de la rutina en Panamá. Según el Índice de Inclusión Financiera de Credicorp 2026, cuyos resultados se difundieron el 19 de octubre, el 64 % de los panameños tiene una billetera móvil y, entre ellos, el 46 % la usa a diario. Esa rapidez tiene una cara menos amable: basta un dígito mal escrito para que el dinero llegue a un desconocido en segundos. Y, como recuerda la prensa local, ese error puede convertirse en un problema legal o en la puerta de entrada a una estafa.",
+    "Este fin de semana, Mirada Económica volvió sobre la norma que busca reducir ese riesgo, el Acuerdo 8-2026 de la Superintendencia de Bancos de Panamá (SBP). Vale la pena entender qué se puede hacer hoy y qué cambiará cuando la regla entre en vigor.",
+    "## Lo que su banco puede y no puede hacer hoy",
+    "La primera reacción de quien se equivoca suele ser pedirle al banco que «reverse» la transferencia. Según explicó Crítica el 14 de octubre, los bancos no tienen la facultad de retirar dinero de la cuenta del destinatario de forma unilateral. Lo que existe es una mediación: el banco que envió contacta al banco que recibió, o al titular de la cuenta, para notificar el error. Si la persona actúa de buena fe y autoriza la devolución, el dinero regresa.",
+    "Esto tiene una explicación de fondo. Los pagos inmediatos están diseñados para que el dinero se acredite y quede disponible al momento. American Banker lo resumió al analizar el mercado estadounidense: con los pagos en tiempo real el fraude también es más rápido, por eso es más importante validar la cuenta antes de enviar, porque en general no hay contracargo ni reversión posible como ocurre con algunas compras con tarjeta.",
+    "## Si usted envió el dinero por error",
+    "La guía que publicó Crítica coincide con lo que recomiendan los bancos y las autoridades. Primero, guarde la evidencia: captura con fecha, hora, monto, número de referencia y el número de cuenta o teléfono del destinatario. Segundo, avise de inmediato a su banco por sus canales oficiales y pida que abran un reporte de mediación. Tercero, si intenta contactar al receptor, hágalo con respeto y conserve los chats. Cuarto, si la persona se niega o no responde, puede presentar una denuncia ante el Ministerio Público.",
+    "No es un asunto menor para quien recibe. Según el mismo reportaje, el artículo 221 del Código Penal sanciona a quien se apropie de dinero ajeno que llegó a su poder por error. Que el dinero aparezca en su cuenta no le da derecho a gastarlo.",
+    "## Si usted recibió dinero que no es suyo, cuidado con la trampa",
+    "Aquí está el riesgo que muchos no ven. Las autoridades advierten de dos modalidades frecuentes. En la primera, alguien le escribe o le llama diciendo que le envió dinero por error y le pide que lo devuelva a otro número o a otra cuenta distinta a la de origen. Muchas veces ese dinero viene de cuentas comprometidas o de estafas a terceros, y quien «devuelve» termina sirviendo de intermediario sin saberlo. En la segunda, le muestran una captura o un comprobante editado de Yappy o ACH para que entregue un producto o envíe dinero, cuando la transferencia nunca llegó.",
+    "La regla práctica es simple: revise su saldo e historial en la aplicación oficial de su banco, no en capturas que le manden; no se gaste el dinero; y devuélvalo solo por la vía formal que indique su banco, nunca a un número o cuenta distinta.",
+    "## Lo que cambiará con el Acuerdo 8-2026",
+    "La SBP comunicó a los bancos, mediante la circular del 6 de octubre, que el Acuerdo 8-2026 establece controles para que el cliente pueda verificar la información del beneficiario antes de aprobar una transferencia por banca en línea, banca móvil o monedero móvil, con el fin de mitigar errores y riesgos. La norma entrará en vigor nueve meses después de su promulgación en Gaceta Oficial.",
+    "Según el resumen de Mirada Económica, los bancos deberán ofrecer, de forma gratuita e inmediata, una verificación que indique si la cuenta de destino puede recibir fondos y si el nombre del beneficiario coincide con el titular. Antes de autorizar, el cliente deberá ver el banco y la cuenta de destino cuando corresponda, el titular y el monto. Si se usan identificadores como el número de teléfono, también deberán permitir esa validación. Si los datos no coinciden, el banco deberá mostrar una advertencia clara; el cliente decide si continúa, pero eso no libera automáticamente al banco de responsabilidad cuando fallen sus controles. También deberá conservar registros de consultas, alertas y autorizaciones.",
+    "Panamá no es el único país que va por este camino. American Banker recuerda que el Reino Unido aplica desde 2020 la confirmación del beneficiario y que en Estados Unidos estas verificaciones todavía son voluntarias, aunque la Reserva Federal ya ofrece un servicio de verificación del nombre del beneficiario.",
+    "## En resumen",
+    "Mientras llega la verificación obligatoria, la mejor protección sigue siendo la pausa de cinco segundos antes de confirmar: revise el número, el nombre que aparece y el monto. Y si algo sale mal, actúe rápido, guarde pruebas y use solo los canales oficiales de su banco. La velocidad de los pagos es una ventaja; la certeza de que el dinero llega a quien debe es lo que la hace confiable."
+  ]
+}

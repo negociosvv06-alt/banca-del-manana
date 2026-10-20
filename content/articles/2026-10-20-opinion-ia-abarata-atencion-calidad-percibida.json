@@ -1,0 +1,51 @@
+{
+  "id": "opinion-ia-abarata-atencion-calidad-percibida-2026-10",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: la IA ya abarata la atención bancaria; el cliente panameño necesita que también la mejore",
+  "date": "2026-10-20",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Europa Press – Santander y Nvidia firman un nuevo marco de colaboración por tres años para aplicaciones bancarias de IA",
+      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-santander-nvidia-firman-nuevo-marco-colaboracion-tres-anos-aplicaciones-bancarias-ia-20261019075452.html",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "Cinco Días – El Santander se alía con Nvidia para desplegar la IA en todo el banco",
+      "url": "https://cincodias.elpais.com/companias/2026-10-19/el-santander-se-alia-con-nvidia-para-desplegar-la-ia-en-todo-el-banco.html",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "Expansión – La IA toma el control de tus apps bancarias: así cambia tu dinero y la competencia del sector",
+      "url": "https://expansion.mx/tecnologia/2026/10/19/la-ia-toma-el-control-de-tus-apps-bancarias-asi-cambia-tu-dinero-y-la-competencia-del-sector",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "SNIP Noticias – Panamá mantiene tercer lugar en inclusión financiera; mejora el ahorro, pero cae el acceso (Índice de Inclusión Financiera Credicorp 2026)",
+      "url": "https://noticiasdepanama.com/economia/panama-mantiene-tercer-lugar-en-inclusion-financiera-mejora-el-ahorro-pero-cae-el-acceso/",
+      "date": "2026-10-19"
+    }
+  ],
+  "body": [
+    "Dos noticias del mismo lunes, leídas juntas, dicen mucho sobre el momento que vive la banca. En Madrid, Santander y Nvidia anunciaron un acuerdo de tres años para llevar la inteligencia artificial a todo el banco. Según Europa Press, en un caso experimental de atención al cliente, el banco mejoró la calidad de las conversaciones y redujo los costos en más de 50 %, y en algunas pruebas el costo de ejecución bajó de unos 5 euros a unos 0.03 euros por interacción usando modelos más pequeños y especializados.",
+    "El mismo lunes, SNIP Noticias publicó desde Lima los resultados del Índice de Inclusión Financiera de Credicorp 2026 para Panamá. El país mantuvo el tercer lugar regional y mejoró en ahorro formal y en uso, pero la calidad percibida de los servicios bajó de 68.5 a 65.8 puntos. Panamá y Argentina fueron los únicos de los ocho países evaluados donde retrocedió. La valoración positiva de la imagen de las entidades cayó de 39 % a 29 % y la de los costos para los usuarios, de 28 % a 17 %.",
+    "Una cifra habla de eficiencia. La otra, de experiencia. El reto de la banca en los próximos años es que ambas avancen en la misma dirección.",
+    "## El costo no es el único indicador",
+    "No tengo dudas de que la IA va a reducir el costo de atender. Los datos de Santander lo muestran, y Cinco Días recuerda que el banco se fijó la meta de generar 1,000 millones de euros entre más ingresos y menores costos gracias a esta tecnología. Expansión, por su parte, citó un análisis de PwC según el cual una adopción amplia de IA podría mejorar hasta 15 puntos porcentuales el índice de eficiencia de los bancos, aunque aclaró que se trata de una proyección.",
+    "Mi preocupación es otra. Desde los canales de atención se aprende pronto que lo que se mide es lo que se gestiona. Si el principal tablero de un proyecto de IA es el costo por contacto, el proyecto puede salir «exitoso» aunque el cliente termine más frustrado: respuestas rápidas que no resuelven, conversaciones que dan vueltas, o un cliente que no encuentra cómo hablar con una persona cuando lo necesita.",
+    "Vale destacar que el mismo anuncio de Santander pone la calidad al lado del costo: dice haber mejorado las conversaciones, no solo abaratado. Y que su laboratorio somete la IA conversacional a pruebas de esfuerzo en entornos controlados antes de desplegarla. Ese orden, primero medir y probar, después escalar, es el correcto.",
+    "## Lo que el cliente panameño está diciendo",
+    "La caída en la calidad percibida y en la valoración de los costos que muestra el estudio de Credicorp es una señal que la banca local no debería ignorar. No sabemos, con los datos publicados, qué explica exactamente ese retroceso, y sería un error atribuirlo a una sola causa. Pero sí sabemos algo: la tecnología que llegue en los próximos años va a ser juzgada por los clientes con esa vara.",
+    "Si la IA se usa solo para contener llamadas, la percepción puede empeorar. Si se usa para resolver más rápido, explicar mejor y liberar a los asesores para los casos complejos, puede ser justo lo que mejore la experiencia.",
+    "## Mi propuesta",
+    "Primero, que cada proyecto de IA en atención tenga, desde el inicio, indicadores de experiencia al mismo nivel que los de costo: resolución en el primer contacto, recontactos dentro de los siete días siguientes y satisfacción después de la interacción. Si baja el costo pero sube el recontacto, el ahorro es una ilusión.",
+    "Segundo, que una parte del ahorro se reinvierta en el cliente. Más formación para los asesores que atienden los casos difíciles, mejores horarios de atención humana y explicaciones más claras de costos y cargos.",
+    "Tercero, que la salida hacia una persona sea siempre visible y sencilla. La IA debe saber cuándo no sabe, y el cliente no debería tener que pelear con un menú para llegar a alguien que pueda ayudarlo.",
+    "Cuarto, transparencia: que el cliente sepa cuándo está hablando con una IA y qué puede y qué no puede hacer ese asistente. Como dijo a Expansión la especialista Mercedes Bouzas, de Opinno, cada agente necesita un responsable, límites claros y un mecanismo para que una persona intervenga cuando haga falta.",
+    "## Una oportunidad para Panamá",
+    "La banca panameña tiene una ventaja: puede aprender de quienes ya escalaron la IA y evitar sus errores. El objetivo no debería ser que el banco gaste menos en atender, sino que el cliente necesite llamar menos porque las cosas funcionan, y que cuando llame, lo resuelvan. Si la IA logra eso, el ahorro llegará solo, y la próxima medición de calidad percibida lo va a reflejar.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}
