@@ -1,23 +1,55 @@
 {
- "lastRun": "2026-10-20T13:12:15.957Z",
+ "lastRun": "2026-10-21T13:01:23.037Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-20T13:12:15.957Z",
+   "fetchedAt": "2026-10-21T13:01:23.037Z",
    "count": 12
   },
   "ecb": {
    "ok": true,
-   "fetchedAt": "2026-10-20T13:12:15.957Z",
+   "fetchedAt": "2026-10-21T13:01:23.037Z",
    "count": 12
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-20T13:12:15.957Z",
+   "fetchedAt": "2026-10-21T13:01:23.037Z",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "ecb-0MDFkNmM0YjcwLmVuLmh0bWw",
+   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+   "summary": "",
+   "date": "2026-10-21",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "id": "ecb-fmQxOTBmMmMzNDkuZW4ucGRm",
+   "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+   "summary": "",
+   "date": "2026-10-21",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
   {
    "id": "ecb-k3ZTJlNGJjMzguZW4uaHRtbA",
    "title": "Frank Elderson: Interview with Die Presse",
@@ -510,22 +542,6 @@
    ]
   },
   {
-   "id": "ecb-JjOTQ0MDAyOTcuZW4uaHRtbA",
-   "title": "Philip R. Lane: Interview with Ansa",
-   "summary": "",
-   "date": "2026-10-06",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
    "id": "ecb-wZGE5NzhmMTU5LmVuLmh0bWw",
    "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
    "summary": "",
@@ -555,22 +571,6 @@
    "banks": [],
    "tags": [
     "BIS"
-   ]
-  },
-  {
-   "id": "ecb-xZDhkOTk4ZWY0LmVuLmh0bWw",
-   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-   "summary": "",
-   "date": "2026-10-05",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
    ]
   },
   {
