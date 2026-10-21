@@ -1,5 +1,119 @@
 [
   {
+    "category": "activos-digitales",
+    "type": "noticia",
+    "banks": [],
+    "id": "occ-regla-final-genius-act-stablecoins",
+    "title": "La OCC aprueba la regla final de la Ley GENIUS para emisores de stablecoins de pago en EE. UU.",
+    "summary": "La Oficina del Contralor de la Moneda (OCC) publicó el 21 de octubre su regla final para aplicar la Ley GENIUS. Fija requisitos de respaldo de reservas, canje, gestión de riesgos, custodia e informes para los emisores de stablecoins de pago bajo su supervisión, incluidos emisores extranjeros y actividades de custodia de bancos nacionales. Las normas de prevención de lavado y sanciones quedarán para una regla aparte con el Tesoro. La regla y la ley entran en vigor el 18 de enero de 2027, y la OCC anunciará cuándo empezará a recibir solicitudes y pedidos de exención.",
+    "date": "2026-10-21",
+    "source": "OCC (Oficina del Contralor de la Moneda)",
+    "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "tags": [
+      "stablecoins",
+      "regulación",
+      "GENIUS Act",
+      "banca"
+    ]
+  },
+  {
+    "category": "activos-digitales",
+    "type": "noticia",
+    "banks": [],
+    "id": "francia-propuestas-revision-mica",
+    "title": "Francia propone reforzar a ESMA y prohibir servicios con stablecoins que no cumplan MiCA",
+    "summary": "El Tesoro francés, la AMF, el Banco de Francia y la ACPR publicaron el 21 de octubre su respuesta conjunta a la consulta de la Comisión Europea sobre la revisión de MiCA. Piden aclarar los límites entre MiCA y las normas de instrumentos financieros y de pagos, impulsar stablecoins en euros y depósitos bancarios tokenizados, prohibir a los proveedores autorizados operar con stablecoins que no cumplan MiCA y dar a ESMA la supervisión de los grandes proveedores de criptoactivos. También proponen un marco para las finanzas descentralizadas y reglas más claras para el staking y los préstamos de criptoactivos.",
+    "date": "2026-10-21",
+    "source": "AMF (Autorité des Marchés Financiers)",
+    "url": "https://www.amf-france.org/en/news-publications/news-releases/amf-news-releases/mica-regulation-revision-french-authorities-publish-their-joint-proposals",
+    "country": "Francia / Unión Europea",
+    "lang": "en",
+    "tags": [
+      "MiCA",
+      "regulación",
+      "stablecoins",
+      "depósitos tokenizados",
+      "banca"
+    ]
+  },
+  {
+    "category": "activos-digitales",
+    "type": "noticia",
+    "banks": [],
+    "id": "anchorage-securitize-emision-directa-stablecoins",
+    "title": "Anchorage Digital Bank y Securitize planean emitir y canjear stablecoins directamente a través del banco",
+    "summary": "Anchorage Digital Bank, banco con licencia federal en EE. UU., y la plataforma de tokenización Securitize anunciaron un plan para que Securitize acuñe y canjee stablecoins directamente con el banco, que también se encargaría de la custodia y la liquidación sin intermediarios externos. Securitize tiene más de US$4.000 millones en activos tokenizados en su plataforma, con fondos de gestoras como BlackRock, Apollo y KKR. Por ahora se trata de un plan anunciado, sin fecha de puesta en marcha.",
+    "date": "2026-10-21",
+    "source": "TokenPost",
+    "url": "https://www.tokenpost.com/news/business/36521",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "tags": [
+      "stablecoins",
+      "tokenización",
+      "custodia",
+      "banca"
+    ]
+  },
+  {
+    "category": "activos-digitales",
+    "type": "noticia",
+    "banks": [],
+    "id": "finma-aprueba-primer-etf-bitcoin-suiza",
+    "title": "Suiza aprueba su primer ETF de bitcoin al contado para inversionistas minoristas",
+    "summary": "La autoridad supervisora suiza FINMA aprobó el primer ETF de bitcoin al contado para el público minorista del país y, para ello, eximió al fondo de sus reglas de diversificación. La gestora BIT Asset Management dijo ser la emisora y prevé listarlo en noviembre en SIX Swiss Exchange. FINMA advirtió que invertir en bitcoin, incluso mediante un ETF aprobado, sigue siendo muy riesgoso, y exige controles de custodia, advertencias de volatilidad y pruebas de idoneidad al venderlo.",
+    "date": "2026-10-20",
+    "source": "BeInCrypto (sobre comunicado de FINMA)",
+    "url": "https://beincrypto.com/switzerland-first-spot-bitcoin-etf-retail/",
+    "country": "Suiza",
+    "lang": "en",
+    "tags": [
+      "ETF",
+      "bitcoin",
+      "regulación",
+      "supervisores"
+    ]
+  },
+  {
+    "category": "activos-digitales",
+    "type": "noticia",
+    "banks": [],
+    "id": "okxice-microsoft-alphabet-goldman-objetan-tokenizacion",
+    "title": "Microsoft, Alphabet y Goldman Sachs se suman a las empresas que rechazan que sus acciones se negocien tokenizadas en OKXICE",
+    "summary": "Siete emisores más, entre ellos Microsoft, Alphabet, Goldman Sachs, Qualcomm, Caterpillar y McDonald's, objetaron que versiones tokenizadas de sus acciones se negocien en OKXICE, la plataforma conjunta de OKX e Intercontinental Exchange. Con ellos ya son 16 las empresas que se oponen, según el aviso actualizado del 19 de octubre. El marco de exención de la SEC permite a los emisores bloquear estas cotizaciones, lo que se convierte en un obstáculo para el comercio de acciones tokenizadas en EE. UU.",
+    "date": "2026-10-20",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "tags": [
+      "tokenización",
+      "SEC",
+      "acciones tokenizadas",
+      "banca"
+    ]
+  },
+  {
+    "category": "activos-digitales",
+    "type": "noticia",
+    "banks": [],
+    "id": "visa-mesh-pagos-cripto-stablecoins-comercios",
+    "title": "Visa y Mesh se alían para pagar con saldos en cripto y stablecoins en comercios de la red Visa",
+    "summary": "Visa y la empresa de infraestructura de pagos Mesh anunciaron una alianza para que usuarios de ciertas billeteras paguen con sus saldos en criptomonedas y stablecoins en los más de 175 millones de comercios de Visa, sin vender antes ni pedir una tarjeta aparte. Visa crearía una credencial de pago asociada a la billetera y Mesh haría la conversión y la verificación de identidad. Aún no hay fecha de lanzamiento ni lista de billeteras, monedas, comisiones o países.",
+    "date": "2026-10-20",
+    "source": "Criptoinforme",
+    "url": "https://criptoinforme.com/mercado/visa-mesh-pagar-cripto-stablecoins/",
+    "country": "Internacional",
+    "lang": "es",
+    "tags": [
+      "stablecoins",
+      "pagos",
+      "tarjetas"
+    ]
+  },
+  {
     "id": "banco-tailandia-consulta-stablecoins-baht",
     "title": "El Banco de Tailandia consulta reglas para stablecoins en baht: respaldo total en depósitos y sin intereses",
     "summary": "El Banco de Tailandia abrió el 20 de octubre una consulta pública sobre los principios para regular las stablecoins vinculadas al baht. La propuesta exige que el respaldo esté al 100 % en depósitos bancarios repartidos entre varios bancos, que cada moneda pueda canjearse 1:1 por baht en un día hábil y prohíbe pagar intereses o rendimientos a los tenedores. También plantea limitar el número de emisores en la fase inicial, separar el respaldo del patrimonio del emisor con publicación diaria y auditoría anual, y exigir licencia como servicio de pagos. El documento aún está en consulta y no es una norma vigente.",
