@@ -1,0 +1,48 @@
+{
+  "id": "avanzadas-curva-rendimientos-2026-10-21",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "La curva de rendimientos explicada: por qué la distancia entre los bonos a 2 y a 10 años se redujo a la mitad en 2026 y qué puede señalar",
+  "date": "2026-10-21",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Departamento del Tesoro de EE. UU. – Daily Treasury Par Yield Curve Rates 2026 (datos al 20 de octubre)",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "Reuters vía MarketScreener – Rendimientos de bonos del Tesoro bajan mientras inversores evalúan el riesgo relacionado con la IA",
+      "url": "https://es.marketscreener.com/noticias/rendimientos-bonos-tesoro-eeuu-bajan-mientras-inversores-eval-an-el-riesgo-relacionado-con-la-ia-ce785cd8da8ef22c",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "CNBC – Dow jumps 500 points as earnings optimism steadies market",
+      "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+      "date": "2026-10-20"
+    }
+  ],
+  "body": [
+    "Cuando un analista dice que \"la curva se aplanó\" o que \"se invirtió\", está hablando de una de las herramientas más usadas para leer el ánimo de los mercados: la curva de rendimientos. Entenderla ayuda a interpretar las noticias sobre tasas, a decidir plazos de un depósito o de un bono y a no sacar conclusiones apresuradas. En Panamá, donde la economía usa el dólar, la curva del Tesoro de Estados Unidos es una referencia directa.",
+    "## Qué es la curva",
+    "La curva de rendimientos es un gráfico que une los rendimientos de bonos del mismo emisor, pero con distintos plazos: desde un mes hasta 30 años. Lo normal es que tenga pendiente positiva, es decir, que los plazos largos paguen más que los cortos, porque el inversionista exige una compensación por inmovilizar su dinero más tiempo y asumir más incertidumbre sobre la inflación y las tasas futuras.",
+    "Los plazos cortos dependen sobre todo de la tasa de política de la Reserva Federal y de lo que el mercado espera que haga en los próximos meses. Los plazos largos reflejan además expectativas de crecimiento, inflación, déficit fiscal y la llamada prima por plazo.",
+    "## Los números de 2026",
+    "Según los datos oficiales del Departamento del Tesoro, al cierre del 2 de enero de 2026 el bono a 2 años rendía 3.47 % y el de 10 años 4.19 %: una diferencia de 72 puntos básicos (un punto básico es 0.01 %). Además, el tramo más corto estaba levemente invertido: la letra a un mes pagaba 3.72 %, más que los bonos a uno y dos años.",
+    "Al 20 de octubre, el panorama es otro. El 2 años rinde 4.79 % y el 10 años 5.12 %, con una diferencia de 33 puntos básicos. Toda la curva subió, pero los plazos cortos subieron más (1.32 puntos porcentuales en el 2 años, frente a 0.93 en el 10 años), por lo que la distancia entre ambos se redujo a menos de la mitad. Reuters midió ese diferencial en 34.3 puntos básicos durante la sesión del 20 de octubre. Hoy la curva tiene pendiente positiva desde un mes (4.10 %) hasta 20 años (5.47 %), con un leve descenso en el 30 años (5.42 %).",
+    "## Cómo se llama lo que pasó",
+    "Los analistas clasifican los movimientos de la curva según qué tramo se mueve más:",
+    "- Aplanamiento bajista (bear flattening): suben todas las tasas, pero las cortas suben más. Suele ocurrir cuando el mercado espera una política monetaria más estricta. Es, a grandes rasgos, lo que muestran los datos entre enero y octubre de 2026.",
+    "- Empinamiento alcista (bull steepening): bajan las tasas, sobre todo las cortas. Suele asociarse a expectativas de recortes de la Fed.",
+    "- Inversión: los plazos cortos pagan más que los largos. Históricamente se ha vigilado como posible señal de desaceleración, aunque no es un pronóstico infalible ni dice cuándo llegaría.",
+    "El contexto ayuda a leer los números. Reuters citó el 20 de octubre a Robert Tipp, de PGIM, quien explicó que la curva se había adelantado a los bancos centrales al descontar un endurecimiento monetario muy fuerte. Ese mismo día, la probabilidad de que la Fed suba tasas en su reunión de la próxima semana era de 14.9 % según CME FedWatch, frente a 57.6 % un mes antes. CNBC, por su parte, vinculó parte del movimiento a la caída del petróleo y a las dudas sobre el endeudamiento ligado a la inteligencia artificial.",
+    "## Qué significa para quien ahorra o invierte",
+    "Una curva plana tiene una consecuencia práctica: la recompensa por irse a plazos largos es pequeña. Con 33 puntos básicos de diferencia entre 2 y 10 años, un inversionista recibe poco rendimiento adicional a cambio de asumir más riesgo de tasa. Como explicamos en nuestra guía sobre duración, un bono largo pierde más valor de mercado que uno corto cuando las tasas suben.",
+    "Un ejemplo ilustrativo, con cifras redondeadas: si un bono a 10 años tiene una duración modificada cercana a 7.5, una subida de 0.50 puntos porcentuales en su rendimiento reduciría su precio alrededor de 3.75 %, mientras que en un bono a 2 años con duración cercana a 1.9 la caída rondaría 0.95 %. Al revés, si las tasas bajan, el bono largo gana más.",
+    "Por eso muchos planificadores sugieren, cuando la curva está plana, escalonar vencimientos en lugar de apostar todo a un solo plazo. Esa estrategia, conocida como escalera, reparte el riesgo de reinversión y de precio. También conviene recordar que los depósitos a plazo y los bonos locales en Panamá tienen sus propias condiciones y riesgos de crédito, distintos a los del Tesoro.",
+    "## Cómo seguir la curva",
+    "El Departamento del Tesoro publica cada día hábil las tasas de toda la curva en su sitio oficial. Basta con comparar el 2 y el 10 años, o el 3 meses y el 10 años, para saber si la curva se empina, se aplana o se invierte. Mirarla de vez en cuando ayuda a entender las noticias sobre tasas con criterio propio.",
+    "Este contenido es educativo, elaborado con asistencia de IA a partir de datos oficiales y de las fuentes citadas. Los cálculos son ilustrativos y simplificados. No constituye recomendación de inversión ni asesoría personalizada; las inversiones conllevan riesgo, incluida la pérdida de capital. Consulte con un asesor con licencia de la SMV antes de invertir."
+  ]
+}

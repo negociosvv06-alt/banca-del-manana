@@ -1,0 +1,56 @@
+{
+  "id": "pagos-yappy-pedidosya-2026-10-21",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "Yappy llega a los pedidos a domicilio: cómo funciona pagar con el celular en una app de comercio y qué revisar antes de autorizar",
+  "date": "2026-10-21",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Panamá América – PedidosYa suma a Yappy como opción de pago inmediato en Panamá",
+      "url": "https://www.panamaamerica.com.pa/economia/pedidosya-suma-yappy-como-opcion-de-pago-inmediato-en-panama-1267707",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "La Estrella de Panamá – Así funcionará la integración de Yappy en la banca móvil de Banistmo",
+      "url": "https://www.laestrella.com.pa/economia/asi-funcionara-la-integracion-de-yappy-en-la-banca-movil-de-banistmo-DO26288649",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Nexo – Yappy en Panamá: los bancos conectados y el tope de envío",
+      "url": "https://nexo.la/yappy-bancos-conectados-comisiones/",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Banconómico – Yappy supera 1,8 millones de usuarios en Panamá",
+      "url": "https://www.banconomico.com/panama/economia-practica-pa/yappy-supera-18-millones-de-usuarios-en-panama/",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "Pagar la comida a domicilio con el número de celular ya es posible en una de las aplicaciones de entregas más usadas del país. Según informó Panamá América el 20 de octubre, desde este mes los usuarios de PedidosYa pueden elegir Yappy como método de pago al finalizar una compra. Es un paso más de un medio de pago que nació para enviar dinero entre personas y que ahora se mueve con fuerza hacia el comercio electrónico.",
+    "## Cómo funciona el pago",
+    "El proceso descrito es sencillo: al cerrar el pedido, el usuario selecciona Yappy, escribe el número de celular asociado a su cuenta bancaria y autoriza la transacción desde la aplicación de su banco o desde Yappy App. Cuando el pago queda validado, el pedido sigue su curso automáticamente.",
+    "Lo importante de ese diseño es que la autorización ocurre en el entorno del banco o de Yappy, no dentro de la tienda. El comercio no recibe los datos de una tarjeta y el cliente confirma el monto en una aplicación que ya conoce. Para quien no tiene tarjeta de crédito o prefiere no registrarla en cada aplicación, es una alternativa práctica.",
+    "## Un ecosistema que crece",
+    "La noticia llega en un mes de expansión para Yappy. Banconómico reportó el 8 de octubre que la plataforma supera 1.8 millones de clientes y más de 34,000 comercios. Ese mismo mes, Banistmo incorporó Yappy a su aplicación móvil para sus más de 600 mil clientes, según La Estrella de Panamá, que detalla cómo opera en cada banco: en algunos, como Banco General, Banistmo y St. Georges Bank, se puede usar desde la banca móvil propia y desde Yappy App; en otros, como Caja de Ahorros, Credicorp Bank, Davivienda y MetroBank, a través de Yappy App; y en Banisi, desde su propia aplicación.",
+    "Según la nota de Panamá América, el 95 % de los clientes de Yappy usa el servicio al menos una vez al mes. El mismo medio cita datos de la Superintendencia de Bancos con cerca de 3.9 millones de clientes bancarios y más de 5.1 millones de cuentas activas en un país de 4.2 millones de habitantes.",
+    "## Lo que conviene saber sobre costos y límites",
+    "Nexo revisó el 8 de octubre los tarifarios publicados por los bancos y encontró varios datos útiles:",
+    "- Yappy indica que no cobra a la persona por enviar, pero cada banco puede cobrar por sus propios canales. Que un banco no publique un cargo no significa que no exista: pregunte en el suyo.",
+    "- El tope por cada envío a otra persona es de 1,000 dólares, y algunos bancos agregan límites mensuales.",
+    "- Para el comercio, cobrar con Yappy Comercial cuesta 1 % más ITBMS (1.07 %), mientras que Banco General y Banistmo publican 3.00 % por cobros con Visa o Mastercard en datáfono.",
+    "Esa diferencia de costo explica en parte por qué los comercios tienen incentivos para ofrecer Yappy. Para el cliente, el pago en sí no suele tener recargo, pero vale la pena confirmar las condiciones de su banco.",
+    "## Cinco revisiones antes de autorizar un pago",
+    "Que el proceso sea rápido no significa que haya que autorizarlo sin mirar. Estas comprobaciones toman segundos:",
+    "- Confirme el monto y el nombre del comercio en la pantalla de autorización antes de aprobar. Si no coinciden con lo que compró, no autorice.",
+    "- Autorice solo solicitudes que usted mismo inició. Si le llega una solicitud de cobro que no esperaba, recházela: es una de las formas más simples de engaño.",
+    "- Nunca comparta códigos de verificación, claves ni su PIN con nadie que se lo pida por teléfono, chat o redes sociales, aunque diga ser del comercio, del banco o de Yappy.",
+    "- Descargue las aplicaciones solo desde las tiendas oficiales y mantenga activadas las notificaciones de su banca móvil para ver cada movimiento al instante.",
+    "- Si algo sale mal, por ejemplo un cobro duplicado o un pedido que no llegó, guarde el comprobante y contacte primero al comercio y luego a su banco. Si el banco no resuelve, tiene derecho a presentar un reclamo formal ante su sistema de atención de reclamos.",
+    "## Lo que viene",
+    "El reto pendiente del sistema de pagos panameño sigue siendo la interoperabilidad total. Nexo recuerda que el Banco Nacional trabaja en un riel para conectar Yappy, ACH y Kuara, aunque sin fecha confirmada. Mientras eso llega, cada nueva integración, como la de PedidosYa, acerca los pagos digitales a compras cotidianas. La clave para el usuario es aprovechar la comodidad sin bajar la guardia.",
+    "Este artículo es informativo, elaborado con asistencia de IA a partir de las fuentes citadas. Las tarifas y límites pueden cambiar; consulte siempre las condiciones vigentes de su banco."
+  ]
+}

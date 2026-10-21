@@ -1,0 +1,43 @@
+{
+  "id": "opinion-pep-fiscalizadores-sin-voto-2026-10",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: sacar de la lista PEP a los fiscalizadores sin voto es sensato; ahora falta explicarle mejor al cliente la debida diligencia",
+  "date": "2026-10-21",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Superintendencia de Bancos de Panamá – Acuerdo No. 10-2026 (de 15 de octubre de 2026)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/acuerdos/2026/Acuerdo_10-2026.pdf",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-DR-CIRCULAR-2026-0108: Emisión del Acuerdo No. 10-2026",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0108.pdf",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Misión del FMI culmina reuniones con la SBP",
+      "url": "https://www.superbancos.gob.pa/node/1812",
+      "date": "2026-10-14"
+    }
+  ],
+  "body": [
+    "Pocas palabras generan tanta confusión en una sucursal bancaria como \"PEP\". Para el banco, es una categoría de riesgo que exige controles adicionales. Para el cliente que la recibe, suele sentirse como una sospecha: más preguntas, más documentos, más demoras. Por eso vale la pena detenerse en un cambio pequeño, pero bien pensado, que la Superintendencia de Bancos de Panamá (SBP) acaba de introducir.",
+    "## Qué cambió",
+    "Mediante el Acuerdo No. 10-2026, del 15 de octubre, la Junta Directiva de la SBP agregó una excepción a la guía que enumera los cargos considerados de Personas Expuestas Políticamente. A partir de ahora, no serán consideradas PEP las personas designadas por una institución del Estado en juntas directivas exclusivamente para ejercer funciones de fiscalización conforme a la ley, siempre que no tengan derecho a voto. La SBP comunicó el cambio a los bancos mediante circular del 16 de octubre, y el acuerdo rige desde su promulgación.",
+    "El acuerdo recuerda el marco de fondo: la Recomendación 12 del Grupo de Acción Financiera Internacional (GAFI) exige que, frente a una PEP, los bancos apliquen medidas adicionales, como aprobación de la alta gerencia para la relación, verificación de la fuente de riqueza y de los fondos, y un monitoreo continuo reforzado. La Ley 23 de 2015 define a las PEP como quienes cumplen funciones públicas destacadas o ejercen la toma de decisiones en entidades públicas.",
+    "## Por qué me parece una buena decisión",
+    "La lógica de la categoría PEP es el poder de decisión. Se vigila con más cuidado a quien puede adjudicar, aprobar o influir, porque esa capacidad es la que podría usarse para un beneficio indebido. Un fiscalizador sin voto en una junta directiva cumple justamente la función contraria: observar y advertir, no decidir. Tratarlo igual que a un directivo con voto mezclaba dos perfiles de riesgo muy distintos.",
+    "Ese tratamiento uniforme tenía costos reales. Para la persona, significaba una debida diligencia reforzada sin una razón proporcional. Para los bancos, recursos de cumplimiento dedicados a casos de bajo riesgo, que podrían destinarse a revisar mejor los de alto riesgo. Un sistema de prevención eficaz no es el que pone más etiquetas, sino el que las pone donde corresponde. Afinar la definición es aplicar el enfoque basado en riesgo que el propio GAFI promueve.",
+    "## Lo que hay que vigilar",
+    "Toda excepción necesita límites claros, y esta los tiene en el texto: la persona debe haber sido designada por el Estado, su función debe ser exclusivamente de fiscalización conforme a la ley y no debe tener derecho a voto. Si alguna de esas condiciones no se cumple, la excepción no aplica. Los bancos tendrán que documentar bien cada caso, porque el resto de los controles de prevención del blanqueo de capitales sigue vigente y nada impide aplicar medidas adicionales si otros factores lo justifican.",
+    "También conviene recordar el contexto. En su nota sobre las reuniones con la misión del FMI del Artículo IV, la SBP informó que el organismo destacó la resiliencia del sistema bancario panameño y subrayó la importancia de seguir fortaleciendo la gestión de riesgos, el marco de resolución bancaria y la integridad financiera. Para un centro financiero que ha trabajado tanto por su reputación internacional, cada ajuste regulatorio debe mostrar que se gana precisión sin perder rigor. Este cambio, bien aplicado, cumple con eso.",
+    "## La tarea pendiente: explicar",
+    "Mi preocupación no está en la norma, sino en la experiencia del cliente. La mayoría de las personas no sabe qué es una PEP, por qué el banco le pide información sobre el origen de sus fondos o por qué una cuenta tarda más en abrirse. Cuando nadie lo explica, el control se percibe como desconfianza o como burocracia sin sentido.",
+    "Los bancos podrían aprovechar este ajuste para hacer algo sencillo: explicar en lenguaje claro, en sus sitios web y en sus canales de atención, qué es una PEP, qué cargos suelen entrar en la categoría, qué documentos se piden y por qué. Un cliente que entiende el porqué colabora más, se frustra menos y llama menos al centro de contacto para preguntar por qué su trámite no avanza.",
+    "La SBP hizo bien su parte al precisar la regla. Ahora corresponde a la banca convertir esa precisión en una experiencia más justa y más comprensible para quien está del otro lado del mostrador.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}
