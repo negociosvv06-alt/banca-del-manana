@@ -1,5 +1,138 @@
 [
   {
+    "id": "sec-tres-firmas-plataformas-valores-tokenizados",
+    "title": "Tres firmas notifican a la SEC que operarán plataformas de acciones tokenizadas",
+    "summary": "La SEC publicó la lista de empresas que avisaron su intención de operar como plataformas de valores tokenizados bajo la «exención de innovación»: TSV LLC (sobre Canton Network), OKXICE, la empresa conjunta de OKX e ICE (sobre X Layer), y Kephas Corp., filial de Perpetuals.com (sobre Kronos X Public). El regulador aclara que figurar en la lista no significa que cumplan las condiciones de la exención.",
+    "date": "2026-10-22",
+    "source": "TokenPost",
+    "url": "https://www.tokenpost.com/news/regulation/37601",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "SEC",
+      "regulación",
+      "mercado de valores"
+    ]
+  },
+  {
+    "id": "china-actualiza-sistema-yuan-digital-contratos-inteligentes",
+    "title": "China actualiza la infraestructura del yuan digital y suma servicios de contratos inteligentes",
+    "summary": "El centro operativo del e-CNY del Banco Popular de China presentó un sistema renovado que integra emisión, pagos minoristas y mayoristas, blockchain y contratos inteligentes, con el fin de bajar costos para las entidades financieras. Hasta septiembre, el yuan digital acumulaba 4.300 millones de transacciones por unos 31 billones de yuanes.",
+    "date": "2026-10-21",
+    "source": "Xinhua",
+    "url": "https://english.news.cn/20261021/ab8431c28bc7489abd62eddaacde4246/c.html",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "China",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "banca central",
+      "yuan digital",
+      "banca"
+    ]
+  },
+  {
+    "id": "bce-cipollone-invita-bancos-pontes-appia",
+    "title": "El BCE invita a los bancos a usar Pontes y a diseñar el futuro mercado tokenizado europeo",
+    "summary": "Piero Cipollone, miembro del Comité Ejecutivo del BCE, pidió a la banca italiana sumarse a Pontes, el servicio activo desde septiembre que liquida operaciones con activos tokenizados en dinero de banco central. Explicó servicios que los bancos podrían construir sobre él y recordó que el trabajo de diseño de Appia, el proyecto de largo plazo, comenzará en 2027 con miras a un plan en 2028.",
+    "date": "2026-10-21",
+    "source": "EconoTimes",
+    "url": "https://econotimes.com/ECB-Invites-Banks-to-Shape-Tokenized-Market-Standards-After-Pontes-Launch-1759172",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Unión Europea",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "BCE",
+      "banca central",
+      "banca"
+    ]
+  },
+  {
+    "id": "lead-bank-pagos-internacionales-usdc-44-paises",
+    "title": "Lead Bank lanza pagos internacionales con USDC hacia cuentas bancarias en 44 países",
+    "summary": "El banco estadounidense ofrece a empresas financieras, mediante API, la conversión entre dólares y USDC y pagos en moneda local que llegan a cuentas bancarias sin que el destinatario use cripto. Entre los destinos figuran México, Colombia y Brasil; el tipo de cambio final se informa después de liquidar el pago.",
+    "date": "2026-10-21",
+    "source": "Crypto Economy ESP",
+    "url": "https://crypto-economy.com/es/lead-bank-lanza-una-plataforma-de-pagos-internacionales-con-usdc-disponible-en-44-paises/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos",
+      "remesas",
+      "banca",
+      "Latinoamérica"
+    ]
+  },
+  {
+    "id": "crown-brlv-licencia-banco-central-brasil-tarjetas",
+    "title": "Crown, emisora de la stablecoin BRLV, pide licencia al Banco Central de Brasil y prepara tarjetas para bancos",
+    "summary": "La fintech brasileña solicitó autorización como proveedora de servicios de activos virtuales bajo las nuevas normas del Banco Central y desarrolla infraestructura para que bancos y fintechs emitan tarjetas vinculadas a stablecoins. Las empresas que ya operaban deben entregar la documentación de la primera fase antes del 30 de octubre de 2026.",
+    "date": "2026-10-21",
+    "source": "BitNotícias",
+    "url": "https://bitnoticias.com.br/noticias/crown-stablecoin-cartoes-banco-central/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Brasil",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "regulación",
+      "banca central",
+      "banca",
+      "Latinoamérica"
+    ]
+  },
+  {
+    "id": "aton-suhyup-bank-stablecoin-ahorro-prestamos",
+    "title": "Suhyup Bank prueba una stablecoin en won para cuentas de ahorro y préstamos con garantía",
+    "summary": "La firma coreana Aton completó con Suhyup Bank una prueba de concepto que lleva una stablecoin ligada uno a uno al won más allá de pagos y remesas: apertura y cancelación de ahorros, préstamos con garantía de principio a fin y conversión a stablecoins en dólares para envíos al exterior, con registro en una blockchain pública.",
+    "date": "2026-10-21",
+    "source": "MoneyToday",
+    "url": "https://www.mt.co.kr/en/tech/2026/10/21/2026102109332674304",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "banca",
+      "préstamos"
+    ]
+  },
+  {
+    "id": "shinhan-sbi-pagos-stablecoin-yen-corea",
+    "title": "Shinhan y SBI explorarán pagos con stablecoins en yenes para turistas japoneses en Corea",
+    "summary": "El grupo financiero coreano Shinhan y la japonesa SBI firmaron un acuerdo para estudiar pagos comerciales y de comercio exterior con stablecoins en yenes entre ambos países. El proyecto está en fase inicial: no han nombrado la stablecoin ni fijado fechas de prueba o lanzamiento.",
+    "date": "2026-10-21",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur / Japón",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos",
+      "banca"
+    ]
+  },
+  {
     "category": "activos-digitales",
     "type": "noticia",
     "banks": [],
