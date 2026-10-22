@@ -1,0 +1,37 @@
+{
+  "id": "opinion-niif-18-estado-resultados-bancos-2026-10",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: la NIIF 18 ordenará cómo los bancos presentan sus ganancias; que sirva también para que el público entienda mejor a su banco",
+  "date": "2026-10-22",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-SG-CIRCULAR-2026-0107: Adopción de la NIIF 18",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0107.pdf",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "IFRS Foundation – IFRS 18 Presentation and Disclosure in Financial Statements",
+      "url": "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/",
+      "date": "2026-10-22"
+    }
+  ],
+  "body": [
+    "Casi nadie lee el estado de resultados de un banco. Y sin embargo, ahí está la respuesta a preguntas que a todos nos interesan: de dónde gana dinero mi banco, cuánto le cuesta el riesgo de los préstamos que no se pagan, cuánto gasta en operar. Por eso vale la pena prestar atención a una circular técnica que la Superintendencia de Bancos de Panamá (SBP) emitió el 15 de octubre y que pasó casi inadvertida.",
+    "## Qué cambió",
+    "Mediante la circular SBP-SG-CIRCULAR-2026-0107, la SBP recordó a los bancos que la NIIF 18, «Presentación e Información a Revelar en los Estados Financieros», reemplazará a la NIC 1 y será obligatoria para los períodos anuales que comiencen a partir del 1 de enero de 2027. Como la nueva norma tiene «un impacto significativo en la presentación del estado de resultados», la SBP emitió un modelo de estado de resultados que deberán usar todos los bancos y grupos bancarios en sus estados financieros intermedios y anuales.",
+    "Según la Fundación IFRS, la NIIF 18 busca mejorar la información financiera de tres maneras: exige dos nuevos subtotales definidos, la utilidad de operación y la utilidad antes de financiamiento e impuestos; obliga a revelar las llamadas medidas de desempeño definidas por la gerencia, es decir, los indicadores propios que una empresa usa en sus comunicaciones públicas; y agrega principios nuevos para agrupar o desagregar partidas.",
+    "La circular de la SBP añade reglas propias. Los subtotales y líneas del modelo son de uso obligatorio, aunque cada banco puede agregar partidas o mayor detalle. Si los cambios que necesita no le permiten cumplir con los subtotales requeridos, debe consultar por escrito a la SBP antes de aplicarlos. Y como el modelo parte de que los bancos tienen dos actividades principales —invertir en ciertos activos y dar financiamiento a clientes—, el banco que concluya que solo tiene una deberá informarlo a la SBP, con sus argumentos, a más tardar el 31 de diciembre de 2026. La SBP fue explícita en su objetivo: asegurar una adopción uniforme en todo el sistema.",
+    "## Por qué me parece una buena decisión",
+    "Un modelo común es una ventaja para todos. Si cada banco organizara sus resultados a su manera, comparar entidades sería un ejercicio para especialistas. Con una estructura uniforme, analistas, calificadoras, periodistas y también clientes con interés podrán poner lado a lado dos bancos y ver diferencias reales, no diferencias de formato.",
+    "También es valioso que la norma obligue a explicar los indicadores propios. Cuando un banco anuncia en un comunicado una cifra de «utilidad ajustada» o de «eficiencia», la NIIF 18 pide que esa medida se revele y se concilie con las cifras de los estados financieros. Es una protección contra el maquillaje de resultados, por bienintencionado que sea.",
+    "Y es acertado que la SBP haya compartido antes el modelo con las firmas de auditoría externa, como indica la circular, y que dé un plazo hasta fin de año para las evaluaciones. Es una forma ordenada de introducir un cambio técnico grande.",
+    "## Lo que falta",
+    "Mi preocupación es que todo este esfuerzo quede encerrado en informes que solo leen los especialistas. La transparencia que exige la NIIF 18 está pensada para inversionistas y analistas; el cliente común seguirá sin entender qué significa cada línea.",
+    "Los bancos panameños tienen aquí una oportunidad sencilla. Cuando publiquen sus primeros resultados bajo la nueva norma, podrían acompañarlos con un resumen en lenguaje claro: cuánto ganó el banco, de dónde vino ese ingreso, cuánto reservó para préstamos que podrían no pagarse y qué significan sus principales indicadores. Una página, sin jerga, en su sitio web.",
+    "La confianza en un banco no se construye solo con cumplir la norma contable, sino con ayudar a que la gente entienda la salud de la institución donde guarda su dinero. La SBP ya puso la estructura. A la banca le toca traducirla.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

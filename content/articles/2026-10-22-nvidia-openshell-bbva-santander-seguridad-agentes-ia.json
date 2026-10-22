@@ -1,0 +1,44 @@
+{
+  "id": "nvidia-openshell-bbva-santander-agentes-ia-2026-10",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Agentes de IA con «jaula» de seguridad: BBVA y Santander prueban la arquitectura OpenShell de NVIDIA y lo que deja para la banca en Panamá",
+  "date": "2026-10-22",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "NVIDIA Newsroom – NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
+      "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "elEconomista.es – BBVA y Santander colaborarán con Nvidia en seguridad para agentes de IA",
+      "url": "https://www.eleconomista.es/banca-finanzas/noticias/14022568/10/26/bbva-y-santander-colaboraran-con-nvidia-en-seguridad-para-agentes-de-ia.html",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Portal ERP – Banco Sabadell desplegará IA agéntica con T-Systems",
+      "url": "https://portalerp.com/es/noticia/banco-sabadell-desplegara-ia-agentica-con-t-systems-2026-10-21",
+      "date": "2026-10-21"
+    }
+  ],
+  "body": [
+    "Durante meses, la conversación sobre inteligencia artificial en la banca giró alrededor de una pregunta: ¿qué puede hacer un agente de IA? Esta semana la pregunta cambió de lugar. El 21 de octubre, NVIDIA presentó en su conferencia GTC Berlín la OpenShell Reference Architecture, una arquitectura pensada para que los agentes de IA trabajen dentro de límites claros, vigilados y con capacidad de detenerlos. Entre los primeros en sumarse están dos de los mayores bancos de Europa: BBVA y Santander.",
+    "## Qué anunció NVIDIA",
+    "Según el comunicado oficial de NVIDIA, la arquitectura permite «construir, contener, observar y hacer cumplir» políticas sobre agentes de IA en la infraestructura de las empresas. Se apoya en OpenShell, un software de código abierto que funciona como un entorno de ejecución seguro para agentes autónomos, y lo combina con hardware de la propia compañía: servidores Vera Rubin para ejecutar los modelos, procesadores Vera para que operen los agentes y tarjetas BlueField-4 con un software llamado NVIDIA Sentry, que vigila de forma continua lo que hace cada agente.",
+    "El detalle más relevante para un banco es este: de acuerdo con NVIDIA, si un agente intenta salirse de los límites que se le fijaron, Sentry lo pone en cuarentena y lo detiene en milisegundos. Es decir, el control no depende solo de que el agente «se porte bien», sino de una capa independiente que lo observa desde fuera.",
+    "Jensen Huang, fundador y director ejecutivo de NVIDIA, lo resumió así en el comunicado: «La capacidad y la seguridad de la IA deben avanzar juntas». La empresa indicó que la arquitectura ya está disponible y que trabajan con ella proveedores de modelos, de nube y de ciberseguridad como Microsoft, Google Cloud, AWS, CrowdStrike, Palo Alto Networks, Okta y 1Password, entre otros.",
+    "## El papel de BBVA y Santander",
+    "NVIDIA señaló que BBVA y Santander trabajan con la compañía para explorar esta arquitectura como marco para fortalecer la seguridad, la protección y la gobernanza de sus agentes. Según recogió elEconomista.es, BBVA explicó que la colaboración le permitirá «explorar nuevos enfoques» para reforzar la seguridad desde el diseño, dentro de su estrategia para industrializar el desarrollo de agentes en toda la organización.",
+    "Aser Blanco, responsable global del sector bancario de NVIDIA, citado por el mismo medio, dijo que BBVA explorará «cómo hacer cumplir estos límites durante el funcionamiento de los agentes», con el objetivo de mejorar la experiencia de los clientes y la productividad de los empleados «sin perder el control».",
+    "Conviene leer bien la noticia: se trata de una exploración, no del anuncio de un producto para clientes. Ninguno de los dos bancos informó que sus clientes ya interactúen con agentes protegidos por esta tecnología.",
+    "## Una tendencia, no un caso aislado",
+    "El mismo día, Banco Sabadell anunció un acuerdo con T-Systems para desplegar, integrar y supervisar agentes de IA en sus procesos. Según Portal ERP, la plataforma mantendrá «criterios homogéneos de seguridad, supervisión y control de los datos» y una arquitectura abierta para combinar distintos proveedores y evitar depender de uno solo. El acuerdo no detalla casos de uso ni calendario.",
+    "La coincidencia no es casual. Los bancos están pasando de pilotos aislados a usar agentes en muchos procesos a la vez, y con esa escala aparece un riesgo nuevo: un agente que tiene permiso para consultar sistemas, redactar respuestas o preparar operaciones puede equivocarse, ser manipulado o actuar fuera de lo previsto. La respuesta de la industria es tratar a cada agente como algo que hay que vigilar, con permisos mínimos, registros de todo lo que hace y un mecanismo para apagarlo.",
+    "## Qué significa para Panamá",
+    "Para los bancos panameños, la lección no pasa por comprar una tecnología específica, sino por adoptar el principio. Antes de que un agente de IA atienda clientes por WhatsApp, prepare una transferencia o revise un expediente, cada entidad debería poder responder tres preguntas: qué puede hacer exactamente ese agente y qué no; quién vigila lo que hace mientras funciona, no solo después; y cómo se detiene en segundos si algo sale mal.",
+    "Para el cliente, la noticia también deja una idea útil. A medida que los bancos incorporen asistentes y agentes de IA, es razonable esperar que expliquen qué hace la IA, cuándo interviene una persona y cómo reclamar si algo falla. Y una regla no cambia: ningún asistente legítimo de un banco le pedirá su PIN, su contraseña completa ni un código de verificación por mensaje.",
+    "La banca ya no discute si usará agentes de IA. La discusión ahora es cómo mantenerlos bajo control, y ahí la seguridad deja de ser un complemento para convertirse en la base."
+  ]
+}
