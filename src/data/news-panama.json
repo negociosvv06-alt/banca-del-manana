@@ -1,5 +1,129 @@
 [
   {
+    "id": "credito-bancario-crece-2-agosto-2026",
+    "title": "El crédito bancario local crece 2,08 % a agosto, impulsado sobre todo por los préstamos al sector público",
+    "summary": "Con datos de actividad bancaria de la SBP a agosto de 2026, la cartera crediticia local del Sistema Bancario Nacional sumó USD 66.052,8 millones. El crédito al sector público subió 39,37 % (USD 876,8 millones) y explicó cerca del 65 % del aumento, mientras el financiamiento al sector privado avanzó apenas 0,75 %, con industria y construcción perdiendo terreno.",
+    "date": "2026-10-22",
+    "source": "Mirada Económica",
+    "url": "https://miradaeconomica.com/el-credito-bancario-en-panama-crece-apenas-2-mientras-la-industria-y-la-construccion-pierden-terreno/",
+    "category": "credito",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "crédito",
+      "SBP",
+      "sector privado",
+      "estadísticas"
+    ]
+  },
+  {
+    "id": "apc-experian-saldo-credito-septiembre-2026",
+    "title": "APC Experian: el saldo de crédito en Panamá llega a USD 42.762 millones y la mora de tarjetas bancarias se ubica en 8,75 %",
+    "summary": "Según las estadísticas de APC Experian al cierre de septiembre, la plataforma registra USD 42.762 millones en crédito y más de 2,5 millones de clientes. La banca comercial concentra USD 37.918 millones, con hipotecas de USD 21.610 millones (mora de 4,76 %) y préstamos personales de USD 8.826 millones (mora de 3,26 %). Las financieras muestran la mora más alta del sector formal no bancario, con 17 %.",
+    "date": "2026-10-22",
+    "source": "La Estrella de Panamá",
+    "url": "https://www.laestrella.com.pa/economia/cuanto-deben-los-panamenos-saldo-de-creditos-supera-los-42700-millones-EB26720664",
+    "category": "credito",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "APC",
+      "morosidad",
+      "tarjetas de crédito",
+      "consumo"
+    ]
+  },
+  {
+    "id": "fondo-bid-banconal-mipymes-terremoto",
+    "title": "MEF y Banco Nacional activan un fondo de más de USD 100 millones del BID para créditos a mipymes afectadas por el terremoto",
+    "summary": "El fondo, financiado por el BID y administrado por el Banco Nacional, se canaliza a través de 19 instituciones, entre ellas 13 bancos como Banco General, Caja de Ahorros, Banesco y Credicorp Bank, además de financieras y dos cooperativas. Los préstamos, con tasas más bajas y un tope de USD 600.000, pueden usarse para capital de trabajo, reparaciones y reposición de equipos e inventario.",
+    "date": "2026-10-21",
+    "source": "TVN Noticias",
+    "url": "https://www.tvn-2.com/nacionales/temblor-panama-mipymes-empresas-afectadas-acceder-prestamos-interes-bajo-mef-banco-nacional_1_2267279.html",
+    "category": "credito",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "banco-nacional",
+      "banco-general",
+      "caja-de-ahorros"
+    ],
+    "tags": [
+      "mipymes",
+      "BID",
+      "terremoto",
+      "financiamiento"
+    ]
+  },
+  {
+    "id": "mef-terremoto-no-afectara-proyecciones-2026",
+    "title": "MEF: el terremoto tendrá un impacto de muy corto plazo y no cambia las proyecciones de crecimiento de 2026",
+    "summary": "El ministro Felipe Chapman afirmó que los daños se concentran en viviendas, centros de salud, escuelas y vías, y que la reconstrucción compensará parte del golpe inicial. El Gobierno mantiene su estimación de crecimiento del PIB de entre 4,5 % y 5,5 % para este año, mientras termina de calcular los costos de recuperación.",
+    "date": "2026-10-22",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/economia/mef-terremoto-no-afectara-las-proyecciones-economicas-de-panama-en-2026/",
+    "category": "economia",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "MEF",
+      "PIB",
+      "terremoto",
+      "proyecciones"
+    ]
+  },
+  {
+    "id": "banistmo-260000-terremoto-yappy",
+    "title": "Banistmo aporta USD 260.000 para las comunidades afectadas por el terremoto y habilita donaciones por Yappy",
+    "summary": "Banistmo anunció una contribución de 260.000 dólares para apoyar la recuperación de las comunidades golpeadas por el reciente terremoto, mediante iniciativas propias, y activó Yappy como canal para facilitar que el público haga donaciones.",
+    "date": "2026-10-22",
+    "source": "Panamá Banking News",
+    "url": "https://panamabankingnews.com/notas-de-prensa/banistmo-destina-260000-para-apoyar-a-comunidades-afectadas-por-el-terremoto-y-activa-yappy-para-facilitar-donaciones/",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "banistmo"
+    ],
+    "tags": [
+      "responsabilidad social",
+      "Yappy",
+      "terremoto"
+    ]
+  },
+  {
+    "id": "contratos-banca-en-linea-agentes-ia-panama",
+    "title": "¿Quién responde si un agente de IA usa tu clave bancaria? Lo que dicen los contratos de los bancos en Panamá",
+    "summary": "Una revisión de los contratos de banca en línea publicados por Banco General, Banistmo, BAC y Caja de Ahorros muestra que todos dejan en el cliente la custodia de sus claves. Banco General es el único que menciona la IA: prohíbe usar agentes que actúen en nombre del cliente y considera como propias las órdenes dadas con sus credenciales.",
+    "date": "2026-10-22",
+    "source": "Nexo",
+    "url": "https://nexo.la/bancos-agentes-ia-clave/",
+    "category": "tecnologia",
+    "type": "analisis",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "banco-general",
+      "banistmo",
+      "bac",
+      "caja-de-ahorros"
+    ],
+    "tags": [
+      "inteligencia artificial",
+      "banca en línea",
+      "ciberseguridad",
+      "contratos"
+    ]
+  },
+  {
     "id": "contraloria-retoma-juntas-directivas-aclaracion-pep-sbp",
     "title": "La Contraloría vuelve a las juntas directivas estatales tras aclarar la SBP que sus delegados no son PEP",
     "summary": "La Contraloría General anunció el 21 de octubre que sus representantes retoman de inmediato su participación en las juntas directivas de entidades estatales, suspendida desde el 7 de octubre. La Superintendencia de Bancos aclaró que, al asistir solo con derecho a voz y sin voto como parte de su labor fiscalizadora, no se les considera Personas Expuestas Políticamente bajo la guía del Acuerdo 1-2025.",
