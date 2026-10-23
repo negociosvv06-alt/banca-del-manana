@@ -1,0 +1,32 @@
+{
+  "id": "mastercard-wallet-pay-billeteras-comercios-efectivo-2026-10-23",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "77 % de los pequeños comercios de la región todavía no acepta pagos digitales: lo que Mastercard Wallet Pay busca cambiar y qué significa para las billeteras en Panamá",
+  "date": "2026-10-23",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    { "name": "El Economista (México) – Mastercard busca conectar billeteras digitales y ampliar su aceptación global", "url": "https://www.eleconomista.com.mx/sectorfinanciero/mastercard-busca-conectar-billeteras-digitales-ampliar-aceptacion-global-20261021-839898.html", "date": "2026-10-21" },
+    { "name": "Lado.mx – Mastercard lanza plataforma para conectar billeteras digitales en más de 200 países", "url": "https://lado.mx/noticia/22117257/", "date": "2026-10-21" },
+    { "name": "Business Wire – Mastercard Launches Wallet Pay to Scale Digital Wallets Worldwide", "url": "https://www.businesswire.com/news/home/20260909199802/en/Mastercard-Launches-Wallet-Pay-to-Scale-Digital-Wallets-Worldwide", "date": "2026-09-09" }
+  ],
+  "body": [
+    "En la fonda, la abarrotería del barrio o el puesto de frutas, la escena se repite en toda la región: «¿Aceptan tarjeta?» «No, solo efectivo». Un estudio de Mastercard y la firma Payments and Commerce Market Intelligence (PCMI), citado esta semana por la prensa financiera de México, le puso número a esa realidad: el 77 % de los 11 millones de pequeños comercios de México, Centroamérica y el Caribe todavía no acepta pagos digitales, y el efectivo concentra el 58 % del gasto de consumo personal en esos mercados.",
+    "Ese dato acompañó la presentación en América Latina, el 21 de octubre, de Mastercard Wallet Pay, un portafolio de soluciones para billeteras digitales que la empresa lanzó a nivel global en septiembre. Vale la pena entender qué es, qué promete y qué no cambia para quien paga con el celular en Panamá.",
+    "## Qué es Wallet Pay",
+    "En palabras sencillas, Wallet Pay es un conjunto de herramientas para que las billeteras digitales (aplicaciones donde se guarda saldo o se vinculan tarjetas para pagar) puedan conectarse a la red de aceptación de Mastercard sin rehacer su tecnología. Según el comunicado global de la empresa, permite pagos sin contacto (NFC), con código QR y en línea; transferencias rápidas entre tarjetas, billeteras y cuentas en más de 200 países y territorios y 150 monedas; y que las propias billeteras emitan tarjetas de crédito, débito o prepago.",
+    "Mastercard sostiene que hoy hay más de 4,300 millones de usuarios de billeteras digitales en el mundo y que podrían superar los 6,000 millones hacia 2030. Entre los participantes están Mercado Pago, DaviPlata de Colombia, Clip de México y billeteras asiáticas conectadas mediante Alipay+, la plataforma de Ant International que agrupa más de 50 billeteras y aplicaciones bancarias y más de 10 esquemas nacionales de pago.",
+    "## El problema de fondo: la aceptación",
+    "El estudio de Mastercard y PCMI insiste en que la aceptación digital no es un detalle técnico sino un motor de crecimiento. Además del 77 % que no acepta pagos digitales, calcula que unos 8.5 millones de pequeños establecimientos en la región operan únicamente con efectivo. También observa que cada vez más consumidores usan tarjetas de débito y crédito para fondear billeteras que luego emplean en transferencias entre personas, pagos con QR y pago de servicios.",
+    "Un ejemplo citado es el de DaviPlata, que reportó 1.5 millones de tarjetas digitales activas en 15 meses tras lanzar una tarjeta de débito digital con Mastercard. Según la entidad colombiana, eliminar los costos de adquisición fue clave para atraer a clientes sin cuenta bancaria.",
+    "## Qué significa para Panamá",
+    "Panamá ya tiene una cultura de billetera digital propia. Yappy se volvió parte de la vida diaria para pagar entre personas y en comercios, y las transferencias por ACH Xpress se usan para mover dinero entre bancos al instante. Aun así, el patrón regional también se ve aquí: muchos pequeños negocios siguen cobrando en efectivo o solo aceptan una modalidad, y el turista o el cliente que llega con otra aplicación no siempre puede pagar.",
+    "Iniciativas como Wallet Pay apuntan a la interoperabilidad, es decir, a que distintas billeteras, tarjetas y cuentas puedan hablar entre sí. Es importante aclarar que el anuncio no menciona a ninguna billetera panameña entre los participantes y que su llegada a cada mercado dependerá, como reconoce la propia cobertura del lanzamiento, de que los proveedores se sumen y de que usuarios y comercios lo adopten.",
+    "## Si usted tiene un pequeño negocio",
+    "Aceptar pagos digitales no es solo comodidad: deja registro de las ventas, reduce el manejo de efectivo y abre la puerta a clientes que ya no cargan billetes. Antes de elegir un medio, compare lo que cobra cada proveedor por transacción, cuánto tarda en llegar el dinero a su cuenta y qué soporte ofrece si hay un reclamo o un pago reversado.",
+    "## Si usted paga con billetera",
+    "Más conexiones entre billeteras también significan más puertas que cuidar. Vincule tarjetas solo en aplicaciones oficiales descargadas de las tiendas autorizadas, active las notificaciones de cada pago y nunca comparta códigos de verificación, PIN ni contraseñas, aunque quien los pida diga llamar de su banco o de la billetera.",
+    "La competencia entre redes por conectar billeteras puede traer más opciones y menores costos al comercio pequeño. Lo que no cambia es la regla básica: un pago digital es tan seguro como los hábitos de quien lo usa."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "nasdaq-cae-ia-semiconductores-flujo-caja-meta-2026-10-23",
+  "section": "inversiones",
+  "type": "analisis",
+  "title": "El Nasdaq cae 2.6 % y los semiconductores 6.7 % por dudas sobre el gasto en IA: qué es el flujo de caja libre y por qué el mercado castigó a Meta aunque ganó más de lo esperado",
+  "date": "2026-10-23",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    { "name": "Reuters (vía Investing.com) – S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff", "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180", "date": "2026-10-22" },
+    { "name": "AP News – How major US stock indexes fared Thursday 10/22/2026", "url": "https://apnews.com/article/stocks-wall-street-nasdaq-dow-1970e79d013cbddcae89c53b4b98f384", "date": "2026-10-22" },
+    { "name": "Portfolio Terminal – Stock Market Close October 22, 2026", "url": "https://portfolio-terminal.com/markets/stock-market-close/october-22-2026", "date": "2026-10-22" }
+  ],
+  "body": [
+    "El jueves 22 de octubre fue un día incómodo para quien tiene dinero en acciones tecnológicas. El índice Nasdaq Composite cayó 2.6 %, hasta 26,008.86 puntos, su peor jornada desde comienzos de junio, según Reuters. El S&P 500 bajó 1.21 %, a 7,663.43, su mayor caída diaria desde finales de julio. En cambio, el Dow Jones terminó prácticamente plano, con una subida de 0.02 %, y el índice de pequeñas empresas Russell 2000 avanzó 0.11 %.",
+    "Detrás del movimiento hay una pregunta que el mercado se hace cada vez con más insistencia: ¿cuándo y cuánto devolverá la enorme inversión que las grandes tecnológicas están haciendo en inteligencia artificial?",
+    "## Qué pasó",
+    "El detonante fue una tanda de resultados trimestrales. El caso más llamativo fue el de Meta, la empresa matriz de Facebook. Sus resultados superaron las expectativas de los analistas, pero su acción se desplomó 7 %. Según Reuters, la empresa registró su primer flujo de caja negativo en más de una década por sus gastos relacionados con IA y anunció planes para emitir acciones sin derecho a voto, mediante un desdoblamiento de dos por una, para levantar capital y seguir invirtiendo en esa tecnología.",
+    "El golpe fue más fuerte en los fabricantes de chips. El índice de semiconductores de Filadelfia, que ha impulsado buena parte de las ganancias del mercado, se hundió 6.7 %. Con esa caída queda más de 26 % por debajo de su récord del 22 de junio, aunque todavía acumula una ganancia de 51.5 % en lo que va del año. Intel, AMD, Sandisk y Marvell bajaron más de 8 % cada una.",
+    "A la presión se sumó el petróleo, que tocó un máximo de cinco meses tras nuevos ataques de los hutíes, respaldados por Irán, contra objetivos en Arabia Saudita. Reuters señala que el mercado teme que eso mantenga alta la inflación y descuenta la probabilidad de que la Reserva Federal suba su tasa otros 25 puntos básicos antes de fin de año.",
+    "## La lección: ganar no es lo mismo que generar caja",
+    "Que una empresa gane más de lo esperado y su acción caiga parece contradictorio. La explicación está en un concepto que vale la pena entender: el flujo de caja libre.",
+    "La utilidad contable mide si las ventas superan los costos del período. El flujo de caja libre mide cuánto efectivo le queda a la empresa después de pagar su operación y sus inversiones en equipos, edificios o, en este caso, centros de datos y chips para IA. Una compañía puede ser rentable en papel y, al mismo tiempo, estar gastando más efectivo del que genera porque está invirtiendo fuertemente para el futuro.",
+    "Eso no es necesariamente malo: muchas empresas invierten hoy para ganar mañana. Pero cuando el gasto crece tanto que la empresa necesita levantar capital adicional, los inversionistas empiezan a preguntarse si el retorno llegará a tiempo y en el tamaño prometido. Un estratega citado por Reuters lo resumió así: los inversionistas empiezan a ver «algunos huecos en la historia de la IA», y eso pesa en los índices porque están muy cargados hacia la tecnología.",
+    "## Qué mirar si invierte desde Panamá",
+    "Muchos panameños tienen exposición a estas empresas sin saberlo, a través de fondos indexados o ETF del S&P 500 o del Nasdaq que compran por medio de casas de valores o planes de ahorro. Cuando unas pocas empresas tecnológicas pesan tanto en un índice, un mal día para ellas se siente en todo el portafolio.",
+    "Algunas preguntas útiles, sin que esto sea una recomendación de compra o venta: ¿sabe qué porcentaje de su fondo está en tecnología y semiconductores? ¿Su horizonte de inversión le permite tolerar caídas de 20 % o 30 % en un sector sin necesitar ese dinero? ¿Tiene una parte de su ahorro en instrumentos de menor volatilidad, como depósitos a plazo o bonos de corto plazo, acorde con sus metas?",
+    "Fíjese también en que no todo el mercado cayó. Ese mismo día subieron empresas de consumo básico como Procter & Gamble, de defensa como Lockheed Martin y de transporte como Union Pacific, tras sus propios resultados. La diversificación entre sectores existe precisamente para que un tropiezo concentrado no defina todo su resultado.",
+    "Y recuerde que un día no hace una tendencia. El S&P 500 sigue con una ganancia de alrededor de 11.9 % en el año. Lo importante no es reaccionar a cada titular, sino que su plan tenga claro cuánto riesgo puede asumir y por cuánto tiempo.",
+    "Este contenido es educativo e informativo, elaborado con asistencia de IA a partir de las fuentes citadas. No constituye recomendación de compra o venta de ningún valor ni asesoría de inversión personalizada. Las inversiones conllevan riesgo, incluida la pérdida del capital, y los rendimientos pasados no garantizan resultados futuros. Consulte con un asesor de inversiones con licencia de la SMV antes de tomar decisiones."
+  ]
+}
