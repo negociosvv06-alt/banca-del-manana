@@ -1,5 +1,102 @@
 [
   {
+    "id": "mas-bloom-malasia-tailandia-dinero-digital-transfronterizo",
+    "title": "Malasia y Tailandia se suman a BLOOM, la iniciativa de Singapur para pagos transfronterizos con dinero digital",
+    "summary": "La Autoridad Monetaria de Singapur anunció que los bancos centrales de Malasia y Tailandia se unen a BLOOM como miembros reguladores. La iniciativa público-privada trabajará en reglas comunes para aceptar, intercambiar y liquidar depósitos tokenizados y stablecoins reguladas entre países, con foco en interoperabilidad y controles como verificación de identidad y filtrado de sanciones. También se incorporan Mastercard, Visa, Maybank, Ripple y el Grupo Banco Mundial.",
+    "date": "2026-10-23",
+    "source": "Autoridad Monetaria de Singapur (MAS)",
+    "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-bnm-and-bot-partner-with-industry-to-advance-cross-border-settlement-in-digital-money",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Asia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "bancos centrales",
+      "depósitos tokenizados",
+      "stablecoins",
+      "pagos transfronterizos"
+    ]
+  },
+  {
+    "id": "banco-corea-hangang-depositos-tokenizados-segunda-prueba",
+    "title": "Banco de Corea: el dinero del banco central sigue siendo necesario; Project Hangang ampliará su prueba con depósitos tokenizados",
+    "summary": "En un seminario en Seúl, el jefe de la Oficina de Moneda Digital del Banco de Corea defendió que la tecnología blockchain no elimina la necesidad del dinero de banco central para la liquidez y la firmeza de la liquidación. Project Hangang, que combina depósitos tokenizados emitidos por bancos con moneda digital mayorista, tendrá una segunda prueba real a fines de año con nueve bancos y hasta 500.000 usuarios; Project Agora apunta a comercializarse en 2028.",
+    "date": "2026-10-23",
+    "source": "Bloomingbit",
+    "url": "https://en.bloomingbit.io/feed/news/122799",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "bancos centrales",
+      "CBDC",
+      "depósitos tokenizados"
+    ]
+  },
+  {
+    "id": "sofi-sofie-deposito-tokenizado-asegurado-fdic",
+    "title": "SoFi lanza un depósito tokenizado con interés y seguro de la FDIC para clientes cripto",
+    "summary": "SoFi presentó SoFi Earn (SOFIE), un depósito tokenizado que paga intereses y cuenta con cobertura de la FDIC dentro de los límites aplicables. Cada SOFIE equivale a un dólar depositado en SoFi Bank y puede convertirse 1:1 en la stablecoin SoFiUSD para comprar criptoactivos o transferir fondos; la stablecoin no está asegurada. Según el banco, es la primera vez que un banco nacional de EE. UU. ofrece depósitos tokenizados a personas, y completará el despliegue en noviembre.",
+    "date": "2026-10-22",
+    "source": "The Block",
+    "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "depósitos tokenizados",
+      "stablecoins",
+      "FDIC"
+    ]
+  },
+  {
+    "id": "bancos-critican-regla-occ-rendimiento-stablecoins",
+    "title": "La regla final de la OCC sobre stablecoins reaviva la disputa entre bancos y plataformas cripto por los rendimientos",
+    "summary": "La regla de la OCC que implementa la Ley GENIUS prohíbe que plataformas como exchanges paguen intereses solo por mantener stablecoins, pero deja otras actividades a revisión caso por caso, en lugar de la presunción restrictiva de la propuesta original. La Asociación de Banqueros de EE. UU. (ABA) criticó el cambio por considerar que mantiene el statu quo de las plataformas y que puede restar depósitos a los bancos. La regla entra en vigor el 18 de enero de 2027.",
+    "date": "2026-10-22",
+    "source": "Roll Call",
+    "url": "https://rollcall.com/2026/10/22/stablecoin-yield-rule-revives-crypto-vs-banking-industry-fight/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "regulación",
+      "stablecoins",
+      "GENIUS Act",
+      "OCC"
+    ]
+  },
+  {
+    "id": "coinbase-advierte-regulacion-stablecoins-brasil",
+    "title": "Coinbase advierte que una regulación excesiva podría frenar las stablecoins en Brasil",
+    "summary": "El director regional de Coinbase para las Américas señaló que tratar las stablecoins como divisas podría aplicarles el impuesto sobre operaciones financieras (IOF) y encarecer su uso, además de frenar las stablecoins ligadas al real. La discusión ocurre a días del 30 de octubre, plazo para que las empresas cripto pidan autorización al Banco Central de Brasil en una de tres categorías: intermediario, custodio o corredor.",
+    "date": "2026-10-22",
+    "source": "CriptoNoticias",
+    "url": "https://www.criptonoticias.com/comunidad/adopcion/regulacion-excesiva-frenar-mercado-stablecoins-brasil-coinbase/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Brasil",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "regulación",
+      "stablecoins",
+      "bancos centrales",
+      "Latinoamérica"
+    ]
+  },
+  {
     "id": "sec-tres-firmas-plataformas-valores-tokenizados",
     "title": "Tres firmas notifican a la SEC que operarán plataformas de acciones tokenizadas",
     "summary": "La SEC publicó la lista de empresas que avisaron su intención de operar como plataformas de valores tokenizados bajo la «exención de innovación»: TSV LLC (sobre Canton Network), OKXICE, la empresa conjunta de OKX e ICE (sobre X Layer), y Kephas Corp., filial de Perpetuals.com (sobre Kronos X Public). El regulador aclara que figurar en la lista no significa que cumplan las condiciones de la exención.",
@@ -16,6 +113,25 @@
       "SEC",
       "regulación",
       "mercado de valores"
+    ]
+  },
+  {
+    "id": "vantage-rio-bank-pago-prestamo-depositos-tokenizados",
+    "title": "Dos bancos de Texas liquidan un pago de préstamo sindicado con depósitos tokenizados en Ethereum",
+    "summary": "Vantage Bank y Rio Bank completaron el pago de capital e intereses de una participación de préstamo usando depósitos tokenizados de la red Hazel, desarrollada por Vantage y Custodia Bank. Según la plataforma Participate, los fondos llegaron en menos de tres minutos y los saldos y avisos del préstamo se actualizaron al mismo tiempo, un proceso que suele tardar días. Participate planea ofrecer el servicio a los más de 750 bancos de su red.",
+    "date": "2026-10-21",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/vantage-rio-bank-tokenized-deposit-loan-payment/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "depósitos tokenizados",
+      "tokenización",
+      "préstamos"
     ]
   },
   {
