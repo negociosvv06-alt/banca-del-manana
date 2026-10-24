@@ -1,0 +1,54 @@
+{
+  "id": "qr-interoperable-x9-150-sinpe-panama-2026-10-24",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "Un solo código QR para pagar por cualquier riel: Estados Unidos prueba el estándar X9.150, Costa Rica prepara Sinpe Móvil con QR y qué tendría que resolver Panamá",
+  "date": "2026-10-24",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Business Wire – Matera, Payfinia and Solana Foundation Demonstrate New U.S. QR Code Payment Standard at Money20/20",
+      "url": "https://www.businesswire.com/news/home/20261019530143/en/Matera-Payfinia-and-Solana-Foundation-Demonstrate-New-U.S.-QR-Code-Payment-Standard-at-Money2020",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "Accredited Standards Committee X9 – New X9 Standard for Secure, Interoperable QR Code Payments",
+      "url": "https://x9.org/new-x9-standard-for-secure-interoperable-qr-code-payments-will-accelerate-u-s-use-of-instant-payments/",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "El Observador CR – Banco Central prepara Sinpe Móvil con QR y 'alias' para reducir pagos en efectivo",
+      "url": "https://observador.cr/banco-central-prepara-sinpe-movil-con-qr-y-alias-para-reducir-pagos-en-efectivo/",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "Nexo – Yappy, ACH y Kuara: el puente para que se hablen ya tiene fecha",
+      "url": "https://nexo.la/interoperabilidad-pagos-riel-banco-nacional/",
+      "date": "2026-08-19"
+    }
+  ],
+  "body": [
+    "Pagar con el celular escaneando un código QR ya es algo cotidiano en muchos países. El reto no es el código en sí, sino que funcione sin importar el banco o la billetera de quien paga. Esta semana, en la conferencia Money20/20 de Las Vegas, se hizo la primera demostración pública de un estándar estadounidense que apunta justo a eso. Y en la región, Costa Rica ya trabaja en algo parecido. Vale la pena entender qué se está probando y qué significaría para Panamá.",
+    "## Qué se mostró en Money20/20",
+    "Según el comunicado publicado el 19 de octubre, un grupo de bancos, fintech y proveedores de infraestructura, entre ellos Matera, Payfinia y la Fundación Solana, hizo la primera demostración en vivo del estándar X9.150. En la prueba, una pequeña empresa envía una factura con un código QR; el cliente lo escanea desde la app de su cooperativa de ahorro y crédito, confirma el pago y el dinero llega en segundos. El sistema contable de la empresa marca la factura como pagada de forma automática.",
+    "Lo novedoso es que el mismo código sirve para pagar por distintas vías: las redes de pagos instantáneos FedNow y RTP, transferencias ACH, la red Zelle o incluso la stablecoin USDC. El comercio emite un solo QR y cada cliente paga con el método que su banco o billetera soporte. Los participantes aclararon que no se trata del lanzamiento de un producto, sino de una invitación para que más bancos y comercios prueben el estándar.",
+    "## Qué es X9.150",
+    "X9.150 fue publicado el 14 de julio de 2026 por el Comité Acreditado de Estándares X9, la organización que desarrolla normas para la industria financiera de Estados Unidos. Define cómo deben construirse los códigos QR de pago que presenta un comercio, generados de forma dinámica para cada operación.",
+    "Dos detalles de seguridad son importantes. Primero, el QR de pago debe escanearse desde una aplicación autenticada, como la del banco, en la que el usuario ya inició sesión. Segundo, los códigos y la información del pago van firmados digitalmente con criptografía de clave pública. Según X9, no se intercambian datos financieros del cliente y el pago se completa de inmediato.",
+    "El contexto explica el interés: X9 estima que en India se hacen unos 20,000 millones de pagos instantáneos al mes y en Brasil unos 8,000 millones, frente a solo 45 millones en Estados Unidos. El comunicado de Money20/20 reconoce que el enfoque se inspira en la experiencia del Pix brasileño, donde un código QR común se convirtió en pocos años en el método de pago diario más usado.",
+    "## Costa Rica: Sinpe Móvil con QR y alias",
+    "Más cerca, el Banco Central de Costa Rica prepara una evolución de Sinpe Móvil, su servicio de transferencias por número de teléfono, para incorporar pagos con QR y «alias». Según El Observador, el objetivo es reducir la fricción de tener que digitar el número una y otra vez en ferias, comercios pequeños o ventas con varios pagos seguidos.",
+    "El banco central estudia QR estáticos, en los que el cliente escribe el monto, y dinámicos, con el monto ya incluido. También prevé homologar los códigos para que las aplicaciones puedan validar que son auténticos y reducir el riesgo de manipulación. La meta de referencia es 2028, aunque podría adelantarse. Entre enero y agosto de 2026, Sinpe Móvil acumuló 446.1 millones de transacciones.",
+    "## ¿Y Panamá?",
+    "En Panamá ya existen varias formas de pago inmediato, pero funcionan como «clubes» separados. Según un reportaje de Nexo de agosto, ACH Xpress era el riel con más bancos conectados (21), con un límite de 5,000 dólares por operación; Yappy estaba en siete bancos y Kuara en cinco. Desde entonces, la lista de Yappy ha seguido cambiando con nuevas integraciones. El superintendente de Bancos, Milton Ayón, informó a la Asamblea que el Banco Nacional trabaja en un riel para que estos sistemas se transfieran dinero en tiempo real, con meta de cierre en 2026 y, en el peor caso, 2027.",
+    "Las experiencias de Estados Unidos y Costa Rica sugieren que, cuando ese puente esté listo, la siguiente pregunta será cómo paga el cliente en el comercio. Un estándar común de QR permitiría que una tienda muestre un solo código y que cualquier cliente pague desde su banco o billetera. Para lograrlo harían falta reglas claras sobre el formato, la seguridad de los códigos y los costos para el comercio. Son decisiones que corresponden a los reguladores y a la industria, y que hoy no tienen fecha pública en Panamá.",
+    "## Consejos para pagar con QR de forma segura",
+    "Mientras tanto, si usted ya paga con QR, algunas prácticas sencillas ayudan:",
+    "- Escanee los códigos de pago desde la aplicación oficial de su banco o billetera, no con la cámara del teléfono ni desde enlaces recibidos por mensajes.",
+    "- Antes de confirmar, revise que el nombre del comercio o del beneficiario y el monto sean los correctos.",
+    "- Desconfíe de códigos pegados encima de otros en mostradores o letreros: alterar un QR es una forma conocida de desviar pagos.",
+    "- Ningún pago con QR requiere que usted entregue su clave, PIN o códigos de verificación a otra persona.",
+    "Este contenido es informativo y fue elaborado con asistencia de IA a partir de las fuentes citadas."
+  ]
+}

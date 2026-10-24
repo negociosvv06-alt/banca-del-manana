@@ -1,0 +1,55 @@
+{
+  "id": "avanzadas-pce-vs-ipc-inflacion-fed-2026-10-24",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "PCE frente a IPC: por qué la Fed mira un índice de inflación distinto al que sale en los titulares, en qué se diferencian y cómo leer el dato del 29 de octubre",
+  "date": "2026-10-24",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Reserva Federal – Economy at a Glance: Inflation (PCE)",
+      "url": "https://www.federalreserve.gov/economy-at-a-glance-inflation-pce.htm",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "U.S. Bureau of Economic Analysis – Personal Consumption Expenditures Price Index",
+      "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "U.S. Bureau of Economic Analysis – What accounts for the differences in the PCE price index and the Consumer Price Index?",
+      "url": "https://www.bea.gov/help/faq/555",
+      "date": "2010-11-03"
+    },
+    {
+      "name": "Newsquawk – Week in Focus 26-30th October 2026",
+      "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce",
+      "date": "2026-10-23"
+    }
+  ],
+  "body": [
+    "Cuando se habla de inflación en Estados Unidos, el dato que más aparece en las noticias es el índice de precios al consumidor, el IPC (CPI, en inglés). Pero la Reserva Federal fija su meta con otro indicador: el índice de precios del gasto de consumo personal, conocido como PCE. El próximo jueves 29 de octubre se publica el PCE de septiembre, un día después de la decisión de tasas de la Fed. Es un buen momento para entender en qué se diferencian y por qué importa.",
+    "## Qué mide cada uno",
+    "El IPC lo elabora la Oficina de Estadísticas Laborales (BLS) y mide los precios de lo que los hogares urbanos pagan de su bolsillo. El PCE lo elabora la Oficina de Análisis Económico (BEA) y, según su definición, mide los precios que pagan las personas que viven en Estados Unidos, o quienes compran en su nombre, por bienes y servicios. Se publica cada mes en el informe de ingresos y gastos personales.",
+    "La Fed explica en su sitio que busca una inflación de 2 % a largo plazo, medida por la variación anual del PCE. Y da la razón: aunque ambos índices son parecidos, el PCE está construido para reflejar cómo están gastando su dinero las personas en un momento dado y se adapta más rápido a los cambios en los patrones de consumo.",
+    "## Las cuatro diferencias técnicas",
+    "La BEA agrupa las diferencias entre ambos índices en cuatro categorías:",
+    "- Efecto fórmula. El PCE usa una fórmula de tipo Fisher ideal, que se actualiza con los cambios en las cantidades que se compran. El IPC usa una fórmula de Laspeyres modificada, que parte de una canasta fija por un tiempo. En términos simples: si el precio de la carne sube mucho y la gente compra más pollo, el PCE capta mejor esa sustitución.",
+    "- Efecto ponderación. Cada índice da un peso distinto a cada producto. Por ejemplo, la vivienda pesa bastante más en el IPC que en el PCE, y la gasolina también tiene un peso diferente.",
+    "- Efecto alcance. El PCE incluye gastos que se hacen en nombre de las personas, como la parte de la atención médica que pagan los empleadores o programas públicos. El IPC solo cuenta lo que el hogar paga directamente.",
+    "- Otros efectos. Incluyen diferencias en el ajuste estacional y en los precios usados.",
+    "Como ejemplo histórico, la BEA explica que en el tercer trimestre de 2006 el PCE subió 3.0 % anualizado y el IPC 3.7 %. De esa diferencia de 0.7 puntos, el mayor aporte vino del peso de la vivienda propia y de la gasolina. En ese ejemplo el PCE quedó por debajo del IPC; el tamaño de la brecha cambia de un período a otro, por eso conviene no tratar ambos datos como si fueran lo mismo.",
+    "## General y subyacente",
+    "Ambos índices se publican en versión general y en versión subyacente (core), que excluye alimentos y energía porque sus precios suelen ser muy volátiles. La subyacente ayuda a ver la tendencia de fondo. En una época de petróleo caro como la actual, la diferencia entre ambas versiones es especialmente informativa: si sube solo la general, el impulso viene sobre todo de la energía; si también sube la subyacente, la presión se está extendiendo a otros precios.",
+    "## Cómo leer el dato del 29 de octubre",
+    "Según la BEA, el PCE general subió 3.4 % anual en agosto de 2026. Para septiembre, el consenso recogido por Newsquawk espera 3.6 % en la medida general y 3.1 % en la subyacente, frente a 3.0 % del mes previo. El IPC de septiembre ya había mostrado que la inflación subyacente subió más de lo previsto.",
+    "Tres claves para interpretar el dato:",
+    "- Compare con lo esperado, no solo con el mes anterior. Los mercados reaccionan a la sorpresa: un 3.6 % que ya se esperaba mueve menos que un 3.8 % inesperado.",
+    "- Mire la variación mensual. Una subida de 0.3 % en un mes equivale aproximadamente a 3.7 % si se repitiera durante un año. Es una forma rápida de ver si la inflación se acelera.",
+    "- Separe energía del resto. Con el Brent por encima de 110 dólares, la inflación general puede subir aunque la subyacente se mantenga estable.",
+    "## Por qué le importa a un panameño",
+    "Panamá usa el dólar y no tiene banco central que fije tasas propias. Cuando la inflación de Estados Unidos sube y la Fed endurece su política, ese movimiento tiende a reflejarse en las tasas del mercado en dólares, en el rendimiento de los bonos y, con el tiempo, en las condiciones de crédito y ahorro. Entender qué mira la Fed ayuda a leer las noticias con criterio propio y a no sorprenderse cuando cambian las tasas.",
+    "Este contenido es educativo, elaborado con asistencia de IA a partir de datos oficiales y de las fuentes citadas. Las explicaciones son simplificadas. No constituye recomendación de inversión ni asesoría personalizada; las inversiones conllevan riesgo, incluida la pérdida de capital. Consulte con un asesor con licencia de la SMV antes de invertir."
+  ]
+}
