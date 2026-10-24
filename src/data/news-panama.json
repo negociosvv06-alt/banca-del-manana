@@ -1,5 +1,46 @@
 [
   {
+    "id": "banca-respuesta-sismo-ahorros-navidenos-2026-10",
+    "title": "Caja de Ahorros adelanta los fondos de Ahorros Navideños y Fundación Banco General destina USD 1 millón tras el sismo",
+    "summary": "Un recuento del sector privado ante el terremoto destaca que Caja de Ahorros permite a sus clientes adelantar el desembolso de Ahorros Navideños para cubrir reparaciones imprevistas, conservando el beneficio de las dos semanas adicionales. Fundación Banco General anunció una inversión social extraordinaria de USD 1 millón con organizaciones aliadas, que se desembolsará por etapas según los proyectos de reconstrucción.",
+    "date": "2026-10-23",
+    "source": "El Briefing Pa",
+    "url": "https://elbriefingpa.com/solidaridad-y-accion-estrategica-el-sector-privado-y-la-banca-movilizan-recursos-ante-la-emergencia-tras-el-sismo-en-panama",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "caja-de-ahorros",
+      "banco-general"
+    ],
+    "tags": [
+      "terremoto",
+      "ahorro",
+      "responsabilidad social",
+      "liquidez"
+    ]
+  },
+  {
+    "id": "cepal-eleva-crecimiento-panama-2026-10",
+    "title": "Cepal eleva a 4,5 % la proyección de crecimiento de Panamá para 2026, mientras la región se desacelera",
+    "summary": "En su actualización de octubre, la Cepal subió de 4,4 % a 4,5 % su estimación de crecimiento para Panamá en 2026 y prevé el mismo ritmo en 2027, por encima del promedio regional. Para América Latina y el Caribe recortó la expansión a 2,0 % en 2026 y advirtió sobre tasas de interés internacionales más altas que encarecen el financiamiento de gobiernos, empresas y hogares.",
+    "date": "2026-10-24",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/economia/cepal-eleva-a-45-el-crecimiento-de-panama-para-2026-mientras-america-latina-se-desacelera/",
+    "category": "economia",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "Cepal",
+      "crecimiento",
+      "PIB",
+      "tasas de interés"
+    ]
+  },
+  {
     "id": "credito-bancario-crece-2-agosto-2026",
     "title": "El crédito bancario local crece 2,08 % a agosto, impulsado sobre todo por los préstamos al sector público",
     "summary": "Con datos de actividad bancaria de la SBP a agosto de 2026, la cartera crediticia local del Sistema Bancario Nacional sumó USD 66.052,8 millones. El crédito al sector público subió 39,37 % (USD 876,8 millones) y explicó cerca del 65 % del aumento, mientras el financiamiento al sector privado avanzó apenas 0,75 %, con industria y construcción perdiendo terreno.",

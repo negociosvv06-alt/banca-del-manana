@@ -1,23 +1,39 @@
 {
- "lastRun": "2026-10-23T13:03:39.292Z",
+ "lastRun": "2026-10-24T13:05:04.972Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-23T13:03:39.292Z",
+   "fetchedAt": "2026-10-24T13:05:04.972Z",
    "count": 12
   },
   "ecb": {
    "ok": true,
-   "fetchedAt": "2026-10-23T13:03:39.292Z",
+   "fetchedAt": "2026-10-24T13:05:04.972Z",
    "count": 12
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-23T13:03:39.292Z",
+   "fetchedAt": "2026-10-24T13:05:04.972Z",
    "count": 10
   }
  },
  "items": [
+  {
+   "id": "ecb-VlMmJhNzNjZjMuZW4uaHRtbA",
+   "title": "Piero Cipollone: Interview with Milano Finanza",
+   "summary": "",
+   "date": "2026-10-24",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
   {
    "id": "ecb-EzZDIwMWM5N2MuZW4uaHRtbA",
    "title": "ECB Consumer Expectations Survey results – September 2026",
@@ -539,22 +555,6 @@
    "banks": [],
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "id": "ecb-BkZjkxZTRlNDQuZW4uaHRtbA",
-   "title": "Frank Elderson: Effective supervision through timely remediation",
-   "summary": "",
-   "date": "2026-10-06",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
    ]
   },
   {
