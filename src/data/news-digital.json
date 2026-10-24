@@ -1,5 +1,106 @@
 [
   {
+    "id": "hsbc-lanza-redcoin-stablecoin-hkd-payme",
+    "title": "HSBC lanza RedCoin, su primera stablecoin, para más de 3,3 millones de usuarios de PayMe en Hong Kong",
+    "summary": "HSBC puso en marcha RedCoin (RCHKD), una stablecoin en dólares de Hong Kong con licencia de la Autoridad Monetaria de Hong Kong. Los usuarios de la app PayMe podrán activar una billetera para enviar dinero entre personas y pagar en más de 100.000 comercios. El banco prevé llevarla a su app bancaria y usarla para suscribir inversiones tokenizadas, como un fondo del mercado monetario.",
+    "date": "2026-10-23",
+    "source": "HSBC Hong Kong",
+    "url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Hong Kong",
+    "lang": "en",
+    "banks": [
+      "HSBC"
+    ],
+    "tags": [
+      "stablecoins",
+      "banca",
+      "pagos",
+      "tokenización"
+    ]
+  },
+  {
+    "id": "us-bank-piloto-stablecoin-usbdc-stellar",
+    "title": "U.S. Bank completa una transacción piloto en vivo con su stablecoin USBDC en Stellar",
+    "summary": "U.S. Bank realizó una transacción piloto real con USBDC, su stablecoin, sobre la red Stellar. Según el medio, el volumen de stablecoins en Stellar creció 121 % en el tercer trimestre de 2026, en un contexto en que los grandes bancos estadounidenses prueban dinero tokenizado propio.",
+    "date": "2026-10-23",
+    "source": "TokenPost",
+    "url": "https://www.tokenpost.com/news/business/38832",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [
+      "U.S. Bank"
+    ],
+    "tags": [
+      "stablecoins",
+      "banca",
+      "blockchain"
+    ]
+  },
+  {
+    "id": "hana-financial-dunamu-prueba-pagos-stablecoins",
+    "title": "Hana Financial y Dunamu (Upbit) prueban pagos y liquidación en tiempo real con stablecoins",
+    "summary": "El grupo financiero surcoreano Hana realiza una prueba de concepto con Dunamu, operador del exchange Upbit, para liquidar pagos a comercios en tiempo real con stablecoins de los clientes, en lugar de esperar varios días por la red de tarjetas. La prueba incluye combinar varias stablecoins en un mismo pago; su uso práctico depende de que Corea apruebe el marco regulatorio.",
+    "date": "2026-10-23",
+    "source": "The Asia Business Daily",
+    "url": "https://www.asiae.co.kr/en/article/2026102314292755066",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "en",
+    "banks": [
+      "Hana Financial Group"
+    ],
+    "tags": [
+      "stablecoins",
+      "banca",
+      "pagos",
+      "exchanges"
+    ]
+  },
+  {
+    "id": "riksbank-advierte-stablecoins-extranjeras-e-krona",
+    "title": "El Riksbank advierte que stablecoins extranjeras y el euro digital podrían restar terreno a la corona sueca",
+    "summary": "El banco central de Suecia insiste en que el Parlamento prepare la legislación para una corona digital, ya que su desarrollo tomaría al menos cinco años. Su subgobernador Per Jansson señaló que, sin una corona digital utilizable, la moneda podría perder frente a instrumentos digitales más cómodos y transfronterizos. El banco aún no decide emitirla y la ve también como respaldo ante cortes de energía o telecomunicaciones.",
+    "date": "2026-10-23",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Suecia",
+    "lang": "en",
+    "banks": [
+      "Riksbank"
+    ],
+    "tags": [
+      "CBDC",
+      "stablecoins",
+      "bancos centrales",
+      "banca"
+    ]
+  },
+  {
+    "id": "franklin-templeton-registra-etf-bitcoin-drip-nasdaq",
+    "title": "Franklin Templeton registra dos ETF que convierten dividendos de acciones en exposición a bitcoin",
+    "summary": "La gestora completó el registro en la SEC de dos ETF para cotizar en Nasdaq (FBEQ y FIBT), sin fecha de lanzamiento. Ambos invertirán inicialmente 95 % en acciones estadounidenses y 5 % en bitcoin, usarán los dividendos para aumentar esa exposición con un tope de 20 % y cobrarán una comisión anual de 0,09 %.",
+    "date": "2026-10-23",
+    "source": "crypto.news",
+    "url": "https://crypto.news/franklin-templeton-moves-closer-to-launching-two-bitcoin-drip-etfs-on-nasdaq/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "ETF",
+      "bitcoin",
+      "SEC"
+    ]
+  },
+  {
     "id": "mas-bloom-malasia-tailandia-dinero-digital-transfronterizo",
     "title": "Malasia y Tailandia se suman a BLOOM, la iniciativa de Singapur para pagos transfronterizos con dinero digital",
     "summary": "La Autoridad Monetaria de Singapur anunció que los bancos centrales de Malasia y Tailandia se unen a BLOOM como miembros reguladores. La iniciativa público-privada trabajará en reglas comunes para aceptar, intercambiar y liquidar depósitos tokenizados y stablecoins reguladas entre países, con foco en interoperabilidad y controles como verificación de identidad y filtrado de sanciones. También se incorporan Mastercard, Visa, Maybank, Ripple y el Grupo Banco Mundial.",
@@ -1349,25 +1450,6 @@
       "stablecoins",
       "GENIUS Act",
       "Tesoro"
-    ]
-  },
-  {
-    "id": "fed-propuestas-genius-emisores-stablecoins",
-    "title": "La Fed propone reglas para emisores de stablecoins de pago supervisados por la Junta y para bancos que quieran emitirlas",
-    "summary": "La Reserva Federal pidió comentarios sobre dos propuestas de la ley GENIUS: la primera exigiría respaldo total con reservas permitidas (como letras del Tesoro de corto plazo), requisitos de capital y gestión de riesgos, y reglas de custodia; la segunda crearía el proceso de solicitud para bancos supervisados por la Fed que quieran emitir stablecoins mediante una subsidiaria.",
-    "date": "2026-09-24",
-    "source": "Reserva Federal (Fed)",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "GENIUS Act",
-      "Fed",
-      "banca"
     ]
   }
 ]
