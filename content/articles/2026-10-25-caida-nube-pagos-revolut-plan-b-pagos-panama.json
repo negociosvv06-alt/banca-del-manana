@@ -1,0 +1,59 @@
+{
+  "id": "caida-nube-plan-b-pagos-2026-10-25",
+  "section": "pagos",
+  "type": "educativo",
+  "title": "Cuando la app del banco se cae: lo que dejó la falla de Google Cloud que paralizó pagos de Revolut, Lloyds y HSBC, y cómo armar su plan B para pagar en Panamá",
+  "date": "2026-10-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "BBC News – Google says cloud outage affecting UK banks and websites resolved",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "El País – Revolut restablece sus servicios tras la caída de Google Cloud",
+      "url": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "The Guardian – Google cloud failure hits millions as UK courts and banks knocked offline",
+      "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "Nexo – App de Banco General cayó dos horas y limitó el uso de Yappy",
+      "url": "https://nexo.la/caida-app-banco-general/",
+      "date": "2026-08-16"
+    },
+    {
+      "name": "Nexo – Yappy, ACH y Kuara: el puente para que se hablen ya tiene fecha",
+      "url": "https://nexo.la/interoperabilidad-pagos-riel-banco-nacional/",
+      "date": "2026-08-19"
+    }
+  ],
+  "body": [
+    "Pagar el estacionamiento, comprar comida o recibir una transferencia parecen gestiones que no pueden fallar. El martes 20 de octubre, millones de personas en el Reino Unido y otros países europeos descubrieron que sí pueden. Una falla en la infraestructura de nube de Google en Londres dejó a clientes de Revolut, Lloyds y HSBC, entre otros, sin poder pagar ni mover su dinero durante buena parte del día. La lección sirve también para Panamá.",
+    "## Qué pasó",
+    "Según la BBC, Google Cloud reportó un problema con múltiples servicios en su región de centros de datos de Londres, que atribuyó a un «evento eléctrico» en una instalación de terceros. Revolut, Lloyds y HSBC confirmaron interrupciones, y solo Revolut acumuló más de 1,500 reportes de fallas en un monitor de caídas poco después de las 8:00 de la mañana, hora británica. The Guardian informó que los servicios volvieron para la mayoría de los usuarios alrededor de las 3:00 p.m., hora de Londres.",
+    "El País detalló que en el caso de Revolut se vieron afectados los pagos con tarjeta, las transferencias nacionales e internacionales, los retiros en cajeros, el cambio de divisas y el acceso a las cuentas. La empresa aseguró que «el dinero y los datos de nuestros clientes están seguros y lo han estado en todo momento». El problema no fue un robo ni un ataque: fue que el sistema no estaba disponible cuando la gente lo necesitaba.",
+    "## Por qué una falla ajena afecta a su banco",
+    "Muchos bancos y fintech ya no operan todos sus sistemas en servidores propios: contratan parte de su infraestructura a proveedores de nube. Eso trae eficiencia y capacidad, pero también concentra riesgo. Cuando un proveedor grande tiene un problema, puede afectar a varias entidades a la vez, aunque cada una haya hecho bien su trabajo.",
+    "## No es un problema lejano",
+    "Panamá ya ha vivido algo parecido a menor escala. Según Nexo, el domingo 16 de agosto la aplicación de Banco General estuvo fuera de servicio 2 horas y 3 minutos, lo que impidió consultar cuentas, pagar servicios, transferir a terceros y usar Yappy desde esa app. El banco mantuvo disponibles su banca en línea, tarjetas y cajeros. El medio subrayó que el episodio muestra por qué conviene tener un segundo método de pago habilitado.",
+    "## Su plan B de pagos, paso a paso",
+    "No se trata de desconfiar de la tecnología, sino de no depender de un solo canal. Estas medidas son sencillas:",
+    "- Tenga al menos dos formas de pagar. Si usa Yappy a diario, mantenga activa una tarjeta de débito o crédito y conozca la banca en línea de su banco desde el navegador, que a veces sigue funcionando aunque la app falle.",
+    "- Conozca otros rieles. Según Nexo, ACH Xpress conecta a 21 bancos con un límite de 5,000 dólares por operación, y Kuara funciona con varios bancos. Si su banco ofrece uno de estos servicios, actívelo antes de necesitarlo, no en medio de la emergencia.",
+    "- Guarde algo de efectivo. Una cantidad pequeña para transporte, comida o una emergencia puede resolver un día complicado.",
+    "- Si su dinero está en una sola entidad, considere una segunda cuenta. Tener una cuenta en otro banco regulado puede servir de respaldo, siempre que revise costos y requisitos.",
+    "- Para su negocio, ofrezca más de una opción de cobro. Un comercio que solo acepta un método queda sin ventas si ese método falla.",
+    "## Durante una caída: cuidado con los estafadores",
+    "Las interrupciones crean confusión, y la confusión atrae fraudes. Si su app no funciona, infórmese solo por los canales oficiales de su banco: su sitio web, sus redes verificadas o el número que aparece al reverso de su tarjeta. Desconfíe de mensajes o llamadas que le ofrezcan «reactivar» su cuenta o «resolver» el problema pidiéndole claves, PIN o códigos de verificación. Ningún banco se los pedirá.",
+    "Tampoco repita la misma transferencia varias veces si no ve confirmación. Espere a que el servicio se restablezca y revise su historial: así evita pagos duplicados.",
+    "## Lo que le toca al sistema",
+    "El superintendente de Bancos ha fijado como meta que el riel de interoperabilidad que prepara el Banco Nacional, para que Yappy, ACH y Kuara se transfieran dinero en tiempo real, esté listo a finales de 2026 y a más tardar en 2027, según Nexo. Un sistema más interconectado facilitaría usar otra vía cuando una falla. Mientras tanto, la mejor protección sigue estando en manos de cada usuario: no poner todos los pagos en una sola canasta.",
+    "Este contenido es educativo y fue elaborado con asistencia de IA a partir de las fuentes citadas. Ninguna gestión legítima de su banco le pedirá su clave, PIN o códigos de verificación."
+  ]
+}

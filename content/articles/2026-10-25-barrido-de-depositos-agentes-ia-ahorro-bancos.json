@@ -1,0 +1,53 @@
+{
+  "id": "barrido-depositos-agentes-ia-2026-10-25",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Agentes de IA que mueven su ahorro al banco que pague más: qué es el «barrido de depósitos» que ya estudian los bancos europeos y qué podría significar para Panamá",
+  "date": "2026-10-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "El Confidencial – ¿'Trading' de depósitos a través de la IA? El riesgo al que se enfrentan los bancos",
+      "url": "https://www.elconfidencial.com/empresas/2026-10-23/depositos-barrido-trading-ia-bancos-margenes_4450958/",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "Expansión – La IA agéntica, la cuenta europea y la deuda soberana amenazan los depósitos de la banca",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/24/6ad74ae7e5fdeadc6a8b45a5.html",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Meta – Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "Yahoo Finance – Meta's Muse says it can manage your money. Should you let it?",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/metas-muse-says-it-can-manage-your-money-should-you-let-it-141040045.html",
+      "date": "2026-10-22"
+    }
+  ],
+  "body": [
+    "Durante décadas, buena parte del dinero de las familias se ha quedado quieto en la cuenta corriente o de ahorros, ganando poco o nada. No siempre por decisión: comparar tasas, abrir otra cuenta y mover fondos toma tiempo, y la mayoría prefiere no complicarse. Esta semana, la prensa financiera española puso nombre a un fenómeno que podría cambiar esa costumbre: el «barrido de depósitos» hecho por agentes de inteligencia artificial.",
+    "## Qué es el barrido de depósitos",
+    "Según publicó El Confidencial el 23 de octubre, a partir de un informe de Citi sobre la banca española, la idea es que un agente de IA creado o autorizado por el propio cliente administre su liquidez entre varias cuentas que ya tiene. El agente calcularía cuánto dinero necesita la persona para gastos diarios, recibos e imprevistos, y movería el sobrante a la cuenta que pague mejor interés.",
+    "El mismo reportaje aclara los límites actuales: para un agente es más difícil abrir cuentas nuevas, y cualquier traspaso debería ser autorizado por el cliente con los sistemas de autenticación del banco. Es decir, no sería un movimiento totalmente automático, pero sí uno en el que el cliente solo tendría que aprobar lo que el agente le propone. Por ahora, señala el diario, el fenómeno no se está produciendo entre los bancos españoles, que empiezan a monitorearlo.",
+    "## Por qué preocupa a los bancos",
+    "El negocio tradicional de un banco depende en gran parte de captar depósitos baratos y prestarlos a una tasa mayor. Si los clientes, con ayuda de la IA, empiezan a mover su dinero cada vez que otro banco ofrece un poco más, el costo de esos depósitos sube y el margen se estrecha.",
+    "Citi, citado por El Confidencial, estima que en España las familias tienen más de 1.1 billones de euros en cuentas y depósitos, y que los depósitos a la vista, donde está más del 80 % de ese ahorro, pagan en promedio 0.16 % a los hogares. El banco de inversión calcula que el riesgo se concentraría en la parte de ahorro, no en el dinero que se usa para pagar el día a día. El diario también recoge una advertencia de segundo orden: si los bancos tienen que pagar más por los depósitos, el crédito podría encarecerse.",
+    "Expansión añadió el 24 de octubre que la banca de inversión vigila esta amenaza junto con otras dos: la deuda pública que vuelve a pagar intereses atractivos y una cuenta de inversión que promueve Europa para movilizar el ahorro. El diario cita a Deutsche Bank, que en un informe sobre BBVA advierte que los agentes autónomos de IA suponen «un riesgo estructural» para los márgenes si permiten a los clientes cambiarse fácilmente a ofertas más competitivas.",
+    "## Muse, el ejemplo que encendió la discusión",
+    "Expansión vincula el debate al lanzamiento en Estados Unidos de Muse, el agente personal de Meta. Según el anuncio oficial de la empresa, Muse puede trabajar en nombre de la persona en las aplicaciones que usa, abrir un navegador, llenar formularios y negociar, y pide aprobación antes de acciones sensibles como enviar un correo o hacer una compra. Yahoo Finance reportó el 22 de octubre que más de 10 millones de personas en Estados Unidos y Canadá ya lo configuraron, y que al conectar una cuenta bancaria puede dar seguimiento a los gastos, ayudar con el presupuesto y revisar suscripciones.",
+    "Conviene no exagerar: lo que hoy describen Meta y la prensa es sobre todo un asistente que analiza, sugiere y pide permiso. La preocupación de los bancos es hacia dónde puede evolucionar esa capacidad, no que ya esté vaciando cuentas.",
+    "## La respuesta de la banca: vinculación",
+    "Según Citi, la defensa de los bancos frente a este riesgo es la vinculación: que el cliente tenga con su banco varias relaciones, como el pago de salario, préstamos o inversiones, de modo que aunque mantenga poca liquidez, la relación siga generando negocio. El informe menciona además que los bancos estarían más dispuestos a remunerar mejor el ahorro de los clientes vinculados para retenerlo.",
+    "## Qué podría significar para Panamá",
+    "En Panamá no hay, hasta donde informan las fuentes consultadas, servicios de este tipo operando con cuentas locales. Pero la discusión deja varias lecciones útiles.",
+    "- Para el cliente, la idea de fondo no necesita IA: revisar cuánto dinero tiene parado sin rendimiento y comparar las tasas de cuentas de ahorro y depósitos a plazo de bancos regulados por la Superintendencia de Bancos ya es un ejercicio valioso.",
+    "- Para los bancos, la competencia por el ahorro podría volverse más transparente y rápida. La mejor defensa será ofrecer una relación completa y un precio justo, no depender de que el cliente no compare.",
+    "- Para la seguridad, cualquier agente que mueva dinero debe hacerlo por canales autorizados por el banco y con la confirmación del cliente. Entregar su usuario y clave de banca en línea a una aplicación de terceros sigue siendo un riesgo, como ha advertido la propia banca.",
+    "La IA promete un cliente mejor informado y más exigente. Si eso se traduce en mejores tasas para el ahorrista y en bancos que compiten por calidad de servicio, el cambio será positivo, siempre que la seguridad avance al mismo ritmo.",
+    "Este contenido es informativo y fue elaborado con asistencia de IA a partir de las fuentes citadas. No constituye recomendación sobre ningún producto financiero."
+  ]
+}

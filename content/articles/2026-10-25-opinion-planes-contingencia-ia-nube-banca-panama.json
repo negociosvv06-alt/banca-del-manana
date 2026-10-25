@@ -1,0 +1,52 @@
+{
+  "id": "opinion-planes-contingencia-ia-nube-2026-10-25",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: Europa exige a sus bancos planes contra los riesgos de la IA y las caídas tecnológicas; Panamá haría bien en preparar los suyos antes de necesitarlos",
+  "date": "2026-10-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "La Vanguardia – Los bancos ultiman sus planes ante el BCE frente a la amenaza de la IA",
+      "url": "https://www.lavanguardia.com/economia/20261024/11666716/bancos-ultiman-planes-bce-frente-amenaza-ia.html",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "BBC News – Google says cloud outage affecting UK banks and websites resolved",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Misión del FMI culmina reuniones con la SBP",
+      "url": "https://www.superbancos.gob.pa/node/1812",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Nexo – App de Banco General cayó dos horas y limitó el uso de Yappy",
+      "url": "https://nexo.la/caida-app-banco-general/",
+      "date": "2026-08-16"
+    }
+  ],
+  "body": [
+    "Esta semana coincidieron dos noticias que, juntas, dicen mucho sobre el momento que vive la banca. El 20 de octubre, una falla eléctrica en un centro de datos de Google en Londres dejó a clientes de Revolut, Lloyds y HSBC sin poder pagar ni transferir durante horas. Y el 24 de octubre se supo que los grandes bancos europeos están terminando los planes de contingencia frente a los riesgos de la inteligencia artificial que el Banco Central Europeo les exigió antes del 31 de octubre.",
+    "## Qué pidió el supervisor europeo",
+    "Según La Vanguardia, la exigencia nace de una carta enviada en julio por Claudia Buch, presidenta del consejo de supervisión del BCE, a los consejeros delegados de los bancos considerados significativos. El supervisor advierte que los nuevos modelos de IA son capaces de encontrar fallas en los sistemas y explotarlas a una velocidad sin precedentes, con «profundas implicaciones para la confidencialidad, integridad y resiliencia de los bancos». Buch lo describió como un cambio de largo plazo, no como un riesgo pasajero.",
+    "Los planes abarcan seis grandes bloques y veinte puntos: desde formar al personal y mejorar la gobernanza hasta identificar a los proveedores tecnológicos, los sistemas expuestos a internet y el perímetro tecnológico, incluida la nube, además de poder corregir fallas con rapidez. El BCE hará luego un análisis comparado de todos los planes y compartirá sus conclusiones con los bancos.",
+    "## Por qué la caída de la nube importa tanto como la IA",
+    "La falla de Londres no fue un ataque. Google la atribuyó a un «evento eléctrico» en una instalación de terceros, según la BBC. Pero sus efectos fueron los mismos que temen los supervisores: clientes sin acceso a su dinero, comercios sin cobrar y confianza golpeada. La Vanguardia recoge incluso que la consejera delegada de Bankinter, sin nombrar a Revolut, mencionó la caída de los sistemas de «algún neobanco» como un factor del nerviosismo bursátil de la semana.",
+    "La lección es que la resiliencia no se trata solo de defenderse de hackers. Se trata de que el servicio siga funcionando, o se recupere rápido, cuando algo falla, sea un ataque, un error humano o un proveedor que se cae.",
+    "## Panamá no parte de cero, pero tampoco puede esperar",
+    "Nuestro sistema bancario tiene fortalezas reconocidas. En su comunicado del 14 de octubre, la Superintendencia de Bancos informó que el FMI, en el marco de la Consulta del Artículo IV, destacó la resiliencia del sistema bancario panameño y sus avances en capital y supervisión, y subrayó la importancia de seguir fortaleciendo la gestión de riesgos.",
+    "Al mismo tiempo, ya sabemos lo que se siente cuando un canal digital se detiene. El 16 de agosto, según Nexo, la app de Banco General estuvo fuera de servicio 2 horas y 3 minutos, con Yappy limitado desde esa aplicación, un domingo por la tarde. El banco mantuvo otros canales, pero el episodio mostró cuánto dependemos de unas pocas plataformas. Y esa dependencia va a crecer con la interoperabilidad de pagos y con la IA dentro de los bancos.",
+    "## Lo que propongo",
+    "No hace falta copiar el modelo europeo al pie de la letra, pero sí adoptar su lógica. Propongo cuatro pasos:",
+    "- Que cada banco tenga un plan formal frente a los riesgos tecnológicos asociados a la IA y a la concentración en proveedores de nube, discutido en su junta directiva y no solo en el área de tecnología.",
+    "- Que el supervisor haga, como el BCE, una revisión comparada de esos planes y comparta con el sector las debilidades comunes, sin exponer a ninguna entidad.",
+    "- Que se pruebe, no solo se escriba. Simulacros de caída de un proveedor crítico y de recuperación de los pagos inmediatos deberían ser parte de la rutina.",
+    "- Que se piense en el cliente durante la falla: avisos claros y oportunos por canales oficiales, alternativas de pago habilitadas y cero tolerancia a los estafadores que aprovechan la confusión.",
+    "## Mejor ahora que después",
+    "La confianza en la banca se construye en años y se pone a prueba en horas. Europa decidió prepararse antes de una crisis mayor. Panamá, con un sistema sólido y un supervisor activo, tiene la oportunidad de hacer lo mismo con calma, y no a la carrera después del primer gran susto.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

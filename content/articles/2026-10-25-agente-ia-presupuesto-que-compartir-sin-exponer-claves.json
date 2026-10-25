@@ -1,0 +1,51 @@
+{
+  "id": "agente-ia-presupuesto-seguridad-2026-10-25",
+  "section": "educacion",
+  "type": "educativo",
+  "title": "¿Le daría a un agente de IA acceso a su cuenta bancaria? Cómo usar estas herramientas para ordenar su presupuesto sin exponer sus claves ni su dinero",
+  "date": "2026-10-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Yahoo Finance – Meta's Muse says it can manage your money. Should you let it?",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/metas-muse-says-it-can-manage-your-money-should-you-let-it-141040045.html",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Meta – Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "La Vanguardia – Los bancos ultiman sus planes ante el BCE frente a la amenaza de la IA",
+      "url": "https://www.lavanguardia.com/economia/20261024/11666716/bancos-ultiman-planes-bce-frente-amenaza-ia.html",
+      "date": "2026-10-24"
+    }
+  ],
+  "body": [
+    "Los asistentes de inteligencia artificial ya no solo responden preguntas. Algunos prometen revisar sus gastos, cancelar suscripciones que no usa, negociar sus facturas y hasta comprar por usted. Es tentador: ordenar el presupuesto cuesta tiempo y disciplina. Pero antes de conectar su cuenta bancaria a una de estas herramientas, conviene entender qué hacen, qué riesgos tienen y cómo aprovecharlas sin entregar más de lo necesario.",
+    "## Qué está pasando",
+    "El caso más comentado es Muse, el agente personal de Meta. Según el anuncio de la empresa, se está lanzando en Estados Unidos y puede usarse desde su propia app o desde WhatsApp. Yahoo Finance informó el 22 de octubre que más de 10 millones de personas en Estados Unidos y Canadá ya lo configuraron, y que Meta lo presenta como una herramienta de finanzas personales: al conectar una cuenta bancaria, puede dar seguimiento a los gastos, sugerir un presupuesto, encontrar suscripciones olvidadas, detectar cobros duplicados y buscar mejores precios.",
+    "Meta asegura que el agente pide aprobación antes de gastar, guarda las credenciales en un almacenamiento seguro que el propio agente no ve y muestra un registro de todo lo que ha hecho. Aun así, la misma Yahoo Finance recoge que Meta admite que Muse «no es inmune a ataques» y que «a veces cometerá errores». Y cita a Eva Velasquez, directora del Identity Theft Resource Center, quien dijo que por ahora no recomiendan conectar este tipo de información: «la tecnología es demasiado nueva».",
+    "## Lo que dicen los bancos",
+    "Del lado de la banca, la postura es prudente. La Vanguardia informó el 24 de octubre que los bancos españoles están marcando líneas rojas, entre ellas que ningún bot ajeno pueda operar las cuentas de los clientes, y que rechazan que la IA haga operaciones de inversión sin intervención humana. En Panamá, como en la mayoría de países, la regla de oro sigue siendo la misma: su usuario, clave, PIN y códigos de verificación son personales.",
+    "## Cómo aprovechar la IA sin abrirle la puerta a su cuenta",
+    "Usted puede obtener buena parte del beneficio sin conectar su banca en línea. Yahoo Finance sugiere una alternativa práctica: en lugar de dar acceso completo, subir una copia de su estado de cuenta y borrar los datos que prefiera mantener privados. Con eso, un asistente puede ayudarle a:",
+    "- Clasificar sus gastos del mes en categorías como comida, transporte, servicios y entretenimiento.",
+    "- Encontrar cobros recurrentes, como suscripciones de streaming, aplicaciones o membresías que ya no usa.",
+    "- Detectar cargos repetidos o desconocidos que vale la pena reclamar a su banco.",
+    "- Armar un presupuesto realista con base en lo que de verdad gasta, no en lo que cree que gasta.",
+    "## Antes de compartir cualquier documento",
+    "- Borre o tape el número completo de cuenta y de tarjeta, su cédula, su dirección y su firma.",
+    "- Nunca escriba en un chat su clave de banca en línea, su PIN, el código CVV de su tarjeta ni los códigos que le llegan por SMS o correo.",
+    "- Revise la política de privacidad de la herramienta: si usa sus conversaciones para entrenar modelos y si puede desactivarlo.",
+    "- Lea los términos de su banco. Es habitual que los contratos de banca en línea prohíban compartir las credenciales con terceros, y hacerlo podría complicar un reclamo si algo sale mal.",
+    "- Prefiera las herramientas que ofrezca su propio banco o las conexiones oficiales que este autorice, en lugar de dar su usuario y clave a una aplicación externa.",
+    "## Ojo con los imitadores",
+    "Cada novedad tecnológica trae estafas que se aprovechan de ella. Desconfíe de mensajes por WhatsApp, redes sociales o correo que le ofrezcan un «asistente de IA de su banco» o una app para «ahorrar automáticamente» y le pidan descargar algo o ingresar sus datos. Verifique siempre en el sitio oficial de su banco, y si tiene dudas, llame al número que aparece al reverso de su tarjeta.",
+    "## La IA como ayudante, no como dueña de su dinero",
+    "La inteligencia artificial puede ser una aliada valiosa para quien quiere entender en qué se le va el dinero. La clave es usarla para analizar y sugerir, mientras usted conserva el control de las decisiones y de las llaves de su cuenta. Empezar con un estado de cuenta sin datos sensibles es una forma segura de probar si le sirve.",
+    "Este contenido es educativo y fue elaborado con asistencia de IA a partir de las fuentes citadas. Ninguna gestión legítima le pedirá su clave, PIN o códigos de verificación."
+  ]
+}
