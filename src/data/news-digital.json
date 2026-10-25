@@ -1,5 +1,104 @@
 [
   {
+    "id": "wells-fargo-y-otras-cinco-empresas-rechazan-acciones-tokenizadas-okxice",
+    "title": "Wells Fargo, Cisco y otras cuatro empresas se oponen a que OKXICE negocie versiones tokenizadas de sus acciones",
+    "summary": "Un nuevo aviso público de OKXICE, la empresa conjunta de OKX e Intercontinental Exchange, suma seis objeciones de emisores, entre ellas la del banco Wells Fargo, con lo que ya son 22 las compañías que no quieren que sus acciones se negocien tokenizadas en esa plataforma. Bajo la exención de innovación de la SEC, los emisores tienen 30 días para oponerse; la objeción solo aplica a ese mercado concreto.",
+    "date": "2026-10-24",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [
+      "Wells Fargo"
+    ],
+    "tags": [
+      "tokenización",
+      "SEC",
+      "regulación",
+      "banca"
+    ]
+  },
+  {
+    "id": "xapo-bank-clientes-bitcoin-prestamos-y-rendimiento",
+    "title": "Xapo Bank: los grandes tenedores de bitcoin pasan del trading a servicios de banca privada",
+    "summary": "El CEO de Xapo Bank, Seamus Rocca, explicó que sus clientes usan cada vez más el bitcoin como garantía para obtener préstamos y buscan ingresos sin vender sus tenencias. Según el banco con sede en Gibraltar, cerca del 45 % de sus clientes recibe en bitcoin los intereses de sus ahorros en dólares. Rocca señaló que la cautela de la banca tradicional abre espacio a proveedores especializados.",
+    "date": "2026-10-24",
+    "source": "CoinDesk en Español",
+    "url": "https://www.coindesk.com/es/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Gibraltar",
+    "lang": "es",
+    "banks": [
+      "Xapo Bank"
+    ],
+    "tags": [
+      "bitcoin",
+      "banca",
+      "banca privada",
+      "custodia"
+    ]
+  },
+  {
+    "id": "sec-incluye-tokenizacion-prioridades-examen-2027",
+    "title": "La SEC incluye la tokenización entre sus prioridades de supervisión para el año fiscal 2027",
+    "summary": "La División de Exámenes de la SEC publicó sus prioridades para el año fiscal 2027. Entre los riesgos de la infraestructura de mercado que revisará figuran la tokenización y la reforma de compensación de bonos del Tesoro, junto con la resiliencia operativa, la ciberseguridad y las tecnologías emergentes. Es la primera vez que la tokenización aparece en esa lista anual.",
+    "date": "2026-10-23",
+    "source": "SEC (Comisión de Bolsa y Valores de EE. UU.)",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "SEC",
+      "tokenización",
+      "regulación",
+      "supervisión"
+    ]
+  },
+  {
+    "id": "banco-de-ghana-piloto-cbdc-minorista-giesecke-devrient",
+    "title": "El Banco de Ghana probará una moneda digital de banco central minorista con Giesecke+Devrient",
+    "summary": "El Banco de Ghana anunció una alianza con la firma alemana Giesecke+Devrient para pilotear una CBDC de uso general. La empresa aportará la tecnología y adaptará la solución a las necesidades del país, que se probará con bancos, proveedores de pago, comercios y consumidores.",
+    "date": "2026-10-23",
+    "source": "Banco de Ghana",
+    "url": "https://www.bog.gov.gh/news/press-release-bank-of-ghana-partners-with-gieseckedevrient-to-pilot-first-general-purpose-central-bank-digital-currency-in-africa/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Ghana",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "bancos centrales",
+      "banca",
+      "pagos"
+    ]
+  },
+  {
+    "id": "el-salvador-fondo-tokenizado-medido-en-bitcoin-lbaf",
+    "title": "El Salvador suma un fondo de inversión tokenizado medido en bitcoin bajo su marco de activos digitales",
+    "summary": "La gestora CMCC Global tokenizó el Liberty Bitcoin Accumulation Fund, un fondo denominado en bitcoin, y lanzó además un fondo en dólares orientado a bonos del Tesoro de EE. UU. Las participaciones se emiten con la tecnología Hadron de Tether y se negocian en Bitfinex Securities El Salvador, plataforma supervisada por la Comisión Nacional de Activos Digitales (CNAD).",
+    "date": "2026-10-23",
+    "source": "CriptoNoticias",
+    "url": "https://www.criptonoticias.com/mercados/elsalvador-fondo-inversion-medido-bitcoin/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "El Salvador",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "bitcoin",
+      "Centroamérica",
+      "regulación"
+    ]
+  },
+  {
     "id": "hsbc-lanza-redcoin-stablecoin-hkd-payme",
     "title": "HSBC lanza RedCoin, su primera stablecoin, para más de 3,3 millones de usuarios de PayMe en Hong Kong",
     "summary": "HSBC puso en marcha RedCoin (RCHKD), una stablecoin en dólares de Hong Kong con licencia de la Autoridad Monetaria de Hong Kong. Los usuarios de la app PayMe podrán activar una billetera para enviar dinero entre personas y pagar en más de 100.000 comercios. El banco prevé llevarla a su app bancaria y usarla para suscribir inversiones tokenizadas, como un fondo del mercado monetario.",
