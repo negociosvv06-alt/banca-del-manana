@@ -1,19 +1,19 @@
 {
- "lastRun": "2026-10-24T13:05:04.972Z",
+ "lastRun": "2026-10-25T13:00:59.447Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-10-24T13:05:04.972Z",
+   "fetchedAt": "2026-10-25T13:00:59.447Z",
    "count": 12
   },
   "ecb": {
    "ok": true,
-   "fetchedAt": "2026-10-24T13:05:04.972Z",
+   "fetchedAt": "2026-10-25T13:00:59.447Z",
    "count": 12
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-10-24T13:05:04.972Z",
+   "fetchedAt": "2026-10-25T13:00:59.447Z",
    "count": 10
   }
  },
