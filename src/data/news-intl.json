@@ -1,785 +1,634 @@
 {
- "lastRun": "2026-10-25T13:00:59.447Z",
- "sources": {
-  "fed": {
-   "ok": true,
-   "fetchedAt": "2026-10-25T13:00:59.447Z",
-   "count": 12
+  "lastRun": "2026-10-26T13:13:34.858Z",
+  "sources": {
+    "fed": {
+      "ok": true,
+      "fetchedAt": "2026-10-26T13:13:34.858Z",
+      "count": 12
+    },
+    "ecb": {
+      "ok": false,
+      "error": "fetch failed",
+      "fetchedAt": "2026-10-25T13:00:59.447Z",
+      "count": 0
+    },
+    "bis": {
+      "ok": true,
+      "fetchedAt": "2026-10-26T13:13:34.858Z",
+      "count": 10
+    }
   },
-  "ecb": {
-   "ok": true,
-   "fetchedAt": "2026-10-25T13:00:59.447Z",
-   "count": 12
-  },
-  "bis": {
-   "ok": true,
-   "fetchedAt": "2026-10-25T13:00:59.447Z",
-   "count": 10
-  }
- },
- "items": [
-  {
-   "id": "ecb-VlMmJhNzNjZjMuZW4uaHRtbA",
-   "title": "Piero Cipollone: Interview with Milano Finanza",
-   "summary": "",
-   "date": "2026-10-24",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "ecb-EzZDIwMWM5N2MuZW4uaHRtbA",
-   "title": "ECB Consumer Expectations Survey results – September 2026",
-   "summary": "",
-   "date": "2026-10-23",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "ecb-0MDFkNmM0YjcwLmVuLmh0bWw",
-   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-   "summary": "",
-   "date": "2026-10-21",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "ecb-fmQxOTBmMmMzNDkuZW4ucGRm",
-   "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-   "summary": "",
-   "date": "2026-10-21",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "ecb-k3ZTJlNGJjMzguZW4uaHRtbA",
-   "title": "Frank Elderson: Interview with Die Presse",
-   "summary": "",
-   "date": "2026-10-20",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "boj-ueda-inflacion-2026-10-19",
-   "title": "Ueda (Banco de Japón): la inflación subyacente está «bastante cerca» del objetivo del 2 %",
-   "summary": "Ante el Parlamento, el gobernador Kazuo Ueda señaló que la fuerte demanda mundial de inteligencia artificial y un mercado laboral con escasez de mano de obra presionan los precios, lo que apunta a margen para nuevas subidas de tipos. El BoJ, que subió tipos en septiembre, se reúne el 29 y 30 de octubre; según Reuters, buena parte del mercado espera que mantenga el tipo en 1,25 % y deje abierta una subida a 1,5 % en diciembre.",
-   "date": "2026-10-19",
-   "source": "Reuters (vía La Nación)",
-   "url": "https://www.lanacion.com.ar/agencias/el-gobernador-del-boj-dice-que-la-inflacion-subyacente-esta-bastante-cerca-del-objetivo-de-precios-nid19102026/",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Japón",
-   "lang": "es",
-   "banks": [],
-   "tags": [
-    "BoJ",
-    "Ueda",
-    "inflación",
-    "tipos de interés",
-    "Japón"
-   ],
-   "manual": true
-  },
-  {
-   "id": "ecb-mMGEzZTA1M2RlLmVuLmh0bWw",
-   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-   "summary": "",
-   "date": "2026-10-19",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "pboc-tipo-un-dia-2026-10-19",
-   "title": "El Banco Popular de China estudia convertir el repo a un día en su principal tipo de referencia",
-   "summary": "Según medios estatales citados por Reuters, el gobernador Pan Gongsheng planteó sustituir el tipo de las recompras inversas a siete días, referencia oficial desde 2024, por el de las operaciones a un día, para afinar el control de los tipos a corto plazo y mejorar la transmisión de la política monetaria. Analistas aclaran que no equivale a una rebaja de tipos. El mismo día se publicó que el PIB chino creció 4,5 % interanual en el tercer trimestre, por encima de lo previsto.",
-   "date": "2026-10-19",
-   "source": "Reuters (vía MarketScreener)",
-   "url": "https://es.marketscreener.com/noticias/el-banco-central-de-china-estudia-fijar-el-tipo-a-un-d-a-como-su-principal-referencia-monetaria-ce785cdbd889f12d",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "China",
-   "lang": "es",
-   "banks": [],
-   "tags": [
-    "PBoC",
-    "política monetaria",
-    "tipos de interés",
-    "China"
-   ],
-   "manual": true
-  },
-  {
-   "id": "bce-lagarde-bond-selloff-2026-10-17",
-   "title": "Lagarde (BCE): el selloff de bonos endurece el crédito y frenará más la inflación de lo previsto",
-   "summary": "En las Reuniones Anuales del FMI y el Banco Mundial en Bangkok, la presidenta del BCE, Christine Lagarde, afirmó que el alza reciente de los tipos a largo plazo ha endurecido las condiciones de financiamiento en la zona euro y ralentizará el crecimiento y el traspaso de precios más de lo proyectado en septiembre. El BCE ha subido tipos dos veces en cuatro meses y el mercado espera otra en diciembre. Joachim Nagel (Bundesbank) sostuvo que «el trabajo no está hecho» frente a la inflación.",
-   "date": "2026-10-17",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/17/ecbs-lagarde-says-bond-selloff-will-slow-inflation.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB",
-    "Lagarde",
-    "tipos de interés",
-    "inflación",
-    "bonos"
-   ],
-   "manual": true
-  },
-  {
-   "id": "ecb-3MDE1ZWEzMDk5LmVuLmh0bWw",
-   "title": "Christine Lagarde: IMFC Statement",
-   "summary": "",
-   "date": "2026-10-17",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "bce-tips-cross-border-contact-group-2026-10",
-   "title": "El Eurosistema convoca un grupo de contacto de mercado para los pagos instantáneos transfronterizos TIPS",
-   "summary": "El BCE invitó a proveedores de servicios de pago y cámaras de compensación minoristas a expresar interés en el grupo de contacto de mercado de TIPS cross-border, que asesorará al Market Infrastructure Board sobre valor de negocio, diseño funcional, pruebas y operación. El plazo de solicitudes vence el 15 de noviembre de 2026; la primera reunión está prevista para el primer trimestre de 2027. La iniciativa forma parte de la estrategia de pagos del Eurosistema para mejorar la interoperabilidad y abaratamiento de los pagos transfronterizos.",
-   "date": "2026-10-16",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261016.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB",
-    "TIPS",
-    "pagos instantáneos",
-    "pagos transfronterizos"
-   ],
-   "manual": true
-  },
-  {
-   "id": "bis-hbmQtY29uc3VsdHMtZy1zaWI",
-   "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-   "summary": "The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review.",
-   "date": "2026-10-16",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "fed-lbWVudDIwMjYxMDE2YS5odG0",
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "date": "2026-10-16",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "fmi-bce-alza-tasas-europa-2026-10",
-   "title": "FMI: el BCE necesitaría al menos otra subida de 25 pb en 2026 para anclar la inflación",
-   "summary": "En su informe periódico sobre Europa, el FMI indicó que haría falta al menos un alza adicional de 25 puntos básicos en los tipos del BCE en 2026 para mantener contenida la inflación subyacente, tras las subidas de junio y septiembre. El organismo también advirtió que un apoyo fiscal mal calibrado ante precios de la energía podría dificultar la desinflación.",
-   "date": "2026-10-16",
-   "source": "Reuters (vía Euronext)",
-   "url": "https://live.euronext.com/en/financial-news/imf-expects-least-one-more-25-bps-ecb-rate-hike-2026",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FMI",
-    "ECB",
-    "tipos de interés",
-    "inflación"
-   ],
-   "manual": true
-  },
-  {
-   "id": "fsb-ia-buenas-practicas-2026",
-   "title": "El FSB publica 12 buenas prácticas para una adopción responsable de la IA en las instituciones financieras",
-   "summary": "El Consejo de Estabilidad Financiera (FSB) publicó su informe final con 12 prácticas para gobernar la IA: papel del directorio y la alta gerencia, gestión de riesgos en todo el ciclo de vida, gobierno de datos, explicabilidad, supervisión humana efectiva, riesgos cibernéticos y dependencia de terceros proveedores de IA.",
-   "date": "2026-10-15",
-   "source": "Consejo de Estabilidad Financiera (FSB)",
-   "url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FSB",
-    "inteligencia artificial",
-    "gobernanza"
-   ],
-   "manual": true
-  },
-  {
-   "id": "unicredit-bce-commerzbank-2026-10",
-   "title": "El BCE autoriza a UniCredit a superar el 30 % y tomar el control de Commerzbank",
-   "summary": "UniCredit informó que el Banco Central Europeo le autorizó a cruzar el umbral del 30 % del capital de Commerzbank y a aumentar su participación sin límite superior. Tras completar los procesos regulatorios restantes hacia fin de año, espera cerca del 50 % de los derechos de voto y el control del banco alemán, la mayor operación bancaria transfronteriza en Europa desde la crisis financiera.",
-   "date": "2026-10-15",
-   "source": "UniCredit",
-   "url": "https://www.unicreditgroup.eu/en/press-media/press-releases-price-sensitive/2026/october/unicredit-receives-ecb-approval-to-acquire-control-of-commerzban.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB",
-    "UniCredit",
-    "Commerzbank",
-    "fusiones"
-   ],
-   "manual": true
-  },
-  {
-   "id": "bangkok-blueprint-fraude-digital",
-   "title": "FMI y Banco Mundial lanzan el «Bangkok Blueprint» contra el fraude digital en servicios financieros",
-   "summary": "En las Reuniones Anuales de Bangkok, el FMI y el Grupo Banco Mundial, junto con el Banco de Tailandia, presentaron un marco de políticas contra estafas y delitos digitales que propone responsabilidad compartida entre actores, cooperación internacional ante el fraude transfronterizo e intercambio de buenas prácticas.",
-   "date": "2026-10-14",
-   "source": "Reuniones Anuales FMI-Banco Mundial 2026 (Tailandia)",
-   "url": "https://www.am2026thailand.go.th/press-releases/the-launch-of-the-bangkok-blueprint-regional-experiences-and-policy-lessons-for-fraud-resilient-financial-services",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FMI",
-    "Banco Mundial",
-    "fraude",
-    "ciberseguridad"
-   ],
-   "manual": true
-  },
-  {
-   "id": "bce-elderson-resiliencia-2026-10-14",
-   "title": "BCE (Elderson): ante la incertidumbre climática, la banca debe medir, prepararse y reforzar su resiliencia",
-   "summary": "En la conferencia BCE-Banco de Inglaterra sobre riesgo climático, Frank Elderson pidió a los bancos no limitarse a los modelos: usar escenarios exigentes y criterio experto, y mantener capital, liquidez y planes de transición para absorber shocks imprevisibles, una lógica que extendió a la IA, la computación cuántica y la demografía.",
-   "date": "2026-10-14",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB",
-    "riesgo climático",
-    "supervisión"
-   ],
-   "manual": true
-  },
-  {
-   "id": "bis-J1c2luZXNzLXJpc2tzLWFuZA",
-   "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
-   "summary": "The Bank for International Settlements’ Committee on Payments and Market Infrastructures (CPMI) and the International Organization of Securities Commissions (IOSCO) today published a final report on financial market infrastructures’ (FMIs) management of general business risks and general business lo",
-   "date": "2026-10-14",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "ecb-lNGNhMzM1ODhlLmVuLmh0bWw",
-   "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
-   "summary": "",
-   "date": "2026-10-14",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "bis-YWRhLXVuaXRlZC1raW5nZG9t",
-   "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
-   "summary": "The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada and the United Kingdom are assessed as la",
-   "date": "2026-10-13",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "ecb-5ZGI5YmY0ZmQ2LmVuLmh0bWw",
-   "title": "Philip R. Lane: The AI opportunity for Europe",
-   "summary": "",
-   "date": "2026-10-13",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "fed-ldGFyeTIwMjYxMDEzYS5odG0",
-   "title": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
-   "summary": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
-   "date": "2026-10-13",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "fmi-gfsr-octubre-2026",
-   "title": "FMI: los mercados resisten, pero una corrección de la IA, un salto de rendimientos soberanos o un ciberataque podrían desatar turbulencias",
-   "summary": "El Informe sobre la Estabilidad Financiera Mundial de octubre señala que la banca global sigue siendo resiliente, aunque persisten bolsones de bancos débiles, y alerta sobre el apalancamiento en crédito privado y fondos de cobertura y los nuevos riesgos de la tokenización de activos.",
-   "date": "2026-10-13",
-   "source": "Fondo Monetario Internacional (FMI)",
-   "url": "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FMI",
-    "GFSR",
-    "estabilidad financiera"
-   ],
-   "manual": true
-  },
-  {
-   "id": "fmi-weo-octubre-2026",
-   "title": "FMI eleva levemente su previsión: la economía mundial crecería 3,1 % en 2026 y 3,4 % en 2027",
-   "summary": "En su Perspectivas de la Economía Mundial de octubre, el FMI prevé que la inflación general mundial suba a 4,7 % en 2026 por la energía y los alimentos y baje a 4,1 % en 2027, y advierte que la resiliencia es desigual: los importadores de energía y las economías fuera de la cadena de valor de la IA enfrentan más presión.",
-   "date": "2026-10-13",
-   "source": "Fondo Monetario Internacional (FMI)",
-   "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FMI",
-    "WEO",
-    "crecimiento",
-    "inflación"
-   ],
-   "manual": true
-  },
-  {
-   "id": "fed-vdGhlcjIwMjYxMDA5YS5odG0",
-   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-   "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-   "date": "2026-10-09",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "ecb-hMTAxNTNkMDkwLmVuLmh0bWw",
-   "title": "Meeting of 9-10 September 2026",
-   "summary": "",
-   "date": "2026-10-08",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "ecb-MxODRlN2QwZDAuZW4uaHRtbA",
-   "title": "Piero Cipollone: Interview with Corriere della Sera",
-   "summary": "",
-   "date": "2026-10-08",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "fed-lbWVudDIwMjYxMDA4YS5odG0",
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-   "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-   "date": "2026-10-08",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "ecb-Y0NDczNTA0MzQuZW4uaHRtbA",
-   "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-   "summary": "",
-   "date": "2026-10-07",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "fed-ldGFyeTIwMjYxMDA3YS5odG0",
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "date": "2026-10-07",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "bis-qdXJpc2RpY3Rpb25zLTIwMjc",
-   "title": "Basel III applicable in almost all member jurisdictions by 2027",
-   "summary": "Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely mo",
-   "date": "2026-10-05",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "fed-cmRlcnMyMDI2MTAwNWEuaHRt",
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "date": "2026-10-05",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "fed-cmRlcnMyMDI2MTAwMmEuaHRt",
-   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "date": "2026-10-02",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "fed-iY3JlZzIwMjYxMDAyYS5odG0",
-   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "date": "2026-10-02",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "fed-lbWVudDIwMjYxMDAyYS5odG0",
-   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "date": "2026-10-02",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "bis-lvbi1hbmQtcmVndWxhdGlvbg",
-   "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
-   "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
-   "date": "2026-10-01",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "bis-tZGlzY3Vzcy1yaXNrcy1hbmQ",
-   "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
-   "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
-   "date": "2026-10-01",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "fed-iY3JlZzIwMjYwOTMwYS5odG0",
-   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "date": "2026-09-30",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "fed-iY3JlZzIwMjYwOTI5YS5odG0",
-   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-   "summary": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-   "date": "2026-09-29",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "fed-cmRlcnMyMDI2MDkyNWEuaHRt",
-   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-   "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-   "date": "2026-09-25",
-   "source": "Reserva Federal de EE. UU. (Fed)",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Estados Unidos",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "FED"
-   ]
-  },
-  {
-   "id": "bis-dHktaW5kaWNhdG9ycy1zaG93",
-   "title": "Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows",
-   "summary": "As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025.",
-   "date": "2026-09-23",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "bis-Y3Vzc2lvbi1wYXBlci1mbWlz",
-   "title": "Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers",
-   "summary": "CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience fram",
-   "date": "2026-09-08",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "bis-aWN5LWRpc2NpcGxpbmUtYmlz",
-   "title": "Global economic pressure points call for policy discipline: BIS",
-   "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation.",
-   "date": "2026-06-28",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  },
-  {
-   "id": "bis-uZy10cnVzdC1tb25leS1iaXM",
-   "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
-   "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age.",
-   "date": "2026-06-23",
-   "source": "Banco de Pagos Internacionales (BIS)",
-   "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Internacional",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "BIS"
-   ]
-  }
- ]
+  "items": [
+    {
+      "id": "bccr-tpm-3-2026-10-25",
+      "title": "El Banco Central de Costa Rica mantiene su tasa de política monetaria en 3 %",
+      "summary": "La Junta Directiva del BCCR decidió por mayoría mantener la TPM en 3 % anual, su primera pausa desde el recorte de julio; dos miembros votaron por bajarla. El banco citó la mayor incertidumbre externa por las interrupciones al tránsito de petróleo en Medio Oriente, el conflicto entre Rusia y Ucrania y los posibles efectos de El Niño sobre los alimentos, que podrían presionar la inflación.",
+      "date": "2026-10-25",
+      "source": "Diario Extra (Costa Rica)",
+      "url": "https://www.diarioextra.com/noticia/banco-central-mantiene-politica-monetaria-en-3-anual/",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Costa Rica",
+      "lang": "es",
+      "banks": [],
+      "tags": [
+        "BCCR",
+        "tasa de política monetaria",
+        "inflación",
+        "Centroamérica"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bsp-filipinas-sube-50pb-2026-10",
+      "title": "El banco central de Filipinas sube su tasa 50 puntos básicos, hasta 5,50 %",
+      "summary": "La Junta Monetaria del Bangko Sentral ng Pilipinas elevó su tasa de referencia a 5,50 %, su primera subida de 50 pb desde febrero de 2023, y acumula 125 pb desde abril. Atribuyó la decisión a riesgos persistentes de inflación por el petróleo caro ante las tensiones en Medio Oriente, tarifas de transporte más altas y El Niño, y dijo estar listo para actuar de nuevo si hace falta.",
+      "date": "2026-10-25",
+      "source": "Philstar",
+      "url": "https://www.philstar.com/business/2026/10/25/2565026/bsp-hikes-interest-rates-50-basis-points",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Filipinas",
+      "lang": "es",
+      "banks": [],
+      "tags": [
+        "BSP",
+        "tipos de interés",
+        "inflación",
+        "Asia"
+      ],
+      "manual": true
+    },
+    {
+      "id": "boj-ueda-inflacion-2026-10-19",
+      "title": "Ueda (Banco de Japón): la inflación subyacente está «bastante cerca» del objetivo del 2 %",
+      "summary": "Ante el Parlamento, el gobernador Kazuo Ueda señaló que la fuerte demanda mundial de inteligencia artificial y un mercado laboral con escasez de mano de obra presionan los precios, lo que apunta a margen para nuevas subidas de tipos. El BoJ, que subió tipos en septiembre, se reúne el 29 y 30 de octubre; según Reuters, buena parte del mercado espera que mantenga el tipo en 1,25 % y deje abierta una subida a 1,5 % en diciembre.",
+      "date": "2026-10-19",
+      "source": "Reuters (vía La Nación)",
+      "url": "https://www.lanacion.com.ar/agencias/el-gobernador-del-boj-dice-que-la-inflacion-subyacente-esta-bastante-cerca-del-objetivo-de-precios-nid19102026/",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Japón",
+      "lang": "es",
+      "banks": [],
+      "tags": [
+        "BoJ",
+        "Ueda",
+        "inflación",
+        "tipos de interés",
+        "Japón"
+      ],
+      "manual": true
+    },
+    {
+      "id": "pboc-tipo-un-dia-2026-10-19",
+      "title": "El Banco Popular de China estudia convertir el repo a un día en su principal tipo de referencia",
+      "summary": "Según medios estatales citados por Reuters, el gobernador Pan Gongsheng planteó sustituir el tipo de las recompras inversas a siete días, referencia oficial desde 2024, por el de las operaciones a un día, para afinar el control de los tipos a corto plazo y mejorar la transmisión de la política monetaria. Analistas aclaran que no equivale a una rebaja de tipos. El mismo día se publicó que el PIB chino creció 4,5 % interanual en el tercer trimestre, por encima de lo previsto.",
+      "date": "2026-10-19",
+      "source": "Reuters (vía MarketScreener)",
+      "url": "https://es.marketscreener.com/noticias/el-banco-central-de-china-estudia-fijar-el-tipo-a-un-d-a-como-su-principal-referencia-monetaria-ce785cdbd889f12d",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "China",
+      "lang": "es",
+      "banks": [],
+      "tags": [
+        "PBoC",
+        "política monetaria",
+        "tipos de interés",
+        "China"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bce-lagarde-bond-selloff-2026-10-17",
+      "title": "Lagarde (BCE): el selloff de bonos endurece el crédito y frenará más la inflación de lo previsto",
+      "summary": "En las Reuniones Anuales del FMI y el Banco Mundial en Bangkok, la presidenta del BCE, Christine Lagarde, afirmó que el alza reciente de los tipos a largo plazo ha endurecido las condiciones de financiamiento en la zona euro y ralentizará el crecimiento y el traspaso de precios más de lo proyectado en septiembre. El BCE ha subido tipos dos veces en cuatro meses y el mercado espera otra en diciembre. Joachim Nagel (Bundesbank) sostuvo que «el trabajo no está hecho» frente a la inflación.",
+      "date": "2026-10-17",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/17/ecbs-lagarde-says-bond-selloff-will-slow-inflation.html",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Zona euro",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "ECB",
+        "Lagarde",
+        "tipos de interés",
+        "inflación",
+        "bonos"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bce-tips-cross-border-contact-group-2026-10",
+      "title": "El Eurosistema convoca un grupo de contacto de mercado para los pagos instantáneos transfronterizos TIPS",
+      "summary": "El BCE invitó a proveedores de servicios de pago y cámaras de compensación minoristas a expresar interés en el grupo de contacto de mercado de TIPS cross-border, que asesorará al Market Infrastructure Board sobre valor de negocio, diseño funcional, pruebas y operación. El plazo de solicitudes vence el 15 de noviembre de 2026; la primera reunión está prevista para el primer trimestre de 2027. La iniciativa forma parte de la estrategia de pagos del Eurosistema para mejorar la interoperabilidad y abaratamiento de los pagos transfronterizos.",
+      "date": "2026-10-16",
+      "source": "Banco Central Europeo (BCE)",
+      "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261016.en.html",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Zona euro",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "ECB",
+        "TIPS",
+        "pagos instantáneos",
+        "pagos transfronterizos"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bis-hbmQtY29uc3VsdHMtZy1zaWI",
+      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
+      "summary": "The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review.",
+      "date": "2026-10-16",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "fed-lbWVudDIwMjYxMDE2YS5odG0",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "date": "2026-10-16",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fmi-bce-alza-tasas-europa-2026-10",
+      "title": "FMI: el BCE necesitaría al menos otra subida de 25 pb en 2026 para anclar la inflación",
+      "summary": "En su informe periódico sobre Europa, el FMI indicó que haría falta al menos un alza adicional de 25 puntos básicos en los tipos del BCE en 2026 para mantener contenida la inflación subyacente, tras las subidas de junio y septiembre. El organismo también advirtió que un apoyo fiscal mal calibrado ante precios de la energía podría dificultar la desinflación.",
+      "date": "2026-10-16",
+      "source": "Reuters (vía Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/imf-expects-least-one-more-25-bps-ecb-rate-hike-2026",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Zona euro",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FMI",
+        "ECB",
+        "tipos de interés",
+        "inflación"
+      ],
+      "manual": true
+    },
+    {
+      "id": "fsb-ia-buenas-practicas-2026",
+      "title": "El FSB publica 12 buenas prácticas para una adopción responsable de la IA en las instituciones financieras",
+      "summary": "El Consejo de Estabilidad Financiera (FSB) publicó su informe final con 12 prácticas para gobernar la IA: papel del directorio y la alta gerencia, gestión de riesgos en todo el ciclo de vida, gobierno de datos, explicabilidad, supervisión humana efectiva, riesgos cibernéticos y dependencia de terceros proveedores de IA.",
+      "date": "2026-10-15",
+      "source": "Consejo de Estabilidad Financiera (FSB)",
+      "url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FSB",
+        "inteligencia artificial",
+        "gobernanza"
+      ],
+      "manual": true
+    },
+    {
+      "id": "unicredit-bce-commerzbank-2026-10",
+      "title": "El BCE autoriza a UniCredit a superar el 30 % y tomar el control de Commerzbank",
+      "summary": "UniCredit informó que el Banco Central Europeo le autorizó a cruzar el umbral del 30 % del capital de Commerzbank y a aumentar su participación sin límite superior. Tras completar los procesos regulatorios restantes hacia fin de año, espera cerca del 50 % de los derechos de voto y el control del banco alemán, la mayor operación bancaria transfronteriza en Europa desde la crisis financiera.",
+      "date": "2026-10-15",
+      "source": "UniCredit",
+      "url": "https://www.unicreditgroup.eu/en/press-media/press-releases-price-sensitive/2026/october/unicredit-receives-ecb-approval-to-acquire-control-of-commerzban.html",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Zona euro",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "ECB",
+        "UniCredit",
+        "Commerzbank",
+        "fusiones"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bangkok-blueprint-fraude-digital",
+      "title": "FMI y Banco Mundial lanzan el «Bangkok Blueprint» contra el fraude digital en servicios financieros",
+      "summary": "En las Reuniones Anuales de Bangkok, el FMI y el Grupo Banco Mundial, junto con el Banco de Tailandia, presentaron un marco de políticas contra estafas y delitos digitales que propone responsabilidad compartida entre actores, cooperación internacional ante el fraude transfronterizo e intercambio de buenas prácticas.",
+      "date": "2026-10-14",
+      "source": "Reuniones Anuales FMI-Banco Mundial 2026 (Tailandia)",
+      "url": "https://www.am2026thailand.go.th/press-releases/the-launch-of-the-bangkok-blueprint-regional-experiences-and-policy-lessons-for-fraud-resilient-financial-services",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FMI",
+        "Banco Mundial",
+        "fraude",
+        "ciberseguridad"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bce-elderson-resiliencia-2026-10-14",
+      "title": "BCE (Elderson): ante la incertidumbre climática, la banca debe medir, prepararse y reforzar su resiliencia",
+      "summary": "En la conferencia BCE-Banco de Inglaterra sobre riesgo climático, Frank Elderson pidió a los bancos no limitarse a los modelos: usar escenarios exigentes y criterio experto, y mantener capital, liquidez y planes de transición para absorber shocks imprevisibles, una lógica que extendió a la IA, la computación cuántica y la demografía.",
+      "date": "2026-10-14",
+      "source": "Banco Central Europeo (BCE)",
+      "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Zona euro",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "ECB",
+        "riesgo climático",
+        "supervisión"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bis-J1c2luZXNzLXJpc2tzLWFuZA",
+      "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+      "summary": "The Bank for International Settlements’ Committee on Payments and Market Infrastructures (CPMI) and the International Organization of Securities Commissions (IOSCO) today published a final report on financial market infrastructures’ (FMIs) management of general business risks and general business lo",
+      "date": "2026-10-14",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "bis-YWRhLXVuaXRlZC1raW5nZG9t",
+      "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
+      "summary": "The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada and the United Kingdom are assessed as la",
+      "date": "2026-10-13",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "fed-ldGFyeTIwMjYxMDEzYS5odG0",
+      "title": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
+      "summary": "Minutes of the Board s discount rate meetings on August 17, September 9, and September 16, 2026",
+      "date": "2026-10-13",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fmi-gfsr-octubre-2026",
+      "title": "FMI: los mercados resisten, pero una corrección de la IA, un salto de rendimientos soberanos o un ciberataque podrían desatar turbulencias",
+      "summary": "El Informe sobre la Estabilidad Financiera Mundial de octubre señala que la banca global sigue siendo resiliente, aunque persisten bolsones de bancos débiles, y alerta sobre el apalancamiento en crédito privado y fondos de cobertura y los nuevos riesgos de la tokenización de activos.",
+      "date": "2026-10-13",
+      "source": "Fondo Monetario Internacional (FMI)",
+      "url": "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FMI",
+        "GFSR",
+        "estabilidad financiera"
+      ],
+      "manual": true
+    },
+    {
+      "id": "fmi-weo-octubre-2026",
+      "title": "FMI eleva levemente su previsión: la economía mundial crecería 3,1 % en 2026 y 3,4 % en 2027",
+      "summary": "En su Perspectivas de la Economía Mundial de octubre, el FMI prevé que la inflación general mundial suba a 4,7 % en 2026 por la energía y los alimentos y baje a 4,1 % en 2027, y advierte que la resiliencia es desigual: los importadores de energía y las economías fuera de la cadena de valor de la IA enfrentan más presión.",
+      "date": "2026-10-13",
+      "source": "Fondo Monetario Internacional (FMI)",
+      "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FMI",
+        "WEO",
+        "crecimiento",
+        "inflación"
+      ],
+      "manual": true
+    },
+    {
+      "id": "fed-vdGhlcjIwMjYxMDA5YS5odG0",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "date": "2026-10-09",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fed-lbWVudDIwMjYxMDA4YS5odG0",
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "date": "2026-10-08",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fed-ldGFyeTIwMjYxMDA3YS5odG0",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "date": "2026-10-07",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "bis-qdXJpc2RpY3Rpb25zLTIwMjc",
+      "title": "Basel III applicable in almost all member jurisdictions by 2027",
+      "summary": "Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely mo",
+      "date": "2026-10-05",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "fed-cmRlcnMyMDI2MTAwNWEuaHRt",
+      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "date": "2026-10-05",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fed-cmRlcnMyMDI2MTAwMmEuaHRt",
+      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "date": "2026-10-02",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fed-iY3JlZzIwMjYxMDAyYS5odG0",
+      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "date": "2026-10-02",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fed-lbWVudDIwMjYxMDAyYS5odG0",
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "date": "2026-10-02",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "bis-lvbi1hbmQtcmVndWxhdGlvbg",
+      "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
+      "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
+      "date": "2026-10-01",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "bis-tZGlzY3Vzcy1yaXNrcy1hbmQ",
+      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
+      "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
+      "date": "2026-10-01",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "fed-iY3JlZzIwMjYwOTMwYS5odG0",
+      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "date": "2026-09-30",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fed-iY3JlZzIwMjYwOTI5YS5odG0",
+      "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "summary": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "date": "2026-09-29",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "fed-cmRlcnMyMDI2MDkyNWEuaHRt",
+      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "date": "2026-09-25",
+      "source": "Reserva Federal de EE. UU. (Fed)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Estados Unidos",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "FED"
+      ]
+    },
+    {
+      "id": "bis-dHktaW5kaWNhdG9ycy1zaG93",
+      "title": "Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows",
+      "summary": "As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025.",
+      "date": "2026-09-23",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "bis-Y3Vzc2lvbi1wYXBlci1mbWlz",
+      "title": "Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers",
+      "summary": "CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience fram",
+      "date": "2026-09-08",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "bis-aWN5LWRpc2NpcGxpbmUtYmlz",
+      "title": "Global economic pressure points call for policy discipline: BIS",
+      "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation.",
+      "date": "2026-06-28",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    },
+    {
+      "id": "bis-uZy10cnVzdC1tb25leS1iaXM",
+      "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
+      "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age.",
+      "date": "2026-06-23",
+      "source": "Banco de Pagos Internacionales (BIS)",
+      "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Internacional",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "BIS"
+      ]
+    }
+  ]
 }
