@@ -1,0 +1,58 @@
+{
+  "id": "stablecoins-reglas-occ-canada-2026-10-26",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "Estados Unidos y Canadá fijan reglas para las stablecoins de pago: reservas uno a uno, canje rápido y prohibición de pagar intereses; qué debe preguntar usted antes de usarlas en Panamá",
+  "date": "2026-10-26",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "OCC – OCC Advances U.S. Digital Asset Leadership with Final Rule to Implement GENIUS Act (News Release 2026-92)",
+      "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Federal Register – Implementing the GENIUS Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the OCC",
+      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "Canada Gazette, Part I, Vol. 160, No. 43 – Stablecoin Regulations",
+      "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Aviso al público (SBP-2026-03212)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/comunicados/2026/aviso7-2026.pdf",
+      "date": "2026-04-27"
+    }
+  ],
+  "body": [
+    "Las stablecoins, o monedas estables, son activos digitales diseñados para mantener un valor fijo frente a una moneda oficial, casi siempre el dólar. Se usan cada vez más para enviar dinero entre países y para pagos entre empresas. En pocos días, dos de las economías más grandes de América dieron pasos importantes para regularlas: Estados Unidos publicó una regla definitiva y Canadá presentó su propuesta de reglamento. Para un país dolarizado como Panamá, donde muchas de estas monedas están atadas a la misma moneda que usamos a diario, vale la pena entender qué exigen.",
+    "## Estados Unidos: la regla definitiva del OCC",
+    "El 21 de octubre, la Oficina del Contralor de la Moneda (OCC), que supervisa a los bancos nacionales de Estados Unidos, anunció la regla final para aplicar la Ley GENIUS, el marco federal para las stablecoins de pago aprobado en ese país. La regla fue publicada en el Registro Federal el 23 de octubre.",
+    "Según el comunicado del OCC, la norma fija requisitos para los emisores autorizados de stablecoins de pago bajo su jurisdicción, incluidos los emisores extranjeros, y para ciertas actividades de custodia. El contralor Jonathan V. Gould destacó que el marco incluye estándares sólidos de respaldo con reservas, de redención (el canje de la moneda por dólares) y de gestión de riesgos. Las reglas sobre prevención de lavado de dinero y sanciones quedaron para una norma separada que se coordinará con el Departamento del Tesoro.",
+    "La regla y la Ley GENIUS entran en vigor el 18 de enero de 2027. El OCC aclaró que anunciará por separado cuándo empezará a recibir solicitudes de quienes quieran emitir estas monedas, y que seguirá de cerca la evolución de una industria que todavía es joven.",
+    "## Canadá: una propuesta muy detallada",
+    "El 24 de octubre, el gobierno canadiense publicó en la Canada Gazette su propuesta de Reglamento de Stablecoins, necesaria para poner en marcha la Ley de Stablecoins aprobada en marzo de 2026. El documento es extenso y ayuda a ver, con números concretos, qué significa proteger a quien usa estas monedas:",
+    "- Registro: los emisores que no sean instituciones financieras deberán registrarse ante el Banco de Canadá.",
+    "- Reservas uno a uno: al cierre de cada día, el valor de las reservas debe ser igual o mayor al de las monedas en circulación. Solo se permiten activos líquidos de alta calidad, como depósitos a la vista, deuda pública con vencimiento de tres meses o menos, operaciones de recompra de un día y fondos del mercado monetario compuestos por esos mismos activos.",
+    "- Canje garantizado: el emisor debe devolver el dinero en la moneda de referencia, uno a uno, dentro de tres días hábiles, sin monto mínimo y con comisiones que no pueden superar el 1 % de lo canjeado.",
+    "- Sin intereses: se prohíbe pagar intereses o rendimientos por mantener stablecoins, así como presentarlas como un depósito, como moneda de curso legal o como un producto asegurado o garantizado por el Gobierno. Sí se permiten recompensas ligadas al uso, no a la tenencia.",
+    "- Quejas con plazos: el emisor debe responder una queja en un máximo de 7 días y resolverla en 30.",
+    "- Supervisión y sanciones: informes mensuales con opinión de un contador y multas de hasta 10 millones de dólares canadienses por infracciones muy graves.",
+    "La propuesta también extiende la supervisión de pagos minoristas a las empresas que procesen pagos o custodien stablecoins por cuenta de sus clientes, como ciertas billeteras digitales. El período de comentarios es de 60 días y la intención es que el reglamento entre en vigor en el otoño de 2027.",
+    "## Por qué prohibir los intereses",
+    "El punto de los intereses merece atención. Canadá explica que la prohibición busca distinguir a las stablecoins de los productos que compiten directamente con los depósitos bancarios o con instrumentos que pagan rendimientos. Una stablecoin, en esta visión, es un medio de pago, no una cuenta de ahorros ni una inversión. Si alguien le ofrece un «dólar digital» que además paga un rendimiento atractivo, la pregunta obligada es de dónde sale ese rendimiento y qué riesgo implica.",
+    "## Qué significa para Panamá",
+    "Estas reglas no aplican directamente en Panamá, pero sí marcan un estándar de referencia para plataformas que operan a nivel internacional. Y nos ofrecen una lista útil de preguntas que cualquier persona o comercio debería hacer antes de recibir o guardar dinero en stablecoins:",
+    "- ¿Quién emite la moneda y quién la supervisa? La Superintendencia de Bancos recomienda asegurarse de que quien ofrece un servicio financiero cuente con autorización o licencia de la autoridad competente para esa actividad, cuando la ley lo exija.",
+    "- ¿Qué respalda cada unidad y quién lo verifica? Busque informes periódicos de reservas hechos por terceros independientes.",
+    "- ¿Cómo y en cuánto tiempo puedo convertirla de nuevo en dólares en mi cuenta bancaria? ¿Cuánto cuesta?",
+    "- ¿Qué pasa con mi saldo si la plataforma o la billetera cierran?",
+    "- ¿Me prometen intereses por mantenerla? Si es así, entienda que no se trata de un depósito bancario.",
+    "Las stablecoins pueden abaratar y acelerar ciertos pagos internacionales. Pero su utilidad depende de que el dinero esté realmente respaldado y se pueda recuperar cuando se necesita. Eso es justamente lo que los reguladores de Estados Unidos y Canadá están tratando de garantizar.",
+    "Este contenido es informativo y fue elaborado con asistencia de IA a partir de las fuentes citadas. No constituye recomendación de compra, venta o uso de ningún activo digital. Las stablecoins no son depósitos bancarios."
+  ]
+}

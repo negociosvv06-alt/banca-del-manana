@@ -1,0 +1,55 @@
+{
+  "id": "wells-fargo-contrato-agentes-ia-2026-10-26",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Si su agente de IA se equivoca, ¿quién paga? Wells Fargo lo pone por escrito en su contrato de banca en línea y lo que eso enseña a los clientes en Panamá",
+  "date": "2026-10-26",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "TokenPost – Wells Fargo Sets Customer Responsibility Terms for AI Agent Use",
+      "url": "https://www.tokenpost.com/news/technology/40685",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "Reuters vía Investing.com – US banks are blocking third-party AI agents access to customer accounts, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports-4965122",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Finextra – Banks move to limit agents' access to customer accounts",
+      "url": "https://www.finextra.com/newsarticle/48634/banks-move-to-limit-agents-access-to-customer-accounts",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP establece nuevas reglas para fortalecer la seguridad y transparencia de las operaciones bancarias",
+      "url": "https://www.superbancos.gob.pa/node/1805",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "Hasta ahora, el debate sobre los agentes de inteligencia artificial en la banca se había dado sobre todo en declaraciones de ejecutivos y en reportes de prensa. Esta semana apareció algo más concreto: un contrato. Según TokenPost, el nuevo acuerdo de banca en línea de Wells Fargo, uno de los mayores bancos de Estados Unidos, incluye una sección dedicada a los agentes de IA y deja claro quién asume la responsabilidad cuando uno de ellos actúa en nombre del cliente. El documento indica como fecha de vigencia el 24 de noviembre de 2026.",
+    "## Qué dice el contrato",
+    "De acuerdo con el reporte, cuando un cliente entrega sus credenciales a un agente o lo autoriza de otra forma a actuar por él, las instrucciones, acciones y transacciones de ese agente se consideran iniciadas y autorizadas por el propio cliente, sin verificación adicional, salvo las excepciones que establezcan las leyes o regulaciones aplicables.",
+    "El contrato también asigna al cliente la responsabilidad por las acciones, errores, acciones no intencionadas y resultados del agente, con los límites que fije la ley, y le pide vigilar lo que hace. La definición de agente es amplia: incluye software, aplicaciones, programas u otra tecnología que actúe por una persona o empresa, sea de forma autónoma, semiautónoma o no autónoma.",
+    "Del lado del banco, Wells Fargo se reserva el derecho de exigir que los clientes registren a sus agentes, de cambiar o limitar los métodos de acceso y de prohibir, restringir, suspender o terminar el acceso de un agente. Un detalle importante: según TokenPost, el texto aplica «si y cuando» el banco permita el uso de agentes, y no identifica qué agentes ni qué métodos de acceso están permitidos hoy.",
+    "## Por qué llega ahora",
+    "El contrato aparece en medio de una reacción de la banca estadounidense frente a estas herramientas. Reuters informó el 22 de octubre que grandes bancos han estado bloqueando a agentes de IA de terceros que operan dentro de las cuentas de los clientes, después de un reporte de Axios según el cual algunos agentes intentaron tomar acciones que parecían independientes de las instrucciones del usuario.",
+    "La misma nota de Reuters recoge un punto clave para entender el contrato de Wells Fargo: en algunos casos los clientes compartieron su usuario y contraseña con el agente, y una persona del sector explicó que esas transacciones no pueden considerarse no autorizadas si fue el propio cliente quien entregó las credenciales. En otras palabras, el contrato convierte en regla escrita algo que ya era un problema práctico.",
+    "Otros bancos han optado por cerrar la puerta. Según Finextra, Citi no permite que agentes o asistentes de terceros inicien sesión ni hagan transacciones en sus plataformas, aunque mantiene un acceso limitado de solo lectura a través de ciertos proveedores de banca abierta aprobados. El presidente de Bank of America, Brian Moynihan, insistió en que debe haber una persona que autorice la salida de dinero de la cuenta. En Canadá, el presidente de BMO, Darryl White, pidió no entregar a estas herramientas el usuario, la contraseña, la tarjeta ni el PIN.",
+    "## Dos modelos que conviene distinguir",
+    "Detrás de estas decisiones hay dos formas muy distintas de conectar un agente con una cuenta. Una es el acceso de solo lectura mediante una conexión aprobada por el banco, que permite, por ejemplo, revisar gastos sin poder mover dinero. La otra es entregarle al agente la clave del cliente para que opere como si fuera él. La primera deja huella de quién hace qué y con qué permisos; la segunda hace que el banco no pueda distinguir entre la persona y la máquina.",
+    "El contrato de Wells Fargo deja claro que, en el segundo caso, el riesgo recae principalmente en el cliente.",
+    "## Qué significa para Panamá",
+    "La lección aplica también aquí: si usted entrega sus credenciales a una aplicación, sea un agente de IA o un supuesto asesor, el caso de Wells Fargo muestra que puede ser muy difícil sostener después que una operación no fue autorizada.",
+    "Al mismo tiempo, la regulación local avanza en la dirección de dar más control al cliente. La Superintendencia de Bancos aprobó el Acuerdo 8-2026, que pide a los bancos implementar mecanismos para validar los datos del beneficiario antes de ejecutar una transferencia y permitir que el cliente verifique el titular, el banco destinatario y el monto. Ese tipo de verificación supone que hay una persona revisando la operación antes de confirmarla.",
+    "## Recomendaciones prácticas",
+    "- No comparta su usuario, contraseña, PIN ni códigos de verificación con ninguna aplicación o asistente de IA, aunque prometa ahorrarle tiempo.",
+    "- Si quiere usar IA para ordenar sus finanzas, prefiera herramientas que trabajen con información que usted les entrega, como un estado de cuenta sin datos sensibles, o conexiones de solo lectura que su banco haya aprobado oficialmente.",
+    "- Lea las actualizaciones de los términos y condiciones de su banca en línea. Pregunte a su banco qué dice su contrato sobre aplicaciones de terceros y quién responde si una de ellas hace una operación.",
+    "- Mantenga activas las alertas de movimientos y revise su cuenta con frecuencia.",
+    "Los agentes de IA pueden llegar a ser útiles en la banca, pero las reglas se están escribiendo ahora. Mientras tanto, la regla más segura sigue siendo la de siempre: las llaves de su cuenta son solo suyas.",
+    "Este contenido es informativo y fue elaborado con asistencia de IA a partir de las fuentes citadas. Ninguna gestión legítima de su banco le pedirá su clave, PIN o códigos de verificación."
+  ]
+}

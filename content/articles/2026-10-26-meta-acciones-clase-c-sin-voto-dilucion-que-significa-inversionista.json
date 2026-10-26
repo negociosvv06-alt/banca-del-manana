@@ -1,0 +1,52 @@
+{
+  "id": "meta-acciones-clase-c-sin-voto-2026-10-26",
+  "section": "inversiones",
+  "type": "analisis",
+  "title": "Meta crea acciones sin derecho a voto para financiar su apuesta por la IA: qué son las clases de acciones, qué es la dilución y qué revisar si usted tiene Meta directamente o a través de un fondo",
+  "date": "2026-10-26",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Reuters vía Investing.com – Meta to issue new class of shares as it tightens AI spending forecast",
+      "url": "https://www.investing.com/news/stock-market-news/meta-to-issue-new-class-of-shares-as-it-tightens-ai-spending-forecast-4963908",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Reuters vía MSN – Explainer: Why is Meta creating a new class of non-voting shares amid its AI growth?",
+      "url": "https://www.msn.com/en-us/money/economy/explainer-why-is-meta-creating-a-new-class-of-non-voting-shares-amid-its-ai-growth/ar-AA2fV5iB",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "The Wall Street Journal – Meta Will Split Stock, Create New Class to Fund AI Spending",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026/card/meta-will-split-stock-create-new-class-to-fund-ai-spending-73FHz7h3BqOg89xNBamn",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Reuters vía Investing.com – US stock futures edge up as oil falls heading into earnings barrage",
+      "url": "https://www.investing.com/news/economy-news/us-stock-futures-edge-up-as-oil-falls-heading-into-earnings-barrage-4971878",
+      "date": "2026-10-26"
+    }
+  ],
+  "body": [
+    "Cuando una empresa necesita mucho dinero para crecer, tiene básicamente dos caminos: endeudarse o emitir nuevas acciones. Meta Platforms, la dueña de Facebook, Instagram y WhatsApp, eligió preparar el segundo camino, pero con una particularidad: las nuevas acciones no darán derecho a voto. La decisión, anunciada el 21 de octubre junto con sus resultados trimestrales, sigue pesando en el ánimo del mercado esta semana y es una buena oportunidad para entender conceptos que todo inversionista debería conocer.",
+    "## Qué anunció Meta",
+    "Según Reuters y The Wall Street Journal, Meta creará una nueva clase de acciones, llamada Clase C, sin derecho a voto. Cada accionista recibirá una acción Clase C por cada acción Clase A o Clase B que ya tenga, lo que en la práctica funciona como un desdoblamiento de dos por una. El Journal indica como fecha efectiva el 19 de enero de 2027, y Reuters señala que las nuevas acciones empezarían a cotizar en enero de 2027.",
+    "La empresa explicó en su presentación regulatoria que las acciones Clase C estarán disponibles para levantar capital, pagar a empleados, financiar adquisiciones y otros fines corporativos, y que espera ofrecer nuevas acciones de tiempo en tiempo. El motivo es el tamaño de la inversión en inteligencia artificial: Meta elevó el piso de su previsión de inversión de capital para 2026, que ahora está entre 135,000 y 145,000 millones de dólares. Según Reuters, la empresa advirtió que financiar con deuda a esa escala puede afectar sus calificaciones de crédito, lo que hace más atractivo financiarse con acciones.",
+    "Los resultados en sí fueron sólidos. Meta reportó ingresos trimestrales de 64,600 millones de dólares, por encima de lo que esperaban los analistas, y una utilidad neta de 9,800 millones, según el Journal. Aun así, Reuters reportó este lunes 26 de octubre que Meta decepcionó a los inversionistas al elevar otra vez su gasto en IA y anunciar que venderá nuevas acciones para pagarlo. «Una fuerte demanda de IA por sí sola ya no es suficiente. Los mercados quieren evidencia de monetización, márgenes y flujo de caja», dijo Charu Chanana, estratega jefe de inversiones de Saxo.",
+    "## Clases de acciones: votar no es lo mismo que ser dueño",
+    "Una acción normalmente da dos tipos de derechos: económicos, como participar de las ganancias y del valor de la empresa, y políticos, como votar en la junta de accionistas para elegir directores o aprobar decisiones importantes. Algunas empresas fundadas por sus creadores separan esos derechos en distintas clases de acciones.",
+    "Meta ya tenía esa estructura. Según el explicativo de Reuters, Mark Zuckerberg controla la empresa a través de acciones Clase B con supervoto: al 1 de octubre de 2026 tenía cerca del 60.6 % del poder de voto, aunque su participación económica era de alrededor del 13.4 %. Las nuevas acciones sin voto permiten a Meta vender participación a inversionistas sin reducir de forma significativa ese control. Reuters recuerda que Alphabet, la matriz de Google, utiliza una estructura parecida.",
+    "El comité especial de Meta propuso cláusulas de caducidad que habrían convertido las acciones de supervoto en acciones ordinarias ante ciertos eventos, pero Zuckerberg indicó que no las apoyaría. Según un acuerdo separado con el fundador, solo el 20 % de las acciones Clase C que reciban él y su grupo serán vendibles de inmediato.",
+    "## Qué es la dilución",
+    "Aquí aparece un concepto clave. El desdoblamiento por sí solo no cambia el valor de lo que usted tiene: si poseía una acción, pasará a tener dos que, en conjunto, representan la misma parte de la empresa. La dilución llega después, cuando la empresa emite y vende acciones nuevas. Si el número total de acciones aumenta, cada acción existente representa un pedazo un poco más pequeño de la compañía y de sus ganancias futuras.",
+    "La dilución no es necesariamente mala. Si el dinero recaudado se invierte en proyectos que generan más valor del que cuestan, el accionista puede salir ganando aunque su porcentaje sea menor. Pero si la inversión no rinde lo esperado, el accionista pierde por partida doble: su porción es menor y el pastel no creció lo suficiente. Por eso el mercado presta tanta atención a si el gasto en IA se está convirtiendo en ingresos y flujo de caja.",
+    "## Qué revisar si usted tiene Meta",
+    "- Si tiene acciones directamente, lea los comunicados de su casa de valores sobre cómo se reflejará el desdoblamiento en su cuenta y si habrá dos líneas distintas, una por cada clase.",
+    "- Si invierte a través de fondos indexados o ETF de grandes empresas estadounidenses, probablemente tiene exposición a Meta sin saberlo. Revise el peso que la empresa tiene en su fondo.",
+    "- Siga la cantidad total de acciones en circulación en los próximos informes trimestrales. Es la forma más sencilla de ver si hay dilución.",
+    "- Considere los derechos de voto como una característica más al evaluar una empresa: con acciones sin voto, usted participa en los resultados, pero no en las decisiones.",
+    "La semana trae más pruebas para el sector: según Reuters, Alphabet, Microsoft y Amazon presentan resultados en los próximos días, y los inversionistas buscarán señales de que la inversión en IA está dando frutos.",
+    "Este contenido es educativo e informativo, elaborado con asistencia de IA a partir de las fuentes citadas. No constituye recomendación de compra o venta de ningún valor ni asesoría de inversión personalizada. Las inversiones conllevan riesgo, incluida la pérdida del capital, y los rendimientos pasados no garantizan resultados futuros. Consulte con un asesor de inversiones con licencia de la SMV antes de tomar decisiones."
+  ]
+}
