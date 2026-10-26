@@ -1,5 +1,101 @@
 [
   {
+    "id": "hong-kong-sfc-negociacion-secundaria-fondos-tokenizados-2026-10-26",
+    "title": "Hong Kong autoriza por primera vez la negociación secundaria de fondos públicos tokenizados",
+    "summary": "La Comisión de Valores y Futuros de Hong Kong aprobó que dos fondos del mercado monetario tokenizados de ChinaAMC, en dólares de Hong Kong y en dólares estadounidenses, se negocien en una plataforma de activos virtuales con licencia. Los inversionistas podrán comprarlos y venderlos a toda hora, incluidos fines de semana y feriados.",
+    "date": "2026-10-26",
+    "source": "South China Morning Post",
+    "url": "https://www.scmp.com/business/banking-finance/article/3372176/global-first-hong-kong-opens-secondary-trading-tokenised-public-funds",
+    "country": "Hong Kong",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "fondos",
+      "regulación",
+      "Hong Kong"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
+    "id": "bcg-ripple-custodia-activos-digitales-bancos-2026-10-26",
+    "title": "BCG: la custodia de activos digitales se vuelve clave para que los bancos compitan en finanzas tokenizadas",
+    "summary": "Un informe de Boston Consulting Group encargado por Ripple señala que más del 30 % de los activos digitales fuera de exchanges centralizados ya está bajo modelos de custodia institucional. Con MiCA y la Ley GENIUS, la seguridad de las claves pasa a ser un requisito mínimo y los bancos se diferencian por gobierno, interoperabilidad e integración; para bancos regionales estima hasta 100 millones de dólares en nuevos ingresos.",
+    "date": "2026-10-26",
+    "source": "InvestmentNews",
+    "url": "https://www.investmentnews.com/practice-management/digital-asset-custody-reshapes-how-banks-compete-in-tokenized-finance/268738",
+    "country": "Internacional",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "custodia",
+      "tokenización",
+      "stablecoins"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
+    "id": "banco-negara-malasia-ssds-plus-bonos-sukuk-tokenizados-2026-10-26",
+    "title": "El banco central de Malasia activa SSDS+ para emitir y custodiar bonos y sukuk tokenizados",
+    "summary": "Bank Negara Malaysia puso en marcha SSDS+, una plataforma propia sobre tecnología de registro distribuido para emitir, depositar y custodiar bonos y sukuk tokenizados, con liquidación en dinero de banco central las 24 horas mediante RENTAS+. Aún no hay un primer emisor ni fecha para la venta a minoristas, y el banco aclara que no respalda criptomonedas sin respaldo.",
+    "date": "2026-10-26",
+    "source": "Bitcoin News Asia",
+    "url": "https://bitcoinnewsasia.com/5673/malaysias-central-bank-goes-live-with-ssds-for-tokenised-bonds-and-sukuk/",
+    "country": "Malasia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "tokenización",
+      "banco central",
+      "bonos"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
+    "id": "smv-panama-criptoactivos-fuera-de-supervision-infobae-2026-10-25",
+    "title": "Panamá: la SMV reitera que las criptomonedas y los tokens quedan fuera de su supervisión",
+    "summary": "Infobae repasa que la Superintendencia del Mercado de Valores concluyó en 2018 y en 2025 que los esquemas con tokens o monedas virtuales no requieren su autorización, porque la Ley del Mercado de Valores no los define como valores. Sin una norma nueva, la SMV no tiene facultad para regular criptoactivos, mientras en la Asamblea siguen pendientes proyectos sobre activos virtuales.",
+    "date": "2026-10-25",
+    "source": "Infobae",
+    "url": "https://www.infobae.com/panama/2026/10/26/la-superintendencia-del-mercado-de-valores-de-panama-excluye-a-las-criptomonedas-de-su-supervision/",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "Panamá",
+      "SMV",
+      "regulación",
+      "criptoactivos",
+      "tokenización"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
+    "id": "bce-euro-digital-piloto-beta-comercios-2026-10-24",
+    "title": "El BCE abre la convocatoria de comercios para el piloto beta del euro digital",
+    "summary": "El Banco Central Europeo invitó a comercios en línea y móviles de la zona euro a sumarse a un piloto de 12 meses con un «euro digital beta» sin curso legal, previsto desde el segundo semestre de 2027 junto a 36 proveedores de pagos ya seleccionados. El BCE recalca que el piloto no garantiza la emisión, que depende de la aprobación de la legislación europea.",
+    "date": "2026-10-24",
+    "source": "Codego News",
+    "url": "https://news.codegotech.com/ecb-digital-euro-beta-pilot-merchant-open/",
+    "country": "Zona euro",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "euro digital",
+      "BCE",
+      "pagos"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
     "id": "wells-fargo-y-otras-cinco-empresas-rechazan-acciones-tokenizadas-okxice",
     "title": "Wells Fargo, Cisco y otras cuatro empresas se oponen a que OKXICE negocie versiones tokenizadas de sus acciones",
     "summary": "Un nuevo aviso público de OKXICE, la empresa conjunta de OKX e Intercontinental Exchange, suma seis objeciones de emisores, entre ellas la del banco Wells Fargo, con lo que ya son 22 las compañías que no quieren que sus acciones se negocien tokenizadas en esa plataforma. Bajo la exención de innovación de la SEC, los emisores tienen 30 días para oponerse; la objeción solo aplica a ese mercado concreto.",
