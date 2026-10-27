@@ -1,0 +1,50 @@
+{
+  "id": "pagos-comisiones-intercambio-tarjetas-fed-reino-unido-2026-10-27",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "¿Quién paga cuando usted paga con tarjeta? Un tribunal de EE. UU. anula el tope de la Fed a las comisiones del débito y en Reino Unido se prepara una demanda de 5,000 millones de libras: qué es la comisión de intercambio y cómo se ve en Panamá",
+  "date": "2026-10-27",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Payments Dive – Fed loses debit card cap appeal",
+      "url": "https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "The Guardian – Visa and Mastercard threatened with potential £5bn UK lawsuit over fees",
+      "url": "https://www.theguardian.com/business/2026/oct/26/visa-mastercard-potential-uk-lawsuit-interchange-fees-compensation",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Nexo – Yappy, bancos conectados y comisiones de cobro para comercios en Panamá",
+      "url": "https://nexo.la/yappy-bancos-conectados-comisiones/",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "Cada vez que usted pasa su tarjeta en un comercio, el pago parece gratis. Para usted, casi siempre lo es. Pero detrás de esa operación hay comisiones que paga el negocio, y una parte de ellas termina en el banco que emitió su tarjeta. El lunes 26 de octubre, esas comisiones fueron noticia en dos países a la vez.",
+    "## Lo que pasó en Estados Unidos",
+    "Un tribunal federal de apelaciones del Octavo Circuito anuló el tope que la Reserva Federal fija a las comisiones de las tarjetas de débito, según informó Payments Dive. Ese límite, vigente desde 2011, es de 21 centavos más 0.05 % del valor de la compra, con un centavo adicional por prevención de fraude, y aplica a los bancos con 10,000 millones de dólares o más en depósitos.",
+    "El caso lo inició en 2021 Corner Post, una parada de camiones y tienda de conveniencia de Dakota del Norte. Los jueces concluyeron que la Fed incluyó en el cálculo costos fijos de los bancos, como autorización, compensación y liquidación, cuando la ley de 2010 (la llamada enmienda Durbin) solo le permite considerar los costos específicos de cada transacción.",
+    "Los comercios celebraron la decisión. Los gremios bancarios se dijeron «profundamente decepcionados» y recordaron que hay otro caso pendiente en el Sexto Circuito en el que un tribunal falló a favor de la Fed. La Fed no comentó. En 2023 había propuesto bajar la base del tope a 14.4 centavos, pero no avanzó con esa propuesta.",
+    "## Lo que pasó en Reino Unido",
+    "El mismo día, The Guardian informó que dos bufetes presentaron ante el Tribunal de Apelación de la Competencia una solicitud para iniciar una demanda colectiva contra Visa y Mastercard. Alegan que las comisiones de intercambio multilaterales cobradas desde octubre de 2020 fueron excesivas por falta de competencia. Calculan que el reclamo podría valer unos 5,000 millones de libras.",
+    "Si se admite, alrededor de un millón de empresas y organizaciones con ingresos menores a 100 millones de libras quedarían incluidas automáticamente, salvo que decidan salirse. Mastercard calificó la demanda de «especulativa» y dijo que el intercambio permite que personas y negocios paguen y cobren de forma rápida y segura. Visa afirmó que es un componente crítico de un ecosistema de pagos seguro. Un caso así puede tardar años en resolverse.",
+    "## Qué es la comisión de intercambio",
+    "En un pago con tarjeta participan, de forma simplificada, cuatro partes: usted, su banco (el emisor de la tarjeta), el comercio y el banco del comercio (el adquirente, que le da el datáfono o la pasarela de pago). Además está la red, como Visa o Mastercard.",
+    "El comercio paga a su banco adquirente una tasa de descuento por cada venta. De ese monto, una parte, la comisión de intercambio, va al banco que emitió su tarjeta; otra parte va a la red, y el resto queda para el adquirente. Las redes fijan las tablas de intercambio, y la discusión de fondo en ambos países es si esos niveles reflejan costos reales o falta de competencia.",
+    "Para usted como tarjetahabiente importa por dos razones. Primero, el costo de aceptar tarjetas puede trasladarse a los precios. Segundo, los ingresos por intercambio ayudan a financiar beneficios como millas, puntos o devolución de efectivo. Por eso los bancos advierten que, si baja el intercambio, alguien tendrá que asumir esos costos.",
+    "## Cómo se ve en Panamá",
+    "En Panamá, los datos públicos de los propios bancos ayudan a dimensionar el tema. Según una revisión de tarifarios publicada por Nexo el 8 de octubre, Banco General y Banistmo publican una tasa de 3.00 % por cobrar con Visa o Mastercard en datáfono: tres dólares por cada cien vendidos.",
+    "El mismo análisis señala que cobrar con Yappy Comercial cuesta al negocio 1 % más ITBMS (1.07 %), con un mínimo de dos centavos, y que con la tarjeta Clave la tasa en el datáfono de Banco General baja a 1.00 % en supermercados, combustible y farmacias. Son cifras publicadas por los bancos; cada comercio puede negociar condiciones distintas según su volumen.",
+    "La diferencia ayuda a entender por qué algunos negocios piden pagar con Yappy o transferencia, o fijan montos mínimos para tarjeta. No es necesariamente mala fe: es el costo de cada medio de cobro.",
+    "## Qué puede hacer usted",
+    "- Si tiene un negocio, compare las tasas de su banco adquirente con las de otros medios de cobro y revise el tarifario completo, no solo la tasa principal: alquiler de equipo, mínimos y plazos de acreditación también cuentan.",
+    "- Si un comercio le ofrece un precio distinto según el medio de pago, pida que se lo informen antes de pagar.",
+    "- Como consumidor, valore los beneficios de su tarjeta sabiendo que forman parte de un sistema de costos que alguien paga.",
+    "- Use siempre los canales oficiales y no entregue los datos de su tarjeta fuera de los sistemas de pago del comercio o del banco.",
+    "Las decisiones de Estados Unidos y Reino Unido no cambian por sí solas lo que se cobra en Panamá. Pero muestran una tendencia: los reguladores y los tribunales miran cada vez más de cerca cuánto cuesta aceptar pagos electrónicos y quién termina pagando la cuenta."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "fintech-deutsche-bank-agentes-ia-credito-minutos-2026-10-27",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Del copiloto al «compañero de trabajo» de IA: Deutsche Bank decide algunos créditos a empresas en minutos y McKinsey detalla los controles que necesitan los bancos; qué debe saber usted como cliente",
+  "date": "2026-10-27",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Reuters vía StreetInsider – AI cuts some Deutsche Bank corporate loan decisions to minutes",
+      "url": "https://www.streetinsider.com/Reuters/AI+cuts+some+Deutsche+Bank+corporate+loan+decisions+to+minutes/27230616.html",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "McKinsey & Company – The rise of the agentic coworker: A banking CIO's guide to the next wave of AI",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Reuters vía Investing.com – US banks are blocking third-party AI agents access to customer accounts, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports-4965122",
+      "date": "2026-10-22"
+    }
+  ],
+  "body": [
+    "Pedir un préstamo para una empresa pequeña suele tomar semanas: estados financieros, documentos legales, análisis de riesgo, comité de crédito. En Deutsche Bank, el banco más grande de Alemania, una parte de ese proceso se ha reducido a minutos. Así lo contó a Reuters el 26 de octubre su nueva jefa de tecnología, Marie-Jeanne Deverdun.",
+    "La noticia llega el mismo día en que la consultora McKinsey publicó una guía para los jefes de tecnología de los bancos sobre lo que llama el «compañero de trabajo agéntico». Juntas, las dos piezas muestran hacia dónde va la banca y qué controles deberían existir para que esa velocidad no se convierta en un riesgo para el cliente.",
+    "## Qué hizo Deutsche Bank",
+    "Según Reuters, el proyecto entró en funcionamiento este verano. Para empresas pequeñas, con estructuras legales menos complejas, algunas decisiones de crédito pasaron «de semanas a minutos». Para multinacionales, ciertas decisiones bajaron de meses a semanas.",
+    "El banco construyó una plataforma interna llamada ADA, en honor a la pionera de la computación Ada Lovelace, para desarrollar, vigilar y controlar sus agentes de IA. Según Deverdun, ADA permite supervisar lo que hacen los agentes, gestionar el riesgo y cambiar de modelo de IA a medida que la tecnología evoluciona.",
+    "Deverdun también dijo que el banco se prepara para una «economía agéntica» en la que sus agentes interactúen directamente con los agentes de sus clientes, «con responsabilidades claras y los controles adecuados». Y reconoció que la gestión del riesgo cibernético es su prioridad número uno.",
+    "Deutsche Bank planea más de 2,500 millones de euros en gasto tecnológico adicional entre 2026 y 2028. El contexto no es menor: Reuters recuerda que grandes bancos de Estados Unidos han empezado a bloquear a agentes de IA de terceros que operan dentro de las cuentas de los clientes, por temor a acciones no autorizadas.",
+    "## Del copiloto al agente que ejecuta",
+    "McKinsey describe un cambio de etapa. Durante años, los bancos usaron la IA como copiloto: sugiere código, resume documentos o redacta respuestas para el personal del centro de contacto. Ahora pasan a sistemas que planifican, usan herramientas, abren casos y ejecutan tareas de principio a fin.",
+    "La diferencia, explica la consultora, es crítica: un copiloto que se equivoca genera retrabajo; un agente que se equivoca puede cambiar un sistema en producción, exponer datos de clientes o provocar un problema de cumplimiento antes de que alguien lo note.",
+    "## Los controles que propone McKinsey",
+    "- Diseñar pensando en el error: los agentes pueden «alucinar», es decir, inventar datos o pasos plausibles pero incorrectos. Por eso deben operar con herramientas y permisos limitados, validar antes de actuar y tener forma de revertir lo hecho.",
+    "- Controles según el riesgo: no es lo mismo un agente que resume información pública que uno que prepara un memorando de crédito con los estados financieros de un cliente o que escribe en un sistema de pagos o de prevención de blanqueo.",
+    "- Una identidad y un dueño humano para cada agente: cada agente debe tener una identidad propia, permisos mínimos y una persona responsable con nombre y apellido, además de un registro central de todos los agentes del banco.",
+    "- Supervisión humana según el tipo de decisión: para decisiones de alto riesgo o irreversibles, como aprobar un crédito o resolver un caso de fraude, el agente prepara la información y un humano aprueba antes de ejecutar.",
+    "- Trazabilidad para auditoría: debe poder reconstruirse qué datos se usaron, qué políticas se aplicaron, qué acción se tomó y quién la aprobó.",
+    "McKinsey lo resume con una idea que vale para cualquier país: la responsabilidad no se puede delegar a un algoritmo. Las normas de crédito justo, de protección al consumidor y contra el blanqueo aplican igual, lo haga una persona o un agente.",
+    "## Qué significa para usted como cliente",
+    "Para los bancos de Panamá, que también exploran la IA en atención, crédito y prevención de fraude, estos casos ofrecen una referencia útil. Y para los clientes, en especial dueños de pequeñas y medianas empresas, dejan algunas preguntas prácticas:",
+    "- Si su solicitud de crédito se resuelve muy rápido, pregunte si en la decisión intervino una persona y cómo puede pedir una revisión si no está de acuerdo.",
+    "- Pida que le expliquen, en términos claros, qué información pesó en la decisión. Un proceso automatizado no elimina su derecho a entender lo que se decidió sobre su solicitud.",
+    "- Revise que los documentos que entregue sean exactos y estén actualizados: un sistema rápido también procesa rápido los errores.",
+    "- No comparta sus claves con agentes de IA de terceros para que «gestionen» su banca. Como muestran los bloqueos de los bancos estadounidenses, el camino seguro son los canales oficiales que su banco habilite.",
+    "La IA puede acortar los tiempos de espera que tanto frustran a los clientes. La condición es que la velocidad venga acompañada de controles visibles, de un responsable humano y de la posibilidad de pedir una segunda mirada."
+  ]
+}

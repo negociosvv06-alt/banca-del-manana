@@ -1,0 +1,68 @@
+{
+  "id": "educacion-estafas-acciones-pre-opi-como-verificar-2026-10-27",
+  "section": "educacion",
+  "type": "educativo",
+  "title": "«Compre acciones antes de que salgan a bolsa»: cómo funcionan las estafas pre-OPI, por qué reaparecen cuando una empresa famosa anuncia su salida al mercado y cómo verificar en Panamá",
+  "date": "2026-10-27",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Investor.gov (SEC) – Pre-IPO Investment Scams",
+      "url": "https://www.investor.gov/protect-your-investments/fraud/types-fraud/pre-ipo-investment-scams",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "SEC – SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors of $74 Million in Pre-IPO Scheme (comunicado 2026-75)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
+      "date": "2026-08-14"
+    },
+    {
+      "name": "Superintendencia del Mercado de Valores de Panamá – Alertas al inversionista",
+      "url": "https://supervalores.gob.pa/category/varios-alertas-al-inversionista/",
+      "date": "2026-08-25"
+    },
+    {
+      "name": "Infobae – La Superintendencia del Mercado de Valores de Panamá excluye a las criptomonedas de su supervisión",
+      "url": "https://www.infobae.com/panama/2026/10/26/la-superintendencia-del-mercado-de-valores-de-panama-excluye-a-las-criptomonedas-de-su-supervision/",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Anthropic – Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "date": "2026-10-26"
+    }
+  ],
+  "body": [
+    "Cuando una empresa muy conocida anuncia que saldrá a bolsa, el entusiasmo es real. Y los estafadores lo saben. El 26 de octubre, Anthropic, la empresa detrás del asistente Claude, presentó su solicitud para cotizar en el Nasdaq. Es probable que en los próximos días circulen mensajes ofreciendo «acciones antes de la OPI». Esta guía le ayuda a reconocerlos.",
+    "## Qué es una OPI y qué es una oferta pre-OPI",
+    "Una oferta pública inicial (OPI, o IPO en inglés) es el momento en que una empresa privada vende acciones al público por primera vez. Antes de eso, sus acciones solo están en manos de fundadores, empleados e inversionistas privados, y su venta suele estar muy restringida.",
+    "Una oferta pre-OPI promete venderle esas acciones antes de que la empresa cotice, con la idea de que usted ganará cuando suba el precio el día del debut. La SEC de Estados Unidos advierte en su portal Investor.gov que los estafadores usan esta promesa para atraer a inversionistas.",
+    "En el caso de Anthropic, la propia empresa aclaró en su anuncio que las acciones no pueden venderse ni pueden aceptarse ofertas de compra hasta que el registro ante la SEC esté vigente. Aún no hay precio ni cantidad de acciones definidos.",
+    "## Un caso real: 74 millones de dólares",
+    "En agosto de 2026, la SEC acusó a Andrew Spaventa y a tres entidades de defraudar a más de 800 inversionistas, en su mayoría minoristas, por más de 74 millones de dólares con un esquema pre-OPI. Según la SEC, más de 100 vendedores llamaban en frío a los inversionistas, muchos de ellos jubilados, para ofrecerles participaciones en fondos que supuestamente tenían acciones de empresas privadas.",
+    "Según la SEC, a los inversionistas les dijeron que no pagarían comisiones iniciales o que serían de 12.5 % como máximo, pero en promedio pagaron precios cerca de 46 % más altos que lo que el operador había pagado por las acciones. Así se cobraron unos 23 millones de dólares en comisiones ocultas. Son acusaciones de la SEC: los acusados tienen derecho a defenderse y el caso se resolverá en los tribunales.",
+    "## Señales de alerta",
+    "Investor.gov enumera varias señales que se repiten en estas estafas:",
+    "- Le contacta alguien que no está registrado ni tiene licencia para vender inversiones.",
+    "- Hay presión para decidir rápido: «quedan pocas acciones», «la oferta cierra hoy».",
+    "- La oferta le llega por redes sociales, WhatsApp, Telegram o una llamada inesperada.",
+    "- Se menciona tecnología de moda, como inteligencia artificial, y una salida a bolsa «inminente».",
+    "- Le comparan la empresa con otras que se hicieron famosas en bolsa para sugerir que usted ganará lo mismo.",
+    "- Le dicen que el vendedor «no gana hasta que usted gane», o le prometen ganancias seguras.",
+    "A esto se suma un riesgo nuevo: los videos y audios falsos hechos con IA. En abril de 2026, la SMV de Panamá alertó sobre el uso de inteligencia artificial para suplantar la imagen de Olga Cantillo, presidenta ejecutiva de Latinex, en ofertas de inversión falsas.",
+    "## Cómo verificar en Panamá",
+    "La Superintendencia del Mercado de Valores (SMV) publica en su sitio web alertas al inversionista sobre entidades que ofrecen servicios sin licencia. En 2026 ha advertido, por ejemplo, sobre Algobi.com (agosto) y sobre Preferred Capital Limited y Simas AS Latam (julio).",
+    "Antes de entregar dinero, siga estos pasos:",
+    "- Pida el nombre completo de la empresa y de la persona que le ofrece la inversión.",
+    "- Busque en el sitio oficial de la SMV si la entidad tiene licencia, por ejemplo como casa de valores o asesor de inversiones, y revise la sección de alertas.",
+    "- Si tiene dudas, llame a la SMV al (507) 501-1700 o escriba a info@supervalores.gob.pa. Use los datos de contacto del sitio oficial, no los que le dé el vendedor.",
+    "- Desconfíe de cualquier pago a cuentas personales, billeteras de criptomonedas o empresas en otros países.",
+    "- No entregue copias de su cédula, claves de banca en línea, PIN ni códigos de verificación. Ninguna inversión legítima los necesita por mensaje.",
+    "Tenga en cuenta además que la SMV ha señalado en opiniones sobre casos concretos que ciertos criptoactivos y tokens no son valores bajo su supervisión. Si le ofrecen «tokens» que supuestamente representan acciones de una empresa famosa, no dé por hecho que tienen la protección de un valor regulado.",
+    "## Qué hacer si ya pagó",
+    "Si cree que fue víctima, reúna los comprobantes, conversaciones y datos de contacto, avise a su banco de inmediato y presente la denuncia ante las autoridades. También puede informar a la SMV para que evalúe emitir una alerta que proteja a otras personas.",
+    "La regla de oro es simple: si alguien le ofrece acciones de una empresa famosa antes de que salga a bolsa, con ganancias aseguradas y prisa para decidir, lo más probable es que no sea una oportunidad, sino una estafa.",
+    "Este contenido es educativo y no constituye asesoría de inversión."
+  ]
+}

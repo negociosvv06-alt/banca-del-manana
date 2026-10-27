@@ -1,0 +1,49 @@
+{
+  "id": "opinion-cripto-tokens-vacio-regulatorio-panama-2026-10-27",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: en Panamá cualquiera puede comprar bitcoin o «acciones tokenizadas» desde el celular sin que ninguna autoridad supervise la plataforma; la Asamblea tiene proyectos engavetados y el inversionista no puede seguir esperando",
+  "date": "2026-10-27",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Infobae – La Superintendencia del Mercado de Valores de Panamá excluye a las criptomonedas de su supervisión",
+      "url": "https://www.infobae.com/panama/2026/10/26/la-superintendencia-del-mercado-de-valores-de-panama-excluye-a-las-criptomonedas-de-su-supervision/",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Nexo – Opiniones de la SMV: criptomonedas y tokens fuera del mercado de valores",
+      "url": "https://nexo.la/criptomonedas-fuera-mercado-valores/",
+      "date": "2026-10-16"
+    }
+  ],
+  "body": [
+    "Infobae lo resumió en una frase que debería incomodar a cualquiera que se interese por la protección del inversionista: desde un teléfono celular, cualquier persona en Panamá puede comprar bitcoin, ether o tokens que representan acciones de empresas estadounidenses en plataformas que operan en el país sin ningún tipo de licencia.",
+    "No es una acusación contra la Superintendencia del Mercado de Valores (SMV). Al contrario: la SMV ha sido coherente al aplicar la ley que tiene. El problema es que esa ley no fue escrita para este mundo.",
+    "## Lo que dice la SMV",
+    "Según la nota de Infobae, publicada el 25 de octubre, la SMV fijó postura por primera vez el 15 de noviembre de 2018. Concluyó que el concepto de «valor» de la Ley del Mercado de Valores no incluye monedas virtuales y, sobre un token que representaría oro o acciones, fue tajante: «el ‘token’ no es considerado un valor».",
+    "El 23 de marzo de 2023 reforzó esa postura: no existe regulación en Panamá para el uso de criptomonedas en el mercado de valores y las casas de valores no pueden custodiar activos digitales. En 2025 analizó una plataforma de intercambio de bitcoin y ether y concluyó que no necesitaba licencia ni registro para operar.",
+    "La consecuencia práctica es una paradoja. Las casas de valores, que sí están supervisadas, no pueden ofrecer criptoactivos a sus clientes. Mientras tanto, plataformas sin licencia sí pueden hacerlo. El inversionista que quiere exponerse a estos activos termina, por diseño, fuera del perímetro regulado.",
+    "## Las opiniones no son una regla general",
+    "Nexo, que revisó las opiniones de la SMV, hace una precisión importante: esas respuestas se refieren a casos concretos y no son una regla general. La SMV conserva la facultad de considerar un instrumento como un valor si es «comúnmente reconocido como un valor». Es decir, un token que en la práctica funcione como una acción podría recibir otro tratamiento.",
+    "Eso deja al inversionista con más preguntas que respuestas. Si compra un token que dice representar una acción de una empresa estadounidense: ¿quién lo emitió?, ¿dónde está la acción que lo respalda?, ¿quién custodia ese activo? y ¿quién supervisa a la plataforma? Nexo recuerda que en Europa algunas acciones tokenizadas se venden con un prospecto. En Panamá, hoy, no hay un marco que obligue a responder esas preguntas.",
+    "## Una Asamblea que no termina el trabajo",
+    "El último intento legislativo terminó mal. El Ejecutivo declaró inexequible el proyecto sobre criptoactivos aprobado por la Asamblea, y la Corte Suprema confirmó esa decisión en junio de 2023. Desde entonces, el vacío persiste.",
+    "Según Nexo e Infobae, hay tres proyectos sobre activos virtuales presentados en marzo, agosto y octubre de 2025, y en enero de 2026 se sumó un anteproyecto de ley marco de tecnologías financieras que incluye a los criptoactivos. Ninguno tiene fecha confirmada de primer debate. Uno de ellos propone incorporar a los proveedores de activos virtuales al sistema de prevención de blanqueo de capitales, en línea con los estándares del GAFI que la propia SMV cita en sus opiniones.",
+    "Olga Cantillo, presidenta ejecutiva de Latinex, señaló a Nexo que a Panamá le faltan activos digitales y fondos cotizados que puedan comprarse desde el país, sin tener que acudir a Estados Unidos o a Europa. Cuando la bolsa local y los usuarios coinciden en que falta un marco, el silencio legislativo deja de ser prudencia y se convierte en un costo.",
+    "## Por qué esto importa ahora",
+    "La demanda no va a esperar a la ley. Las salidas a bolsa de empresas tecnológicas muy conocidas, como la que anunció Anthropic esta semana, alimentan el interés por «acciones digitales» y productos parecidos. Y, como explicamos hoy en nuestra sección de Educación, ese interés también lo aprovechan los estafadores.",
+    "Regular no significa prohibir ni frenar la innovación. Significa que el panameño que use una plataforma sepa quién responde si algo sale mal, que sus fondos estén separados de los de la empresa y que haya reglas claras sobre publicidad y riesgos.",
+    "## Lo que propongo",
+    "- Que la Asamblea priorice un solo texto, que combine el registro y la supervisión de proveedores de activos virtuales con la prevención de blanqueo, en lugar de mantener varios proyectos dispersos sin debate.",
+    "- Que la ley defina con claridad qué autoridad supervisa cada actividad, y le dé las herramientas para hacerlo, incluida la potestad de reglamentar.",
+    "- Que los tokens que representen acciones u otros valores reciban el trato de valores, con prospecto, custodia verificable e información de riesgos.",
+    "- Que se exijan reglas mínimas para las plataformas: separación de los fondos de clientes, reportes de reservas, atención de reclamos y advertencias claras de riesgo.",
+    "- Que, mientras tanto, las autoridades y los bancos refuercen la educación al público: «no supervisado» no es lo mismo que «prohibido», pero tampoco es lo mismo que «protegido».",
+    "## Una invitación a no esperar",
+    "Panamá construyó su reputación como centro financiero con reglas claras. Los activos digitales ya circulan entre panameños, con o sin ley. La pregunta no es si se deben regular, sino cuánto tiempo más se aceptará que el inversionista asuma todos los riesgos solo.",
+    "Mientras el marco llega, la recomendación para el lector es sencilla: antes de comprar un criptoactivo o un token, entienda que, según los criterios que ha fijado la SMV, esas plataformas hoy no necesitan su licencia, y no invierta dinero que no pueda permitirse perder.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

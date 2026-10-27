@@ -1,0 +1,60 @@
+{
+  "id": "avanzadas-fedwatch-futuros-fondos-federales-probabilidades-2026-10-27",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "¿De dónde sale el «90 % de probabilidad» de que la Fed mantenga las tasas? Cómo se calculan las probabilidades implícitas con los futuros de fondos federales, paso a paso",
+  "date": "2026-10-27",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "CME Group – Understanding the CME Group FedWatch Tool Methodology",
+      "url": "https://www.cmegroup.com/articles/2023/understanding-the-cme-group-fedwatch-tool-methodology.html",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "CNBC – Treasury yields as investors await the Fed's interest rate decision",
+      "url": "https://www.cnbc.com/2026/10/26/us-treasury-yields-investors-feds-interest-rate-decision-.html",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Yahoo Finance – October Fed meeting live updates",
+      "url": "https://finance.yahoo.com/economy/policy/articles/october-fed-meeting-live-updates-204129908.html",
+      "date": "2026-10-26"
+    }
+  ],
+  "body": [
+    "La Reserva Federal de Estados Unidos (Fed) inicia hoy, martes 27 de octubre, su reunión de política monetaria. El comunicado se publicará el miércoles 28 a las 2:00 p. m. hora de Nueva York, es decir, a la 1:00 p. m. en Panamá, según Yahoo Finance. Antes de la decisión, los titulares repiten una cifra: según CNBC, los operadores asignan más de 90 % de probabilidad a que la Fed mantenga su tasa de referencia en el rango de 3.75 % a 4 %.",
+    "¿De dónde sale ese porcentaje? No es una encuesta ni una opinión de analistas. Es un cálculo a partir de precios de mercado. En este artículo explicamos, paso a paso, cómo lo hace la herramienta FedWatch de CME Group, la bolsa de derivados de Chicago.",
+    "## Por qué le importa a Panamá",
+    "Panamá usa el dólar y no tiene banco central que fije tasas. Por eso, lo que haga la Fed influye en el costo del dinero en dólares y, de manera indirecta, en las condiciones de financiamiento de bancos y empresas del país. Entender cómo «lee» el mercado a la Fed ayuda a interpretar las noticias sin confundir expectativas con certezas.",
+    "## Paso 1: el instrumento",
+    "La Fed fija un rango objetivo para la tasa de fondos federales, la tasa a la que los bancos se prestan reservas de un día para otro. La Reserva Federal de Nueva York publica cada día la tasa efectiva (EFFR, por sus siglas en inglés).",
+    "En CME se negocian futuros de fondos federales a 30 días. Cada contrato corresponde a un mes y se liquida con el promedio de la tasa efectiva de ese mes. Su precio se cotiza así: 100 menos la tasa. Si un contrato vale 96.00, el mercado espera una tasa promedio de 4.00 % para ese mes.",
+    "## Paso 2: separar el antes y el después de la reunión",
+    "Como el contrato refleja un promedio mensual, mezcla los días anteriores y posteriores a la reunión. FedWatch separa ambos tramos. Llama N a los días del mes antes de la decisión y M a los días desde la decisión hasta el fin del mes.",
+    "Para estimar la tasa después de la reunión, la metodología usa como ancla un mes sin reunión cercano, cuya tasa promedio debería ser igual a la que quede tras la decisión. Luego despeja la tasa del inicio de mes con esta fórmula:",
+    "Tasa inicial = [Promedio del mes − (M / (M + N)) × Tasa final] ÷ (N / (M + N))",
+    "## Paso 3: convertir la diferencia en probabilidades",
+    "La diferencia entre la tasa final y la inicial es el cambio que espera el mercado. Como la Fed suele moverse en pasos de 0.25 puntos porcentuales, ese cambio se divide entre 0.25.",
+    "Si el resultado es, por ejemplo, 2.9, significa que el mercado está entre dos escenarios: dos movimientos de 0.25 (0.50 en total) o tres (0.75). La parte decimal, 0.9, se interpreta como 90 % de probabilidad del escenario mayor; el resto, 10 %, corresponde al menor.",
+    "## El ejemplo de CME, con números reales de 2022",
+    "CME explica su método con la reunión de septiembre de 2022:",
+    "- El contrato de octubre de 2022, un mes sin reunión usado como ancla, cotizaba a 96.94. Tasa final implícita: 100 − 96.94 = 3.06 %.",
+    "- El contrato de septiembre cotizaba a 97.4475. Tasa promedio implícita del mes: 2.5525 %.",
+    "- La reunión dejaba 21 días antes (N) y 9 días después (M) en septiembre.",
+    "- Tasa inicial = [2.5525 − (9/30) × 3.06] ÷ (21/30) = 2.335 %.",
+    "- Cambio esperado = 3.06 − 2.335 = 0.725 puntos. Dividido entre 0.25 da 2.9.",
+    "- Resultado: 90 % de probabilidad de un alza de 0.75 puntos y 10 % de un alza de 0.50.",
+    "Cuando hay varias reuniones por delante, FedWatch encadena estos cálculos y construye un árbol de escenarios en el que las probabilidades de cada reunión se combinan con las de las siguientes.",
+    "## Cómo leer la cifra de esta semana",
+    "Que el mercado asigne más de 90 % a una pausa significa que los precios de los futuros son consistentes con una tasa casi sin cambios después de la reunión.",
+    "Tres advertencias importantes:",
+    "- Es una probabilidad implícita en precios, no un pronóstico de la Fed ni una garantía. Puede cambiar en minutos con un dato económico o una declaración.",
+    "- La herramienta solo mide el tamaño del movimiento de tasas. No dice nada sobre el tono del comunicado ni sobre lo que el presidente de la Fed, Kevin Warsh, diga en la conferencia de prensa, que a menudo mueve más los mercados que la decisión misma.",
+    "De hecho, CNBC citó a Deutsche Bank, que espera un mensaje con tono restrictivo, en un contexto en que el rendimiento del bono del Tesoro a 10 años rondaba el 4.99 % el 26 de octubre.",
+    "## Para llevar",
+    "La próxima vez que lea «el mercado da 90 % de probabilidad», recuerde que detrás hay una operación aritmética con precios de futuros: 100 menos el precio, separar los días antes y después de la reunión, y dividir el cambio entre 0.25. Es una herramienta útil para entender expectativas, no una bola de cristal.",
+    "Este contenido es educativo y no constituye una recomendación de inversión. Los futuros son instrumentos complejos y de alto riesgo."
+  ]
+}
