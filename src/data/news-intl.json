@@ -1,9 +1,9 @@
 {
-  "lastRun": "2026-10-26T13:13:34.858Z",
+  "lastRun": "2026-10-27T13:10:36.505Z",
   "sources": {
     "fed": {
       "ok": true,
-      "fetchedAt": "2026-10-26T13:13:34.858Z",
+      "fetchedAt": "2026-10-27T13:10:36.505Z",
       "count": 12
     },
     "ecb": {
@@ -14,11 +14,71 @@
     },
     "bis": {
       "ok": true,
-      "fetchedAt": "2026-10-26T13:13:34.858Z",
+      "fetchedAt": "2026-10-27T13:10:36.505Z",
       "count": 10
     }
   },
   "items": [
+    {
+      "id": "pakistan-sbp-tasa-12-2026-10",
+      "title": "El banco central de Pakistán sube su tasa de política 50 puntos básicos, hasta 12 %",
+      "summary": "El Comité de Política Monetaria del State Bank of Pakistan elevó la tasa de 11,5 % a 12 %, con nueve de diez votos a favor; un miembro pedía una subida mayor. El gobernador Jameel Ahmed citó las perspectivas de inflación y el alza del petróleo por las tensiones en Medio Oriente. Es su primera subida desde abril, tras haber recortado 1.050 puntos básicos desde mediados de 2024.",
+      "date": "2026-10-26",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2039956/central-bank-raises-policy-rate-by-50-basis-points-to-12pc",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Pakistán",
+      "lang": "es",
+      "banks": [],
+      "tags": [
+        "política monetaria",
+        "tasas de interés",
+        "inflación",
+        "petróleo"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bde-habitos-efectivo-2026",
+      "title": "Banco de España: el efectivo sigue siendo el principal medio de pago y un refugio ante fallos electrónicos",
+      "summary": "El estudio de hábitos de uso del efectivo 2026 del Banco de España concluye que el efectivo continúa como medio de pago principal de la población, mientras crece el pago con el móvil y baja el uso de la tarjeta física. La mayoría accede al efectivo con facilidad, aunque persisten retos en municipios sin oficina bancaria estable y en algunos cajeros.",
+      "date": "2026-10-26",
+      "source": "Banco de España",
+      "url": "https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/notas-banco-espana/el-efectivo-mantiene-su-importancia-como-medio-de-pago-y-refugio-ante-imprevistos-y-fallos-electronicos.html",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "España",
+      "lang": "es",
+      "banks": [],
+      "tags": [
+        "Banco de España",
+        "efectivo",
+        "pagos",
+        "inclusión financiera"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bde-encuesta-prestamos-3t-2026",
+      "title": "Banco de España: la oferta de crédito se endureció de nuevo en el tercer trimestre y la demanda siguió cayendo",
+      "summary": "Según la encuesta de préstamos bancarios del Banco de España, las condiciones de los nuevos préstamos fueron más restrictivas por el aumento de los tipos de interés, y los criterios de concesión solo se endurecieron ligeramente en el crédito al consumo. La demanda bajó en todos los segmentos, con mayor fuerza en hipotecas, y los bancos prevén más endurecimiento para hogares en el cuarto trimestre. Las entidades señalan que la IA aún no tiene un impacto significativo en su política crediticia.",
+      "date": "2026-10-27",
+      "source": "Banco de España",
+      "url": "https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/notas-banco-espana/la-oferta-de-credito-se-endurecio-de-nuevo-en-el-tercer-trimestre-de-2026-y-la-demanda-siguio-reduciendose.html",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "España",
+      "lang": "es",
+      "banks": [],
+      "tags": [
+        "Banco de España",
+        "crédito",
+        "tipos de interés",
+        "encuesta de préstamos"
+      ],
+      "manual": true
+    },
     {
       "id": "bccr-tpm-3-2026-10-25",
       "title": "El Banco Central de Costa Rica mantiene su tasa de política monetaria en 3 %",
