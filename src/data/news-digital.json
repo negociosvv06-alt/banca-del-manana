@@ -1,5 +1,85 @@
 [
   {
+    "id": "banco-nacional-georgia-piloto-lari-digital-2026-10-27",
+    "title": "El Banco Nacional de Georgia trabaja en pilotos del lari digital y en reglas para stablecoins",
+    "summary": "La presidenta del Banco Nacional de Georgia, Natia Turnava, dijo en el Tbilisi Financial Summit que la entidad desarrolla proyectos piloto del lari digital y estudia la tokenización y las stablecoins. También prepara marcos regulatorios para activos virtuales, emisión inicial de stablecoins y banca abierta, junto con la modernización de su sistema de liquidación bruta en tiempo real.",
+    "date": "2026-10-27",
+    "source": "Business Media Georgia",
+    "url": "https://bm.ge/en/news/turnava-nbg-is-working-on-digital-lari-pilot-projects",
+    "country": "Georgia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "stablecoins",
+      "tokenización",
+      "banca central",
+      "banca"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
+    "id": "occ-final-ripple-national-trust-bank-2026-10-26",
+    "title": "La OCC otorga aprobación final al banco fiduciario nacional de Ripple",
+    "summary": "La Oficina del Contralor de la Moneda de EE. UU. concedió la aprobación final a Ripple National Trust Bank, tras la aprobación condicional de diciembre de 2025. La entidad podrá administrar las reservas segregadas que respaldan la stablecoin RLUSD, actuar como fideicomisario de esas reservas y ofrecer custodia fiduciaria de activos digitales; la emisión de RLUSD seguirá a cargo de su compañía fiduciaria regulada en Nueva York.",
+    "date": "2026-10-26",
+    "source": "Ripple",
+    "url": "https://ripple.com/ripple-press/ripple-receives-final-occ-approval-to-establish-national-trust-bank/",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "OCC",
+      "stablecoins",
+      "custodia",
+      "licencias",
+      "banca"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
+    "id": "occ-invita-bancos-comunitarios-emitir-stablecoins-2026-10-26",
+    "title": "La OCC anima a los bancos comunitarios a emitir stablecoins bajo la Ley GENIUS",
+    "summary": "El regulador bancario estadounidense pidió a los bancos comunitarios considerar solicitar, directamente o mediante filiales, la condición de emisores autorizados de stablecoins de pago. Las reglas finales de la OCC entran en vigor el 18 de enero de 2027 y la recepción de solicitudes aún no ha abierto, mientras gremios bancarios siguen advirtiendo sobre las stablecoins que pagan rendimiento.",
+    "date": "2026-10-26",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "OCC",
+      "stablecoins",
+      "GENIUS Act",
+      "regulación",
+      "banca"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
+    "id": "esm-bono-digital-pontes-bundesbank-clearstream-2026-10-26",
+    "title": "El MEDE liquida el primer bono digital supranacional europeo en la plataforma Pontes del Eurosistema",
+    "summary": "El Mecanismo Europeo de Estabilidad emitió su primer bono nativo digital de referencia, por 1.000 millones de euros, liquidado mediante Pontes en dinero de banco central a través de TARGET. El Bundesbank actúa como agente emisor y de pagos y Clearstream aporta la infraestructura de valores tokenizados, en una operación que marca el paso de pilotos a despliegue real en la infraestructura mayorista europea.",
+    "date": "2026-10-26",
+    "source": "Deutsche Bundesbank",
+    "url": "https://www.bundesbank.de/en/press/press-releases/esm-is-first-european-supranational-issuer-to-settle-dlt-based-bond-issuance-on-eurosystem-s-pontes-platform-with-bundesbank-and-clearstream-1013002",
+    "country": "Unión Europea",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "tokenización",
+      "bonos",
+      "Pontes",
+      "Eurosistema",
+      "banca"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
     "id": "hong-kong-sfc-negociacion-secundaria-fondos-tokenizados-2026-10-26",
     "title": "Hong Kong autoriza por primera vez la negociación secundaria de fondos públicos tokenizados",
     "summary": "La Comisión de Valores y Futuros de Hong Kong aprobó que dos fondos del mercado monetario tokenizados de ChinaAMC, en dólares de Hong Kong y en dólares estadounidenses, se negocien en una plataforma de activos virtuales con licencia. Los inversionistas podrán comprarlos y venderlos a toda hora, incluidos fines de semana y feriados.",
@@ -77,6 +157,25 @@
     "type": "noticia"
   },
   {
+    "id": "canada-consulta-reglamento-stablecoins-prohibe-rendimiento-2026-10-24",
+    "title": "Canadá abre consulta sobre su reglamento de stablecoins y mantiene la prohibición de pagar rendimientos",
+    "summary": "El Departamento de Finanzas publicó en la Canada Gazette el borrador de reglamento, con comentarios hasta el 23 de diciembre. Propone reservas 1:1 en activos líquidos depositadas en instituciones financieras canadienses calificadas, redención en un máximo de tres días hábiles con comisión tope de 1% y prohíbe pagar intereses por mantener stablecoins, aunque permite recompensas ligadas al uso.",
+    "date": "2026-10-24",
+    "source": "Canada Gazette",
+    "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
+    "country": "Canadá",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "regulación",
+      "Banco de Canadá",
+      "banca"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
+  },
+  {
     "id": "bce-euro-digital-piloto-beta-comercios-2026-10-24",
     "title": "El BCE abre la convocatoria de comercios para el piloto beta del euro digital",
     "summary": "El Banco Central Europeo invitó a comercios en línea y móviles de la zona euro a sumarse a un piloto de 12 meses con un «euro digital beta» sin curso legal, previsto desde el segundo semestre de 2027 junto a 36 proveedores de pagos ya seleccionados. El BCE recalca que el piloto no garantiza la emisión, que depende de la aprobación de la legislación europea.",
@@ -136,6 +235,25 @@
       "banca privada",
       "custodia"
     ]
+  },
+  {
+    "id": "banca-italia-scotti-sistema-dos-niveles-dinero-digital-2026-10-23",
+    "title": "Banca d'Italia defiende el sistema de dos niveles ante la tokenización y las monedas digitales",
+    "summary": "La subgobernadora Chiara Scotti, en un discurso difundido por el BIS, sostuvo que los bancos centrales deben seguir aportando el ancla monetaria pública mientras los bancos e intermediarios innovan en servicios. Advirtió que, si el dinero privado se volviera el principal medio de liquidación mayorista en redes tokenizadas, se perdería el acceso a un activo de liquidación sin riesgo, y vio en un CBDC minorista una forma de mantener la opción pública que hoy da el efectivo.",
+    "date": "2026-10-23",
+    "source": "BIS / Banca d'Italia",
+    "url": "https://www.bis.org/speeches/20261027-two-tier-system-transition-public-foundations-private-innovation.pdf",
+    "country": "Italia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "CBDC",
+      "tokenización",
+      "banca central",
+      "banca"
+    ],
+    "category": "activos-digitales",
+    "type": "noticia"
   },
   {
     "id": "sec-incluye-tokenizacion-prioridades-examen-2027",
