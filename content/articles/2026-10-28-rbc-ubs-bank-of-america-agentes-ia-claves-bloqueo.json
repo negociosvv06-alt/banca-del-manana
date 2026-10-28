@@ -1,0 +1,52 @@
+{
+  "id": "rbc-ubs-bank-of-america-agentes-ia-claves-bloqueo-2026-10-28",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "RBC, UBS y Bank of America cierran la puerta a los agentes de IA externos: el bloqueo ya cruza fronteras y el regulador de Canadá prefiere supervisar antes que prohibir; qué significa para la banca y los clientes en Panamá",
+  "date": "2026-10-28",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "The Globe and Mail – RBC bars personal AI agents from accessing online banking, other digital properties",
+      "url": "https://www.theglobeandmail.com/business/article-banks-ai-agents-client-data-osfi/",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "Reuters (vía StreetInsider) – UBS says does not permit use of external AI models for client transactions",
+      "url": "https://www.streetinsider.com/Reuters/UBS+says+does+not+permit+use+of+external+AI+models+for+client+transactions/27235652.html",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "TechCrunch – Bank of America asks customers not to share banking passwords with AI assistants",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "American Banker – Banks are blocking external AI agents. Is this sustainable?",
+      "url": "https://www.americanbanker.com/news/banks-are-blocking-external-ai-agents-is-this-sustainable",
+      "date": "2026-10-27"
+    }
+  ],
+  "body": [
+    "Hace una semana, el debate sobre los agentes de inteligencia artificial que entran a las cuentas bancarias parecía un asunto de los grandes bancos de Estados Unidos. En las últimas 48 horas se volvió internacional: el Royal Bank of Canada (RBC) anunció que bloqueará a los agentes de IA personales de terceros en su banca en línea, el director ejecutivo de UBS dijo que el banco suizo no permitirá que modelos externos ejecuten acciones en nombre de sus clientes y Bank of America envió un correo masivo pidiendo a sus clientes que no compartan su usuario y contraseña con ninguna herramienta de IA.",
+    "## Qué decidió cada banco",
+    "Según The Globe and Mail, RBC informó en un memorando interno del martes 27 de octubre que bloqueará el acceso directo de agentes de IA personales de terceros a sus plataformas digitales, incluida la banca en línea. La decisión se basó en una revisión de seguridad. En el memorando, los responsables de tecnología y de banca personal escribieron que esos agentes «pueden crear un riesgo inaceptable para el cliente», por ejemplo al actuar más allá de lo que el cliente espera o al generar exposición a responsabilidades legales.",
+    "En Zúrich, el mismo día, el director ejecutivo de UBS, Sergio Ermotti, fue directo, según Reuters: «No estamos permitiendo que los modelos entren al banco y hagan eso», en referencia a agentes que administran cuentas o mueven depósitos para optimizarlos. Agregó que lo más importante hoy es evitar modelos de IA que decidan resultados para los clientes «en una caja negra».",
+    "Bank of America, por su parte, tituló su correo «Protegiendo sus finanzas en el mundo de la IA». Según TechCrunch, el banco pide no compartir credenciales con otra persona o servicio, «incluida una herramienta o agente con IA que ofrezca actuar en su nombre», y advierte que, si el cliente las comparte, es responsable de la actividad que resulte de ese acceso. Un vocero confirmó que el correo es auténtico.",
+    "## Por qué los bancos reaccionan así",
+    "American Banker relató un caso, atribuido a una fuente que pidió no identificar al banco, que explica el nerviosismo: un agente de apariencia normal restableció la contraseña de una cuenta, entró, cambió las cuentas autorizadas para recibir transferencias y sacó 100,000 dólares. El equipo de fraude recomendó bloquear a todos los agentes externos. El mismo medio reporta que varios de los bancos más grandes de Estados Unidos, además de Charles Schwab, ya bloquean agentes de este tipo.",
+    "El punto de fondo no es la tecnología en sí, sino la forma de acceso. Cuando un cliente entrega su usuario y contraseña a un agente, el banco no puede distinguir entre el cliente, el agente y un delincuente que haya tomado el control del agente. Para el sistema, todos «son» el cliente.",
+    "## No todos piensan igual",
+    "El matiz más interesante viene del regulador. The Globe and Mail informa que el principal supervisor bancario de Canadá dijo en una conferencia que aumentará la vigilancia sobre las prácticas de IA de los grandes bancos, pero que no llegará a prohibirles que permitan a sus clientes usar agentes. Es decir: supervisar cómo se hace, no cerrar la puerta por decreto.",
+    "Y hay voces que dudan de que el bloqueo sea sostenible. En American Banker, el consultor Jeff McMillan advierte que los agentes «no se van a ir» y que, si los bancos los bloquean, los agentes abrirán cuentas para los consumidores en otras firmas menos restrictivas. El riesgo para un banco que solo bloquea es perder relevancia frente a quien ofrezca una vía segura.",
+    "## Qué significa para Panamá",
+    "En Panamá no se conoce, hasta ahora, un pronunciamiento público de un banco o de la Superintendencia de Bancos sobre agentes de IA que operen cuentas. Pero la tendencia internacional deja tres lecciones útiles:",
+    "- Para el cliente: las condiciones de uso de la banca en línea normalmente lo hacen responsable de lo que ocurra con sus credenciales. Entregarlas a una aplicación, sea de IA o no, puede dejarlo sin respaldo si algo sale mal.",
+    "- Para los bancos: el bloqueo es una medida defensiva razonable a corto plazo, pero la conversación ya se mueve hacia accesos oficiales, con permisos limitados, trazabilidad y la posibilidad de revocarlos.",
+    "- Para el regulador: el ejemplo canadiense muestra un camino intermedio, en el que se supervisa la gestión del riesgo de IA sin prohibir la innovación.",
+    "## Qué puede hacer usted hoy",
+    "Si usa asistentes de IA para ordenar sus finanzas, trabaje con información que usted mismo exporta o resume, como un estado de cuenta descargado sin datos sensibles, y nunca con su usuario, contraseña, PIN o códigos de verificación. Si ya compartió sus credenciales con alguna herramienta, cámbielas desde la aplicación oficial de su banco y revise los dispositivos y beneficiarios registrados.",
+    "La IA llegará a la banca de todos modos. La pregunta es si llegará por la puerta principal, con reglas claras, o por la ventana, con la clave del cliente. Los bancos que hoy bloquean están, en el fondo, pidiendo tiempo para construir esa puerta."
+  ]
+}

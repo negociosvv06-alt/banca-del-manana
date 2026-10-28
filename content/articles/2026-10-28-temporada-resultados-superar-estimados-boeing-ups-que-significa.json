@@ -1,0 +1,50 @@
+{
+  "id": "temporada-resultados-superar-estimados-que-significa-2026-10-28",
+  "section": "inversiones",
+  "type": "analisis",
+  "title": "El 83 % de las empresas del S&P 500 supera lo esperado y aun así Boeing cae 10.7 %: qué significa «superar estimados» en la temporada de resultados y cómo leerla sin dejarse llevar por los titulares",
+  "date": "2026-10-28",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "FactSet – Earnings Insight (23 de octubre de 2026)",
+      "url": "https://advantage.factset.com/hubfs/Website/Resources%20Section/Research%20Desk/Earnings%20Insight/EarningsInsight_102326.pdf",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "Reuters (vía Yahoo Finance) – Wall Street ends higher on revived AI momentum",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-muted-oil-095309821.html",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "Reuters (vía Investing.com) – Visa results beat estimates as resilient customers keep up spending",
+      "url": "https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-resilient-consumer-spending-4976822",
+      "date": "2026-10-27"
+    }
+  ],
+  "body": [
+    "Wall Street cerró al alza el martes 27 de octubre. Según Reuters, el S&P 500 subió 0.60 % hasta 7,722.60 puntos, el Nasdaq ganó 1.18 % y el Dow Jones apenas 0.03 %, en una jornada impulsada por las acciones de chips y de inteligencia artificial, mientras la Reserva Federal iniciaba su reunión de dos días. Pero detrás de los índices hubo movimientos fuertes en empresas concretas: Boeing cayó 10.7 % tras reportar una pérdida mayor a la esperada, Xylem bajó 14.2 % después de recortar sus previsiones y UPS subió 5.8 % al elevar las suyas.",
+    "Estamos en plena temporada de resultados del tercer trimestre, y la frase que más se repite en las noticias es «superó los estimados». Entender qué significa ayuda a no tomar decisiones por un titular.",
+    "## Qué es un «estimado»",
+    "Antes de que una empresa publique sus resultados, los analistas que la siguen calculan cuánto creen que ganará por acción y cuánto venderá. El promedio de esas proyecciones es el «consenso» o estimado. Cuando la empresa reporta, el mercado no compara contra el año anterior solamente, sino contra ese consenso.",
+    "Superar el estimado, entonces, no quiere decir que la empresa ganó mucho dinero, sino que ganó más de lo que se esperaba. Una empresa puede perder dinero y aun así «superar» si perdió menos de lo previsto; y otra puede ganar más que nunca y caer en bolsa si el mercado esperaba todavía más.",
+    "## Qué dicen los datos de esta temporada",
+    "FactSet, que da seguimiento a los resultados del S&P 500, informó el 23 de octubre que, con 24 % de las empresas del índice reportadas, el 83 % había presentado ganancias por acción por encima de lo esperado. Es más que el promedio de cinco años (78 %) y de diez años (77 %). La tasa combinada de crecimiento de las ganancias del trimestre frente al mismo periodo de 2025 era de 29.5 %; si se confirma, sería el tercer trimestre seguido con crecimiento superior a 25 %.",
+    "Pero hay un matiz importante: en conjunto, las empresas reportaban ganancias apenas 2.1 % por encima de los estimados, muy por debajo del promedio de cinco años, que es 7.5 %. Es decir, muchas superan, pero por poco. En ventas, solo el 66 % superó lo esperado, por debajo del promedio de cinco años (70 %).",
+    "Reuters, con datos de LSEG, reportó que para el martes casi la mitad de las empresas del S&P 500 ya había publicado, y el 83 % había superado las expectativas.",
+    "## Por qué una acción cae aunque los números parezcan buenos",
+    "- Las previsiones pesan más que el pasado. El mercado mira hacia adelante. El caso de Xylem, que bajó por recortar sus proyecciones del año, y el de UPS, que subió por elevarlas, muestran que la guía futura puede importar más que el trimestre que ya pasó.",
+    "- La calidad de la sorpresa. Superar por pocos centavos, o gracias a partidas extraordinarias, no convence igual que superar por más ventas.",
+    "- Lo que ya estaba en el precio. Si una acción subió mucho antes del reporte, incluso un buen resultado puede provocar ventas de quienes buscan asegurar ganancias.",
+    "## Un ejemplo de la semana",
+    "Visa reportó el mismo martes, después del cierre. Según Reuters, superó las expectativas: sus ingresos netos crecieron 13 %, a 12,100 millones de dólares, y el volumen de pagos aumentó 9 % en dólares constantes. Aun así, lo que importa para el inversionista de largo plazo no es la reacción de un día, sino si el negocio sigue creciendo de forma sostenible.",
+    "## Cómo usar esta información si invierte desde Panamá",
+    "- Si invierte a través de fondos indexados o ETF amplios, la temporada de resultados le afecta en conjunto, no empresa por empresa. No necesita reaccionar a cada reporte.",
+    "- Si tiene acciones individuales, lea la guía de la empresa y las razones de la sorpresa, no solo el titular de «superó» o «decepcionó».",
+    "- Desconfíe de mensajes en redes que prometen «comprar antes del reporte» con ganancias seguras. Nadie sabe con certeza cómo reaccionará el precio.",
+    "- Revise que su intermediario tenga licencia de la Superintendencia del Mercado de Valores (SMV) de Panamá.",
+    "La semana sigue cargada: la Fed anuncia hoy su decisión de tasas y varias de las grandes tecnológicas reportan en los próximos días. Más información no significa que haya que operar más. A menudo, la mejor decisión en una temporada ruidosa es mantener el plan.",
+    "Descargo: este artículo es educativo y no constituye una recomendación de inversión ni una oferta de compra o venta de valores. Toda inversión implica riesgos, incluida la pérdida del capital. Antes de invertir, consulte a un asesor con licencia de la SMV y evalúe su perfil de riesgo."
+  ]
+}

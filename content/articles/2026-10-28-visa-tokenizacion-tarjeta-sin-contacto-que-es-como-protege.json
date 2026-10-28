@@ -1,0 +1,48 @@
+{
+  "id": "visa-tokenizacion-tarjeta-sin-contacto-que-es-como-protege-2026-10-28",
+  "section": "pagos",
+  "type": "educativo",
+  "title": "Más de la mitad de las tarjetas Visa ya están «tokenizadas» y el pago sin contacto llega a casi 85 % de las compras presenciales en el mundo: qué es la tokenización, cómo protege su tarjeta y qué revisar en Panamá",
+  "date": "2026-10-28",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "PYMNTS – Visa Credentials Reach 5.2 Billion as Network Expands Into Agentic Commerce",
+      "url": "https://www.pymnts.com/earnings/2026/visa-credentials-reach-5-2-billion-as-network-expands-into-agentic-commerce/",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "Reuters (vía Investing.com) – Visa results beat estimates as resilient customers keep up spending",
+      "url": "https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-resilient-consumer-spending-4976822",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "American Banker – Visa and Mastercard launch AI and stablecoin tech products",
+      "url": "https://www.americanbanker.com/payments/news/visa-and-mastercard-launch-ai-and-stablecoin-tech-products",
+      "date": "2026-10-27"
+    }
+  ],
+  "body": [
+    "Visa presentó el martes 27 de octubre los resultados de su cuarto trimestre fiscal, y entre las cifras de ingresos hubo varios datos que hablan directamente de cómo pagamos todos los días. Según PYMNTS, más de la mitad de las credenciales Visa disponibles y más del 60 % de las transacciones de comercio electrónico ya están tokenizadas, y el pago sin contacto alcanzó casi el 85 % de las compras presenciales en el mundo.",
+    "La palabra «tokenización» aparece cada vez más en las aplicaciones bancarias y en las billeteras del celular, pero pocas personas saben qué significa. Vale la pena entenderla, porque es una de las razones por las que pagar con el teléfono puede ser más seguro que entregar la tarjeta física.",
+    "## Las cifras de Visa, en breve",
+    "De acuerdo con Reuters, el volumen de pagos en la red de Visa creció 9 % en el trimestre, medido en dólares constantes, y las transacciones procesadas aumentaron 10 %. Los ingresos netos subieron 13 %, a 12,100 millones de dólares, y el año fiscal 2026 cerró con un récord de 46,000 millones. El director financiero, Chris Suh, dijo que no vieron señales de debilitamiento entre los consumidores que menos gastan.",
+    "PYMNTS agrega que Visa terminó el trimestre con 5,200 millones de credenciales, 6 % más que un año antes; que sus transacciones de Visa Direct, el servicio para enviar dinero a tarjetas y cuentas, crecieron 23 %; y que la función Tap to Phone, que convierte un celular en terminal de cobro, superó los 1,000 millones de transacciones anuales en más de 25 millones de dispositivos activos.",
+    "## Qué es la tokenización",
+    "Su tarjeta tiene un número de 16 dígitos. Cuando la agrega a una billetera digital en el celular o la guarda en una tienda en línea que usa tokenización, ese número real se reemplaza por otro número distinto, llamado token, que solo sirve en ese dispositivo o en ese comercio.",
+    "Si un delincuente roba la base de datos de una tienda que guardó el token, lo que obtiene es un número que no funciona en otra parte. Si usted pierde el teléfono, puede desactivar el token de ese aparato sin cancelar la tarjeta física. Y como cada pago con el celular suele generar además un código de un solo uso, copiar los datos de una transacción no permite repetirla.",
+    "Es una idea parecida a la de un hotel: usted no entrega la llave maestra del edificio, sino una tarjeta que abre una sola habitación y que se puede anular en recepción.",
+    "## Por qué importa ahora",
+    "La tokenización también es la base de lo que viene. En la llamada con analistas, el director ejecutivo de Visa, Ryan McInerney, explicó que la compañía trabaja en identificar a los agentes de IA que hagan compras, conectarlos con un cliente y confirmar que su gasto sigue las instrucciones de ese cliente. «Está claro que en el comercio con agentes, la confianza es la mayor barrera para crecer», dijo, según PYMNTS. Un token limitado a un comercio, a un monto o a un agente es una forma de dar permiso sin entregar la tarjeta completa.",
+    "En paralelo, American Banker informa que Visa sacó de la fase piloto su servicio de stablecoins en Visa Direct: algunos clientes empresariales podrán prefinanciar pagos transfronterizos con USDC casi en tiempo real. Es un servicio entre empresas, no un cambio en cómo paga el consumidor en una tienda.",
+    "## Qué revisar en Panamá",
+    "- Pregunte a su banco si su tarjeta puede agregarse a una billetera digital del celular. Si es así, el pago se hace con un token en lugar del número real.",
+    "- Active las notificaciones de cada compra en la aplicación del banco. La tokenización reduce el riesgo, pero no reemplaza su revisión.",
+    "- En compras en línea, prefiera comercios que muestren el pago con billetera o con autenticación adicional, y desconfíe de páginas que piden el número completo, la fecha y el código de seguridad por chat o por correo.",
+    "- Nadie de su banco le pedirá su PIN ni códigos de verificación para «activar» un token. Si alguien lo hace, es una estafa.",
+    "- Si pierde el celular, llame al banco o use su aplicación para suspender las tarjetas registradas en ese dispositivo.",
+    "## Lo que la tokenización no hace",
+    "No impide que usted autorice por error un pago a un estafador, ni protege contra el engaño telefónico en el que le piden leer un código. La tecnología cierra muchas puertas, pero la última sigue siendo su decisión. Por eso, la mejor combinación es pagar con medios tokenizados y mantener la regla de oro: códigos, claves y PIN no se comparten con nadie."
+  ]
+}
