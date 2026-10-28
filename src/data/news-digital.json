@@ -1,5 +1,86 @@
 [
   {
+    "id": "itau-primer-banco-brasil-formaliza-corretaje-cripto-2026-10-28",
+    "title": "Itaú Unibanco, primer banco de Brasil en formalizar su corretaje cripto ante el banco central",
+    "summary": "Itaú Unibanco notificó al Banco Central de Brasil sus operaciones de compraventa y custodia de criptoactivos bajo la Resolución 520, antes del plazo del 30 de octubre. Los bancos ya autorizados pueden seguir un proceso de notificación con certificación técnica independiente, mientras que los proveedores dedicados deben pedir autorización. Itaú ofrece 15 criptoactivos, entre ellos bitcoin, ether y USDC.",
+    "date": "2026-10-28",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Brasil",
+    "lang": "en",
+    "banks": [
+      "Itaú Unibanco"
+    ],
+    "tags": [
+      "banca",
+      "regulación",
+      "custodia",
+      "Brasil",
+      "banco central"
+    ]
+  },
+  {
+    "id": "rba-consulta-liquidacion-activos-tokenizados-2026-10-28",
+    "title": "El Banco de la Reserva de Australia consulta cómo su liquidación puede apoyar activos y dinero tokenizado",
+    "summary": "En su declaración ante el Comité de Economía del Senado, la gobernadora Michele Bullock indicó que, tras el informe final del Proyecto Acacia, el RBA consulta cómo sus servicios de liquidación podrían respaldar mercados de activos tokenizados y dinero privado tokenizado en Australia, en coordinación con la estrategia de innovación financiera del Gobierno.",
+    "date": "2026-10-28",
+    "source": "Reserve Bank of Australia",
+    "url": "https://www.rba.gov.au/speeches/2026/sp-gov-2026-10-28.html",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Australia",
+    "lang": "en",
+    "banks": [
+      "Reserve Bank of Australia"
+    ],
+    "tags": [
+      "banca",
+      "tokenización",
+      "banco central",
+      "liquidación"
+    ]
+  },
+  {
+    "id": "aci-circle-liquidacion-usdc-colombia-bre-b-2026-10-27",
+    "title": "ACI Worldwide y Circle pilotean liquidación en USDC sobre la infraestructura de pagos de Colombia",
+    "summary": "ACI Worldwide y Circle anunciaron una colaboración para mostrar cómo las instituciones financieras pueden integrar la liquidación en la stablecoin USDC a sus operaciones de pago existentes mediante la plataforma ACI Connetic. El piloto inicia en Colombia, donde ACI construyó la infraestructura central de Bre-B, el sistema de pagos inmediatos interoperable del país, como complemento y no reemplazo de los rieles bancarios.",
+    "date": "2026-10-27",
+    "source": "Circle (Business Wire)",
+    "url": "https://investor.circle.com/news/news-details/2026/ACI-Worldwide-and-Circle-Collaborate-to-Bring-USDC-Settlement-to-Existing-Payments-Infrastructure-in-Latin-America/default.aspx",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Colombia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "stablecoins",
+      "pagos",
+      "América Latina",
+      "USDC"
+    ]
+  },
+  {
+    "id": "graniteshares-aplaza-registro-etf-cripto-apalancados-2026-10-27",
+    "title": "GraniteShares fija el 30 de noviembre para la enmienda de registro de ocho ETF cripto apalancados",
+    "summary": "GraniteShares ETF Trust presentó ante la SEC el 26 de octubre una enmienda que fija el 30 de noviembre de 2026 como fecha efectiva de cambios de registro para ocho fondos propuestos, incluidos ETF diarios 3x largos y cortos sobre XRP, bitcoin, ether y solana. La fecha corresponde al registro y no a un inicio de negociación, que no fue anunciado.",
+    "date": "2026-10-27",
+    "source": "TokenPost",
+    "url": "https://www.tokenpost.com/news/regulation/41884",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "ETF",
+      "SEC",
+      "regulación"
+    ]
+  },
+  {
     "id": "banco-nacional-georgia-piloto-lari-digital-2026-10-27",
     "title": "El Banco Nacional de Georgia trabaja en pilotos del lari digital y en reglas para stablecoins",
     "summary": "La presidenta del Banco Nacional de Georgia, Natia Turnava, dijo en el Tbilisi Financial Summit que la entidad desarrolla proyectos piloto del lari digital y estudia la tokenización y las stablecoins. También prepara marcos regulatorios para activos virtuales, emisión inicial de stablecoins y banca abierta, junto con la modernización de su sistema de liquidación bruta en tiempo real.",
