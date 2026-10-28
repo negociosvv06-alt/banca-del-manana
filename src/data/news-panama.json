@@ -1,5 +1,69 @@
 [
   {
+    "id": "fmi-banca-panama-capitalizada-rentable-2026-10",
+    "title": "El FMI concluye que la banca panameña sigue bien capitalizada y rentable, pero pide vigilar liquidez y exposiciones sectoriales",
+    "summary": "Tras su visita de mediados de octubre por la Consulta del Artículo IV, el FMI destacó que los bancos en Panamá mantienen sólida capitalización, rentabilidad y una cartera vencida bajo control, con riesgos sistémicos contenidos. Recomendó mantener vigilancia sobre la liquidez —cuyos colchones han bajado desde sus máximos— y sobre la exposición a construcción, inmuebles comerciales, vivienda con interés preferencial y consumo, además de fortalecer el marco de resolución bancaria y la integridad financiera.",
+    "date": "2026-10-27",
+    "source": "Infobae",
+    "url": "https://www.infobae.com/panama/2026/10/28/sistema-bancario-panameno-continua-bien-capitalizado-y-rentable-asegura-el-fmi/",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "FMI",
+      "Artículo IV",
+      "SBP",
+      "liquidez",
+      "solidez bancaria"
+    ]
+  },
+  {
+    "id": "bac-bonos-500-millones-6-75-2026-10",
+    "title": "BAC International Bank coloca USD 500 millones en bonos a cinco años con cupón de 6,75 %",
+    "summary": "BAC debutó en el mercado internacional de bonos con una emisión sénior sin garantía específica de USD 500 millones a cinco años, que según la entidad recibió órdenes por hasta USD 1.800 millones (3,6 veces lo colocado). Bank of America, JPMorgan y Santander fueron los colocadores. Los fondos se destinarán a refinanciar obligaciones de corto plazo provenientes de Multibank, alargar el perfil de vencimientos y diversificar el fondeo.",
+    "date": "2026-10-27",
+    "source": "Mirada Económica",
+    "url": "https://miradaeconomica.com/bac-international-bank-bonos-500-millones-cinco-anos/",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "bac"
+    ],
+    "tags": [
+      "BAC",
+      "bonos",
+      "Multibank",
+      "mercado de capitales",
+      "fondeo"
+    ]
+  },
+  {
+    "id": "pandora-tribunal-confirma-detencion-exbac-2026-10",
+    "title": "Caso Pandora: el Tribunal de Apelaciones mantiene la detención provisional del exvicepresidente de Finanzas de BAC",
+    "summary": "El Tribunal Superior de Apelaciones rechazó el 27 de octubre la apelación de la defensa y confirmó la detención provisional de Arnold Salgado, investigado por su presunto vínculo con una red que se habría apropiado de créditos fiscales manipulando el sistema e-Tax 2.0 de la DGI. La fiscalía pedirá declarar compleja la causa, que suma 22 imputados. BAC niega haber participado en el esquema y afirma que colabora con la investigación.",
+    "date": "2026-10-27",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/judiciales/tribunal-confirma-la-detencion-preventiva-del-banquero-del-caso-pandora/",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "bac"
+    ],
+    "tags": [
+      "caso Pandora",
+      "BAC",
+      "DGI",
+      "créditos fiscales",
+      "justicia"
+    ]
+  },
+  {
     "id": "presupuesto-2027-primer-debate-reasignaciones-2026-10",
     "title": "La Asamblea aprueba en primer debate el presupuesto 2027 de USD 35.111,7 millones entre cuestionamientos por USD 450,8 millones en reasignaciones",
     "summary": "La Comisión de Presupuesto aprobó tras ocho horas el primer debate del presupuesto general del Estado para 2027. El monto total se mantiene en USD 35.111,7 millones, pero las reasignaciones por USD 450,8 millones generaron dudas de diputados sobre los criterios para aumentar las partidas de diez instituciones que no figuraban en las recomendaciones previas de la comisión.",

@@ -1,9 +1,9 @@
 {
-  "lastRun": "2026-10-27T13:10:36.505Z",
+  "lastRun": "2026-10-28T13:15:48.697Z",
   "sources": {
     "fed": {
       "ok": true,
-      "fetchedAt": "2026-10-27T13:10:36.505Z",
+      "fetchedAt": "2026-10-28T13:15:48.697Z",
       "count": 12
     },
     "ecb": {
@@ -14,28 +14,87 @@
     },
     "bis": {
       "ok": true,
-      "fetchedAt": "2026-10-27T13:10:36.505Z",
+      "fetchedAt": "2026-10-28T13:15:48.697Z",
       "count": 10
     }
   },
   "items": [
     {
-      "id": "pakistan-sbp-tasa-12-2026-10",
-      "title": "El banco central de Pakistán sube su tasa de política 50 puntos básicos, hasta 12 %",
-      "summary": "El Comité de Política Monetaria del State Bank of Pakistan elevó la tasa de 11,5 % a 12 %, con nueve de diez votos a favor; un miembro pedía una subida mayor. El gobernador Jameel Ahmed citó las perspectivas de inflación y el alza del petróleo por las tensiones en Medio Oriente. Es su primera subida desde abril, tras haber recortado 1.050 puntos básicos desde mediados de 2024.",
-      "date": "2026-10-26",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2039956/central-bank-raises-policy-rate-by-50-basis-points-to-12pc",
+      "id": "bcch-tpm-4-5-octubre-2026",
+      "title": "El Banco Central de Chile mantiene su tasa en 4,5 % y evaluará los próximos pasos reunión a reunión",
+      "summary": "El Consejo del Banco Central de Chile decidió por unanimidad mantener la tasa de política monetaria en 4,5 %. Señaló que la trayectoria futura se evaluará en cada reunión según cómo evolucionen la economía mundial y local, con el objetivo de que la inflación proyectada converja al 3 % en dos años. La próxima reunión será el 15 de diciembre.",
+      "date": "2026-10-27",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/contenido/-/detalle/prensa/comunicados-rpm/comunicado-reunion-de-politica-monetaria-octubre-2026",
       "category": "internacional",
       "type": "noticia",
-      "country": "Pakistán",
+      "country": "Chile",
       "lang": "es",
       "banks": [],
       "tags": [
+        "Banco Central de Chile",
+        "tasas de interés",
         "política monetaria",
+        "inflación"
+      ],
+      "manual": true
+    },
+    {
+      "id": "rbnz-ocr-2-75-octubre-2026",
+      "title": "Nueva Zelanda mantiene su tasa oficial en 2,75 % en una votación dividida 4 a 3",
+      "summary": "El Comité de Política Monetaria del Banco de la Reserva de Nueva Zelanda pausó tras dos subidas recientes: cuatro miembros votaron por mantener la tasa y tres por subirla 25 puntos básicos. La inflación anual bajó a 3,7 % en el tercer trimestre, pero el banco prevé que suba a 4,4 % por el encarecimiento del combustible y advierte que probablemente hará falta una política más restrictiva.",
+      "date": "2026-10-28",
+      "source": "Banco de la Reserva de Nueva Zelanda (RBNZ)",
+      "url": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/ocr-held-at-2-75-percent",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Nueva Zelanda",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "RBNZ",
         "tasas de interés",
         "inflación",
-        "petróleo"
+        "política monetaria"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bot-tasa-1-00-octubre-2026",
+      "title": "El Banco de Tailandia mantiene por unanimidad su tasa de política en 1 %",
+      "summary": "En su quinta reunión de 2026, el Comité de Política Monetaria del Banco de Tailandia votó de forma unánime mantener la tasa de referencia en 1,00 %.",
+      "date": "2026-10-28",
+      "source": "Banco de Tailandia",
+      "url": "https://www.bot.or.th/en/news-and-media/news/mpc/news-20261028-5FWvBPSf.html",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "Tailandia",
+      "lang": "en",
+      "banks": [],
+      "tags": [
+        "Banco de Tailandia",
+        "tasas de interés",
+        "política monetaria"
+      ],
+      "manual": true
+    },
+    {
+      "id": "bde-encuesta-prestamos-3t-2026",
+      "title": "Banco de España: la oferta de crédito se endureció de nuevo en el tercer trimestre y la demanda siguió cayendo",
+      "summary": "Según la encuesta de préstamos bancarios del Banco de España, las condiciones de los nuevos préstamos fueron más restrictivas por el aumento de los tipos de interés, y los criterios de concesión solo se endurecieron ligeramente en el crédito al consumo. La demanda bajó en todos los segmentos, con mayor fuerza en hipotecas, y los bancos prevén más endurecimiento para hogares en el cuarto trimestre. Las entidades señalan que la IA aún no tiene un impacto significativo en su política crediticia.",
+      "date": "2026-10-27",
+      "source": "Banco de España",
+      "url": "https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/notas-banco-espana/la-oferta-de-credito-se-endurecio-de-nuevo-en-el-tercer-trimestre-de-2026-y-la-demanda-siguio-reduciendose.html",
+      "category": "internacional",
+      "type": "noticia",
+      "country": "España",
+      "lang": "es",
+      "banks": [],
+      "tags": [
+        "Banco de España",
+        "crédito",
+        "tipos de interés",
+        "encuesta de préstamos"
       ],
       "manual": true
     },
@@ -60,22 +119,22 @@
       "manual": true
     },
     {
-      "id": "bde-encuesta-prestamos-3t-2026",
-      "title": "Banco de España: la oferta de crédito se endureció de nuevo en el tercer trimestre y la demanda siguió cayendo",
-      "summary": "Según la encuesta de préstamos bancarios del Banco de España, las condiciones de los nuevos préstamos fueron más restrictivas por el aumento de los tipos de interés, y los criterios de concesión solo se endurecieron ligeramente en el crédito al consumo. La demanda bajó en todos los segmentos, con mayor fuerza en hipotecas, y los bancos prevén más endurecimiento para hogares en el cuarto trimestre. Las entidades señalan que la IA aún no tiene un impacto significativo en su política crediticia.",
-      "date": "2026-10-27",
-      "source": "Banco de España",
-      "url": "https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/notas-banco-espana/la-oferta-de-credito-se-endurecio-de-nuevo-en-el-tercer-trimestre-de-2026-y-la-demanda-siguio-reduciendose.html",
+      "id": "pakistan-sbp-tasa-12-2026-10",
+      "title": "El banco central de Pakistán sube su tasa de política 50 puntos básicos, hasta 12 %",
+      "summary": "El Comité de Política Monetaria del State Bank of Pakistan elevó la tasa de 11,5 % a 12 %, con nueve de diez votos a favor; un miembro pedía una subida mayor. El gobernador Jameel Ahmed citó las perspectivas de inflación y el alza del petróleo por las tensiones en Medio Oriente. Es su primera subida desde abril, tras haber recortado 1.050 puntos básicos desde mediados de 2024.",
+      "date": "2026-10-26",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2039956/central-bank-raises-policy-rate-by-50-basis-points-to-12pc",
       "category": "internacional",
       "type": "noticia",
-      "country": "España",
+      "country": "Pakistán",
       "lang": "es",
       "banks": [],
       "tags": [
-        "Banco de España",
-        "crédito",
-        "tipos de interés",
-        "encuesta de préstamos"
+        "política monetaria",
+        "tasas de interés",
+        "inflación",
+        "petróleo"
       ],
       "manual": true
     },
