@@ -1,0 +1,54 @@
+{
+  "id": "agentes-ia-corea-bny-aprobacion-humana-2026-11-26",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Agentes de IA que arman portafolios, refinancian deudas y hasta negocian bonos, pero un humano pulsa el botón final: lo que muestran Corea del Sur y BNY, y qué deja para la banca en Panamá",
+  "date": "2026-11-26",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Seoul Economic Daily – AI Agents Take Over Investing, Loans at Korea Fintech Week",
+      "url": "https://en.sedaily.com/finance/2026/11/25/ai-agents-take-over-investing-loans-at-korea-fintech-week",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Seoul Economic Daily – NH NongHyup Bank to Deploy 150 AI Agents by Next Year",
+      "url": "https://en.sedaily.com/finance/2026/11/25/nh-nonghyup-bank-to-deploy-150-ai-agents-by-next-year",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "BNY – BNY and Microsoft Complete First Agentic Negotiation of a U.S. Treasury Trade",
+      "url": "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-and-microsoft-complete-first-agentic-negotiation-of-a-us-treasury-trade.html",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "PYMNTS – BNY and Microsoft Let AI Agents Haggle Over Treasurys",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Federal Reserve Bank of Dallas – Banking Conditions Survey, Special questions (noviembre 2026)",
+      "url": "https://www.dallasfed.org/research/surveys/bcs/specquest/2026/bcs2607sq",
+      "date": "2026-11-09"
+    }
+  ],
+  "body": [
+    "Esta semana dejó una imagen clara de hacia dónde va la banca con inteligencia artificial (IA). En Seúl, la Semana Fintech de Corea 2026 mostró agentes de IA que analizan los activos de un cliente, arman un portafolio y dejan listas las órdenes de compra. En Estados Unidos, BNY y Microsoft pusieron a dos agentes de IA a negociar el precio de una letra del Tesoro. En ambos casos, sin embargo, hay un detalle que se repite: la decisión final la toma una persona.",
+    "## Corea: del chatbot al agente que prepara la operación",
+    "Según el diario Seoul Economic Daily, en el stand de Woori Financial Group un visitante pidió invertir por unos tres meses buscando cerca de 20 % de ganancia sin perder más de 10 %. El servicio conversacional AI Studio, de Woori Investment & Securities, analizó sus activos y las condiciones del mercado, propuso un portafolio y, cuando se le pidió, preparó las órdenes. Al cliente solo le quedaba pulsar el botón de aprobación final.",
+    "El mismo reporte describe otras demostraciones: Banksalad mostró cómo un agente que coordina a otros agentes especializados ayudaba a un joven deudor a refinanciar un préstamo y reducir sus intereses anuales; Kakao Pay presentó un «coach» que analiza gastos, sugiere un presupuesto y detecta suscripciones innecesarias. La feria, que va del 25 al 27 de noviembre, reúne a 140 empresas e instituciones en 115 stands. El presidente de la Comisión de Servicios Financieros, Lee Eok-won, dijo que mejorarán las reglas sobre separación de redes y datos «siempre que existan salvaguardas suficientes».",
+    "Ese mismo día, el banco NH NongHyup anunció que desplegará 150 agentes de IA el próximo año. Según el periódico, sus primeros prototipos internos redujeron de dos horas a cuatro minutos la revisión de documentos de crédito empresarial de hasta 600 páginas. Entre finales de este año y el primer trimestre de 2027 lanzará un chatbot integrado y 15 agentes de cara al cliente en áreas como gestión patrimonial y protección al consumidor.",
+    "## BNY y Microsoft: dos agentes negocian, los operadores aprueban",
+    "En un comunicado del 17 de noviembre, BNY informó que completó con Microsoft lo que llama la primera negociación entre agentes de IA de una letra del Tesoro de EE. UU. La operación pasó por su Protocolo de Negociación Agéntica (ANP), una capa de control que verifica a los participantes. Antes de hablar de precio, el sistema validó la contraparte, el título, el tamaño, las condiciones de liquidación y los precios disponibles. Luego los agentes intercambiaron ofertas y contraofertas sin poder salirse de los límites autorizados.",
+    "Lo más importante está al final: los agentes no podían ejecutar la operación. Operadores humanos de ambas empresas revisaron y aprobaron los términos, y la transacción se registró en los sistemas habituales. El protocolo guarda un registro de quién participó, qué mensajes se cruzaron, qué controles se aplicaron y qué decidieron las personas, para que todo pueda reconstruirse. PYMNTS señala que BNY no reveló el monto, el precio ni los modelos de IA utilizados, y que se trató de un piloto entre dos partes.",
+    "## La otra cara: muchos bancos aún no tienen reglas",
+    "Mientras unos bancos diseñan agentes propios con controles, otros todavía no deciden qué hacer con los agentes que traen los clientes. En la encuesta de noviembre de la Reserva Federal de Dallas a 70 banqueros, solo 11.4 % dijo que su institución o su proveedor ya restringió la actividad de agentes de IA en la banca en línea; 22.9 % planea hacerlo en seis meses, 38.6 % no lo ha hecho ni lo planea y 27.1 % no lo sabe. Es una muestra regional, pero ilustra que la gobernanza va por detrás de la tecnología.",
+    "## Qué lecciones deja para Panamá",
+    "En Panamá no hay hoy servicios bancarios en los que un agente de IA invierta o pida un préstamo por el cliente. Aun así, los casos de esta semana dejan tres ideas útiles para bancos, reguladores y usuarios:",
+    "- El humano al final no es un adorno: tanto en Seúl como en Nueva York, el agente prepara y propone, pero la persona aprueba. Ese diseño reduce errores y deja claro quién responde.",
+    "- Los límites se definen antes: BNY valida contraparte, monto y condiciones antes de que el agente negocie. En banca minorista, eso equivale a topes por monto, listas de beneficiarios autorizados y permisos que el cliente pueda revocar.",
+    "- El rastro debe quedar escrito: un registro de cada paso permite atender reclamos y auditar decisiones, algo clave para la protección al consumidor y para la supervisión de la Superintendencia de Bancos de Panamá (SBP).",
+    "Para el cliente, la regla práctica no cambia: si algún día su banco ofrece un asistente que prepare pagos o inversiones, úselo solo desde la aplicación oficial, revise cada propuesta antes de aprobarla y nunca entregue su usuario, contraseña, PIN o códigos de verificación a herramientas de terceros. Que un agente proponga una inversión tampoco la convierte en adecuada para su perfil: la responsabilidad de entender lo que aprueba sigue siendo suya."
+  ]
+}

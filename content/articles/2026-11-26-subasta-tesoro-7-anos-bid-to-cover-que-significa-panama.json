@@ -1,0 +1,52 @@
+{
+  "id": "subasta-tesoro-7-anos-bid-to-cover-2026-11-26",
+  "section": "inversiones",
+  "type": "analisis",
+  "title": "Una subasta floja del bono a 7 años en plena semana de Acción de Gracias: qué es una subasta del Tesoro de EE. UU., qué mide el «bid-to-cover» y por qué le importa a quien ahorra o invierte desde Panamá",
+  "date": "2026-11-26",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "TreasuryDirect (Departamento del Tesoro de EE. UU.) – Resultados de subastas de notas: 2, 5 y 7 años, emisión del 30 de noviembre de 2026",
+      "url": "https://www.treasurydirect.gov/TA_WS/securities/auctioned?format=json&type=Note&days=10",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "TreasuryBonds.com – Bond Market Wrap-Up: Treasuries Rally Into Thanksgiving Even as Inflation and Growth Run Hot",
+      "url": "https://treasurybonds.com/news/2026-11-25-bond-market-wrap-up-treasuries-rally-into-thanksgiving-even-as-inflation-and-growth-run-hot/",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Bolsa al Día – Cierre de Wall Street, miércoles 25 de noviembre de 2026",
+      "url": "https://bolsaaldia.com/bolsa-de-estados-unidos/cierre-wall-street-25-noviembre-2026-dow-borra-caida-pce-que-esperar-accion-de-gracias/",
+      "date": "2026-11-25"
+    }
+  ],
+  "body": [
+    "Hoy jueves 26 de noviembre la Bolsa de Nueva York y el Nasdaq no abren por el Día de Acción de Gracias, y el viernes 27 operan solo media jornada, hasta la 1:00 p. m. de Nueva York. Antes del feriado, el mercado de bonos dejó un dato que pasó casi desapercibido fuera de los círculos especializados: la subasta de notas del Tesoro a 7 años salió floja. Vale la pena entender qué significa, porque las tasas de esos bonos influyen en el costo del dinero en un país dolarizado como Panamá.",
+    "## Qué es una subasta del Tesoro",
+    "El Gobierno de Estados Unidos se financia vendiendo deuda: letras (menos de un año), notas (de 2 a 10 años) y bonos (más largos). La vende en subastas periódicas en las que bancos, fondos, gobiernos extranjeros y otros inversionistas indican cuánto quieren comprar y qué rendimiento piden. El Tesoro acepta las ofertas desde el rendimiento más bajo hasta completar el monto. El rendimiento más alto aceptado define la tasa que pagan todos los compradores competitivos.",
+    "## Lo que pasó esta semana",
+    "Según los resultados oficiales publicados en TreasuryDirect, el Tesoro colocó esta semana tres emisiones que se liquidarán el 30 de noviembre:",
+    "- Nota a 2 años: 69,000 millones de dólares, rendimiento de 4.700 % y una relación de cobertura (bid-to-cover) de 2.65.",
+    "- Nota a 5 años: 70,000 millones, rendimiento de 4.719 % y cobertura de 2.37.",
+    "- Nota a 7 años: 44,000 millones, rendimiento de 4.708 % y cobertura de 2.43.",
+    "El análisis de TreasuryBonds.com calificó la subasta a 7 años como débil: su cobertura quedó por debajo del promedio de 2.48 de las 12 subastas anteriores y los llamados compradores indirectos, una categoría que suele incluir a inversionistas extranjeros, se quedaron con 58.2 %, frente a un promedio de 62.9 %.",
+    "## Qué mide el «bid-to-cover»",
+    "La relación de cobertura divide el total de ofertas recibidas entre el monto colocado. Una cobertura de 2.43 significa que hubo ofertas por unas 2.43 veces lo que se vendió. Más alta suele indicar más demanda; más baja, que los compradores fueron más selectivos o exigieron mayor rendimiento. Una sola subasta floja no es una alarma, pero varias seguidas pueden empujar las tasas hacia arriba, porque el Gobierno tiene que ofrecer más para colocar su deuda.",
+    "## Un día de señales mezcladas",
+    "Lo curioso es que el miércoles los bonos subieron de precio (sus rendimientos bajaron) pese a la subasta floja y a datos económicos más fuertes de lo esperado. El PCE subyacente, el indicador de inflación que sigue la Reserva Federal, subió a 3.3 % anual en octubre, y el crecimiento del tercer trimestre se revisó a 4.3 %. Según TreasuryBonds.com, la demanda de refugio por la caída de las bolsas asiáticas —el Kospi de Corea del Sur cayó 6.2 %— pesó más. El bono a 30 años se mantuvo cerca de 5.24 %.",
+    "En acciones, Bolsa al Día reportó que el Dow Jones llegó a caer más de 1,100 puntos durante la sesión y cerró con alza de 0.33 %, mientras el S&P 500 bajó 0.25 % y el Nasdaq 0.62 %, con nuevas ventas en empresas ligadas a la IA. El índice de volatilidad VIX subió a 28.29. El mercado sigue atento a la reunión de la Fed del 9 de diciembre.",
+    "## Por qué le importa desde Panamá",
+    "- Panamá usa el dólar y no tiene banco central que fije tasas. Las tasas de referencia en dólares, empezando por las del Tesoro, influyen con el tiempo en lo que pagan los depósitos a plazo y en el costo de los préstamos con tasa variable, aunque cada banco decide sus condiciones.",
+    "- Si tiene bonos o fondos de renta fija, cuando los rendimientos suben, el precio de los bonos que ya existen baja, y más mientras más largo es el plazo. Ese es el riesgo de tasa del que habla el propio análisis al mencionar el bono a 30 años.",
+    "- En días de poco volumen, como el viernes de media jornada, los precios pueden moverse más de lo normal. No conviene sacar conclusiones de una sola sesión.",
+    "## Cómo seguirlo sin dejarse llevar",
+    "- Los resultados de cada subasta son públicos y gratuitos en TreasuryDirect: busque el rendimiento aceptado y la cobertura, y compárelos con subastas anteriores del mismo plazo.",
+    "- Antes de mover su dinero por un titular, revise su horizonte de tiempo y si necesita liquidez en el corto plazo.",
+    "- Si invierte en bonos o fondos, pregunte a su asesor por la duración de la cartera, que indica cuánto puede variar su precio cuando cambian las tasas.",
+    "- Opere solo con intermediarios con licencia de la Superintendencia del Mercado de Valores (SMV) o de reguladores equivalentes.",
+    "Descargo: este artículo es educativo e informativo y no constituye una recomendación de inversión ni una oferta de compra o venta de valores. Toda inversión implica riesgos, incluida la pérdida del capital. Rendimientos pasados no garantizan resultados futuros. Antes de invertir, consulte a un asesor con licencia de la SMV y evalúe su perfil de riesgo."
+  ]
+}
