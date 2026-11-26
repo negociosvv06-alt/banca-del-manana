@@ -1,5 +1,84 @@
 [
   {
+    "id": "hsbc-redcoin-100000-usuarios-primer-mes-2026-11-26",
+    "title": "HSBC supera los 100.000 usuarios de su stablecoin RedCoin en Hong Kong en su primer mes",
+    "summary": "HSBC informó el 26 de noviembre que más de 100.000 personas usaron HSBC RedCoin, su stablecoin respaldada en dólares de Hong Kong y una de las dos con licencia en esa jurisdicción, durante su primer mes. Está integrada en la app PayMe, con más de 3,3 millones de usuarios, y se acepta en más de 100.000 comercios; el banco dice que su siguiente foco será la ciberseguridad y nuevos productos.",
+    "date": "2026-11-26",
+    "source": "South China Morning Post",
+    "url": "https://www.scmp.com/business/article/3375825/hsbc-sees-more-100000-users-its-stablecoin-first-month-launch",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Hong Kong",
+    "lang": "en",
+    "banks": [
+      "HSBC"
+    ],
+    "tags": [
+      "banca",
+      "stablecoins",
+      "pagos",
+      "Hong Kong"
+    ]
+  },
+  {
+    "id": "moonpay-solicita-carta-banco-fiduciario-nacional-occ-2026-11-26",
+    "title": "MoonPay solicita a la OCC una licencia de banco fiduciario nacional en EE. UU.",
+    "summary": "MoonPay pidió a la Oficina del Contralor de la Moneda (OCC) autorización para crear MoonPay National Trust Bank, con sede en Miami Beach. La entidad no captaría depósitos ni otorgaría préstamos: ofrecería custodia fiduciaria de activos digitales, conversión de moneda fiduciaria a cripto y servicios de emisión, redención y gestión de reservas de stablecoins, en la línea de Circle y Coinbase.",
+    "date": "2026-11-26",
+    "source": "FinTech Futures",
+    "url": "https://www.fintechfutures.com/blockchain-crypto-digital-assets/moonpay-applies-for-us-national-bank-charter",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "custodia",
+      "stablecoins",
+      "regulación",
+      "OCC"
+    ]
+  },
+  {
+    "id": "espana-sepblac-suspension-cuentas-criptoactivos-sin-orden-judicial-2026-11-26",
+    "title": "España faculta al Sepblac para suspender cuentas bancarias y de criptoactivos hasta cinco días hábiles",
+    "summary": "El Real Decreto-ley 44/2026, publicado en el BOE el 25 de noviembre, permitirá al Sepblac suspender sin orden judicial cuentas bancarias, de pago o de criptoactivos hasta cinco días hábiles (diez para operaciones en curso) ante indicios de blanqueo o financiación del terrorismo. La medida responde a estándares del GAFI y a la normativa europea, requiere convalidación parlamentaria y entraría en vigor el 25 de enero de 2027.",
+    "date": "2026-11-26",
+    "source": "CriptoNoticias",
+    "url": "https://www.criptonoticias.com/regulacion/espana-congelar-criptomonedas-5-dias-habiles/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "España",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "banca",
+      "regulación",
+      "prevención de lavado",
+      "exchanges"
+    ]
+  },
+  {
+    "id": "bc-card-billetera-activos-digitales-pagos-usdc-paybooc-2026-11-26",
+    "title": "BC Card crea una billetera de activos digitales en Paybooc y prueba pagos con USDC en Corea del Sur",
+    "summary": "La procesadora de tarjetas surcoreana BC Card completó con la firma DSRV una verificación técnica que permite a usuarios extranjeros pagar con USDC en comercios con QR de BC Card usando la infraestructura de tarjetas existente, sin cambio de divisas aparte. Planea ampliar el servicio a pagos en wones cuando exista la normativa y se emitan stablecoins en esa moneda.",
+    "date": "2026-11-26",
+    "source": "Seoul Economic Daily",
+    "url": "https://en.sedaily.com/finance/2026/11/26/bc-card-builds-digital-asset-wallet-in-paybooc-tests",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "stablecoins",
+      "pagos",
+      "USDC",
+      "Corea del Sur"
+    ]
+  },
+  {
     "id": "eba-pide-reglas-firmas-cripto-acceso-prestamos-defi-2026-11-25",
     "title": "La EBA pide a la Comisión Europea evaluar reglas para firmas cripto que facilitan acceso a préstamos DeFi",
     "summary": "En un informe publicado el 25 de noviembre, la Autoridad Bancaria Europea (EBA) advirtió que los protocolos DeFi permiten obtener rendimientos sobre tokens de dinero electrónico (prohibidos bajo MiCA) y acceder a stablecoins no autorizadas en la UE. Recomendó evaluar pruebas de idoneidad, límites de apalancamiento y certificación para intermediarios cripto.",
@@ -59,6 +138,25 @@
     ]
   },
   {
+    "id": "eeuu-proyecto-reserva-estrategica-bitcoin-20-anos-pleno-camara-2026-11-25",
+    "title": "Proyecto para fijar por ley la reserva estratégica de bitcoin de EE. UU. queda listo para votación en la Cámara",
+    "summary": "El Comité de Servicios Financieros reportó formalmente al pleno, el 24 de noviembre, el proyecto H.R. 8957, que ordena al Tesoro crear una Reserva Estratégica de Bitcoin y prohíbe vender o disponer de esos activos durante al menos 20 años, además de exigir informes de prueba de reservas. El plazo es ajustado: el Congreso actual termina el 3 de enero y aún faltaría el Senado.",
+    "date": "2026-11-25",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/es/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "regulación",
+      "bitcoin",
+      "Tesoro",
+      "Congreso"
+    ]
+  },
+  {
     "id": "corea-sur-propone-bancos-mayoria-emisores-stablecoins-won-2026-11-24",
     "title": "Corea del Sur propone que los bancos posean más del 50 % de los emisores de stablecoins vinculadas al won",
     "summary": "La Comisión de Servicios Financieros (FSC) de Corea del Sur planteó exigir que los bancos mantengan más de la mitad de la propiedad de cualquier emisor de stablecoins en won, reservas al 100 %, auditorías mensuales, redención a solicitud y prohibición de pagar intereses, además de topar al 20 % la participación accionaria en exchanges locales.",
@@ -75,6 +173,25 @@
       "stablecoins",
       "regulación",
       "banco central"
+    ]
+  },
+  {
+    "id": "banco-israel-piloto-wcbdc-makam-tokenizado-descarta-shekel-digital-2026-11-24",
+    "title": "El Banco de Israel prepara un piloto de CBDC mayorista para liquidar letras Makam tokenizadas",
+    "summary": "El Banco de Israel anunció que en los próximos dos años realizará un piloto de emisión real de moneda digital de banco central mayorista (wCBDC) con participantes del sistema financiero, empezando por la liquidación del ciclo de vida de letras Makam tokenizadas, y abrirá una consulta con la industria. A la vez concluyó que por ahora no hay base para decidir emitir un shekel digital minorista.",
+    "date": "2026-11-24",
+    "source": "Bank of Israel",
+    "url": "https://www.boi.org.il/en/communication-and-publications/press-releases/the-bank-of-israel-will-focus-its-examination-of-the-need-for-a-central-bank-digital-currency-on-wholesale-uses-and-the-tokenization-of-assets/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Israel",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "CBDC",
+      "banco central",
+      "tokenización"
     ]
   },
   {
@@ -298,123 +415,6 @@
       "tokenización",
       "banca central",
       "banca"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "occ-final-ripple-national-trust-bank-2026-10-26",
-    "title": "La OCC otorga aprobación final al banco fiduciario nacional de Ripple",
-    "summary": "La Oficina del Contralor de la Moneda de EE. UU. concedió la aprobación final a Ripple National Trust Bank, tras la aprobación condicional de diciembre de 2025. La entidad podrá administrar las reservas segregadas que respaldan la stablecoin RLUSD, actuar como fideicomisario de esas reservas y ofrecer custodia fiduciaria de activos digitales; la emisión de RLUSD seguirá a cargo de su compañía fiduciaria regulada en Nueva York.",
-    "date": "2026-10-26",
-    "source": "Ripple",
-    "url": "https://ripple.com/ripple-press/ripple-receives-final-occ-approval-to-establish-national-trust-bank/",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "OCC",
-      "stablecoins",
-      "custodia",
-      "licencias",
-      "banca"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "occ-invita-bancos-comunitarios-emitir-stablecoins-2026-10-26",
-    "title": "La OCC anima a los bancos comunitarios a emitir stablecoins bajo la Ley GENIUS",
-    "summary": "El regulador bancario estadounidense pidió a los bancos comunitarios considerar solicitar, directamente o mediante filiales, la condición de emisores autorizados de stablecoins de pago. Las reglas finales de la OCC entran en vigor el 18 de enero de 2027 y la recepción de solicitudes aún no ha abierto, mientras gremios bancarios siguen advirtiendo sobre las stablecoins que pagan rendimiento.",
-    "date": "2026-10-26",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "OCC",
-      "stablecoins",
-      "GENIUS Act",
-      "regulación",
-      "banca"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "esm-bono-digital-pontes-bundesbank-clearstream-2026-10-26",
-    "title": "El MEDE liquida el primer bono digital supranacional europeo en la plataforma Pontes del Eurosistema",
-    "summary": "El Mecanismo Europeo de Estabilidad emitió su primer bono nativo digital de referencia, por 1.000 millones de euros, liquidado mediante Pontes en dinero de banco central a través de TARGET. El Bundesbank actúa como agente emisor y de pagos y Clearstream aporta la infraestructura de valores tokenizados, en una operación que marca el paso de pilotos a despliegue real en la infraestructura mayorista europea.",
-    "date": "2026-10-26",
-    "source": "Deutsche Bundesbank",
-    "url": "https://www.bundesbank.de/en/press/press-releases/esm-is-first-european-supranational-issuer-to-settle-dlt-based-bond-issuance-on-eurosystem-s-pontes-platform-with-bundesbank-and-clearstream-1013002",
-    "country": "Unión Europea",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "bonos",
-      "Pontes",
-      "Eurosistema",
-      "banca"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "hong-kong-sfc-negociacion-secundaria-fondos-tokenizados-2026-10-26",
-    "title": "Hong Kong autoriza por primera vez la negociación secundaria de fondos públicos tokenizados",
-    "summary": "La Comisión de Valores y Futuros de Hong Kong aprobó que dos fondos del mercado monetario tokenizados de ChinaAMC, en dólares de Hong Kong y en dólares estadounidenses, se negocien en una plataforma de activos virtuales con licencia. Los inversionistas podrán comprarlos y venderlos a toda hora, incluidos fines de semana y feriados.",
-    "date": "2026-10-26",
-    "source": "South China Morning Post",
-    "url": "https://www.scmp.com/business/banking-finance/article/3372176/global-first-hong-kong-opens-secondary-trading-tokenised-public-funds",
-    "country": "Hong Kong",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "fondos",
-      "regulación",
-      "Hong Kong"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "bcg-ripple-custodia-activos-digitales-bancos-2026-10-26",
-    "title": "BCG: la custodia de activos digitales se vuelve clave para que los bancos compitan en finanzas tokenizadas",
-    "summary": "Un informe de Boston Consulting Group encargado por Ripple señala que más del 30 % de los activos digitales fuera de exchanges centralizados ya está bajo modelos de custodia institucional. Con MiCA y la Ley GENIUS, la seguridad de las claves pasa a ser un requisito mínimo y los bancos se diferencian por gobierno, interoperabilidad e integración; para bancos regionales estima hasta 100 millones de dólares en nuevos ingresos.",
-    "date": "2026-10-26",
-    "source": "InvestmentNews",
-    "url": "https://www.investmentnews.com/practice-management/digital-asset-custody-reshapes-how-banks-compete-in-tokenized-finance/268738",
-    "country": "Internacional",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "banca",
-      "custodia",
-      "tokenización",
-      "stablecoins"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "banco-negara-malasia-ssds-plus-bonos-sukuk-tokenizados-2026-10-26",
-    "title": "El banco central de Malasia activa SSDS+ para emitir y custodiar bonos y sukuk tokenizados",
-    "summary": "Bank Negara Malaysia puso en marcha SSDS+, una plataforma propia sobre tecnología de registro distribuido para emitir, depositar y custodiar bonos y sukuk tokenizados, con liquidación en dinero de banco central las 24 horas mediante RENTAS+. Aún no hay un primer emisor ni fecha para la venta a minoristas, y el banco aclara que no respalda criptomonedas sin respaldo.",
-    "date": "2026-10-26",
-    "source": "Bitcoin News Asia",
-    "url": "https://bitcoinnewsasia.com/5673/malaysias-central-bank-goes-live-with-ssds-for-tokenised-bonds-and-sukuk/",
-    "country": "Malasia",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "banca",
-      "tokenización",
-      "banco central",
-      "bonos"
     ],
     "category": "activos-digitales",
     "type": "noticia"
