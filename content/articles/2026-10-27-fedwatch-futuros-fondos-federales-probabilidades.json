@@ -24,7 +24,7 @@
     }
   ],
   "body": [
-    "La Reserva Federal de Estados Unidos (Fed) inicia hoy, martes 27 de octubre, su reunión de política monetaria. El comunicado se publicará el miércoles 28 a las 2:00 p. m. hora de Nueva York, es decir, a la 1:00 p. m. en Panamá, según Yahoo Finance. Antes de la decisión, los titulares repiten una cifra: según CNBC, los operadores asignan más de 90 % de probabilidad a que la Fed mantenga su tasa de referencia en el rango de 3.75 % a 4 %.",
+    "La Reserva Federal de Estados Unidos (Fed) inició el martes 27 de octubre de 2026 su reunión de política monetaria, con el comunicado programado para el miércoles 28 a las 2:00 p. m. hora de Nueva York (1:00 p. m. en Panamá), según Yahoo Finance. Antes de esa decisión, los titulares repetían una cifra: según CNBC, los operadores asignaban más de 90 % de probabilidad a que la Fed mantuviera su tasa de referencia en el rango de 3.75 % a 4 %.",
     "¿De dónde sale ese porcentaje? No es una encuesta ni una opinión de analistas. Es un cálculo a partir de precios de mercado. En este artículo explicamos, paso a paso, cómo lo hace la herramienta FedWatch de CME Group, la bolsa de derivados de Chicago.",
     "## Por qué le importa a Panamá",
     "Panamá usa el dólar y no tiene banco central que fije tasas. Por eso, lo que haga la Fed influye en el costo del dinero en dólares y, de manera indirecta, en las condiciones de financiamiento de bancos y empresas del país. Entender cómo «lee» el mercado a la Fed ayuda a interpretar las noticias sin confundir expectativas con certezas.",
@@ -47,7 +47,7 @@
     "- Cambio esperado = 3.06 − 2.335 = 0.725 puntos. Dividido entre 0.25 da 2.9.",
     "- Resultado: 90 % de probabilidad de un alza de 0.75 puntos y 10 % de un alza de 0.50.",
     "Cuando hay varias reuniones por delante, FedWatch encadena estos cálculos y construye un árbol de escenarios en el que las probabilidades de cada reunión se combinan con las de las siguientes.",
-    "## Cómo leer la cifra de esta semana",
+    "## Cómo leer la cifra antes de una reunión",
     "Que el mercado asigne más de 90 % a una pausa significa que los precios de los futuros son consistentes con una tasa casi sin cambios después de la reunión.",
     "Tres advertencias importantes:",
     "- Es una probabilidad implícita en precios, no un pronóstico de la Fed ni una garantía. Puede cambiar en minutos con un dato económico o una declaración.",

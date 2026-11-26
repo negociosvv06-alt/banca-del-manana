@@ -1,0 +1,44 @@
+{
+  "id": "mas-fca-agentes-ia-finanzas-permisos-auditoria-2026-11-25",
+  "section": "fintech",
+  "type": "analisis",
+  "title": "Singapur prueba pagos con agentes de IA bajo reglas de auditoría en tiempo real y el regulador británico fija límites sobre quién responde si algo sale mal",
+  "date": "2026-11-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "FF News – Terminal 3 and HSBC Test AI Agent Safeguards Under MAS PathFin.ai Initiative",
+      "url": "https://ffnews.com/news/terminal-3-and-hsbc-test-ai-agent-safeguards-under-mas-pathfinai-initiative",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Freshfields – Agentic AI: the UK FCA sets out expectations for firms and providers",
+      "url": "https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/agentic-ai-the-uk-fca-sets-out-expectations-for-firms-and-providers-102ob2g",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Acuerdos Bancarios (Acuerdo 8-2026)",
+      "url": "https://www.superbancos.gob.pa/acuerdos/bancarios",
+      "date": "2026-10-08"
+    }
+  ],
+  "body": [
+    "La conversación sobre agentes de inteligencia artificial en la banca pasó en pocas semanas de los bloqueos defensivos a la ingeniería de permisos. Este 25 de noviembre se conocieron dos avances relevantes desde Asia y Europa: en Singapur, HSBC, Green Link Digital Bank (GLDB), la red de pagos AXS y la firma de infraestructura Terminal 3 completaron una prueba de concepto bajo la iniciativa PathFin.ai de la Autoridad Monetaria de Singapur (MAS); y en el Reino Unido, la Autoridad de Conducta Financiera (FCA) publicó el 24 de noviembre sus expectativas para bancos, proveedores tecnológicos y plataformas que despliegan IA agéntica.",
+    "Ninguno de los dos anuncios lanza un servicio comercial automático para el público general, pero ambos dibujan el estándar que viene: los agentes de IA no pueden operar con la clave del usuario; necesitan identidad verificable, mandatos acotados y trazabilidad a prueba de alteraciones.",
+    "## Qué probó Singapur con el marco SAFR",
+    "Según el comunicado divulgado por FF News, la prueba bajo PathFin.ai aplicó el marco Safeguards for Agentic Finance at Runtime (SAFR), centrado en cuatro pilares: identidad del agente, controles, decisiones en tiempo de ejecución y auditabilidad.",
+    "Los participantes ensayaron dos escenarios controlados:",
+    "- Pago de facturas de un cliente: un agente de IA validó la cuenta de un facturador en la red AXS —abierta a socios mediante un servidor MCP—, consultó la factura y envió la instrucción por rieles de pago existentes.",
+    "- Tesorería corporativa con confirmación previa: un agente externo registrado que actuaba en nombre de un tesorero empresarial solicitó información de cuenta y propuso una orden de pago, obligando al sistema a verificar la identidad del agente, validar el mandato del cliente y exigir confirmación final antes de ejecutar.",
+    "El papel de Terminal 3 fue aportar una capa de confianza que verifica al agente y a quién representa antes de que la solicitud llegue al banco, contrasta cada paso con el mandato autorizado y deja un registro de auditoría resistente a manipulaciones, incluso frente al propio agente.",
+    "## Qué exige el regulador británico (FCA)",
+    "En paralelo, el análisis publicado por Freshfields sobre la actualización de la FCA británica subraya dos principios clave:",
+    "- Las normas vigentes siguen aplicando: las entidades reguladas continúan siendo responsables del cumplimiento normativo al usar o depender de IA agéntica, incluso si interviene un tercero.",
+    "- Consentimiento y responsabilidad por instrucciones: la FCA pide a las entidades financieras evaluar cómo verifican la autoridad de un agente personal enviado por el cliente, qué pasa si un pago ordenado por un agente provoca una pérdida y cuándo resulta apropiado aceptar instrucciones desde una billetera controlada por IA.",
+    "Además, el regulador advierte a proveedores de tecnología y redes sociales que si un agente realiza actividades equivalentes a asesoría financiera, intermediación de crédito o servicios de pago, puede quedar dentro del perímetro regulatorio y requerir autorización.",
+    "## Qué significa para bancos y clientes en Panamá",
+    "En Panamá no existe todavía un servicio bancario comercial operado por agentes autónomos de clientes, pero la tendencia deja señales prácticas. La Superintendencia de Bancos de Panamá ya reforzó mediante el Acuerdo 8-2026 los controles de verificación en transferencias electrónicas nacionales para reducir errores y fraudes.",
+    "Para un usuario panameño, la regla sigue siendo sencilla: nunca entregue su usuario, contraseña, PIN o token bancario a un asistente de IA externo. Si en el futuro los bancos locales habilitan funciones para que asistentes automatizados consulten saldos o preparen pagos, deberán hacerlo por canales oficiales con permisos revocables, límites por monto y confirmación explícita del titular, tal como hoy se prueba en Singapur y exige el supervisor británico."
+  ]
+}

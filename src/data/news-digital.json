@@ -1,5 +1,207 @@
 [
   {
+    "id": "eba-pide-reglas-firmas-cripto-acceso-prestamos-defi-2026-11-25",
+    "title": "La EBA pide a la Comisión Europea evaluar reglas para firmas cripto que facilitan acceso a préstamos DeFi",
+    "summary": "En un informe publicado el 25 de noviembre, la Autoridad Bancaria Europea (EBA) advirtió que los protocolos DeFi permiten obtener rendimientos sobre tokens de dinero electrónico (prohibidos bajo MiCA) y acceder a stablecoins no autorizadas en la UE. Recomendó evaluar pruebas de idoneidad, límites de apalancamiento y certificación para intermediarios cripto.",
+    "date": "2026-11-25",
+    "source": "European Banking Authority (EBA)",
+    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-examines-use-stablecoins-including-emts-decentralised-finance",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Unión Europea",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "regulación",
+      "MiCA",
+      "stablecoins",
+      "DeFi"
+    ]
+  },
+  {
+    "id": "hkma-lanza-cmu-digital-asset-platform-dlt-24h-2026-11-25",
+    "title": "La Autoridad Monetaria de Hong Kong lanza la plataforma DLT CMU Digital Asset Platform con liquidación 24 horas",
+    "summary": "La HKMA anunció el lanzamiento oficial de CMU DAP, una infraestructura sobre tecnología de registro distribuido para emisión primaria, compensación, liquidación atómica DvP y tokenización de deuda con conexión a sistemas RTGS y monedas digitales de banco central. Su hoja de ruta prevé integrar depósitos tokenizados y stablecoins reguladas.",
+    "date": "2026-11-25",
+    "source": "Hong Kong Monetary Authority (HKMA)",
+    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Hong Kong",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "tokenización",
+      "banco central",
+      "liquidación",
+      "stablecoins"
+    ]
+  },
+  {
+    "id": "bitcoin-bajo-58000-salidas-etf-pce-eeuu-2026-11-25",
+    "title": "Bitcoin cae por debajo de USD 58,000 y los ETF al contado en EE. UU. suman seis días seguidos de salidas tras el dato de PCE",
+    "summary": "Bitcoin descendió hasta USD 57,300 y ether retrocedió más de 2 % en medio de la caída de acciones tecnológicas y un PCE subyacente estadounidense de 3.3 % que reforzó apuestas por un alza de la Fed en diciembre. Los ETF al contado de bitcoin en EE. UU. registraron salidas por USD 231.4 millones el martes, acumulando USD 4,940 millones en noviembre.",
+    "date": "2026-11-25",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/es/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Estados Unidos",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "ETF",
+      "mercado",
+      "bitcoin",
+      "ether"
+    ]
+  },
+  {
+    "id": "corea-sur-propone-bancos-mayoria-emisores-stablecoins-won-2026-11-24",
+    "title": "Corea del Sur propone que los bancos posean más del 50 % de los emisores de stablecoins vinculadas al won",
+    "summary": "La Comisión de Servicios Financieros (FSC) de Corea del Sur planteó exigir que los bancos mantengan más de la mitad de la propiedad de cualquier emisor de stablecoins en won, reservas al 100 %, auditorías mensuales, redención a solicitud y prohibición de pagar intereses, además de topar al 20 % la participación accionaria en exchanges locales.",
+    "date": "2026-11-24",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/es/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "banca",
+      "stablecoins",
+      "regulación",
+      "banco central"
+    ]
+  },
+  {
+    "id": "straitsx-ocbc-piloto-pagos-b2b-stablecoins-cuentas-bancarias-2026-11-23",
+    "title": "StraitsX y OCBC prueban pagos B2B transfronterizos con stablecoins liquidados directo en cuentas bancarias",
+    "summary": "StraitsX y el banco singapurense OCBC lanzaron un piloto con NTT DOCOMO ASIA que conecta la infraestructura de direcciones dedicadas y cumplimiento on-chain de StraitsX con la relación bancaria y conversión fiduciaria de OCBC, permitiendo a empresas recibir cobros transfronterizos con stablecoins sin gestionar billeteras propias.",
+    "date": "2026-11-23",
+    "source": "StraitsX",
+    "url": "https://www.straitsx.com/blog-post/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Singapur",
+    "lang": "en",
+    "banks": [
+      "OCBC"
+    ],
+    "tags": [
+      "banca",
+      "stablecoins",
+      "pagos",
+      "liquidación"
+    ]
+  },
+  {
+    "id": "brasil-propone-mercosur-coordinar-rastreo-cripto-crimen-2026-11-23",
+    "title": "Brasil propone en el Mercosur coordinar el rastreo, custodia y decomiso de criptoactivos vinculados al crimen organizado",
+    "summary": "Durante la LXIV Reunión de Ministros de Justicia del Mercosur en Montevideo, Brasil propuso a Argentina, Paraguay, Uruguay y Chile ampliar la capacitación conjunta y articular protocolos de identificación, rastreo, custodia y decomiso de criptomonedas para cortar el financiamiento ilícito transnacional.",
+    "date": "2026-11-23",
+    "source": "CriptoNoticias",
+    "url": "https://www.criptonoticias.com/regulacion/brasil-mercosur-coordinar-rastreo-criptomonedas-crimen/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "América Latina",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "regulación",
+      "América Latina",
+      "prevención de lavado",
+      "Brasil"
+    ]
+  },
+  {
+    "id": "straitsx-ocbc-standard-chartered-interoperabilidad-depositos-tokenizados-2026-11-19",
+    "title": "StraitsX, OCBC y Standard Chartered prueban interoperabilidad entre redes de depósitos tokenizados bajo iniciativa BLOOM",
+    "summary": "Las tres entidades completaron una prueba de concepto bajo el programa BLOOM de la Autoridad Monetaria de Singapur (MAS) para liquidar pagos en dólares fuera de horario bancario entre las plataformas separadas de depósitos tokenizados de OCBC y Standard Chartered, reduciendo acuerdos bilaterales de prefinanciamiento.",
+    "date": "2026-11-19",
+    "source": "StraitsX",
+    "url": "https://www.straitsx.com/blog-post/straitsx-ocbc-and-standard-chartered-explore-interoperability-between-tokenised-deposits-networks",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Singapur",
+    "lang": "en",
+    "banks": [
+      "OCBC",
+      "Standard Chartered"
+    ],
+    "tags": [
+      "banca",
+      "depósitos tokenizados",
+      "interoperabilidad",
+      "pagos"
+    ]
+  },
+  {
+    "id": "dbs-kinexys-jpmorgan-interoperabilidad-24-7-depositos-tokenizados-2026-11-16",
+    "title": "DBS y Kinexys by J.P. Morgan lanzan interoperabilidad 24/7 para transferencias de depósitos tokenizados en dólares",
+    "summary": "DBS y la división Kinexys de J.P. Morgan activaron una solución comercial que permite transferencias instantáneas en USD las 24 horas entre cuentas basadas en blockchain en Estados Unidos y Singapur, utilizando Partior para orquestar la liquidación. Ant International es el primer cliente corporativo en usarla para gestión de tesorería.",
+    "date": "2026-11-16",
+    "source": "DBS Bank",
+    "url": "https://www.dbs.com/newsroom/DBS_and_Kinexys_by_JP_Morgan_launch_industry_first_247_interoperability_solution_for_cross_border_tokenised_deposit_transfers",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Internacional",
+    "lang": "en",
+    "banks": [
+      "DBS",
+      "J.P. Morgan"
+    ],
+    "tags": [
+      "banca",
+      "depósitos tokenizados",
+      "USD",
+      "pagos"
+    ]
+  },
+  {
+    "id": "banco-central-brasil-debate-stablecoins-lavado-efx-2026-11-16",
+    "title": "Declaraciones del Banco Central de Brasil sobre stablecoins y lavado generan debate legislativo y gremial",
+    "summary": "Legisladores brasileños y la asociación ABToken pidieron aclaraciones al Banco Central de Brasil tras declaraciones de un jefe de división que comparó operaciones con stablecoins con el mercado informal de divisas, en medio de la aplicación de la Resolución 561 que prohíbe liquidar con criptoactivos ciertos pagos internacionales eFX.",
+    "date": "2026-11-16",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/es/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Brasil",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "banca",
+      "stablecoins",
+      "Brasil",
+      "regulación",
+      "prevención de lavado"
+    ]
+  },
+  {
+    "id": "eba-supervision-dual-usdc-contraste-panama-2026-11-16",
+    "title": "La EBA asume la supervisión dual de reservas de USDC bajo MiCA mientras Panamá sigue sin ley de activos virtuales",
+    "summary": "Desde el 12 de noviembre de 2026, la Autoridad Bancaria Europea (EBA) asumió la supervisión directa de fondos propios, reservas y liquidez de USDC como primer token de dinero electrónico significativo en la UE. En contraste, Panamá continúa sin ley de activos virtuales en vigor y la SMV reiteró en su Opinión 06-26 que carece de competencia general sobre ese mercado.",
+    "date": "2026-11-16",
+    "source": "Stablecoin.com.pa",
+    "url": "https://stablecoin.com.pa/noticias/eba-asume-supervision-reservas-usdc-union-europea-12-noviembre",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "banca",
+      "stablecoins",
+      "Panamá",
+      "MiCA",
+      "regulación"
+    ]
+  },
+  {
     "id": "itau-primer-banco-brasil-formaliza-corretaje-cripto-2026-10-28",
     "title": "Itaú Unibanco, primer banco de Brasil en formalizar su corretaje cripto ante el banco central",
     "summary": "Itaú Unibanco notificó al Banco Central de Brasil sus operaciones de compraventa y custodia de criptoactivos bajo la Resolución 520, antes del plazo del 30 de octubre. Los bancos ya autorizados pueden seguir un proceso de notificación con certificación técnica independiente, mientras que los proveedores dedicados deben pedir autorización. Itaú ofrece 15 criptoactivos, entre ellos bitcoin, ether y USDC.",
@@ -216,1634 +418,5 @@
     ],
     "category": "activos-digitales",
     "type": "noticia"
-  },
-  {
-    "id": "smv-panama-criptoactivos-fuera-de-supervision-infobae-2026-10-25",
-    "title": "Panamá: la SMV reitera que las criptomonedas y los tokens quedan fuera de su supervisión",
-    "summary": "Infobae repasa que la Superintendencia del Mercado de Valores concluyó en 2018 y en 2025 que los esquemas con tokens o monedas virtuales no requieren su autorización, porque la Ley del Mercado de Valores no los define como valores. Sin una norma nueva, la SMV no tiene facultad para regular criptoactivos, mientras en la Asamblea siguen pendientes proyectos sobre activos virtuales.",
-    "date": "2026-10-25",
-    "source": "Infobae",
-    "url": "https://www.infobae.com/panama/2026/10/26/la-superintendencia-del-mercado-de-valores-de-panama-excluye-a-las-criptomonedas-de-su-supervision/",
-    "country": "Panamá",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "Panamá",
-      "SMV",
-      "regulación",
-      "criptoactivos",
-      "tokenización"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "canada-consulta-reglamento-stablecoins-prohibe-rendimiento-2026-10-24",
-    "title": "Canadá abre consulta sobre su reglamento de stablecoins y mantiene la prohibición de pagar rendimientos",
-    "summary": "El Departamento de Finanzas publicó en la Canada Gazette el borrador de reglamento, con comentarios hasta el 23 de diciembre. Propone reservas 1:1 en activos líquidos depositadas en instituciones financieras canadienses calificadas, redención en un máximo de tres días hábiles con comisión tope de 1% y prohíbe pagar intereses por mantener stablecoins, aunque permite recompensas ligadas al uso.",
-    "date": "2026-10-24",
-    "source": "Canada Gazette",
-    "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
-    "country": "Canadá",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "regulación",
-      "Banco de Canadá",
-      "banca"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "bce-euro-digital-piloto-beta-comercios-2026-10-24",
-    "title": "El BCE abre la convocatoria de comercios para el piloto beta del euro digital",
-    "summary": "El Banco Central Europeo invitó a comercios en línea y móviles de la zona euro a sumarse a un piloto de 12 meses con un «euro digital beta» sin curso legal, previsto desde el segundo semestre de 2027 junto a 36 proveedores de pagos ya seleccionados. El BCE recalca que el piloto no garantiza la emisión, que depende de la aprobación de la legislación europea.",
-    "date": "2026-10-24",
-    "source": "Codego News",
-    "url": "https://news.codegotech.com/ecb-digital-euro-beta-pilot-merchant-open/",
-    "country": "Zona euro",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "euro digital",
-      "BCE",
-      "pagos"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "wells-fargo-y-otras-cinco-empresas-rechazan-acciones-tokenizadas-okxice",
-    "title": "Wells Fargo, Cisco y otras cuatro empresas se oponen a que OKXICE negocie versiones tokenizadas de sus acciones",
-    "summary": "Un nuevo aviso público de OKXICE, la empresa conjunta de OKX e Intercontinental Exchange, suma seis objeciones de emisores, entre ellas la del banco Wells Fargo, con lo que ya son 22 las compañías que no quieren que sus acciones se negocien tokenizadas en esa plataforma. Bajo la exención de innovación de la SEC, los emisores tienen 30 días para oponerse; la objeción solo aplica a ese mercado concreto.",
-    "date": "2026-10-24",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [
-      "Wells Fargo"
-    ],
-    "tags": [
-      "tokenización",
-      "SEC",
-      "regulación",
-      "banca"
-    ]
-  },
-  {
-    "id": "xapo-bank-clientes-bitcoin-prestamos-y-rendimiento",
-    "title": "Xapo Bank: los grandes tenedores de bitcoin pasan del trading a servicios de banca privada",
-    "summary": "El CEO de Xapo Bank, Seamus Rocca, explicó que sus clientes usan cada vez más el bitcoin como garantía para obtener préstamos y buscan ingresos sin vender sus tenencias. Según el banco con sede en Gibraltar, cerca del 45 % de sus clientes recibe en bitcoin los intereses de sus ahorros en dólares. Rocca señaló que la cautela de la banca tradicional abre espacio a proveedores especializados.",
-    "date": "2026-10-24",
-    "source": "CoinDesk en Español",
-    "url": "https://www.coindesk.com/es/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Gibraltar",
-    "lang": "es",
-    "banks": [
-      "Xapo Bank"
-    ],
-    "tags": [
-      "bitcoin",
-      "banca",
-      "banca privada",
-      "custodia"
-    ]
-  },
-  {
-    "id": "banca-italia-scotti-sistema-dos-niveles-dinero-digital-2026-10-23",
-    "title": "Banca d'Italia defiende el sistema de dos niveles ante la tokenización y las monedas digitales",
-    "summary": "La subgobernadora Chiara Scotti, en un discurso difundido por el BIS, sostuvo que los bancos centrales deben seguir aportando el ancla monetaria pública mientras los bancos e intermediarios innovan en servicios. Advirtió que, si el dinero privado se volviera el principal medio de liquidación mayorista en redes tokenizadas, se perdería el acceso a un activo de liquidación sin riesgo, y vio en un CBDC minorista una forma de mantener la opción pública que hoy da el efectivo.",
-    "date": "2026-10-23",
-    "source": "BIS / Banca d'Italia",
-    "url": "https://www.bis.org/speeches/20261027-two-tier-system-transition-public-foundations-private-innovation.pdf",
-    "country": "Italia",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "tokenización",
-      "banca central",
-      "banca"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
-  },
-  {
-    "id": "sec-incluye-tokenizacion-prioridades-examen-2027",
-    "title": "La SEC incluye la tokenización entre sus prioridades de supervisión para el año fiscal 2027",
-    "summary": "La División de Exámenes de la SEC publicó sus prioridades para el año fiscal 2027. Entre los riesgos de la infraestructura de mercado que revisará figuran la tokenización y la reforma de compensación de bonos del Tesoro, junto con la resiliencia operativa, la ciberseguridad y las tecnologías emergentes. Es la primera vez que la tokenización aparece en esa lista anual.",
-    "date": "2026-10-23",
-    "source": "SEC (Comisión de Bolsa y Valores de EE. UU.)",
-    "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "SEC",
-      "tokenización",
-      "regulación",
-      "supervisión"
-    ]
-  },
-  {
-    "id": "banco-de-ghana-piloto-cbdc-minorista-giesecke-devrient",
-    "title": "El Banco de Ghana probará una moneda digital de banco central minorista con Giesecke+Devrient",
-    "summary": "El Banco de Ghana anunció una alianza con la firma alemana Giesecke+Devrient para pilotear una CBDC de uso general. La empresa aportará la tecnología y adaptará la solución a las necesidades del país, que se probará con bancos, proveedores de pago, comercios y consumidores.",
-    "date": "2026-10-23",
-    "source": "Banco de Ghana",
-    "url": "https://www.bog.gov.gh/news/press-release-bank-of-ghana-partners-with-gieseckedevrient-to-pilot-first-general-purpose-central-bank-digital-currency-in-africa/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Ghana",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "bancos centrales",
-      "banca",
-      "pagos"
-    ]
-  },
-  {
-    "id": "el-salvador-fondo-tokenizado-medido-en-bitcoin-lbaf",
-    "title": "El Salvador suma un fondo de inversión tokenizado medido en bitcoin bajo su marco de activos digitales",
-    "summary": "La gestora CMCC Global tokenizó el Liberty Bitcoin Accumulation Fund, un fondo denominado en bitcoin, y lanzó además un fondo en dólares orientado a bonos del Tesoro de EE. UU. Las participaciones se emiten con la tecnología Hadron de Tether y se negocian en Bitfinex Securities El Salvador, plataforma supervisada por la Comisión Nacional de Activos Digitales (CNAD).",
-    "date": "2026-10-23",
-    "source": "CriptoNoticias",
-    "url": "https://www.criptonoticias.com/mercados/elsalvador-fondo-inversion-medido-bitcoin/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "El Salvador",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "bitcoin",
-      "Centroamérica",
-      "regulación"
-    ]
-  },
-  {
-    "id": "hsbc-lanza-redcoin-stablecoin-hkd-payme",
-    "title": "HSBC lanza RedCoin, su primera stablecoin, para más de 3,3 millones de usuarios de PayMe en Hong Kong",
-    "summary": "HSBC puso en marcha RedCoin (RCHKD), una stablecoin en dólares de Hong Kong con licencia de la Autoridad Monetaria de Hong Kong. Los usuarios de la app PayMe podrán activar una billetera para enviar dinero entre personas y pagar en más de 100.000 comercios. El banco prevé llevarla a su app bancaria y usarla para suscribir inversiones tokenizadas, como un fondo del mercado monetario.",
-    "date": "2026-10-23",
-    "source": "HSBC Hong Kong",
-    "url": "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Hong Kong",
-    "lang": "en",
-    "banks": [
-      "HSBC"
-    ],
-    "tags": [
-      "stablecoins",
-      "banca",
-      "pagos",
-      "tokenización"
-    ]
-  },
-  {
-    "id": "us-bank-piloto-stablecoin-usbdc-stellar",
-    "title": "U.S. Bank completa una transacción piloto en vivo con su stablecoin USBDC en Stellar",
-    "summary": "U.S. Bank realizó una transacción piloto real con USBDC, su stablecoin, sobre la red Stellar. Según el medio, el volumen de stablecoins en Stellar creció 121 % en el tercer trimestre de 2026, en un contexto en que los grandes bancos estadounidenses prueban dinero tokenizado propio.",
-    "date": "2026-10-23",
-    "source": "TokenPost",
-    "url": "https://www.tokenpost.com/news/business/38832",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [
-      "U.S. Bank"
-    ],
-    "tags": [
-      "stablecoins",
-      "banca",
-      "blockchain"
-    ]
-  },
-  {
-    "id": "hana-financial-dunamu-prueba-pagos-stablecoins",
-    "title": "Hana Financial y Dunamu (Upbit) prueban pagos y liquidación en tiempo real con stablecoins",
-    "summary": "El grupo financiero surcoreano Hana realiza una prueba de concepto con Dunamu, operador del exchange Upbit, para liquidar pagos a comercios en tiempo real con stablecoins de los clientes, en lugar de esperar varios días por la red de tarjetas. La prueba incluye combinar varias stablecoins en un mismo pago; su uso práctico depende de que Corea apruebe el marco regulatorio.",
-    "date": "2026-10-23",
-    "source": "The Asia Business Daily",
-    "url": "https://www.asiae.co.kr/en/article/2026102314292755066",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Corea del Sur",
-    "lang": "en",
-    "banks": [
-      "Hana Financial Group"
-    ],
-    "tags": [
-      "stablecoins",
-      "banca",
-      "pagos",
-      "exchanges"
-    ]
-  },
-  {
-    "id": "riksbank-advierte-stablecoins-extranjeras-e-krona",
-    "title": "El Riksbank advierte que stablecoins extranjeras y el euro digital podrían restar terreno a la corona sueca",
-    "summary": "El banco central de Suecia insiste en que el Parlamento prepare la legislación para una corona digital, ya que su desarrollo tomaría al menos cinco años. Su subgobernador Per Jansson señaló que, sin una corona digital utilizable, la moneda podría perder frente a instrumentos digitales más cómodos y transfronterizos. El banco aún no decide emitirla y la ve también como respaldo ante cortes de energía o telecomunicaciones.",
-    "date": "2026-10-23",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Suecia",
-    "lang": "en",
-    "banks": [
-      "Riksbank"
-    ],
-    "tags": [
-      "CBDC",
-      "stablecoins",
-      "bancos centrales",
-      "banca"
-    ]
-  },
-  {
-    "id": "franklin-templeton-registra-etf-bitcoin-drip-nasdaq",
-    "title": "Franklin Templeton registra dos ETF que convierten dividendos de acciones en exposición a bitcoin",
-    "summary": "La gestora completó el registro en la SEC de dos ETF para cotizar en Nasdaq (FBEQ y FIBT), sin fecha de lanzamiento. Ambos invertirán inicialmente 95 % en acciones estadounidenses y 5 % en bitcoin, usarán los dividendos para aumentar esa exposición con un tope de 20 % y cobrarán una comisión anual de 0,09 %.",
-    "date": "2026-10-23",
-    "source": "crypto.news",
-    "url": "https://crypto.news/franklin-templeton-moves-closer-to-launching-two-bitcoin-drip-etfs-on-nasdaq/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "ETF",
-      "bitcoin",
-      "SEC"
-    ]
-  },
-  {
-    "id": "mas-bloom-malasia-tailandia-dinero-digital-transfronterizo",
-    "title": "Malasia y Tailandia se suman a BLOOM, la iniciativa de Singapur para pagos transfronterizos con dinero digital",
-    "summary": "La Autoridad Monetaria de Singapur anunció que los bancos centrales de Malasia y Tailandia se unen a BLOOM como miembros reguladores. La iniciativa público-privada trabajará en reglas comunes para aceptar, intercambiar y liquidar depósitos tokenizados y stablecoins reguladas entre países, con foco en interoperabilidad y controles como verificación de identidad y filtrado de sanciones. También se incorporan Mastercard, Visa, Maybank, Ripple y el Grupo Banco Mundial.",
-    "date": "2026-10-23",
-    "source": "Autoridad Monetaria de Singapur (MAS)",
-    "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-bnm-and-bot-partner-with-industry-to-advance-cross-border-settlement-in-digital-money",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Asia",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "banca",
-      "bancos centrales",
-      "depósitos tokenizados",
-      "stablecoins",
-      "pagos transfronterizos"
-    ]
-  },
-  {
-    "id": "banco-corea-hangang-depositos-tokenizados-segunda-prueba",
-    "title": "Banco de Corea: el dinero del banco central sigue siendo necesario; Project Hangang ampliará su prueba con depósitos tokenizados",
-    "summary": "En un seminario en Seúl, el jefe de la Oficina de Moneda Digital del Banco de Corea defendió que la tecnología blockchain no elimina la necesidad del dinero de banco central para la liquidez y la firmeza de la liquidación. Project Hangang, que combina depósitos tokenizados emitidos por bancos con moneda digital mayorista, tendrá una segunda prueba real a fines de año con nueve bancos y hasta 500.000 usuarios; Project Agora apunta a comercializarse en 2028.",
-    "date": "2026-10-23",
-    "source": "Bloomingbit",
-    "url": "https://en.bloomingbit.io/feed/news/122799",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Corea del Sur",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "banca",
-      "bancos centrales",
-      "CBDC",
-      "depósitos tokenizados"
-    ]
-  },
-  {
-    "id": "sofi-sofie-deposito-tokenizado-asegurado-fdic",
-    "title": "SoFi lanza un depósito tokenizado con interés y seguro de la FDIC para clientes cripto",
-    "summary": "SoFi presentó SoFi Earn (SOFIE), un depósito tokenizado que paga intereses y cuenta con cobertura de la FDIC dentro de los límites aplicables. Cada SOFIE equivale a un dólar depositado en SoFi Bank y puede convertirse 1:1 en la stablecoin SoFiUSD para comprar criptoactivos o transferir fondos; la stablecoin no está asegurada. Según el banco, es la primera vez que un banco nacional de EE. UU. ofrece depósitos tokenizados a personas, y completará el despliegue en noviembre.",
-    "date": "2026-10-22",
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "banca",
-      "depósitos tokenizados",
-      "stablecoins",
-      "FDIC"
-    ]
-  },
-  {
-    "id": "bancos-critican-regla-occ-rendimiento-stablecoins",
-    "title": "La regla final de la OCC sobre stablecoins reaviva la disputa entre bancos y plataformas cripto por los rendimientos",
-    "summary": "La regla de la OCC que implementa la Ley GENIUS prohíbe que plataformas como exchanges paguen intereses solo por mantener stablecoins, pero deja otras actividades a revisión caso por caso, en lugar de la presunción restrictiva de la propuesta original. La Asociación de Banqueros de EE. UU. (ABA) criticó el cambio por considerar que mantiene el statu quo de las plataformas y que puede restar depósitos a los bancos. La regla entra en vigor el 18 de enero de 2027.",
-    "date": "2026-10-22",
-    "source": "Roll Call",
-    "url": "https://rollcall.com/2026/10/22/stablecoin-yield-rule-revives-crypto-vs-banking-industry-fight/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "banca",
-      "regulación",
-      "stablecoins",
-      "GENIUS Act",
-      "OCC"
-    ]
-  },
-  {
-    "id": "coinbase-advierte-regulacion-stablecoins-brasil",
-    "title": "Coinbase advierte que una regulación excesiva podría frenar las stablecoins en Brasil",
-    "summary": "El director regional de Coinbase para las Américas señaló que tratar las stablecoins como divisas podría aplicarles el impuesto sobre operaciones financieras (IOF) y encarecer su uso, además de frenar las stablecoins ligadas al real. La discusión ocurre a días del 30 de octubre, plazo para que las empresas cripto pidan autorización al Banco Central de Brasil en una de tres categorías: intermediario, custodio o corredor.",
-    "date": "2026-10-22",
-    "source": "CriptoNoticias",
-    "url": "https://www.criptonoticias.com/comunidad/adopcion/regulacion-excesiva-frenar-mercado-stablecoins-brasil-coinbase/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Brasil",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "regulación",
-      "stablecoins",
-      "bancos centrales",
-      "Latinoamérica"
-    ]
-  },
-  {
-    "id": "sec-tres-firmas-plataformas-valores-tokenizados",
-    "title": "Tres firmas notifican a la SEC que operarán plataformas de acciones tokenizadas",
-    "summary": "La SEC publicó la lista de empresas que avisaron su intención de operar como plataformas de valores tokenizados bajo la «exención de innovación»: TSV LLC (sobre Canton Network), OKXICE, la empresa conjunta de OKX e ICE (sobre X Layer), y Kephas Corp., filial de Perpetuals.com (sobre Kronos X Public). El regulador aclara que figurar en la lista no significa que cumplan las condiciones de la exención.",
-    "date": "2026-10-22",
-    "source": "TokenPost",
-    "url": "https://www.tokenpost.com/news/regulation/37601",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "SEC",
-      "regulación",
-      "mercado de valores"
-    ]
-  },
-  {
-    "id": "vantage-rio-bank-pago-prestamo-depositos-tokenizados",
-    "title": "Dos bancos de Texas liquidan un pago de préstamo sindicado con depósitos tokenizados en Ethereum",
-    "summary": "Vantage Bank y Rio Bank completaron el pago de capital e intereses de una participación de préstamo usando depósitos tokenizados de la red Hazel, desarrollada por Vantage y Custodia Bank. Según la plataforma Participate, los fondos llegaron en menos de tres minutos y los saldos y avisos del préstamo se actualizaron al mismo tiempo, un proceso que suele tardar días. Participate planea ofrecer el servicio a los más de 750 bancos de su red.",
-    "date": "2026-10-21",
-    "source": "Crypto Briefing",
-    "url": "https://cryptobriefing.com/vantage-rio-bank-tokenized-deposit-loan-payment/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "banca",
-      "depósitos tokenizados",
-      "tokenización",
-      "préstamos"
-    ]
-  },
-  {
-    "id": "china-actualiza-sistema-yuan-digital-contratos-inteligentes",
-    "title": "China actualiza la infraestructura del yuan digital y suma servicios de contratos inteligentes",
-    "summary": "El centro operativo del e-CNY del Banco Popular de China presentó un sistema renovado que integra emisión, pagos minoristas y mayoristas, blockchain y contratos inteligentes, con el fin de bajar costos para las entidades financieras. Hasta septiembre, el yuan digital acumulaba 4.300 millones de transacciones por unos 31 billones de yuanes.",
-    "date": "2026-10-21",
-    "source": "Xinhua",
-    "url": "https://english.news.cn/20261021/ab8431c28bc7489abd62eddaacde4246/c.html",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "China",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "banca central",
-      "yuan digital",
-      "banca"
-    ]
-  },
-  {
-    "id": "bce-cipollone-invita-bancos-pontes-appia",
-    "title": "El BCE invita a los bancos a usar Pontes y a diseñar el futuro mercado tokenizado europeo",
-    "summary": "Piero Cipollone, miembro del Comité Ejecutivo del BCE, pidió a la banca italiana sumarse a Pontes, el servicio activo desde septiembre que liquida operaciones con activos tokenizados en dinero de banco central. Explicó servicios que los bancos podrían construir sobre él y recordó que el trabajo de diseño de Appia, el proyecto de largo plazo, comenzará en 2027 con miras a un plan en 2028.",
-    "date": "2026-10-21",
-    "source": "EconoTimes",
-    "url": "https://econotimes.com/ECB-Invites-Banks-to-Shape-Tokenized-Market-Standards-After-Pontes-Launch-1759172",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Unión Europea",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "BCE",
-      "banca central",
-      "banca"
-    ]
-  },
-  {
-    "id": "lead-bank-pagos-internacionales-usdc-44-paises",
-    "title": "Lead Bank lanza pagos internacionales con USDC hacia cuentas bancarias en 44 países",
-    "summary": "El banco estadounidense ofrece a empresas financieras, mediante API, la conversión entre dólares y USDC y pagos en moneda local que llegan a cuentas bancarias sin que el destinatario use cripto. Entre los destinos figuran México, Colombia y Brasil; el tipo de cambio final se informa después de liquidar el pago.",
-    "date": "2026-10-21",
-    "source": "Crypto Economy ESP",
-    "url": "https://crypto-economy.com/es/lead-bank-lanza-una-plataforma-de-pagos-internacionales-con-usdc-disponible-en-44-paises/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos",
-      "remesas",
-      "banca",
-      "Latinoamérica"
-    ]
-  },
-  {
-    "id": "crown-brlv-licencia-banco-central-brasil-tarjetas",
-    "title": "Crown, emisora de la stablecoin BRLV, pide licencia al Banco Central de Brasil y prepara tarjetas para bancos",
-    "summary": "La fintech brasileña solicitó autorización como proveedora de servicios de activos virtuales bajo las nuevas normas del Banco Central y desarrolla infraestructura para que bancos y fintechs emitan tarjetas vinculadas a stablecoins. Las empresas que ya operaban deben entregar la documentación de la primera fase antes del 30 de octubre de 2026.",
-    "date": "2026-10-21",
-    "source": "BitNotícias",
-    "url": "https://bitnoticias.com.br/noticias/crown-stablecoin-cartoes-banco-central/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Brasil",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "regulación",
-      "banca central",
-      "banca",
-      "Latinoamérica"
-    ]
-  },
-  {
-    "id": "aton-suhyup-bank-stablecoin-ahorro-prestamos",
-    "title": "Suhyup Bank prueba una stablecoin en won para cuentas de ahorro y préstamos con garantía",
-    "summary": "La firma coreana Aton completó con Suhyup Bank una prueba de concepto que lleva una stablecoin ligada uno a uno al won más allá de pagos y remesas: apertura y cancelación de ahorros, préstamos con garantía de principio a fin y conversión a stablecoins en dólares para envíos al exterior, con registro en una blockchain pública.",
-    "date": "2026-10-21",
-    "source": "MoneyToday",
-    "url": "https://www.mt.co.kr/en/tech/2026/10/21/2026102109332674304",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Corea del Sur",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "banca",
-      "préstamos"
-    ]
-  },
-  {
-    "id": "shinhan-sbi-pagos-stablecoin-yen-corea",
-    "title": "Shinhan y SBI explorarán pagos con stablecoins en yenes para turistas japoneses en Corea",
-    "summary": "El grupo financiero coreano Shinhan y la japonesa SBI firmaron un acuerdo para estudiar pagos comerciales y de comercio exterior con stablecoins en yenes entre ambos países. El proyecto está en fase inicial: no han nombrado la stablecoin ni fijado fechas de prueba o lanzamiento.",
-    "date": "2026-10-21",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Corea del Sur / Japón",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos",
-      "banca"
-    ]
-  },
-  {
-    "category": "activos-digitales",
-    "type": "noticia",
-    "banks": [],
-    "id": "occ-regla-final-genius-act-stablecoins",
-    "title": "La OCC aprueba la regla final de la Ley GENIUS para emisores de stablecoins de pago en EE. UU.",
-    "summary": "La Oficina del Contralor de la Moneda (OCC) publicó el 21 de octubre su regla final para aplicar la Ley GENIUS. Fija requisitos de respaldo de reservas, canje, gestión de riesgos, custodia e informes para los emisores de stablecoins de pago bajo su supervisión, incluidos emisores extranjeros y actividades de custodia de bancos nacionales. Las normas de prevención de lavado y sanciones quedarán para una regla aparte con el Tesoro. La regla y la ley entran en vigor el 18 de enero de 2027, y la OCC anunciará cuándo empezará a recibir solicitudes y pedidos de exención.",
-    "date": "2026-10-21",
-    "source": "OCC (Oficina del Contralor de la Moneda)",
-    "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "tags": [
-      "stablecoins",
-      "regulación",
-      "GENIUS Act",
-      "banca"
-    ]
-  },
-  {
-    "category": "activos-digitales",
-    "type": "noticia",
-    "banks": [],
-    "id": "francia-propuestas-revision-mica",
-    "title": "Francia propone reforzar a ESMA y prohibir servicios con stablecoins que no cumplan MiCA",
-    "summary": "El Tesoro francés, la AMF, el Banco de Francia y la ACPR publicaron el 21 de octubre su respuesta conjunta a la consulta de la Comisión Europea sobre la revisión de MiCA. Piden aclarar los límites entre MiCA y las normas de instrumentos financieros y de pagos, impulsar stablecoins en euros y depósitos bancarios tokenizados, prohibir a los proveedores autorizados operar con stablecoins que no cumplan MiCA y dar a ESMA la supervisión de los grandes proveedores de criptoactivos. También proponen un marco para las finanzas descentralizadas y reglas más claras para el staking y los préstamos de criptoactivos.",
-    "date": "2026-10-21",
-    "source": "AMF (Autorité des Marchés Financiers)",
-    "url": "https://www.amf-france.org/en/news-publications/news-releases/amf-news-releases/mica-regulation-revision-french-authorities-publish-their-joint-proposals",
-    "country": "Francia / Unión Europea",
-    "lang": "en",
-    "tags": [
-      "MiCA",
-      "regulación",
-      "stablecoins",
-      "depósitos tokenizados",
-      "banca"
-    ]
-  },
-  {
-    "category": "activos-digitales",
-    "type": "noticia",
-    "banks": [],
-    "id": "anchorage-securitize-emision-directa-stablecoins",
-    "title": "Anchorage Digital Bank y Securitize planean emitir y canjear stablecoins directamente a través del banco",
-    "summary": "Anchorage Digital Bank, banco con licencia federal en EE. UU., y la plataforma de tokenización Securitize anunciaron un plan para que Securitize acuñe y canjee stablecoins directamente con el banco, que también se encargaría de la custodia y la liquidación sin intermediarios externos. Securitize tiene más de US$4.000 millones en activos tokenizados en su plataforma, con fondos de gestoras como BlackRock, Apollo y KKR. Por ahora se trata de un plan anunciado, sin fecha de puesta en marcha.",
-    "date": "2026-10-21",
-    "source": "TokenPost",
-    "url": "https://www.tokenpost.com/news/business/36521",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "tags": [
-      "stablecoins",
-      "tokenización",
-      "custodia",
-      "banca"
-    ]
-  },
-  {
-    "category": "activos-digitales",
-    "type": "noticia",
-    "banks": [],
-    "id": "finma-aprueba-primer-etf-bitcoin-suiza",
-    "title": "Suiza aprueba su primer ETF de bitcoin al contado para inversionistas minoristas",
-    "summary": "La autoridad supervisora suiza FINMA aprobó el primer ETF de bitcoin al contado para el público minorista del país y, para ello, eximió al fondo de sus reglas de diversificación. La gestora BIT Asset Management dijo ser la emisora y prevé listarlo en noviembre en SIX Swiss Exchange. FINMA advirtió que invertir en bitcoin, incluso mediante un ETF aprobado, sigue siendo muy riesgoso, y exige controles de custodia, advertencias de volatilidad y pruebas de idoneidad al venderlo.",
-    "date": "2026-10-20",
-    "source": "BeInCrypto (sobre comunicado de FINMA)",
-    "url": "https://beincrypto.com/switzerland-first-spot-bitcoin-etf-retail/",
-    "country": "Suiza",
-    "lang": "en",
-    "tags": [
-      "ETF",
-      "bitcoin",
-      "regulación",
-      "supervisores"
-    ]
-  },
-  {
-    "category": "activos-digitales",
-    "type": "noticia",
-    "banks": [],
-    "id": "okxice-microsoft-alphabet-goldman-objetan-tokenizacion",
-    "title": "Microsoft, Alphabet y Goldman Sachs se suman a las empresas que rechazan que sus acciones se negocien tokenizadas en OKXICE",
-    "summary": "Siete emisores más, entre ellos Microsoft, Alphabet, Goldman Sachs, Qualcomm, Caterpillar y McDonald's, objetaron que versiones tokenizadas de sus acciones se negocien en OKXICE, la plataforma conjunta de OKX e Intercontinental Exchange. Con ellos ya son 16 las empresas que se oponen, según el aviso actualizado del 19 de octubre. El marco de exención de la SEC permite a los emisores bloquear estas cotizaciones, lo que se convierte en un obstáculo para el comercio de acciones tokenizadas en EE. UU.",
-    "date": "2026-10-20",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "tags": [
-      "tokenización",
-      "SEC",
-      "acciones tokenizadas",
-      "banca"
-    ]
-  },
-  {
-    "category": "activos-digitales",
-    "type": "noticia",
-    "banks": [],
-    "id": "visa-mesh-pagos-cripto-stablecoins-comercios",
-    "title": "Visa y Mesh se alían para pagar con saldos en cripto y stablecoins en comercios de la red Visa",
-    "summary": "Visa y la empresa de infraestructura de pagos Mesh anunciaron una alianza para que usuarios de ciertas billeteras paguen con sus saldos en criptomonedas y stablecoins en los más de 175 millones de comercios de Visa, sin vender antes ni pedir una tarjeta aparte. Visa crearía una credencial de pago asociada a la billetera y Mesh haría la conversión y la verificación de identidad. Aún no hay fecha de lanzamiento ni lista de billeteras, monedas, comisiones o países.",
-    "date": "2026-10-20",
-    "source": "Criptoinforme",
-    "url": "https://criptoinforme.com/mercado/visa-mesh-pagar-cripto-stablecoins/",
-    "country": "Internacional",
-    "lang": "es",
-    "tags": [
-      "stablecoins",
-      "pagos",
-      "tarjetas"
-    ]
-  },
-  {
-    "id": "banco-tailandia-consulta-stablecoins-baht",
-    "title": "El Banco de Tailandia consulta reglas para stablecoins en baht: respaldo total en depósitos y sin intereses",
-    "summary": "El Banco de Tailandia abrió el 20 de octubre una consulta pública sobre los principios para regular las stablecoins vinculadas al baht. La propuesta exige que el respaldo esté al 100 % en depósitos bancarios repartidos entre varios bancos, que cada moneda pueda canjearse 1:1 por baht en un día hábil y prohíbe pagar intereses o rendimientos a los tenedores. También plantea limitar el número de emisores en la fase inicial, separar el respaldo del patrimonio del emisor con publicación diaria y auditoría anual, y exigir licencia como servicio de pagos. El documento aún está en consulta y no es una norma vigente.",
-    "date": "2026-10-20",
-    "source": "Money & Banking Magazine",
-    "url": "https://en.moneyandbanking.co.th/2026/280262/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Tailandia",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "regulación",
-      "bancos centrales",
-      "banca"
-    ]
-  },
-  {
-    "id": "banco-corea-banco-inglaterra-cooperacion-tokenizacion",
-    "title": "El Banco de Corea y el Banco de Inglaterra amplían su cooperación en proyectos de tokenización",
-    "summary": "El Banco de Corea informó el 20 de octubre que amplía su cooperación con el Banco de Inglaterra en tokenización, tras la visita a Seúl de Sarah Breeden, subgobernadora de estabilidad financiera del banco británico. Ambas partes revisaron avances del Proyecto Agorá, la iniciativa del BIS que explora depósitos bancarios tokenizados y dinero mayorista de banco central para pagos transfronterizos, y del Proyecto Hangang, el piloto coreano de moneda digital mayorista. El Banco de Corea dijo que compartirá su experiencia y participará en las discusiones globales sobre el tema.",
-    "date": "2026-10-20",
-    "source": "Yonhap",
-    "url": "https://en.yna.co.kr/view/AEN20261020002500320",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Corea del Sur / Reino Unido",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "CBDC",
-      "bancos centrales",
-      "Proyecto Agorá",
-      "banca"
-    ]
-  },
-  {
-    "id": "sifma-pide-sec-aclarar-exencion-innovacion-valores-tokenizados",
-    "title": "SIFMA pide a la SEC aclarar la exención para valores tokenizados antes de que abran las nuevas plataformas",
-    "summary": "La asociación de la industria de valores de EE. UU., SIFMA, presentó el 19 de octubre una carta a la SEC sobre la llamada Exención de Innovación, que permite negociar acciones tokenizadas en plataformas especiales durante cinco años. SIFMA señala que la exención entró en vigor sin período de comentarios y que varias plataformas podrían empezar a operar en 30 días. Pide aclarar cuatro áreas: aviso y consentimiento de los emisores, protección del inversionista y prevención de delitos financieros, límites de volumen, y derechos de los accionistas. Entre sus propuestas figuran exigir consentimiento expreso del emisor y una opción universal de exclusión.",
-    "date": "2026-10-19",
-    "source": "SIFMA",
-    "url": "https://www.sifma.org/news/press-releases/sifma-urges-sec-to-resolve-key-questions-on-innovation-exemption-before-tokenized-securities-venues-launch",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "SEC",
-      "regulación",
-      "acciones tokenizadas"
-    ]
-  },
-  {
-    "id": "mastercard-stablecoin-security-riesgo-pagos",
-    "title": "Mastercard lanza Stablecoin Security para que los bancos evalúen el riesgo de pagos con stablecoins",
-    "summary": "Mastercard presentó el 19 de octubre, en Money20/20 USA, Stablecoin Security, un servicio que combina datos de pagos y análisis de blockchain para ayudar a las instituciones financieras a detectar fraude, estafas, sanciones y otros riesgos de delitos financieros en pagos con stablecoins, incluso antes de que los fondos se muevan en la cadena. Funciona mediante una API que entrega una puntuación de riesgo y se integra a los procesos de cumplimiento existentes. Arranca en Norteamérica con Borderless.xyz y Keyrails como primeros socios y se espera su disponibilidad mundial en 2027.",
-    "date": "2026-10-19",
-    "source": "Mastercard",
-    "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/october/Mastercard-brings-risk-intelligence-to-stablecoin-payments.html",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos",
-      "cumplimiento",
-      "prevención de fraude",
-      "banca"
-    ]
-  },
-  {
-    "id": "euronet-fireblocks-tarjetas-respaldadas-stablecoins",
-    "title": "Euronet y Fireblocks permitirán a bancos y fintech emitir tarjetas con saldo en stablecoins",
-    "summary": "Euronet y Fireblocks anunciaron el 19 de octubre que bancos, fintech y otras instituciones podrán lanzar con su propia marca programas de tarjetas financiadas con stablecoins sobre las plataformas de emisión Ren y CoreCard de Euronet. Fireblocks aporta las billeteras integradas que guardan y mueven los saldos; el cliente usa sus credenciales habituales, sin frases semilla ni una app cripto aparte, y el comercio sigue recibiendo moneda local. Las empresas citan que en el segundo trimestre fiscal de 2026 Visa tenía más de 160 programas de tarjetas vinculadas a stablecoins.",
-    "date": "2026-10-19",
-    "source": "Euronet (GlobeNewswire)",
-    "url": "https://euronetworldwide.gcs-web.com/news-releases/news-release-details/euronet-and-fireblocks-power-next-era-mainstream-payments",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "tarjetas",
-      "pagos",
-      "banca"
-    ]
-  },
-  {
-    "id": "monfi-bank-lanza-stablecoin-musd-emitida-por-banco",
-    "title": "Monfi Bank, banco digital de Malasia, lanza MUSD, una stablecoin en dólares emitida por el propio banco",
-    "summary": "Monfi Digital Bank, banco digital internacional con licencia y sede en Malasia, anunció el 19 de octubre el lanzamiento de Monfi USD (MUSD), una stablecoin en dólares emitida directamente por el banco. Según el comunicado, sus reservas están 1:1 en efectivo y equivalentes en dólares en una cuenta segregada del propio balance del banco, se concilian a diario y tienen verificación externa anual; el canje a la par es una obligación del banco. Por ahora está disponible solo para instituciones y clientes privados calificados que pasen sus controles de conocimiento del cliente.",
-    "date": "2026-10-19",
-    "source": "Monfi Bank (GlobeNewswire)",
-    "url": "https://www.globenewswire.com/news-release/2026/10/19/3383756/0/en/monfi-bank-launches-monfi-usd-musd-the-only-regulated-bank-issued-stablecoin.html",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Malasia",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "banca digital",
-      "banca"
-    ]
-  },
-  {
-    "id": "euro-digital-negociaciones-limites-comisiones",
-    "title": "Euro digital: las negociaciones en la UE se centran en los límites de tenencia y las comisiones a comercios",
-    "summary": "Un análisis publicado el 19 de octubre repasa el estado de las negociaciones entre el Parlamento Europeo y el Consejo sobre el euro digital, que buscan un acuerdo político antes de fin de 2026. Las diferencias principales son quién fija el límite de tenencia por persona, qué referencia se usa para topar las comisiones que pagan los comercios y si las empresas podrán tener euros digitales. El BCE prevé un piloto con 36 bancos y proveedores de pagos en la segunda mitad de 2027 y una posible emisión en 2029 si la ley llega a tiempo. Los bancos temen que topes bajos no cubran sus costos.",
-    "date": "2026-10-19",
-    "source": "The European Post",
-    "url": "https://theeuropeanpost.eu/research-analysis/digital-euro-negotiations-turn-on-holding-limits-and-fees/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Unión Europea",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "euro digital",
-      "BCE",
-      "regulación",
-      "banca"
-    ]
-  },
-  {
-    "id": "jpmorgan-jpm-coin-ethereum-institucional",
-    "title": "JPMorgan lleva su token de depósitos JPM Coin a Ethereum para clientes institucionales",
-    "summary": "Kinexys, la unidad de blockchain de JPMorgan, anunció el 19 de octubre que su token de depósitos en dólares JPM Coin (JPMD), lanzado en noviembre de 2025 en la red Base, ya funciona también en Ethereum para clientes institucionales. El token representa depósitos bancarios existentes del banco y permite transferencias entre redes compatibles con Ethereum. JPMorgan indicó que Kinexys acumula más de 4 billones de dólares en transacciones, con un promedio de 7.000 millones diarios. El banco subraya que JPMD es un depósito tokenizado y no una stablecoin.",
-    "date": "2026-10-19",
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "depósitos tokenizados",
-      "tokenización",
-      "Ethereum",
-      "banca"
-    ]
-  },
-  {
-    "id": "allium-pagos-stablecoins-crecen-45-por-ciento",
-    "title": "Los pagos con stablecoins crecen 45 % en 2026 aunque la oferta en circulación casi no sube",
-    "summary": "Un informe de la firma de análisis Allium, citado por CoinDesk, indica que los pagos con stablecoins sumaron 482.000 millones de dólares entre enero y septiembre de 2026, un 45 % más que un año antes, y que el número de pagos superó los 1.000 millones. En cambio, el valor total en circulación rondaba los 305.000 millones a fines de septiembre, apenas 0,4 % más que en enero. El gasto con tarjetas vinculadas a stablecoins llegó a 3.900 millones. Ese mismo período, Mastercard, Visa y Stripe anunciaron servicios que combinan stablecoins con sus redes de pago tradicionales.",
-    "date": "2026-10-18",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Internacional",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos",
-      "tarjetas",
-      "banca"
-    ]
-  },
-  {
-    "id": "okx-ice-acciones-tokenizadas-objeciones-emisores",
-    "title": "Broadcom, Verizon y otras empresas se oponen a que sus acciones se negocien tokenizadas en OKX-ICE",
-    "summary": "Nueve empresas, entre ellas Broadcom, Verizon y UnitedHealth, objetaron que sus acciones se negocien en la plataforma de acciones tokenizadas que preparan OKX e Intercontinental Exchange (dueña de la Bolsa de Nueva York), según un aviso público del 15 de octubre. La plataforma operaría bajo la exención temporal de cinco años que la SEC aprobó el 17 de septiembre, con negociación las 24 horas y liquidación en stablecoins. Nasdaq también dijo que no quiere que sus propias acciones se tokenicen. Analistas de TD Securities señalan que depender de una exención temporal frena la inversión institucional.",
-    "date": "2026-10-18",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "acciones tokenizadas",
-      "SEC",
-      "regulación"
-    ]
-  },
-  {
-    "id": "sec-regulation-crypto-assets-cierre-comentarios",
-    "title": "Cierra el 20 de octubre el período de comentarios de la propuesta «Regulation Crypto Assets» de la SEC",
-    "summary": "La propuesta de la SEC presentada el 18 de agosto crearía dos exenciones para ofertas de contratos de inversión vinculados a criptoactivos: una de hasta 5 millones de dólares en cuatro años y otra de hasta 75 millones en cada período de 12 meses, además de un puerto seguro condicionado. El presidente de la SEC, Paul Atkins, insiste en que reglas duraderas dependen del Congreso a través de la Ley CLARITY, que no superó una votación de procedimiento en el Senado el 15 de septiembre (49 a 50). La SEC aún no ha aprobado la regla final.",
-    "date": "2026-10-18",
-    "source": "TokenPost",
-    "url": "https://www.tokenpost.com/news/regulation/34307",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "SEC",
-      "regulación",
-      "Ley CLARITY",
-      "criptoactivos"
-    ]
-  },
-  {
-    "id": "emiratos-singapur-cooperacion-cbdc-pagos-qr",
-    "title": "Los bancos centrales de Emiratos Árabes Unidos y Singapur ampliarán su cooperación en monedas digitales",
-    "summary": "El Banco Central de Emiratos Árabes Unidos y la Autoridad Monetaria de Singapur acordaron extender su cooperación a las monedas digitales de banco central (CBDC), los pagos transfronterizos con códigos QR y las finanzas verdes. El encuentro se celebró en Bangkok, durante las reuniones anuales del FMI y el Banco Mundial. Emiratos prepara el lanzamiento por fases de su Dírham Digital, que funcionará con un modelo de dos niveles: el banco central emite y las entidades financieras con licencia lo distribuyen a través de billeteras digitales.",
-    "date": "2026-10-18",
-    "source": "Khaleej Times",
-    "url": "https://www.khaleejtimes.com/business/uae-singapore-plan-digital-payments-through-cbdc-qr-codes",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Emiratos Árabes Unidos / Singapur",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "bancos centrales",
-      "pagos transfronterizos",
-      "banca"
-    ]
-  },
-  {
-    "id": "world-id-suite-bancos-deepfakes",
-    "title": "World, el proyecto de identidad de Sam Altman, lanza una versión de World ID para bancos contra fraudes con deepfakes",
-    "summary": "World presentó en la conferencia Money20/20 un paquete de verificación de identidad dirigido a bancos y empresas financieras, que reúne su app World ID, una verificación para detectar participantes falsos en llamadas de Zoom y una herramienta para delegar pruebas de identidad a agentes de inteligencia artificial. Nombró como socios de diseño a OpenExchange, Bain Capital, VanEck Funds y Outtake, pero no identificó a ningún banco que ya use el producto ni su precio. El proyecto está ligado al token WLD.",
-    "date": "2026-10-18",
-    "source": "The Block",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Internacional",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "identidad digital",
-      "fraude",
-      "inteligencia artificial",
-      "banca"
-    ]
-  },
-  {
-    "id": "wageen-tokens-deuda-el-salvador-panama",
-    "title": "La plataforma panameña de transporte Wageen busca hasta US$20 millones con deuda tokenizada inscrita en El Salvador",
-    "summary": "Financiero News informó que Wageen, plataforma de movilidad panameña, ofrece la emisión de activos digitales WAG1: hasta 20 millones de tokens de 1 dólar, a cinco años y con una tasa fija anual del 11 %. La emisión se inscribió el 23 de enero de 2026 ante la Comisión Nacional de Activos Digitales de El Salvador, porque Panamá aún no tiene un marco específico para este tipo de ofertas. Los fondos se destinarían a tecnología, operaciones y expansión. El caso muestra cómo empresas panameñas buscan financiamiento fuera de la banca tradicional mediante tokens.",
-    "date": "2026-10-17",
-    "source": "Financiero News",
-    "url": "https://www.financieronews.com/post/wageen-busca-captar-us-20-millones-con-tokens-digitales-que-ofrecen-11-de-inter%C3%A9s",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Panamá",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "deuda tokenizada",
-      "El Salvador",
-      "Panamá"
-    ]
-  },
-  {
-    "id": "goldman-wells-morgan-tokenizacion-crecimiento",
-    "title": "Goldman Sachs, Wells Fargo y Morgan Stanley ven la tokenización como oportunidad de negocio",
-    "summary": "En sus llamadas de resultados del tercer trimestre, tres grandes bancos de Wall Street explicaron su visión sobre la tokenización. El CEO de Goldman, David Solomon, dijo que podría generar más productos y actividad de trading, aunque por ahora es «pequeña y marginal». El CFO de Wells Fargo afirmó que sus depósitos tokenizados ya procesan pagos transfronterizos en producción, con abonos en dos minutos o menos y bajo volumen. Morgan Stanley cree que mover activos con más rapidez aumentará la demanda de asesoría patrimonial. Ninguno cuantificó ingresos.",
-    "date": "2026-10-17",
-    "source": "CoinDesk en Español",
-    "url": "https://www.coindesk.com/es/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "depósitos tokenizados",
-      "pagos transfronterizos",
-      "banca"
-    ]
-  },
-  {
-    "id": "fdic-hill-regla-final-genius-stablecoins",
-    "title": "FDIC prepara su regla final de stablecoins bajo la Ley GENIUS; la OCC finalizaría la suya antes de que acabe octubre",
-    "summary": "En la DC Fintech Week, el presidente de la FDIC, Travis Hill, dijo que los comentarios a su propuesta se centraron en las actividades permitidas a emisores de stablecoins, los activos de reserva, la resolución y los depósitos tokenizados, temas que la agencia analiza para su regla final. Señaló que coordina con la OCC, cuyo contralor, Jonathan Gould, indicó que su regla final llegaría antes de fin de octubre. Hill también advirtió que los pagos 24/7 podrían complicar el cierre ordenado de un banco en problemas.",
-    "date": "2026-10-17",
-    "source": "Bank Policy Institute (BPInsights)",
-    "url": "https://bpi.com/bpinsights-october-17-2026/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "regulación",
-      "Ley GENIUS",
-      "FDIC",
-      "OCC",
-      "banca"
-    ]
-  },
-  {
-    "id": "nexo-panama-cripto-tokens-ley-valores",
-    "title": "Panamá: la ley de valores no menciona criptoactivos ni tokens y tres proyectos siguen sin primer debate",
-    "summary": "Un reportaje de Nexo publicado el 16 de octubre revisa que el Texto Único de la ley del mercado de valores no menciona criptoactivos, activos virtuales ni tokens. La SMV respondió en 2018 y en 2025, en casos puntuales, que ciertos esquemas con tokens o criptomonedas no requerían su licencia, aunque esas opiniones no fijan una regla general. Según las fichas de la Asamblea Nacional, tres proyectos sobre proveedores de activos virtuales, entre ellos el 326 y el 454, siguen sin fecha de primer debate. Latinex dijo que quiere listar activos digitales desde Panamá.",
-    "date": "2026-10-16",
-    "source": "Nexo",
-    "url": "https://nexo.la/criptomonedas-fuera-mercado-valores/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Panamá",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "regulación",
-      "SMV",
-      "Asamblea Nacional",
-      "tokenización",
-      "Panamá"
-    ]
-  },
-  {
-    "id": "aba-bancos-piden-extender-plazo-fed-genius",
-    "title": "Gremios bancarios de EE. UU. piden a la Fed 60 días más para comentar sus reglas de stablecoins",
-    "summary": "La Asociación de Banqueros Estadounidenses (ABA), el Bank Policy Institute, la Consumer Bankers Association y los bancos comunitarios (ICBA) solicitaron extender del 30 de noviembre al 29 de enero el plazo de comentarios de las dos propuestas de la Reserva Federal para aplicar la Ley GENIUS: una sobre cómo un banco miembro obtiene aprobación para que una subsidiaria emita stablecoins de pago y otra sobre reservas, capital, redención, custodia y reportes. Argumentan que necesitan analizar primero la regla final de la OCC y pidieron requisitos similares entre agencias.",
-    "date": "2026-10-16",
-    "source": "ABA Banking Journal",
-    "url": "https://bankingjournal.aba.com/2026/10/banking-groups-urge-fed-to-extend-comment-period-for-genius-act-proposals/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "regulación",
-      "Reserva Federal",
-      "Ley GENIUS",
-      "banca"
-    ]
-  },
-  {
-    "id": "bce-estudio-limites-tenencia-cbdc",
-    "title": "Estudio del BCE: los límites de tenencia de una moneda digital pueden atraer saldos hacia el tope",
-    "summary": "Un documento de trabajo del Banco Central Europeo (n.º 3300) probó con 761 participantes de Francia, Alemania, Italia y España cómo reaccionan las personas a un tope de tenencia de una moneda digital de banco central. Quienes estaban por debajo del límite tendieron a aumentar sus saldos cuando el tope era alto, mientras que con un tope bajo los efectos se compensaron. Añadir una conversión automática desde la cuenta bancaria al pagar elevó el uso y redujo los saldos, un diseño que el BCE contempla para el euro digital con el fin de proteger los depósitos bancarios.",
-    "date": "2026-10-16",
-    "source": "Rate Brief (sobre documento de trabajo del BCE)",
-    "url": "https://ratebrief.org/news/euro/ecb-working-paper-cbdc-holding-limits-can-pull-balances-up-reverse-waterfall-raises-use-cuts-holdings/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Zona euro",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "euro digital",
-      "BCE",
-      "depósitos",
-      "banca"
-    ]
-  },
-  {
-    "id": "vaneck-retira-etf-lido-staked-ether",
-    "title": "VanEck retira ante la SEC su propuesta de ETF de ether en staking basado en Lido",
-    "summary": "VanEck pidió a la SEC, mediante un formulario fechado el 14 de octubre, retirar el registro de su Lido Staked Ethereum ETF porque no piensa seguir con la distribución; el registro nunca fue declarado efectivo y no se vendieron acciones. El fondo habría tenido stETH, el token de staking líquido del protocolo Lido. Según Bitcoin.com News, el mercado se volvió más competido tras el lanzamiento en marzo del fondo de ether en staking de BlackRock y la oferta de staking de corredores como Interactive Brokers.",
-    "date": "2026-10-16",
-    "source": "Bitcoin.com News",
-    "url": "https://news.bitcoin.com/finance/vaneck-withdraws-lido-staked-ether-etf/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "ETF",
-      "SEC",
-      "ether",
-      "staking"
-    ]
-  },
-  {
-    "id": "megabancos-japon-stablecoin-conjunta-poc",
-    "title": "Los tres megabancos de Japón completan su prueba de una stablecoin en yenes emitida en conjunto",
-    "summary": "Mizuho, MUFG y SMBC, junto a Mitsubishi UFJ Trust and Banking y la tecnológica TISI, anunciaron el 16 de octubre los resultados de una prueba de concepto realizada del 17 al 23 de julio con apoyo de la Agencia de Servicios Financieros de Japón. Emitieron una stablecoin en yenes bajo la Ley de Servicios de Pago y verificaron su emisión, transferencia y redención en pagos entre sedes de Mitsubishi Corporation en Japón y el exterior. Los bancos seguirán evaluando cumplimiento, protección al usuario, prevención de lavado y ciberseguridad antes de una implementación real.",
-    "date": "2026-10-16",
-    "source": "Mizuho Bank / MUFG / SMBC",
-    "url": "https://library.mizuhogroup.com/asset/ece61a72-35dc-40cd-b8d9-4f9b47777d04/bk_20261016release_eng.pdf",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Japón",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos transfronterizos",
-      "Japón",
-      "banca"
-    ]
-  },
-  {
-    "id": "jack-henry-google-cloud-depositos-tokenizados",
-    "title": "Jack Henry y Google Cloud acercan los depósitos tokenizados a bancos comunitarios y cooperativas",
-    "summary": "Jack Henry, proveedor de sistemas centrales para más de 7.200 entidades financieras, anunció el 16 de octubre que será el primer proveedor de core bancario en integrarse con Google Cloud Universal Ledger, un registro distribuido administrado por Google. El objetivo es que bancos regionales y cooperativas de crédito de EE. UU. puedan ofrecer depósitos tokenizados con liquidación casi inmediata 24/7 y flujos de pago programables, sin perder la relación con sus depositantes.",
-    "date": "2026-10-16",
-    "source": "Jack Henry (PR Newswire)",
-    "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-expands-collaboration-google-cloud-deliver-tokenized",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "depósitos tokenizados",
-      "tokenización",
-      "core bancario",
-      "banca"
-    ]
-  },
-  {
-    "id": "marqeta-coinbase-tarjetas-stablecoins",
-    "title": "Marqeta y Coinbase se alían para emitir tarjetas de pago respaldadas por stablecoins",
-    "summary": "La plataforma de emisión de tarjetas Marqeta anunció el 16 de octubre una colaboración con Coinbase para que sus clientes empresariales ofrezcan tarjetas que permitan gastar saldos en stablecoins en comercios que aceptan tarjetas. Coinbase se encargará de la custodia y la conversión a moneda fiduciaria, con liquidación en su red Base, mientras Marqeta gestionará la emisión, el procesamiento y las relaciones con bancos y redes. No se informaron fechas de lanzamiento ni tarifas.",
-    "date": "2026-10-16",
-    "source": "Marqeta",
-    "url": "https://investors.marqeta.com/news-releases/news-release-details/marqeta-and-coinbase-collaborate-enable-stablecoin-backed-card/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "tarjetas",
-      "pagos",
-      "Coinbase",
-      "banca"
-    ]
-  },
-  {
-    "id": "sbi-startale-open-standard-jpysc-ousd",
-    "title": "SBI y Startale exploran conectar la stablecoin en yenes JPYSC con el dólar digital OUSD",
-    "summary": "SBI Holdings y Startale anunciaron el 16 de octubre su ingreso a Open Standard, alianza de más de 140 empresas (entre ellas Visa, Mastercard, Stripe, BlackRock y Coinbase) que impulsa la stablecoin en dólares Open USD. Ambas explorarán un piloto de interoperabilidad entre OUSD y JPYSC, stablecoin en yenes emitida por el banco fiduciario SBI Shinsei Trust Bank, para agilizar la liquidación entre yenes y dólares.",
-    "date": "2026-10-16",
-    "source": "SBI Holdings",
-    "url": "https://www.sbigroup.co.jp/english/news/pdf/2026/1016_a_en.pdf",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Japón",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "interoperabilidad",
-      "Japón",
-      "banca"
-    ]
-  },
-  {
-    "id": "deutsche-bank-custodia-cripto-semanas",
-    "title": "Deutsche Bank está a semanas de lanzar su custodia de criptoactivos en Alemania",
-    "summary": "Gerald Podobnik, codirector del banco corporativo de Deutsche Bank, dijo a Reuters en las reuniones del FMI y el Banco Mundial que el servicio de custodia de bitcoin y ether para clientes institucionales y corporativos en Alemania se lanzará en semanas, y que llegará a centros financieros de Asia en 2027. El despliegue por fases sumará luego servicios con stablecoins, depósitos tokenizados y emisión de valores tokenizados; no está dirigido a clientes minoristas.",
-    "date": "2026-10-16",
-    "source": "CoinMarketCap (con información de Reuters)",
-    "url": "https://coinmarketcap.com/academy/article/deutsche-bank-crypto-custody-launch-weeks-away-asia",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Alemania",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "custodia",
-      "bitcoin",
-      "MiCA",
-      "Deutsche Bank",
-      "banca"
-    ]
-  },
-  {
-    "id": "ppro-damisa-stablecoins-latinoamerica",
-    "title": "PPRO y Damisa usan stablecoins reguladas para liquidar pagos transfronterizos, empezando por Latinoamérica",
-    "summary": "La empresa de métodos de pago locales PPRO se asoció con la británica Damisa para mover fondos de tesorería entre países mediante stablecoins reguladas, con liquidación el mismo día en la moneda elegida. El esquema, anunciado el 15 de octubre, arrancó en Latinoamérica y busca reducir la dependencia de cadenas de bancos corresponsales y el capital inmovilizado en prefondeo; ahora se extenderá a otros mercados.",
-    "date": "2026-10-16",
-    "source": "CoinTrust",
-    "url": "https://www.cointrust.com/market-news/ppro-and-damisa-expand-stablecoin-settlement-across-borders",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Latinoamérica",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos transfronterizos",
-      "banca corresponsal",
-      "banca"
-    ]
-  },
-  {
-    "id": "lulubit-acciones-tokenizadas-panama",
-    "title": "La app panameña Lulubit lanza la compra de acciones y ETF tokenizados desde $1",
-    "summary": "Según una nota de prensa publicada el 15 de octubre, Lulubit, app financiera con más de 100.000 usuarios en Panamá y la región, habilitó un módulo para comprar y vender tokens que replican acciones y ETF de EE. UU., respaldados 1:1 y fraccionables. Arranca con ocho acciones y el ETF SPY, con depósitos por ACH desde bancos panameños. La empresa lo presentará el 21 de octubre en Ciudad de Panamá. Panamá aún no tiene una ley vigente para proveedores de activos virtuales.",
-    "date": "2026-10-15",
-    "source": "La Prensa Panamá (nota de prensa de Lulubit)",
-    "url": "https://www.prensa.com/notas-de-prensa/lulubit-permite-invertir-en-apple-amazon-y-sp500-desde-1-y-directamente-en-su-app/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Panamá",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "fintech",
-      "Panamá",
-      "ACH",
-      "banca"
-    ]
-  },
-  {
-    "id": "visa-direct-stablecoins-produccion",
-    "title": "Visa Direct pasa de piloto a producción comercial con prefinanciamiento en stablecoins",
-    "summary": "Visa anunció el 15 de octubre que las capacidades con stablecoins de Visa Direct dejan la fase piloto y entran en operación comercial. Inyo Global, procesador que atiende a remesadoras, fintechs y bancos, es el primer habilitador: sus clientes pueden prefinanciar pagos transfronterizos con USDC casi en tiempo real, en lugar de depender solo de las ventanas de fondeo tradicionales.",
-    "date": "2026-10-15",
-    "source": "Visa",
-    "url": "https://investor.visa.com/news/news-details/2026/Visa-Direct-Launches-Stablecoin-Powered-Money-Movement-as-Pilots-Move-to-Production/default.aspx",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos",
-      "Visa",
-      "USDC",
-      "banca"
-    ]
-  },
-  {
-    "id": "cross-river-ripple-rlusd-core-bancario",
-    "title": "Cross River Bank integra la stablecoin RLUSD de Ripple en su núcleo bancario",
-    "summary": "Cross River Bank, banco estadounidense miembro de la FDIC, anunció el 15 de octubre que integrará RLUSD, la stablecoin en dólares de Ripple, en su sistema central (Core Operating System) con soporte para el XRP Ledger. Las fintechs clientes podrán convertir entre dólares y RLUSD, liquidar pagos transfronterizos y de tesorería 24/7 y acceder a ACH, transferencias y pagos en tiempo real desde una sola API. El servicio está disponible por ahora solo en algunos estados.",
-    "date": "2026-10-15",
-    "source": "Business Wire (Cross River / Ripple)",
-    "url": "https://www.businesswire.com/news/home/20261015918706/en/Cross-River-Embeds-Ripple-USD-Stablecoin-on-the-XRP-Ledger-into-its-Core-Banking-Infrastructure-Expanding-Faster-Payment-Capabilities-for-Businesses",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "RLUSD",
-      "Ripple",
-      "pagos",
-      "banca"
-    ]
-  },
-  {
-    "id": "gennius-coinbase-dolar-digital-bancos-latam",
-    "title": "Gennius y Coinbase llevan servicios regulados de dólar digital a bancos de Latinoamérica",
-    "summary": "Gennius, plataforma de pagos y tokenización, y Coinbase lanzaron el 15 de octubre servicios de dólar digital para instituciones financieras latinoamericanas, empezando por un banco en Argentina. El eje es ONED USD, respaldado 1:1 por USDC en custodia de Coinbase y emitido sobre Base. Los clientes del banco pueden convertir depósitos y puntos de lealtad, pagar con una tarjeta Visa y mover fondos 24/7 dentro de la app de su propio banco; el plan prevé un despliegue regional.",
-    "date": "2026-10-15",
-    "source": "FF News",
-    "url": "https://ffnews.com/news/gennius-brings-stablecoin-and-digital-asset-services-to-banks-across-latin-ameri-8b80b63b",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Latinoamérica",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "Coinbase",
-      "depósitos tokenizados",
-      "Latinoamérica",
-      "banca"
-    ]
-  },
-  {
-    "id": "toss-gwangju-bank-pago-qr-stablecoin",
-    "title": "Toss y Gwangju Bank completan una prueba de pagos QR con stablecoins en comercios físicos",
-    "summary": "La fintech surcoreana Toss y Gwangju Bank informaron el 15 de octubre que completaron una prueba de concepto de pagos con stablecoins mediante código QR: el cliente inicia el pago en la app del banco y lo completa en la de Toss, con liquidación simultánea al comercio. La prueba se hizo en un entorno separado, con un comercio virtual y sin datos ni activos reales; ambas preparan una segunda fase con comercios reales.",
-    "date": "2026-10-15",
-    "source": "The Paypers",
-    "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/toss-gwangju-bank-complete-stablecoin-qr-payment-proof-of-concept",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Corea del Sur",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos",
-      "Corea del Sur",
-      "banca"
-    ]
-  },
-  {
-    "id": "cleartoken-consensys-liquidacion-24-7",
-    "title": "ClearToken y Consensys se alían para que los bancos liquiden activos tokenizados 24/7",
-    "summary": "ClearToken, infraestructura de mercado británica, y Consensys anunciaron el 15 de octubre una alianza para que los bancos muevan activos tokenizados y efectivo en infraestructura que opere de forma continua. ClearToken, con aprobación Gate 2 en el sandbox de valores digitales del Banco de Inglaterra, busca liquidar entrega contra pago en cualquier momento contra dinero fiat, depósitos tokenizados o stablecoins, sujeto a autorización de compensación del Banco de Inglaterra.",
-    "date": "2026-10-15",
-    "source": "FinTech Global",
-    "url": "https://fintech.global/2026/10/15/cleartoken-and-consensys-team-up-on-24-7-settlement/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Reino Unido",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "liquidación",
-      "Banco de Inglaterra",
-      "banca"
-    ]
-  },
-  {
-    "id": "riksbank-corona-digital-preparacion-legal",
-    "title": "El Riksbank pide al Parlamento sueco preparar desde ya la base legal para una corona digital",
-    "summary": "El banco central de Suecia envió a la Comisión de Finanzas del Riksdag una carta en la que recomienda iniciar sin demora el trabajo legislativo para una posible corona digital (e-krona), citando el avance del euro digital y la expansión de stablecoins en otras monedas. El Riksbank aclara que no ha decidido emitirla y estima que su introducción tomaría al menos cinco años, sin contar los cambios legales.",
-    "date": "2026-10-15",
-    "source": "Cointelegraph",
-    "url": "https://ct.com/news/sweden-riksbank-digital-krona-cbdc-legislation",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Suecia",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "Riksbank",
-      "corona digital",
-      "stablecoins",
-      "banca"
-    ]
-  },
-  {
-    "id": "mastercard-bvnk-global-money-platform",
-    "title": "Mastercard y BVNK lanzan Global Money Platform para unir fiat y stablecoins",
-    "summary": "Mastercard y BVNK anunciaron el 15 de octubre la plataforma Global Money Platform, que integra cuentas multicurrency (fiat y stablecoins), conversión en tiempo real, tarjetas vinculadas a stablecoins y pagos locales a bancos vía Mastercard Move. Es la primera gran integración tras la adquisición de BVNK en agosto de 2026; Nuvei y Marqeta estarán entre los primeros en adoptarla. El sistema apunta a bancos, fintechs y empresas, con soporte futuro para depósitos tokenizados.",
-    "date": "2026-10-15",
-    "source": "BVNK / Mastercard",
-    "url": "https://www.bvnk.com/press/mastercard-and-bvnk-launch-global-money-platform-to-power-a-multi-money-world",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Internacional",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "pagos",
-      "Mastercard",
-      "banca",
-      "tokenización"
-    ]
-  },
-  {
-    "id": "versabank-vusd-tokenized-deposits-eeuu",
-    "title": "VersaBank inicia la fase comercial de depósitos tokenizados VUSD en Estados Unidos",
-    "summary": "VersaBank anunció el 15 de octubre el inicio de la fase comercial en EE. UU. de sus Real Bank Tokenized Deposits (RBTD), bajo la marca VUSD: representaciones en blockchain de depósitos bancarios convencionales, con interés y elegibles al seguro FDIC, emitidos por VersaBank USA. El banco planea listarlos en exchanges de activos digitales y, tras un periodo inicial de inversión en letras del Tesoro, usarlos para crecer su Structured Receivable Program; también ofrece la tecnología a bancos regionales.",
-    "date": "2026-10-15",
-    "source": "VersaBank (Newsfile)",
-    "url": "https://www.newsfilecorp.com/release/319128/VersaBank-Initiates-Commercial-Phase-of-Tokenized-Deposit-Program-in-the-United-States",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "depósitos tokenizados",
-      "VUSD",
-      "banca",
-      "tokenización"
-    ]
-  },
-  {
-    "id": "qivalis-licencia-dnb-stablecoin-euro",
-    "title": "Qivalis, respaldada por 37 bancos europeos, obtiene licencia de dinero electrónico para su stablecoin en euros",
-    "summary": "El banco central de los Países Bajos (DNB) autorizó el 14 de octubre a Qivalis, empresa de Ámsterdam respaldada por 37 bancos de 15 países, como entidad de dinero electrónico, lo que la habilita para emitir un token en euros bajo MiCA. El token aún no existe: Qivalis prevé emitirlo en los próximos meses, después de cumplir los requisitos pendientes y publicar su libro blanco.",
-    "date": "2026-10-14",
-    "source": "Crypto Watch Desk",
-    "url": "https://cryptowatchdesk.com/news/qivalis-dnb-e-money-licence-bank-backed-euro-stablecoin",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Unión Europea",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "MiCA",
-      "euro",
-      "Países Bajos",
-      "banca"
-    ]
-  },
-  {
-    "id": "occ-informe-debanking-activos-digitales",
-    "title": "OCC: los nueve mayores bancos nacionales restringieron servicios a sectores como activos digitales",
-    "summary": "La Oficina del Contralor de la Moneda (OCC) publicó el 14 de octubre un informe sobre prácticas de «debanking» en JPMorgan Chase, Bank of America, Citibank, Wells Fargo, U.S. Bank, Capital One, PNC, TD Bank y BMO. Entre 2020 y septiembre de 2025, todos mantuvieron políticas que limitaron el acceso a servicios financieros a ciertos sectores, incluidos los activos digitales, a menudo por riesgo reputacional poco definido y preocupaciones de delito financiero. El contralor Gould dijo que, pese a esfuerzos de contención, la OCC valorará más cambios supervisorios.",
-    "date": "2026-10-14",
-    "source": "OCC (Oficina del Contralor de la Moneda)",
-    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-90.html",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "OCC",
-      "banca",
-      "activos digitales",
-      "regulación"
-    ]
-  },
-  {
-    "id": "tether-efy-finance-latam",
-    "title": "Tether invierte en EFY Finance para ampliar pagos con USDT y USAT en Latinoamérica, incluida Panamá",
-    "summary": "Tether confirmó el 13 de octubre su participación en la ronda inicial de EFY Finance, fintech colombiana de pagos transfronterizos y custodia con stablecoins. El acuerdo busca ampliar USDT y USAT en Colombia, Bolivia, México, Panamá, El Salvador y Ecuador, conectando las stablecoins con el sistema financiero tradicional; en Bolivia, Banco Unión ya integró USDT en su billetera Yasta.",
-    "date": "2026-10-14",
-    "source": "CriptoNoticias",
-    "url": "https://www.criptonoticias.com/negocios/tether-usdt-colombia-bolivia-mexico-panama-elsalvador-ecuador/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Latinoamérica",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "USDT",
-      "Panamá",
-      "pagos",
-      "banca"
-    ]
-  },
-  {
-    "id": "sbp-fmi-activos-virtuales-vasp",
-    "title": "Superintendencia de Bancos: la misión del FMI revisó con la SBP los riesgos de activos virtuales y de los VASP",
-    "summary": "La SBP informó que, en las reuniones de la Consulta del Artículo IV con el FMI, la agenda incluyó los activos virtuales y los proveedores de servicios de activos virtuales (VASP), en particular la evaluación de riesgos y los enfoques regulatorios. También se revisó el impacto inicial de los Acuerdos 1-2026 (prevención del uso indebido) y 3-2026 (sanciones administrativas).",
-    "date": "2026-10-14",
-    "source": "Superintendencia de Bancos de Panamá (SBP)",
-    "url": "https://www.superbancos.gob.pa/node/1812",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Panamá",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "SBP",
-      "FMI",
-      "VASP",
-      "activos virtuales",
-      "banca"
-    ]
-  },
-  {
-    "id": "eba-usdc-token-significativo",
-    "title": "La EBA clasifica a USDC como el primer token de dinero electrónico «significativo» bajo MiCA",
-    "summary": "La Autoridad Bancaria Europea (EBA) clasificó a USDC, emitido en la UE por Circle Internet Financial Europe SAS, como token de dinero electrónico significativo. Desde el 12 de noviembre de 2026 estará bajo supervisión dual: la EBA asumirá fondos propios, reservas, liquidez y planes de recuperación y reembolso, mientras la ACPR francesa mantiene gobernanza y otros aspectos. Hay 45 tokens de dinero electrónico notificados en la UE.",
-    "date": "2026-10-14",
-    "source": "Autoridad Bancaria Europea (EBA)",
-    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Unión Europea",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "MiCA",
-      "USDC",
-      "banca"
-    ]
-  },
-  {
-    "id": "bny-citadel-tesoros-tokenizados",
-    "title": "BNY y Citadel Securities prueban Treasuries tokenizados para acelerar el colateral en Wall Street",
-    "summary": "BNY, el mayor banco de custodia del mundo, y Citadel Securities completaron el 13 de octubre una operación con Treasuries estadounidenses tokenizados para mostrar cómo mover colateral de la liquidación al financiamiento más rápido. El objetivo es reducir cuellos de botella al reutilizar bonos del Tesoro usados como garantía. BNY planea ampliar efectivo digital y depósitos tokenizados, y extender horarios de liquidación tradicional hacia Asia y Europa.",
-    "date": "2026-10-13",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "tokenización",
-      "Treasuries",
-      "BNY",
-      "custodia",
-      "banca"
-    ]
-  },
-  {
-    "id": "citi-fraser-depositos-tokenizados",
-    "title": "CEO de Citi: los clientes institucionales prefieren depósitos tokenizados a stablecoins",
-    "summary": "En la presentación de resultados del tercer trimestre (13 de octubre), la CEO de Citigroup, Jane Fraser, dijo que Citi Token Services y la tokenización de depósitos es el área que más entusiasma al banco: opera en siete mercados y se conecta con liquidación 24/7. Según Fraser, las stablecoins resultan más engorrosas por complejidad y cumplimiento. El negocio de Treasury and Trade Solutions creció con fuerza en depósitos y transacciones transfronterizas.",
-    "date": "2026-10-13",
-    "source": "PYMNTS",
-    "url": "https://www.pymnts.com/earnings/2026/citi-ceo-says-corporate-finance-wants-tokenized-deposits-not-stablecoins/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "depósitos tokenizados",
-      "Citi",
-      "stablecoins",
-      "banca"
-    ]
-  },
-  {
-    "id": "wells-fargo-stablecoin-depositos-tokenizados",
-    "title": "Wells Fargo avanza en depósitos tokenizados y prepara una stablecoin con otros 20 bancos",
-    "summary": "En la conferencia de resultados del 13 de octubre, el CEO Charlie Scharf indicó que Wells Fargo lanzó el mes pasado depósitos tokenizados en su blockchain propia para clientes corporativos y comerciales, y que el banco trabaja con unas 20 instituciones (entre ellas Bank of America, Citi y Goldman Sachs) para emitir una stablecoin en dólares en el primer semestre de 2027, orientada a pagos mayoristas, retail y liquidación de activos digitales. Scharf admitió que los casos de uso de stablecoins en EE. UU. aún son poco claros, pero construyen soluciones por anticipado.",
-    "date": "2026-10-13",
-    "source": "CryptoBriefing",
-    "url": "https://cryptobriefing.com/wells-fargo-ceo-stablecoin-use-cases-unclear/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "depósitos tokenizados",
-      "Wells Fargo",
-      "banca"
-    ]
-  },
-  {
-    "id": "fsb-stablecoins-riesgos-transfronterizos",
-    "title": "FSB: las reglas transfronterizas de stablecoins globales siguen sin probarse en una crisis severa",
-    "summary": "El Consejo de Estabilidad Financiera (FSB) publicó el 12 de octubre un análisis sobre arreglos de stablecoins globales: son inherentemente transfronterizos y multisectoriales, y las regulaciones nacionales avanzan a ritmos distintos. Advierte que esquemas multiemisor pueden dejar reservas en una jurisdicción mientras la demanda de reembolso golpea otra, y pide más intercambio de información, monitoreo y planes ante estrés o quiebra. La capitalización del mercado de stablecoins pasó de unos 206.000 a 306.000 millones de dólares desde inicios de 2025.",
-    "date": "2026-10-12",
-    "source": "Consejo de Estabilidad Financiera (FSB)",
-    "url": "https://www.fsb.org/2026/10/global-stablecoin-arrangements-cross-border-vulnerabilities-and-financial-stability-monitoring/",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Internacional",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "FSB",
-      "regulación",
-      "banca",
-      "estabilidad financiera"
-    ]
-  },
-  {
-    "id": "laestrella-fmi-criptoactivos-red-seguridad",
-    "title": "FMI avala banca panameña, pero pide reforzar la red financiera y la supervisión de criptoactivos",
-    "summary": "La Estrella de Panamá reseña el cierre de la misión técnica del FMI con la SBP: destaca la resiliencia del sistema bancario y la necesidad de fortalecer la red de seguridad financiera y la supervisión de los activos virtuales, con evaluación de riesgos e instrumentos de supervisión para los VASP.",
-    "date": "2026-10-12",
-    "source": "La Estrella de Panamá",
-    "url": "https://www.laestrella.com.pa/economia/fmi-avala-banca-panamena-pero-pide-reforzar-la-red-financiera-y-criptoactivos-NE26443916",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Panamá",
-    "lang": "es",
-    "banks": [],
-    "tags": [
-      "FMI",
-      "SBP",
-      "criptoactivos",
-      "VASP",
-      "banca"
-    ]
-  },
-  {
-    "id": "bok-sin-cbdc-minorista",
-    "title": "El Banco de Corea afirma que no planea emitir una CBDC minorista y distingue su proyecto Hangang",
-    "summary": "El Banco de Corea aclaró que no tiene planes de emitir una moneda digital de banco central para el público ni investiga una. Su Proyecto Hangang usa moneda digital mayorista y «tokens de depósito» emitidos por bancos, que solo pueden mantener los bancos; los tokens de depósito tienen reserva de 7 % y cobertura del seguro de depósitos.",
-    "date": "2026-10-09",
-    "source": "Seoul Economic Daily",
-    "url": "https://en.sedaily.com/finance/2026/10/09/bank-of-korea-says-it-has-no-plan-to-issue-retail-cbdc",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Corea del Sur",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "tokens de depósito",
-      "banca",
-      "Corea del Sur"
-    ]
-  },
-  {
-    "id": "esma-stablecoins-no-mica",
-    "title": "ESMA: los proveedores autorizados bajo MiCA deben dejar de prestar servicios sobre stablecoins que no cumplan MiCA",
-    "summary": "La ESMA publicó una opinión según la cual los proveedores de servicios de criptoactivos (CASP) autorizados en la UE deben cesar servicios relacionados con stablecoins (ART y EMT) que no cumplan MiCA. Las exposiciones preexistentes deben corregirse lo antes posible y a más tardar tres meses después de la publicación; solo se permite lo necesario para liquidar, convertir, retirar, transferir o custodiar esos activos.",
-    "date": "2026-10-08",
-    "source": "ESMA",
-    "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Unión Europea",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "MiCA",
-      "ESMA"
-    ]
-  },
-  {
-    "id": "sec-etf-3x-bitcoin-ether",
-    "title": "La SEC aprueba la regla de Cboe BZX para listar fondos con apalancamiento 3x en bitcoin y ether",
-    "summary": "La SEC aprobó el 2 de octubre el cambio de regla de Cboe BZX que permite listar seis fondos de Volatility Shares, entre ellos 3x Bitcoin y 3x Ether, que buscan el triple del rendimiento diario de contratos de futuros (no mantienen las monedas). Son productos de corto plazo de alto riesgo; la orden no fija fecha de inicio de cotización.",
-    "date": "2026-10-02",
-    "source": "SEC (Comisión de Valores de EE. UU.)",
-    "url": "https://www.sec.gov/files/rules/sro/cboebzx/2026/34-106577.pdf",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "ETF",
-      "SEC",
-      "bitcoin",
-      "ether",
-      "apalancamiento"
-    ]
-  },
-  {
-    "id": "sec-propuesta-custodia-cripto",
-    "title": "La SEC propone reglas de custodia de criptoactivos para asesores de inversión y fondos regulados",
-    "summary": "La SEC propuso un marco para que asesores de inversión registrados y fondos regulados custodien criptoactivos: permitiría la autocustodia en ciertas circunstancias y el uso de compañías fiduciarias estatales como custodios. El periodo de comentarios dura 60 días tras su publicación en el Registro Federal.",
-    "date": "2026-10-01",
-    "source": "SEC (Comisión de Valores de EE. UU.)",
-    "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "SEC",
-      "custodia",
-      "criptoactivos",
-      "banca"
-    ]
-  },
-  {
-    "id": "basilea-revision-estandar-criptoactivos",
-    "title": "Comité de Basilea: avanza la revisión de su estándar para exposiciones bancarias a criptoactivos; novedades a fin de año",
-    "summary": "Tras su reunión del 28 y 29 de septiembre en Indonesia, el Comité de Supervisión Bancaria de Basilea informó que avanzó en la revisión puntual de su estándar prudencial para las exposiciones de los bancos a criptoactivos y que ofrecerá una actualización antes de que termine 2026.",
-    "date": "2026-10-01",
-    "source": "Banco de Pagos Internacionales (BIS)",
-    "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Internacional",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "Basilea",
-      "criptoactivos",
-      "banca",
-      "BIS"
-    ]
-  },
-  {
-    "id": "tesoro-genius-certificacion-estados",
-    "title": "Tesoro de EE. UU. fija los procedimientos para revisar certificaciones estatales de emisores de stablecoins (ley GENIUS)",
-    "summary": "El Departamento del Tesoro, en nombre del Comité de Revisión de Certificación de Stablecoins, publicó una regla interina vigente desde el 30 de septiembre con formularios y procedimientos para evaluar certificaciones de reguladores estatales de stablecoins de pago. Aún no se aceptan certificaciones hasta completar un trámite administrativo; los comentarios cierran el 30 de noviembre de 2026.",
-    "date": "2026-09-30",
-    "source": "Registro Federal de EE. UU. (Departamento del Tesoro)",
-    "url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-19966.htm",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "stablecoins",
-      "GENIUS Act",
-      "Tesoro"
-    ]
   }
 ]

@@ -1,0 +1,38 @@
+{
+  "id": "opinion-crecimiento-sin-credito-privado-tarjetas-2026-11-25",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: Panamá crece cerca del 4 %, pero el crédito privado local apenas avanza 1 % mientras suben las tarjetas; por qué esa brecha importa",
+  "date": "2026-11-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "La Prensa – Panamá crece, pero el crédito avanza a menor ritmo: Moody's advierte cambios en el negocio bancario",
+      "url": "https://www.prensa.com/economia/panama-crece-pero-el-credito-avanza-a-menor-ritmo-moodys-advierte-cambios-en-el-negocio-bancario/",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Nuevos créditos suman USD 21,413 millones a septiembre y crecen 8.2% interanual",
+      "url": "https://www.superbancos.gob.pa/node/1824",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "La Prensa – Se dispara la deuda con tarjetas de crédito: consumidores recurren cada vez más al financiamiento",
+      "url": "https://www.prensa.com/economia/se-dispara-la-deuda-con-tarjetas-de-credito-consumidores-recurren-cada-vez-mas-al-financiamiento/",
+      "date": "2026-11-13"
+    }
+  ],
+  "body": [
+    "A primera vista, los números de la banca panameña parecen contradecirse. Por un lado, la Superintendencia de Bancos de Panamá (SBP) reportó que los nuevos créditos otorgados entre enero y septiembre de 2026 sumaron 21,413 millones de dólares (+8.2 % interanual), con activos del Centro Bancario Internacional por 171,816.2 millones y una liquidez holgada de 54.36 % en el Sistema Bancario Nacional. Por otro lado, un informe de Moody’s Ratings de este mes advierte sobre un fenómeno claro: crecimiento económico sin dinamismo equivalente en el crédito privado local.",
+    "Cuando se abre el detalle oficial, la aparente paradoja desaparece. La cartera crediticia privada local creció apenas 1.04 % interanual a septiembre de 2026 (hasta 63,539.7 millones de dólares), mientras los préstamos al sector público aumentaron 136.84 % y explicaron cerca del 78.3 % de la expansión de la cartera local. En paralelo, el crédito a no residentes creció 6.6 % y ya representa alrededor del 30 % de la cartera del sistema.",
+    "## Dos caras de la misma moneda",
+    "Que los bancos panameños busquen diversificación regional y financien operaciones fuera del país o con el Estado es racional desde la gestión de riesgo y rentabilidad. Como apunta Moody’s, sectores antes intensivos en crédito local —como la construcción, que cayó 4 % interanual, y la vivienda tras los cambios al régimen de intereses preferenciales— muestran hoy mayor cautela.",
+    "El problema es lo que ocurre abajo, en el financiamiento cotidiano de empresas pequeñas y hogares. Mientras el crédito productivo privado casi no crece en términos reales, la deuda en tarjetas de crédito bancarias superó los 3,082.6 millones de dólares a septiembre (+8.05 % interanual), con 916,621 tarjetas activas y una morosidad mayor a 61 días de 8.75 %, la más alta entre los principales productos de consumo.",
+    "## Lo que esa señal debería decirnos",
+    "Una economía sana necesita que el ahorro captado en depósitos —que creció 6.82 % en el CBI— encuentre proyectos privados viables, pymes con flujo de caja y familias que puedan acceder a vivienda sin quedar atrapadas en deuda rotativa cara.",
+    "Para los bancos, el reto está en diseñar productos de crédito productivo y de consolidación transparente que no dependan solo de emitir más plásticos con tasas altas o de colocar liquidez en el exterior. Para las autoridades, la prioridad sigue siendo dar certidumbre jurídica en programas habitacionales y reglas claras que acompañen la inversión privada generadora de empleo.",
+    "Y para los hogares, la lección es directa: que haya menos oferta hipotecaria o préstamos más selectivos no debe empujarnos a financiar gastos corrientes con tarjetas de crédito. La estabilidad del sistema bancario es una fortaleza real de Panamá; convertirla en crédito sano para la economía real es la tarea pendiente.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}

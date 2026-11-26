@@ -1,0 +1,47 @@
+{
+  "id": "como-presentar-reclamo-bancario-sistema-digital-sbp-2026-11-25",
+  "section": "educacion",
+  "type": "educativo",
+  "title": "Cómo presentar un reclamo bancario en Panamá con el nuevo sistema digital de la SBP: qué pasos seguir, qué pruebas guardar y qué cambia con las reglas de comisiones",
+  "date": "2026-11-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Superintendencia de Bancos de Panamá – SBP pone a disposición el nuevo Sistema de Trámites de Reclamos",
+      "url": "https://www.superbancos.gob.pa/node/1827",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-DR-CIRCULAR-2026-0123 (Acuerdo 12-2026)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0123.pdf",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "La Prensa – Se dispara la deuda con tarjetas de crédito: consumidores recurren cada vez más al financiamiento",
+      "url": "https://www.prensa.com/economia/se-dispara-la-deuda-con-tarjetas-de-credito-consumidores-recurren-cada-vez-mas-al-financiamiento/",
+      "date": "2026-11-13"
+    }
+  ],
+  "body": [
+    "Cuando aparece un cargo no reconocido, una comisión inesperada o una transferencia con problemas, muchas personas no saben cómo escalar su queja más allá de una llamada al banco. Este mes de noviembre, la Superintendencia de Bancos de Panamá (SBP) puso en línea el nuevo Sistema de Trámites de Reclamos, una plataforma digital en superbancos.gob.pa que permite presentar reclamos bancarios, consultar su estado y darles seguimiento sin tener que acudir presencialmente.",
+    "La herramienta incorpora las adecuaciones del Acuerdo 9-2025, que actualizó el procedimiento de atención de reclamos ante el regulador. Entender cómo usarla —y qué debe hacer antes en su banco— le ahorra tiempo y fortalece su caso.",
+    "## Paso 1: reclame primero formalmente ante su banco",
+    "Antes de acudir al supervisor, la vía ordinaria exige presentar el reclamo directamente ante la entidad bancaria donde ocurrió el problema. Para que ese primer paso sirva como respaldo:",
+    "- Pida un número de caso, boleta o constancia escrita con fecha y hora de recepción.",
+    "- Anote con precisión el monto, la fecha de la transacción y el producto afectado (cuenta de ahorros, tarjeta de crédito, préstamo o transferencia).",
+    "- No acepte solo respuestas verbales por teléfono si el asunto involucra cobros, errores en saldos o fraudes: solicite confirmación por correo o en sucursal.",
+    "## Paso 2: reúna las pruebas antes de escalar a la SBP",
+    "Si el banco no responde dentro del plazo aplicable o la respuesta no resuelve el problema con base en su contrato y la normativa, puede elevar el caso en la sección Atención al Cliente del sitio web oficial de la SBP (www.superbancos.gob.pa). Tenga listos:",
+    "- Copia de su contrato, estado de cuenta o movimientos donde conste el cobro o la operación disputada.",
+    "- El comprobante del reclamo previo ante el banco y la respuesta escrita recibida (o evidencia de falta de respuesta).",
+    "- Capturas de pantalla de la banca en línea o comprobantes de transferencia, cuidando de nunca compartir contraseñas ni códigos PIN.",
+    "## Atención especial a comisiones, recargos y tarjetas",
+    "El uso intensivo de tarjetas vuelve clave vigilar los cargos y tasas. Datos de APC Experian citados por La Prensa muestran que las tarjetas bancarias suman 3,082.6 millones de dólares en saldo en Panamá, con 916,621 plásticos activos y una morosidad superior a 61 días de 8.75 %.",
+    "En el plano normativo, la SBP emitió este 25 de noviembre el Acuerdo No. 12-2026 (circular SBP-DR-CIRCULAR-2026-0123), que extiende hasta el 31 de marzo de 2027 la entrada en vigencia del ajuste tecnológico previsto en el Acuerdo 7-2026 sobre cobro de ciertas comisiones y recargos. Mientras entran en vigor esos cambios operativos, usted sigue teniendo derecho a exigir que todo cargo cobrado coincida con el tarifario vigente y con su contrato firmado.",
+    "## Consejos para evitar disputas innecesarias",
+    "- Revise sus estados de cuenta al menos una vez al mes: detectar un cargo indebido en los primeros días facilita cualquier aclaración.",
+    "- Desconfíe de enlaces enviados por mensajería que prometen «resolver reclamos en la SBP»: entre siempre escribiendo directamente www.superbancos.gob.pa en su navegador.",
+    "- Use nuestra calculadora de préstamos o deudas si necesita verificar si los intereses y cuotas de su crédito coinciden con la tasa pactada."
+  ]
+}

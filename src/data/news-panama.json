@@ -1,5 +1,145 @@
 [
   {
+    "id": "sbp-acuerdo-12-2026-comisiones-recargos-marzo-2027-2026-11",
+    "title": "La SBP fija el 31 de marzo de 2027 para la entrada en vigencia de nuevas reglas sobre comisiones y recargos bancarios",
+    "summary": "Mediante el Acuerdo No. 12-2026 (circular SBP-DR-CIRCULAR-2026-0123 del 25 de noviembre), la Superintendencia de Bancos de Panamá modificó el plazo del Acuerdo 7-2026 sobre cobro de ciertas comisiones y recargos para que los bancos realicen los ajustes tecnológicos en sus sistemas operativos antes del 31 de marzo de 2027.",
+    "date": "2026-11-25",
+    "source": "Superintendencia de Bancos de Panamá",
+    "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0123.pdf",
+    "category": "regulacion",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "comisiones",
+      "regulación",
+      "Acuerdo 12-2026"
+    ]
+  },
+  {
+    "id": "sbp-acuerdo-11-2026-activos-ponderados-riesgo-grupos-2026-11",
+    "title": "La SBP emite lineamientos sobre activos ponderados por riesgo para grupos bancarios con subsidiarias en el exterior",
+    "summary": "A través del Acuerdo No. 11-2026 (circular SBP-DR-CIRCULAR-2026-0122 del 25 de noviembre), la Superintendencia de Bancos de Panamá adicionó el artículo 2-A al Acuerdo 3-2016 para determinar los activos ponderados por riesgo en exposiciones ante bancos centrales extranjeros de grupos que consolidan en Panamá. Regirá desde el 15 de marzo de 2027.",
+    "date": "2026-11-25",
+    "source": "Superintendencia de Bancos de Panamá",
+    "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0122.pdf",
+    "category": "regulacion",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "supervisión",
+      "capital",
+      "Acuerdo 11-2026"
+    ]
+  },
+  {
+    "id": "sbp-sistema-tramites-reclamos-digital-2026-11",
+    "title": "La SBP habilita el nuevo Sistema de Trámites de Reclamos para presentar y seguir quejas bancarias en línea",
+    "summary": "La Superintendencia de Bancos de Panamá puso en línea el nuevo Sistema de Trámites de Reclamos, adaptado al Acuerdo 9-2025, para que los usuarios financieros presenten reclamos bancarios, consulten su estado y den seguimiento digital desde superbancos.gob.pa sin acudir de forma presencial.",
+    "date": "2026-11-16",
+    "source": "Superintendencia de Bancos de Panamá",
+    "url": "https://www.superbancos.gob.pa/node/1827",
+    "category": "regulacion",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "reclamos",
+      "consumidor financiero",
+      "servicios digitales"
+    ]
+  },
+  {
+    "id": "apc-tarjetas-credito-panama-3083-millones-septiembre-2026-11",
+    "title": "El saldo de tarjetas de crédito bancarias en Panamá supera los USD 3,082 millones y la mora alcanza el 8.75 %",
+    "summary": "Según datos de APC Experian al cierre de septiembre de 2026, los bancos mantienen 916,621 tarjetas activas con un saldo de USD 3,082.6 millones (+8.05 % interanual) y aprobaron 218,487 tarjetas en los últimos 12 meses. La morosidad mayor a 61 días en tarjetas bancarias llegó a 8.75 %, por encima de hipotecas (4.76 %) y préstamos personales (3.26 %).",
+    "date": "2026-11-13",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/economia/se-dispara-la-deuda-con-tarjetas-de-credito-consumidores-recurren-cada-vez-mas-al-financiamiento/",
+    "category": "credito",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "tarjetas de crédito",
+      "APC Experian",
+      "morosidad",
+      "consumo"
+    ]
+  },
+  {
+    "id": "moodys-crecimiento-sin-credito-banca-panama-2026-11",
+    "title": "Moody's advierte que el crédito privado local avanza apenas 1 % en Panamá mientras los bancos priorizan mercados externos",
+    "summary": "En su informe «Crecimiento sin crédito», Moody's Ratings señaló que, pese a una expansión económica cercana al 4 %, la cartera privada local creció solo 1.04 % interanual a septiembre de 2026 frente al 136.84 % del financiamiento al sector público. Los créditos a no residentes crecieron 6.6 % y ya representan el 30 % de la cartera total.",
+    "date": "2026-11-06",
+    "source": "La Prensa",
+    "url": "https://www.prensa.com/economia/panama-crece-pero-el-credito-avanza-a-menor-ritmo-moodys-advierte-cambios-en-el-negocio-bancario/",
+    "category": "sistema",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "Moody's",
+      "crédito",
+      "banca",
+      "hipotecas"
+    ]
+  },
+  {
+    "id": "css-reservas-15254-millones-depositos-bancos-panama-2026-11",
+    "title": "La CSS reporta B/.15,254.2 millones en reservas, con B/.4,580.2 millones en depósitos principalmente en la banca estatal",
+    "summary": "Al cierre del 30 de septiembre de 2026, la Caja de Seguro Social informó que mantiene B/.10,674.0 millones en portafolio de valores y B/.4,580.2 millones en depósitos bancarios: 91.9 % en Caja de Ahorros y Banco Nacional, y 2.44 % del total de reservas distribuido en seis bancos privados supervisados por la SBP.",
+    "date": "2026-11-06",
+    "source": "Caja de Seguro Social",
+    "url": "https://www.css.gob.pa/2026/11/06/las-reservas-de-la-css-donde-se-invierten-como-se-protegen-y-que-rendimientos-generan/",
+    "category": "sistema",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "caja-de-ahorros",
+      "banco-nacional",
+      "bac",
+      "global-bank",
+      "banistmo"
+    ],
+    "tags": [
+      "CSS",
+      "depósitos",
+      "banca estatal",
+      "reservas"
+    ]
+  },
+  {
+    "id": "sbp-nuevos-creditos-21413-millones-septiembre-2026-10",
+    "title": "Nuevos créditos del Sistema Bancario Nacional suman USD 21,413 millones a septiembre (+8.2 % interanual)",
+    "summary": "El Informe de Actividad Bancaria de la SBP a septiembre de 2026 reportó activos netos del Centro Bancario Internacional por USD 171,816.2 millones (+8.20 %), depósitos por USD 121,617.2 millones (+6.82 %) y una mejora en la cartera morosa y vencida local del SBN, que bajó de 5.6 % a 5.2 %.",
+    "date": "2026-10-30",
+    "source": "Superintendencia de Bancos de Panamá",
+    "url": "https://www.superbancos.gob.pa/node/1824",
+    "category": "sistema",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "CBI",
+      "crédito",
+      "depósitos",
+      "liquidez"
+    ]
+  },
+  {
     "id": "fmi-banca-panama-capitalizada-rentable-2026-10",
     "title": "El FMI concluye que la banca panameña sigue bien capitalizada y rentable, pero pide vigilar liquidez y exposiciones sectoriales",
     "summary": "Tras su visita de mediados de octubre por la Consulta del Artículo IV, el FMI destacó que los bancos en Panamá mantienen sólida capitalización, rentabilidad y una cartera vencida bajo control, con riesgos sistémicos contenidos. Recomendó mantener vigilancia sobre la liquidez —cuyos colchones han bajado desde sus máximos— y sobre la exposición a construcción, inmuebles comerciales, vivienda con interés preferencial y consumo, además de fortalecer el marco de resolución bancaria y la integridad financiera.",

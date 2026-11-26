@@ -1,0 +1,47 @@
+{
+  "id": "bancos-sistemicos-globales-gsib-basilea-activos-ponderados-riesgo-2026-11-25",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "Qué son los bancos sistémicos globales (G-SIB), cómo calcula el Comité de Basilea sus recargos de capital y cómo se conecta con los activos ponderados por riesgo en Panamá",
+  "date": "2026-11-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Banco de Pagos Internacionales (BIS) – Basel Committee publishes more details on the 2026 assessment of global systemically important banks",
+      "url": "https://www.bis.org/media-releases/20261125-basel-committee-publishes-more-details-2026-assessment-global-systemically-important-banks",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-DR-CIRCULAR-2026-0122 (Acuerdo 11-2026)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0122.pdf",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Informe de Actividad Bancaria Septiembre 2026",
+      "url": "https://www.superbancos.gob.pa/node/1824",
+      "date": "2026-10-30"
+    }
+  ],
+  "body": [
+    "Este miércoles 25 de noviembre de 2026, el Comité de Supervisión Bancaria de Basilea (dependiente del Banco de Pagos Internacionales, BIS) publicó el detalle técnico de su evaluación anual de bancos de importancia sistémica global (G-SIB, por sus siglas en inglés), acompañando la lista actualizada del Consejo de Estabilidad Financiera (FSB). El mismo día, en Panamá, la Superintendencia de Bancos (SBP) divulgó la circular SBP-DR-CIRCULAR-2026-0122 con el Acuerdo No. 11-2026 sobre cómo ponderar activos por riesgo en grupos bancarios con subsidiarias en el exterior.",
+    "Aunque parecen anuncios muy técnicos, ambos responden a la misma lógica financiera: exigir más capital propio cuando un banco es más grande, complejo o interconectado, y medir ese capital en función del riesgo real de sus activos.",
+    "## Qué mide el Comité de Basilea para designar a un G-SIB",
+    "Un banco sistémico global es una entidad cuya eventual quiebra desordenaría el sistema financiero mundial y la economía real. Para identificarlos y clasificarlos, Basilea usa datos validados del cierre del ejercicio previo (en esta edición, fin de 2025) y compara a cada gran banco frente al agregado mundial mediante cinco categorías de indicadores:",
+    "- Tamaño (exposiciones totales dentro y fuera de balance).",
+    "- Interconexión (activos y pasivos frente a otras entidades financieras y valores emitidos).",
+    "- Sustituibilidad e infraestructura financiera (activos en custodia, pagos liquidados y colocaciones en mercados).",
+    "- Complejidad (derivados extrabursátiles, activos negociables e instrumentos ilíquidos).",
+    "- Actividad transjurisdiccional (activos y pasivos fuera del país de origen).",
+    "El puntaje resultante ubica al banco en tramos («buckets»). A mayor tramo, mayor requisito adicional de absorción de pérdidas (capital común de nivel 1 adicional sobre sus activos ponderados por riesgo). El documento publicado hoy por el BIS detalla precisamente los denominadores globales, los indicadores individuales de la muestra y los umbrales de corte.",
+    "## Qué son los activos ponderados por riesgo (APR o RWA)",
+    "El índice de adecuación de capital de un banco no divide su capital entre el total bruto de activos, sino entre sus activos ponderados por riesgo (APR). La idea es intuitiva: prestarle a una empresa riesgosa o mantener exposiciones complejas consume más capital regulatorio que mantener efectivo o deuda soberana de muy alta calidad.",
+    "En Panamá, el Informe de Actividad Bancaria de la SBP a septiembre de 2026 ubica el índice de adecuación de capital del sistema en 15.72 % (dato a junio de 2026), casi el doble del mínimo regulatorio de 8 %, mientras la relación contable entre patrimonio y activos subió de 11.7 % a 12.0 %.",
+    "## Cómo entra el Acuerdo 11-2026 de la SBP",
+    "Con la expansión regional de los bancos que consolidan operaciones desde Panamá, las reglas de ponderación de riesgo importan cada vez más. El Acuerdo No. 11-2026 (emitido el 13 de noviembre y circulado este 25 de noviembre, con entrada en vigencia el 15 de marzo de 2027) adiciona el artículo 2-A al Acuerdo 3-2016 para definir cómo determinan los activos ponderados por riesgo de crédito los grupos bancarios consolidados en Panamá que tienen subsidiarias bancarias en otras jurisdicciones y mantienen exposiciones frente a los bancos centrales de esos países.",
+    "En términos prácticos, evita vacíos de interpretación cuando un grupo financiero panameño opera en varios países con moneda propia o banco central local.",
+    "## Para llevar",
+    "Cuando lea que un banco tiene un «capital de 15 %» o entra en un tramo G-SIB, recuerde que detrás hay dos piezas: cuánto capital de máxima calidad respalda las pérdidas inesperadas y cómo se ponderó cada activo según su riesgo. Esa arquitectura —desde Basilea hasta la SBP— es la que sostiene la solvencia bancaria antes de que llegue cualquier choque.",
+    "Este contenido es educativo y no constituye una recomendación de inversión ni asesoría financiera."
+  ]
+}

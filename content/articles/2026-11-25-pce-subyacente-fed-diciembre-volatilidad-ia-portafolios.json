@@ -1,0 +1,42 @@
+{
+  "id": "pce-subyacente-fed-diciembre-volatilidad-ia-portafolios-2026-11-25",
+  "section": "inversiones",
+  "type": "analisis",
+  "title": "El PCE subyacente sube a 3.3 % en EE. UU., el mercado da casi por segura otra alza de la Fed en diciembre y las acciones de IA corrigen: cómo leer este giro desde Panamá",
+  "date": "2026-11-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Yahoo Finance – Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "CNBC – Our top 10 things to watch in the stock market Wednesday",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "CoinDesk – El indicador de inflación preferido por la Fed refleja un aumento de la tasa de diciembre ya incorporado",
+      "url": "https://www.coindesk.com/es/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+      "date": "2026-11-25"
+    }
+  ],
+  "body": [
+    "Wall Street vivió este miércoles 25 de noviembre una jornada de alta tensión antes del feriado de Acción de Gracias en Estados Unidos. Según el cierre reportado por Yahoo Finance, el índice Dow Jones logró revertir pérdidas y terminó con un alza de 0.3 %, mientras el S&P 500 cedió 0.2 % y el Nasdaq Composite cayó cerca de 0.6 %, tras haber registrado caídas intradía mucho más pronunciadas en el sector tecnológico y de semiconductores.",
+    "Detrás del movimiento hubo tres catalizadores simultáneos: una inflación subyacente más persistente de lo esperado, el reajuste de expectativas sobre la Reserva Federal y nuevos anuncios de aranceles en Estados Unidos.",
+    "## Qué mostró el dato de inflación PCE y qué espera el mercado de la Fed",
+    "El índice de gastos de consumo personal (PCE) subyacente —que excluye alimentos y energía y es la referencia preferida de la Reserva Federal— subió a 3.3 % interanual en octubre, por encima del 3.2 % que esperaba el consenso de economistas, de acuerdo con Yahoo Finance y CNBC.",
+    "Tras la publicación del dato, la herramienta FedWatch de CME reflejó una probabilidad cercana al 98 % de que la Fed suba su tasa de referencia en 25 puntos básicos en la reunión del 8 y 9 de diciembre, frente al 93.5 % registrado una semana antes. En paralelo, el anuncio de nuevos aranceles de 20 % dirigidos a China, la Unión Europea y otros 12 socios comerciales —que entrarían en vigor tras un periodo de comentarios, no antes de enero— añadió incertidumbre sobre costos empresariales e inflación futura.",
+    "## Por qué pesa sobre las tecnológicas y la IA",
+    "Cuando el mercado descuenta tasas de interés más altas por más tiempo, las acciones con valoraciones exigentes y flujos de caja concentrados en el futuro —como muchas empresas ligadas a la inteligencia artificial— suelen resentirse más. En la sesión del miércoles, Nvidia retrocedió cerca de 4 % al cierre tras el repunte del lunes, mientras CNBC destacó también la debilidad posterior a la salida a bolsa de Anthropic por debajo de su precio de oferta inicial de 83 dólares y recortes de múltiplos de valoración en empresas de infraestructura como Dell Technologies pese a superar estimados trimestrales.",
+    "En contraste, sectores más ligados a la economía tradicional y defensiva resistieron mejor, permitiendo que el Dow Jones cerrara en terreno positivo.",
+    "## Qué revisar si ahorra o invierte desde Panamá",
+    "- No confunda el ruido de una semana corta por feriados con una tendencia definitiva: CNBC recordó que alrededor de Acción de Gracias el volumen bursátil baja y los titulares amplifican los vaivenes intradía.",
+    "- Evalúe la concentración de su cartera: si gran parte de su inversión está en un solo sector (como semiconductores o IA), las correcciones se sienten con mucha más fuerza que en un portafolio diversificado.",
+    "- Considere el impacto de las tasas en sus finanzas locales: en una economía dolarizada como Panamá, tasas estadounidenses más altas tienden a mantener elevado el costo del financiamiento con cierto rezago, pero también sostienen rendimientos en plazos fijos y renta fija de corto plazo.",
+    "- Opere únicamente con intermediarios autorizados por la Superintendencia del Mercado de Valores (SMV) o reguladores equivalentes reconocidos.",
+    "Descargo: este artículo es educativo e informativo y no constituye una recomendación de inversión ni una oferta de compra o venta de valores. Toda inversión implica riesgos, incluida la pérdida del capital. Antes de invertir, consulte a un asesor con licencia de la SMV y evalúe su perfil de riesgo."
+  ]
+}

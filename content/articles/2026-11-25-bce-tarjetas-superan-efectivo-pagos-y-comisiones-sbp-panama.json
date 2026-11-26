@@ -1,0 +1,42 @@
+{
+  "id": "bce-tarjetas-superan-efectivo-pagos-comisiones-sbp-2026-11-25",
+  "section": "pagos",
+  "type": "educativo",
+  "title": "Las tarjetas superan por primera vez al efectivo en comercios de la zona euro, pero 82 % exige conservar lo digital y el efectivo: qué enseña para los pagos y comisiones en Panamá",
+  "date": "2026-11-25",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Banco Central Europeo (BCE) – Card payments edge past cash in shops; euro area consumers want both",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "Superintendencia de Bancos de Panamá – Circular SBP-DR-CIRCULAR-2026-0123 (Acuerdo 12-2026)",
+      "url": "https://www.superbancos.gob.pa/documentos/leyes_y_regulaciones/circulares/2026/circular-2026-0123.pdf",
+      "date": "2026-11-25"
+    },
+    {
+      "name": "La Prensa – Se dispara la deuda con tarjetas de crédito: consumidores recurren cada vez más al financiamiento",
+      "url": "https://www.prensa.com/economia/se-dispara-la-deuda-con-tarjetas-de-credito-consumidores-recurren-cada-vez-mas-al-financiamiento/",
+      "date": "2026-11-13"
+    }
+  ],
+  "body": [
+    "Por primera vez desde que el Banco Central Europeo (BCE) comenzó a recopilar datos comparables en 2016, las tarjetas se usaron más que el efectivo en los comercios físicos de la zona euro. Según el estudio SPACE publicado este miércoles 25 de noviembre de 2026 —basado en 51,551 encuestas—, las tarjetas representaron el 45 % de las transacciones presenciales, frente al 44 % del efectivo, mientras los pagos con el celular subieron de 6 % en 2024 a 9 % en 2026.",
+    "El dato es llamativo porque rompe una barrera simbólica en economías muy habituadas al billete. Pero el segundo hallazgo del informe es igual de importante: el 82 % de los consumidores valora tener la opción de pagar digitalmente y el 62 % sigue considerando importante poder pagar con efectivo. Solo el 3 % declaró no usar efectivo nunca.",
+    "## Lo digital avanza, pero la libertad de elegir importa",
+    "El BCE mostró también las fricciones que persisten en ambos mundos. En toda la zona euro, al menos el 12 % de los consumidores encontró algún comercio que no aceptó tarjetas o pagos móviles en el mes previo, y el 19 % de quienes intentaron retirar efectivo en un cajero automático en el último año tuvo alguna dificultad.",
+    "Como resumió Piero Cipollone, miembro del Comité Ejecutivo del BCE, la prioridad de los usuarios no es eliminar un medio de pago para imponer otro, sino mantener la libertad de elegir entre efectivo y opciones digitales confiables.",
+    "## Cómo se ve esa transición en Panamá",
+    "En Panamá, la digitalización de los pagos combina billeteras móviles y transferencias inmediatas con una fuerte expansión de las tarjetas de crédito. Según cifras de APC Experian publicadas por La Prensa este mes de noviembre, al cierre de septiembre de 2026 circulaban 916,621 tarjetas de crédito bancarias activas —68,458 más que un año atrás—, con un saldo total de 3,082.6 millones de dólares (+8.05 % interanual).",
+    "Sin embargo, usar más tarjetas no siempre equivale a pagar mejor: la morosidad mayor a 61 días en tarjetas bancarias alcanzó el 8.75 %, muy por encima de la de préstamos personales (3.26 %), hipotecas (4.76 %) o autos (2.12 %). Cuando la tarjeta deja de ser un medio de pago mensual y se convierte en crédito rotativo permanente, su costo financiero se dispara.",
+    "## Reglas de comisiones bancarias en la agenda de la SBP",
+    "Precisamente sobre la transparencia en cobros y recargos bancarios, la Superintendencia de Bancos de Panamá (SBP) emitió este 25 de noviembre la circular SBP-DR-CIRCULAR-2026-0123, mediante la cual comunica el Acuerdo No. 12-2026. Esta norma ajusta al 31 de marzo de 2027 la entrada en vigencia de una disposición del Acuerdo 7-2026 (que modifica las reglas de comisiones y recargos del Acuerdo 4-2011) para que los bancos completen las adecuaciones tecnológicas en sus sistemas.",
+    "## Recomendaciones prácticas para su bolsillo",
+    "- Separe el medio de pago del financiamiento: si paga con tarjeta de crédito por comodidad o puntos, procure liquidar el total del estado de cuenta al corte para no pagar intereses.",
+    "- Tenga un respaldo: el estudio del BCE recuerda que ningún canal es infalible; llevar algo de efectivo o contar con una tarjeta de débito y billetera móvil evita quedar bloqueado si falla un punto de venta o una red.",
+    "- Revise el tarifario de su banco: conozca qué comisiones aplica por anualidad, retiros, transferencias o pagos atrasados antes de aceptar un producto nuevo."
+  ]
+}
