@@ -70,7 +70,7 @@ Recomendado: **Cloudflare Pages** (plan gratuito con ancho de banda generoso, 50
 - "Más leídas" vacía hasta conectar analítica real (Cloudflare Web Analytics, gratis y sin cookies).
 - Sin cotizaciones bursátiles (requieren proveedor con licencia).
 - Títulos internacionales en inglés (idioma original); traducción automática no implementada.
-- Textos legales pendientes de revisión legal local. Inglés: arquitectura lista para i18n en fase 2 (textos aún embebidos en componentes).
+- Inglés: arquitectura lista para i18n en fase 2 (textos aún embebidos en componentes).
 
 ## Artículos diarios (p. ej. "Banca e IA")
 Ruta: **`content/articles/AAAA-MM-DD-<id>.json`** (un archivo = un artículo). Plantilla: `content/articles/_plantilla.json.example`.

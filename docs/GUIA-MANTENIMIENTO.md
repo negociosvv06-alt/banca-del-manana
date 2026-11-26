@@ -132,6 +132,5 @@ Nota: el sitio principal de Cloudflare **no** tiene recompilación cada 6 horas;
 
 ### Pendientes
 - Activar Cloudflare Web Analytics y luego conectar el bloque "Más leídas" con datos reales.
-- Revisión legal local de Privacidad, Términos y Aviso financiero.
 - Versión en inglés (fase 2) y, si se quiere, dominio propio (tiene costo anual).
 - Los títulos internacionales se muestran en inglés (idioma original).
