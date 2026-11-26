@@ -27,10 +27,10 @@ describe('descripciones', () => {
   });
 });
 describe('cobertura de rutas', () => {
-  it('incluye home, páginas estáticas, 9 calculadoras, guías y todos los artículos', () => {
+  it('incluye home, páginas estáticas, 11 calculadoras, guías y todos los artículos', () => {
     expect(records.has('/')).toBe(true);
     for (const s of Object.keys(STATIC_PAGES)) expect(records.has('/' + s)).toBe(true);
-    expect(calcs).toHaveLength(9);
+    expect(calcs).toHaveLength(11);
     for (const c of calcs) expect(records.has('/calculadoras/' + c.id)).toBe(true);
     for (const g of guides) expect(records.has('/activos-digitales/' + g.id)).toBe(true);
     for (const a of articles) expect(records.has('/articulo/' + a.id)).toBe(true);

@@ -34,7 +34,7 @@ export const STATIC_PAGES = {
   'banca-panama': { name: 'Banca en Panamá', description: 'Regulación de la SBP, sistema bancario, bancos, crédito, pagos y ciberseguridad. Cada noticia enlaza a su fuente original.' },
   internacional: { name: 'Noticias internacionales', description: 'Comunicados oficiales de la Reserva Federal, el BIS y el BCE tomados de sus RSS públicos. Títulos en el idioma original.' },
   'activos-digitales': { name: 'Activos digitales', description: 'Noticias diarias de activos digitales, stablecoins y su relación con la banca de Panamá y del mundo, más guías educativas sobre blockchain y P2P.' },
-  calculadoras: { name: 'Calculadoras financieras', description: 'Calculadoras de préstamos, ahorro, plazo fijo, deudas, inflación, VPN/TIR y divisas. Los cálculos se hacen en tu navegador.' },
+  calculadoras: { name: 'Calculadoras financieras', description: 'Calculadoras de préstamos, hipoteca, jubilación, ahorro, plazo fijo, deudas, inflación, VPN/TIR y divisas. Los cálculos se hacen en tu navegador.' },
   inversiones: { name: 'Inversiones', description: 'Conceptos para invertir con criterio: perfil de riesgo, interés compuesto, renta fija y variable. Sin cotizaciones simuladas.' },
   'medios-de-pago': { name: 'Medios de pago', description: 'Yappy, ACH, tarjetas, billeteras y pagos instantáneos en Panamá.' },
   fintech: { name: 'Banca digital y fintech', description: 'Inteligencia artificial, ciberseguridad, fraude e innovación en servicios financieros.' },

@@ -8,7 +8,7 @@ const j = (p) => JSON.parse(readFileSync(p, 'utf8'));
 const articles = readdirSync('content/articles').filter((f) => f.endsWith('.json')).map((f) => j('content/articles/' + f)).sort((a, b) => b.date.localeCompare(a.date));
 const guides = j('src/data/education-digital.json');
 const calcs = parseCalcs(readFileSync('src/pages/Calculators.tsx', 'utf8'));
-if (calcs.length < 9) throw new Error(`postbuild: se esperaban 9 calculadoras y se leyeron ${calcs.length}`);
+if (calcs.length < 11) throw new Error(`postbuild: se esperaban 11 calculadoras y se leyeron ${calcs.length}`);
 
 const records = buildMeta({ site: site + base, articles, guides, calcs });
 const routes = [...records.keys()];

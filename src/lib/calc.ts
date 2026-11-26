@@ -111,3 +111,60 @@ export function convert(amount: number, rate: number): number {
   if (rate <= 0) throw new Error('Tasa inválida');
   return amount * rate;
 }
+
+/** Hipoteca: cuota (sistema francés) sobre el monto financiado. `feci` suma 1 punto porcentual anual (aproximación del 1 % FECI, Ley 4 de 1994, art. 2). */
+export function mortgage(price: number, downPct: number, annualRate: number, years: number, feci = false, monthlyExtras = 0) {
+  assertFinite(price, downPct, annualRate, years, monthlyExtras);
+  if (price <= 0 || downPct < 0 || downPct >= 100 || annualRate < 0 || years <= 0 || monthlyExtras < 0) throw new Error('Datos inválidos');
+  const months = Math.round(years * 12);
+  const down = price * (downPct / 100);
+  const loan = price - down;
+  const effectiveRate = annualRate + (feci ? 1 : 0);
+  const rows = amortization(loan, effectiveRate, months);
+  const payment = rows[0].payment;
+  const totalPaid = rows.reduce((s, x) => s + x.payment, 0);
+  const totalInterest = totalPaid - loan;
+  return { loan, down, effectiveRate, months, payment, monthlyTotal: payment + monthlyExtras, totalPaid, totalInterest, totalExtras: monthlyExtras * months, rows };
+}
+
+export interface AmortYear { year: number; payment: number; interest: number; principal: number; balance: number }
+/** Resumen anual de una tabla de amortización mensual. */
+export function amortizationByYear(rows: AmortRow[]): AmortYear[] {
+  const out: AmortYear[] = [];
+  for (const x of rows) {
+    const year = Math.ceil(x.n / 12);
+    let y = out[year - 1];
+    if (!y) { y = { year, payment: 0, interest: 0, principal: 0, balance: 0 }; out.push(y); }
+    y.payment += x.payment; y.interest += x.interest; y.principal += x.principal; y.balance = x.balance;
+  }
+  return out;
+}
+
+/**
+ * Plan de jubilación. Supuestos: aportes mensuales constantes (nominales) al final de cada mes; rendimiento nominal anual con capitalización mensual;
+ * el ingreso objetivo está en dólares de hoy y se ajusta por inflación; durante el retiro el saldo rinde la tasa real (rendimiento ajustado por inflación)
+ * y se retira el ingreso al final de cada mes durante `retirementYears`. No incluye pensiones de la CSS ni otros ingresos.
+ */
+export function retirementPlan(p: { age: number; retireAge: number; savings: number; monthly: number; returnPct: number; inflationPct: number; targetIncome: number; retirementYears: number }) {
+  const { age, retireAge, savings, monthly, returnPct, inflationPct, targetIncome, retirementYears } = p;
+  assertFinite(age, retireAge, savings, monthly, returnPct, inflationPct, targetIncome, retirementYears);
+  if (age < 0 || retireAge <= age || savings < 0 || monthly < 0 || returnPct < 0 || inflationPct < 0 || inflationPct > 1000 || targetIncome < 0 || retirementYears <= 0) throw new Error('Datos inválidos');
+  const accMonths = Math.round((retireAge - age) * 12);
+  const yearsToRetire = accMonths / 12;
+  const infl = Math.pow(1 + inflationPct / 100, yearsToRetire);
+  const retMonths = Math.round(retirementYears * 12);
+  const rr = Math.pow((1 + returnPct / 100) / (1 + inflationPct / 100), 1 / 12) - 1; // tasa real mensual durante el retiro
+  const factor = Math.abs(rr) < 1e-12 ? retMonths : (1 - Math.pow(1 + rr, -retMonths)) / rr; // valor presente de 1 USD mensual (dólares de hoy)
+  const neededReal = targetIncome * factor;
+  const neededNominal = neededReal * infl;
+  const projectedNominal = futureValue(savings, monthly, returnPct, accMonths);
+  const projectedReal = projectedNominal / infl;
+  const gapNominal = Math.max(0, neededNominal - projectedNominal);
+  const requiredMonthly = monthlyForGoal(neededNominal || Number.MIN_VALUE, savings, returnPct, accMonths);
+  return {
+    accMonths, retMonths, inflationFactor: infl, neededReal, neededNominal, projectedNominal, projectedReal,
+    gapNominal, gapReal: gapNominal / infl, requiredMonthly: neededNominal === 0 ? 0 : requiredMonthly,
+    extraMonthly: Math.max(0, (neededNominal === 0 ? 0 : requiredMonthly) - monthly),
+    sustainableIncomeReal: projectedReal / factor, onTrack: projectedNominal >= neededNominal,
+  };
+}
