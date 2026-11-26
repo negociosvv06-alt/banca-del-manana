@@ -1,5 +1,64 @@
 [
   {
+    "id": "sbp-pacific-bank-nuevo-gerente-general-2026-11",
+    "title": "Pacific Bank nombra a Ariel Sanmartín Méndez como nuevo gerente general a partir del 1 de diciembre",
+    "summary": "La Superintendencia de Bancos de Panamá informó que, mediante nota del 19 de noviembre, se dio por notificada del relevo en la gerencia general de Pacific Bank, S.A.: Ariel Sanmartín Méndez asumirá el cargo el 1 de diciembre de 2026 en sustitución de Carmen Alexa Foglia Sandoval, quien concluye su gestión el 30 de noviembre.",
+    "date": "2026-11-24",
+    "source": "Superintendencia de Bancos de Panamá",
+    "url": "https://www.superbancos.gob.pa/node/1829",
+    "category": "bancos",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "Pacific Bank",
+      "gobierno corporativo",
+      "cambios relevantes"
+    ]
+  },
+  {
+    "id": "mef-subasta-notas-tesoro-2033-cuarto-tramo-2026-11",
+    "title": "El MEF subasta un cuarto tramo de USD 50 millones en Notas del Tesoro al 5,25 % con vencimiento en 2033",
+    "summary": "El Ministerio de Economía y Finanzas fijó, mediante la Resolución DdFP-020-2026, las condiciones del cuarto tramo de Notas del Tesoro con cupón de 5,25 % y vencimiento el 27 de marzo de 2033, por un monto indicativo de USD 50 millones. La subasta, a precio múltiple, se realizó el 24 de noviembre con liquidación el 27 de noviembre y listado en Latinex a través de Euroclear.",
+    "date": "2026-11-24",
+    "source": "TVN Panamá",
+    "url": "https://www.tvn-2.com/nacionales/mef-anuncia-subasta-50-millones_1_2272536.html",
+    "category": "economia",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [
+      "banco-nacional"
+    ],
+    "tags": [
+      "MEF",
+      "Notas del Tesoro",
+      "deuda pública",
+      "Latinex"
+    ]
+  },
+  {
+    "id": "sbp-acuerdo-prevencion-1-2026-registro-financieras-2026-11",
+    "title": "Las empresas financieras tendrán nueve meses para registrarse ante la Superintendencia de Bancos",
+    "summary": "El Acuerdo de Prevención para Otros Sujetos Obligados Financieros No. 1-2026, publicado en Gaceta Oficial el 23 de noviembre, obliga a las financieras a registrarse ante la SBP como parte de los controles contra el blanqueo de capitales y el financiamiento del terrorismo. Las que ya tienen licencia del MICI dispondrán de nueve meses para completar el trámite, que se presenta mediante abogado con información de accionistas y beneficiarios finales.",
+    "date": "2026-11-23",
+    "source": "Panamá América",
+    "url": "https://www.panamaamerica.com.pa/economia/financieras-tendran-nueve-meses-para-registrarse-ante-la-superintendencia-de-bancos-1282468",
+    "category": "regulacion",
+    "type": "noticia",
+    "country": "Panamá",
+    "lang": "es",
+    "banks": [],
+    "tags": [
+      "SBP",
+      "financieras",
+      "prevención de blanqueo",
+      "regulación"
+    ]
+  },
+  {
     "id": "sbp-acuerdo-12-2026-comisiones-recargos-marzo-2027-2026-11",
     "title": "La SBP fija el 31 de marzo de 2027 para la entrada en vigencia de nuevas reglas sobre comisiones y recargos bancarios",
     "summary": "Mediante el Acuerdo No. 12-2026 (circular SBP-DR-CIRCULAR-2026-0123 del 25 de noviembre), la Superintendencia de Bancos de Panamá modificó el plazo del Acuerdo 7-2026 sobre cobro de ciertas comisiones y recargos para que los bancos realicen los ajustes tecnológicos en sus sistemas operativos antes del 31 de marzo de 2027.",

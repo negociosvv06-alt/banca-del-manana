@@ -1,23 +1,39 @@
 {
- "lastRun": "2026-11-26T02:11:49.113Z",
+ "lastRun": "2026-11-26T13:08:41.795Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-11-26T02:11:49.113Z",
+   "fetchedAt": "2026-11-26T13:08:41.795Z",
    "count": 12
   },
   "ecb": {
    "ok": true,
-   "fetchedAt": "2026-11-26T02:11:49.113Z",
+   "fetchedAt": "2026-11-26T13:08:41.795Z",
    "count": 12
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-11-26T02:11:49.113Z",
+   "fetchedAt": "2026-11-26T13:08:41.795Z",
    "count": 3
   }
  },
  "items": [
+  {
+   "id": "ecb-jY2YyOGM4MDcxLmVuLmh0bWw",
+   "title": "Meeting of 28-29 October 2026",
+   "summary": "",
+   "date": "2026-11-26",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
   {
    "id": "bis-seS1pbXBvcnRhbnQtYmFua3M",
    "title": "Basel Committee publishes more details on the 2026 assessment of global systemically important banks",
@@ -329,22 +345,6 @@
    "date": "2026-11-16",
    "source": "Banco Central Europeo (BCE)",
    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "ecb-zODgzZjFmMTg3LmVuLmh0bWw",
-   "title": "Isabel Schnabel: Made in Europe",
-   "summary": "",
-   "date": "2026-11-13",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
    "category": "internacional",
    "type": "noticia",
    "country": "Zona euro",
