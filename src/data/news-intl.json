@@ -1,23 +1,39 @@
 {
- "lastRun": "2026-11-26T13:08:41.795Z",
+ "lastRun": "2026-11-27T13:02:06.425Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-11-26T13:08:41.795Z",
+   "fetchedAt": "2026-11-27T13:02:06.425Z",
    "count": 12
   },
   "ecb": {
    "ok": true,
-   "fetchedAt": "2026-11-26T13:08:41.795Z",
+   "fetchedAt": "2026-11-27T13:02:06.425Z",
    "count": 12
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-11-26T13:08:41.795Z",
+   "fetchedAt": "2026-11-27T13:02:06.425Z",
    "count": 3
   }
  },
  "items": [
+  {
+   "id": "ecb-JlNTNhZjY5NWUuZW4uaHRtbA",
+   "title": "ECB Consumer Expectations Survey results – October 2026",
+   "summary": "",
+   "date": "2026-11-27",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
   {
    "id": "ecb-jY2YyOGM4MDcxLmVuLmh0bWw",
    "title": "Meeting of 28-29 October 2026",
@@ -313,22 +329,6 @@
    "date": "2026-11-17",
    "source": "Banco Central Europeo (BCE)",
    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "ecb-kYjM3NGI1NmFiLmVuLmh0bWw",
-   "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
-   "summary": "",
-   "date": "2026-11-16",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
    "category": "internacional",
    "type": "noticia",
    "country": "Zona euro",
