@@ -1,5 +1,108 @@
 [
   {
+    "id": "asean-3-grupo-trabajo-pagos-transfronterizos-activos-digitales-2026-11-26",
+    "title": "ASEAN+3 crea un grupo de trabajo para conectar pagos transfronterizos y coordinar la regulación de activos digitales",
+    "summary": "Altos funcionarios de finanzas y bancos centrales de China, Japón, Corea del Sur y los países de la ASEAN acordaron el 26 de noviembre en Kioto crear el programa AMRO de pagos digitales transfronterizos y un grupo de trabajo bajo esa oficina regional. Analizará la conectividad de pagos minoristas y mayoristas entre bancos y los enfoques regulatorios sobre activos digitales; su primer estudio revisará brechas en pagos persona a persona, comercio electrónico y remesas.",
+    "date": "2026-11-26",
+    "source": "The Crypto Times",
+    "url": "https://www.cryptotimes.io/2026/11/26/asean-3-forms-working-group-to-link-payments-and-align-digital-asset-rules/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Asia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "bancos centrales",
+      "pagos",
+      "regulación",
+      "stablecoins",
+      "Asia"
+    ]
+  },
+  {
+    "id": "japon-fsa-periodo-enfriamiento-transferencias-billeteras-autocustodia-2026-11-26",
+    "title": "La FSA de Japón plantea periodos de espera para transferencias cripto desde cuentas nuevas hacia billeteras propias",
+    "summary": "La Agencia de Servicios Financieros de Japón publicó el 26 de noviembre un documento de discusión que contempla un periodo de enfriamiento para los envíos de cripto desde cuentas recién abiertas en exchanges hacia billeteras de autocustodia, como medida contra fraudes y lavado. No es una norma final: el regulador consulta si la demora debe ser obligatoria o bastaría una advertencia, y cuánto debería durar. El exchange bitFlyer ya aplica una espera de 48 horas desde octubre para nuevos clientes.",
+    "date": "2026-11-26",
+    "source": "Crypto Briefing",
+    "url": "https://cryptobriefing.com/japan-fsa-crypto-cooling-off-periods/",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Japón",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "regulación",
+      "exchanges",
+      "antilavado",
+      "protección al usuario",
+      "Japón"
+    ]
+  },
+  {
+    "id": "banco-de-rusia-test-conocimientos-compra-criptomonedas-2026-11-26",
+    "title": "El Banco de Rusia exigirá aprobar un test antes de comprar criptomonedas mediante brokers y exchanges locales",
+    "summary": "El Banco de Rusia aprobó el 26 de noviembre estándares básicos de protección para clientes de brokers y exchanges cripto que obligan a inversores calificados y no calificados a superar un test gratuito de ocho preguntas, con al menos siete aciertos, sobre regulación, tipos de criptomonedas y riesgos. El resultado vale un año. Los inversores no calificados solo podrán acceder a una lista limitada de criptomonedas y a un máximo de 300.000 rublos al año por intermediario.",
+    "date": "2026-11-26",
+    "source": "Bank of Russia",
+    "url": "https://www.cbr.ru/eng/press/event/?id=33023",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Rusia",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "bancos centrales",
+      "regulación",
+      "protección al usuario",
+      "exchanges",
+      "Rusia"
+    ]
+  },
+  {
+    "id": "corea-del-sur-reservas-locales-emisores-extranjeros-stablecoins-2026-11-26",
+    "title": "Corea del Sur estudia exigir a emisores extranjeros de stablecoins mantener parte de sus reservas en el país",
+    "summary": "La Comisión de Servicios Financieros surcoreana evalúa, dentro del borrador de la Ley Básica de Activos Digitales, que emisores extranjeros como Tether o Circle abran una sucursal local, se registren y depositen parte de sus reservas en instituciones designadas, como bancos o fideicomisarios, para ofrecer emisión y rescate en Corea. Las reservas irían separadas de los activos del emisor e invertidas en depósitos bancarios y bonos públicos. Las disposiciones aún no están vigentes.",
+    "date": "2026-11-26",
+    "source": "TokenPost",
+    "url": "https://www.tokenpost.com/news/regulation/62653",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "en",
+    "banks": [],
+    "tags": [
+      "banca",
+      "stablecoins",
+      "regulación",
+      "reservas",
+      "Corea del Sur"
+    ]
+  },
+  {
+    "id": "kb-kookmin-pagos-tokens-de-deposito-blockchain-promotion-week-2026-11-26",
+    "title": "KB Kookmin Bank muestra pagos con tokens de depósito desde su app en una feria de blockchain del Gobierno coreano",
+    "summary": "KB Kookmin Bank informó el 26 de noviembre que presentó en la Blockchain Promotion Week de Seúl, organizada por el Ministerio de Ciencia y TIC, servicios de pago basados en tokens de depósito mediante la función Kookmin Wallet de su app KB Star Banking. Los visitantes probaron el proceso completo de pago; se trató de una demostración y no del lanzamiento comercial de un producto.",
+    "date": "2026-11-26",
+    "source": "The Asia Business Daily",
+    "url": "https://view.asiae.co.kr/en/article/2026112615550278566",
+    "category": "activos-digitales",
+    "type": "noticia",
+    "country": "Corea del Sur",
+    "lang": "en",
+    "banks": [
+      "KB Kookmin Bank"
+    ],
+    "tags": [
+      "banca",
+      "tokenización",
+      "depósitos tokenizados",
+      "pagos",
+      "Corea del Sur"
+    ]
+  },
+  {
     "id": "hsbc-redcoin-100000-usuarios-primer-mes-2026-11-26",
     "title": "HSBC supera los 100.000 usuarios de su stablecoin RedCoin en Hong Kong en su primer mes",
     "summary": "HSBC informó el 26 de noviembre que más de 100.000 personas usaron HSBC RedCoin, su stablecoin respaldada en dólares de Hong Kong y una de las dos con licencia en esa jurisdicción, durante su primer mes. Está integrada en la app PayMe, con más de 3,3 millones de usuarios, y se acepta en más de 100.000 comercios; el banco dice que su siguiente foco será la ciberseguridad y nuevos productos.",
@@ -360,63 +463,5 @@
       "banco central",
       "liquidación"
     ]
-  },
-  {
-    "id": "aci-circle-liquidacion-usdc-colombia-bre-b-2026-10-27",
-    "title": "ACI Worldwide y Circle pilotean liquidación en USDC sobre la infraestructura de pagos de Colombia",
-    "summary": "ACI Worldwide y Circle anunciaron una colaboración para mostrar cómo las instituciones financieras pueden integrar la liquidación en la stablecoin USDC a sus operaciones de pago existentes mediante la plataforma ACI Connetic. El piloto inicia en Colombia, donde ACI construyó la infraestructura central de Bre-B, el sistema de pagos inmediatos interoperable del país, como complemento y no reemplazo de los rieles bancarios.",
-    "date": "2026-10-27",
-    "source": "Circle (Business Wire)",
-    "url": "https://investor.circle.com/news/news-details/2026/ACI-Worldwide-and-Circle-Collaborate-to-Bring-USDC-Settlement-to-Existing-Payments-Infrastructure-in-Latin-America/default.aspx",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Colombia",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "banca",
-      "stablecoins",
-      "pagos",
-      "América Latina",
-      "USDC"
-    ]
-  },
-  {
-    "id": "graniteshares-aplaza-registro-etf-cripto-apalancados-2026-10-27",
-    "title": "GraniteShares fija el 30 de noviembre para la enmienda de registro de ocho ETF cripto apalancados",
-    "summary": "GraniteShares ETF Trust presentó ante la SEC el 26 de octubre una enmienda que fija el 30 de noviembre de 2026 como fecha efectiva de cambios de registro para ocho fondos propuestos, incluidos ETF diarios 3x largos y cortos sobre XRP, bitcoin, ether y solana. La fecha corresponde al registro y no a un inicio de negociación, que no fue anunciado.",
-    "date": "2026-10-27",
-    "source": "TokenPost",
-    "url": "https://www.tokenpost.com/news/regulation/41884",
-    "category": "activos-digitales",
-    "type": "noticia",
-    "country": "Estados Unidos",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "ETF",
-      "SEC",
-      "regulación"
-    ]
-  },
-  {
-    "id": "banco-nacional-georgia-piloto-lari-digital-2026-10-27",
-    "title": "El Banco Nacional de Georgia trabaja en pilotos del lari digital y en reglas para stablecoins",
-    "summary": "La presidenta del Banco Nacional de Georgia, Natia Turnava, dijo en el Tbilisi Financial Summit que la entidad desarrolla proyectos piloto del lari digital y estudia la tokenización y las stablecoins. También prepara marcos regulatorios para activos virtuales, emisión inicial de stablecoins y banca abierta, junto con la modernización de su sistema de liquidación bruta en tiempo real.",
-    "date": "2026-10-27",
-    "source": "Business Media Georgia",
-    "url": "https://bm.ge/en/news/turnava-nbg-is-working-on-digital-lari-pilot-projects",
-    "country": "Georgia",
-    "lang": "en",
-    "banks": [],
-    "tags": [
-      "CBDC",
-      "stablecoins",
-      "tokenización",
-      "banca central",
-      "banca"
-    ],
-    "category": "activos-digitales",
-    "type": "noticia"
   }
 ]
