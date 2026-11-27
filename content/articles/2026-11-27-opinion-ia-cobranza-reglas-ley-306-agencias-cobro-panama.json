@@ -1,0 +1,51 @@
+{
+  "id": "opinion-ia-cobranza-reglas-ley-306-agencias-cobro-2026-11-27",
+  "section": "opinion",
+  "type": "opinion",
+  "title": "Opinión: la inteligencia artificial ya empieza a cobrar deudas en otros países y Panamá todavía no tiene reglas vigentes para la cobranza; conviene resolver el proyecto de ley 306 antes de que la IA multiplique las llamadas",
+  "date": "2026-11-27",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "The Paypers – Danamon and Advance Intelligence Group sign MoU on AI agents",
+      "url": "https://thepaypers.com/fintech/news/danamon-and-advance-intelligence-group-sign-mou-on-ai-agents",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "LeyClara – Proyecto de Ley 306 de 2025: regula horarios, canales y prohibiciones de las agencias de cobro",
+      "url": "https://leyclara.pa/iniciativa/tramite_7968",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "La Estrella de Panamá – ¿Horario para el acoso de cobro? Las claves del proyecto aprobado en la Asamblea",
+      "url": "https://www.laestrella.com.pa/panama/nacional/horario-para-el-acoso-de-cobro-las-claves-del-proyecto-aprobado-en-la-asamblea-KD20892945",
+      "date": "2026-03-19"
+    },
+    {
+      "name": "Comisión de Regulación de Comunicaciones (Colombia) – Ley 2300 de 2023",
+      "url": "https://normograma.crcom.gov.co/crc/compilacion/docs/ley_2300_2023.htm",
+      "date": "2023-07-10"
+    }
+  ],
+  "body": [
+    "Esta semana, Bank Danamon, de Indonesia y parte del grupo japonés MUFG, firmó un memorando con Advance Intelligence Group para explorar agentes de inteligencia artificial (IA) en cobranza y televentas, por voz y por texto, con supervisión de sus propios equipos. La noticia, publicada por The Paypers el 26 de noviembre, es pequeña en sí misma, pero anticipa algo que tarde o temprano llegará a Panamá: máquinas capaces de llamar, escribir y negociar con deudores a una escala que ningún centro de llamadas humano alcanza.",
+    "La IA puede hacer que la cobranza sea más ordenada y hasta más amable: recordatorios a tiempo, opciones de arreglo de pago explicadas con calma y sin el tono agresivo que muchos clientes han sufrido. Pero también puede hacer lo contrario: multiplicar los contactos, insistir a cualquier hora y presionar con una persistencia que nadie programó de forma explícita. Qué ocurra depende de las reglas.",
+    "## Panamá discutió esas reglas y las dejó a medio camino",
+    "En marzo de 2026, la Asamblea Nacional aprobó en tercer debate el proyecto de ley 306, impulsado por la diputada Yamireliz Chong, con 41 votos a favor, según La Estrella de Panamá. El texto fijaba horarios para las llamadas de cobro, de lunes a viernes de 8:00 a. m. a 6:00 p. m. y sábados de 8:00 a. m. a 3:00 p. m., y prohibía el hostigamiento, las llamadas excesivas, las visitas domiciliarias sin autorización y la divulgación de deudas a terceros. Durante el debate se aclaró que no buscaba impedir el cobro, sino que se hiciera sin abuso.",
+    "Según el resumen de LeyClara, el texto aprobado también limitaba el contacto a los canales autorizados por el consumidor, preveía multas de hasta 25,000 balboas para las agencias de cobro y encargaba a Acodeco velar por su cumplimiento, aclarando que no interferiría con el régimen bancario ni con las facultades de la Superintendencia de Bancos.",
+    "El 4 de mayo, el Ejecutivo objetó el proyecto por inconveniencia e inexequibilidad. Desde el 8 de septiembre hay un informe de comisión sobre la objeción y, al 26 de noviembre, el trámite seguía pendiente. Es decir, Panamá no tiene hoy una ley vigente que fije horarios y límites generales para la cobranza extrajudicial.",
+    "## Lo que muestra un vecino",
+    "Colombia sí lo resolvió. La Ley 2300 de 2023 establece que quien cobra solo puede contactar al consumidor por los canales que este autorice; que, tras un contacto directo, no puede volver a buscarlo por varios canales en la misma semana ni más de una vez al día; que el horario va de lunes a viernes de 7:00 a. m. a 7:00 p. m. y sábados de 8:00 a. m. a 3:00 p. m., sin domingos ni feriados; y que no se puede contactar a referencias personales. Son reglas simples, verificables y, sobre todo, programables.",
+    "Ese último punto es el que hace urgente la discusión. Una regla de frecuencia o de horario es difícil de supervisar cuando miles de gestores humanos llaman desde distintos lugares. En un sistema de IA, en cambio, es una línea de código y un registro auditable. Una buena ley convierte la tecnología en aliada del consumidor; la falta de ley deja la decisión en manos de cada empresa.",
+    "## Lo que propongo",
+    "No me corresponde decir si las objeciones del Ejecutivo tienen fundamento jurídico; eso lo decidirán la Asamblea y, si llega el caso, la Corte. Pero sí creo que el país no debería dejar el tema en el limbo. Algunas ideas para el debate:",
+    "- Resolver el proyecto 306, corrigiendo lo que haya que corregir, para que exista una regla clara de horarios, frecuencia y canales.",
+    "- Aplicar las mismas reglas a la cobranza hecha por personas y por sistemas automatizados, sin vacíos para los robots.",
+    "- Exigir que el cliente sepa cuándo habla con una IA y pueda pasar a una persona para negociar un arreglo de pago.",
+    "- Pedir registros auditables de cada contacto, útiles para las quejas ante Acodeco y para la supervisión de la SBP cuando se trate de entidades bancarias.",
+    "Los bancos y financieras que cobran con respeto no tienen nada que temer de reglas así; al contrario, les dan certeza y nivelan la cancha frente a quienes no lo hacen. Y los deudores, que siguen teniendo la obligación de pagar, merecen hacerlo sin que su teléfono suene a cualquier hora.",
+    "La IA va a llegar a la cobranza. La pregunta es si llegará a un mercado con reglas o a uno sin ellas.",
+    "Opinión editorial de Banca del Mañana. No representa a ninguna institución financiera."
+  ]
+}
