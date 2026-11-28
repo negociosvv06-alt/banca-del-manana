@@ -1,23 +1,55 @@
 {
- "lastRun": "2026-11-27T13:02:06.425Z",
+ "lastRun": "2026-11-28T13:04:56.846Z",
  "sources": {
   "fed": {
    "ok": true,
-   "fetchedAt": "2026-11-27T13:02:06.425Z",
+   "fetchedAt": "2026-11-28T13:04:56.846Z",
    "count": 12
   },
   "ecb": {
    "ok": true,
-   "fetchedAt": "2026-11-27T13:02:06.425Z",
+   "fetchedAt": "2026-11-28T13:04:56.846Z",
    "count": 12
   },
   "bis": {
    "ok": true,
-   "fetchedAt": "2026-11-27T13:02:06.425Z",
+   "fetchedAt": "2026-11-28T13:04:56.846Z",
    "count": 3
   }
  },
  "items": [
+  {
+   "id": "ecb-EwZTExZjc4ZjEuZW4uaHRtbA",
+   "title": "Boris Vujčić: Interview with Kurier",
+   "summary": "",
+   "date": "2026-11-28",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "id": "ecb-EzZWNhZGMwZjIuZW4uaHRtbA",
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "summary": "",
+   "date": "2026-11-27",
+   "source": "Banco Central Europeo (BCE)",
+   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "category": "internacional",
+   "type": "noticia",
+   "country": "Zona euro",
+   "lang": "en",
+   "banks": [],
+   "tags": [
+    "ECB"
+   ]
+  },
   {
    "id": "ecb-JlNTNhZjY5NWUuZW4uaHRtbA",
    "title": "ECB Consumer Expectations Survey results – October 2026",
@@ -320,38 +352,6 @@
    "banks": [],
    "tags": [
     "FED"
-   ]
-  },
-  {
-   "id": "ecb-43ZjVkM2IxYTBlLmVuLnBkZg",
-   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-   "summary": "",
-   "date": "2026-11-17",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
-   ]
-  },
-  {
-   "id": "ecb-MTFkZDdmNjJhZi5lbi5odG1s",
-   "title": "Frank Elderson: Smart supervision for small banks",
-   "summary": "",
-   "date": "2026-11-16",
-   "source": "Banco Central Europeo (BCE)",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "category": "internacional",
-   "type": "noticia",
-   "country": "Zona euro",
-   "lang": "en",
-   "banks": [],
-   "tags": [
-    "ECB"
    ]
   },
   {
