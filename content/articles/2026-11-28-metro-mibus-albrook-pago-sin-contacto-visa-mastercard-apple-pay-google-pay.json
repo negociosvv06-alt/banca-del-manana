@@ -1,0 +1,49 @@
+{
+  "id": "metro-mibus-pago-sin-contacto-tarjetas-billeteras-2026-11-28",
+  "section": "pagos",
+  "type": "analisis",
+  "title": "Metro, MiBus y la terminal de Albrook ya aceptan tarjetas Visa y Mastercard, Apple Pay y Google Pay: cómo funciona pagar el pasaje sin contacto, cuánto cuesta y qué revisar para no perder el transbordo",
+  "date": "2026-11-28",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "Panamá Banking News – Metro, MiBus y la terminal de Albrook ya aceptan pagos con tarjetas Visa y Mastercard, Apple Pay y Google Pay, según SONDA",
+      "url": "https://panamabankingnews.com/fintech/metro-mibus-y-la-terminal-de-albrook-ya-aceptan-pagos-con-tarjetas-visa-y-mastercard-apple-pay-y-google-pay-segun-sonda/",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "Destino Panamá – Wingo incorpora Yappy como método de pago para comprar tiquetes aéreos",
+      "url": "https://destinopanama.com.pa/2026/11/wingo-incorpora-yappy-como-metodo-de-pago-para-comprar-tiquetes-aereos/",
+      "date": "2026-11-23"
+    },
+    {
+      "name": "Panamá América – Ofertas demasiado buenas y pagos a terceros: las alertas de la DIJ para evitar estafas durante compras de fin de año",
+      "url": "https://www.panamaamerica.com.pa/judicial/ofertas-demasiado-buenas-y-pagos-terceros-las-alertas-de-la-dij-para-evitar-estafas-durante-compras-de-fin-de-ano-1282205",
+      "date": "2026-11-17"
+    }
+  ],
+  "body": [
+    "Desde esta semana, quienes usan el transporte público masivo de la ciudad de Panamá tienen una forma más de pagar el pasaje. Según informó SONDA, administrador financiero del Sistema Integrado de Transporte Público, los validadores del Metro, de MiBus y de la terminal de Albrook, incluidas las Zonas Pagas, aceptan tarjetas de crédito, débito o prepago sin contacto Visa y Mastercard, emitidas por cualquier banco o país, además de Apple Pay y Google Pay desde celulares y relojes inteligentes. La nota, publicada por Panamá Banking News el 26 de noviembre, se basa en el comunicado de SONDA del 25 de noviembre.",
+    "## Qué cambió",
+    "Con este paso, SONDA dio por terminada la fase de implementación del proyecto de modernización parcial del sistema de recaudo, impulsado por Metro de Panamá, MiBus y la Autoridad del Tránsito y Transporte Terrestre (ATTT). El proyecto incluyó validadores nuevos y, en agosto, la migración a una arquitectura en la nube conocida como ABT, en la que los saldos y las transacciones se guardan en servidores y no en la tarjeta física. Según la empresa, esa base está pensada para crecer e integrarse con la futura Línea 3 del Metro y con otros operadores.",
+    "El sistema usa Cybersource, la plataforma de Visa para aceptar y procesar pagos; según la información difundida, es el primer proyecto de transporte en Centroamérica y el Caribe con esa tecnología. Todos los validadores operan bajo el estándar internacional EMV, el mismo de los chips de las tarjetas bancarias.",
+    "## Cuánto cuesta",
+    "Según SONDA, pagar con tarjeta bancaria o billetera digital cuesta lo mismo que la tarifa oficial vigente, sin cargos adicionales del sistema. Un matiz útil: si su tarjeta fue emitida en el extranjero, el cobro lo procesa su banco emisor según sus propias condiciones, así que vale la pena consultar si le aplica alguna comisión por compras internacionales.",
+    "## La tarjeta Metrobús sigue vigente",
+    "Nadie está obligado a cambiar. La tarjeta tradicional de transporte sigue funcionando y se puede recargar en taquillas, comercios, banca en línea y con Yappy a través de la App A2-20. Una mejora práctica: las recargas digitales ahora se acreditan directamente en el validador, sin pasar por los tótems de activación.",
+    "## Un consejo para no perder el transbordo",
+    "Los operadores recomiendan usar una sola tarjeta o un solo dispositivo de principio a fin del recorrido. Si entra al Metro con su tarjeta de débito y luego sube al MiBus acercando el celular, el sistema podría tratarlos como dos medios distintos y usted perdería beneficios como el transbordo. Lo mismo ocurre si alterna entre la tarjeta Metrobús y una tarjeta bancaria.",
+    "## Por qué importa para los pagos en Panamá",
+    "El país ya estaba acostumbrado a pagar acercando la tarjeta. Según datos de VisaNet a junio de 2026 citados en la nota, el 93 % de las transacciones presenciales en Panamá son sin contacto, lo que ubica al país como el tercero de América Latina que más usa este tipo de pago, después de Chile y Perú. Visa reportó además un crecimiento interanual de 68 % en sus transacciones en el Metro. Mastercard, por su parte, citó su estudio de 2026 según el cual el 89 % de los consumidores de América Latina y el Caribe ya son usuarios digitales, y recordó que los pagos digitales en el Metro comenzaron en 2023.",
+    "Este tipo de sistema, conocido en la industria como «pago abierto» porque acepta las mismas tarjetas que cualquier comercio, tiene ventajas claras: menos filas para recargar, una opción inmediata para turistas y menos efectivo circulando. También se suma a una tendencia más amplia de integración de medios de pago en la vida diaria; por ejemplo, la aerolínea Wingo empezó a aceptar Yappy para comprar boletos desde el 20 de octubre, según Destino Panamá.",
+    "## Pagar seguro en el transporte",
+    "Más formas de pago también significan más cuidado. Algunas recomendaciones generales:",
+    "- Revise sus movimientos: compare los cobros de pasaje en su estado de cuenta o en la app de su banco. Si ve un cargo que no reconoce, repórtelo a su banco cuanto antes.",
+    "- Active las notificaciones de compra de su tarjeta para enterarse de cada cobro al momento.",
+    "- Proteja el celular y el reloj con bloqueo de pantalla y, si pierde alguno, avise de inmediato a su banco para suspender la tarjeta que tenía cargada.",
+    "- Desconfíe de mensajes que digan venir del Metro, de MiBus o de su banco y le pidan «actualizar datos» o ingresar a un enlace. La División de Ciberdelitos de la DIJ ha advertido sobre mensajes y correos que aparentan venir de bancos o instituciones para robar credenciales. Ningún sistema de transporte necesita su PIN, su clave de banca en línea ni códigos de verificación.",
+    "## En resumen",
+    "Pagar el Metro y el MiBus con la misma tarjeta o el mismo celular que usa en el supermercado ya es posible en Panamá, sin costo extra según SONDA. La tarjeta Metrobús sigue vigente. La clave para aprovecharlo es sencilla: elija un solo medio para todo el viaje, vigile sus movimientos y no comparta datos sensibles con nadie que se los pida por mensaje."
+  ]
+}

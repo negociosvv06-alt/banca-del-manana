@@ -1,0 +1,68 @@
+{
+  "id": "indice-dolar-dxy-calculo-panama-2026-11-28",
+  "section": "avanzadas",
+  "type": "educativo",
+  "title": "El dólar suma su tercer mes de alzas: qué es el índice DXY, cómo se calcula con seis monedas, por qué no es lo mismo que el índice amplio de la Fed y qué significa para Panamá, un país dolarizado",
+  "date": "2026-11-28",
+  "author": "Vladimir Vergara, autor de Banca del Mañana",
+  "aiAssisted": true,
+  "sources": [
+    {
+      "name": "ICE – U.S. Dollar Index® futures (composición y metodología)",
+      "url": "https://www.ice.com/forex/usdx",
+      "date": "2026-11-28"
+    },
+    {
+      "name": "ICE Futures U.S. – U.S. Dollar Index Contracts FAQ",
+      "url": "https://www.ice.com/publicdocs/futures_us/ICE_Dollar_Index_FAQ.pdf",
+      "date": "2015-06-01"
+    },
+    {
+      "name": "Reserva Federal – H.10 Currency Weights (Broad Index)",
+      "url": "https://www.federalreserve.gov/releases/h10/weights/default.htm",
+      "date": "2026-02-02"
+    },
+    {
+      "name": "Reuters vía Business Recorder – Shares find footing after bruising month, dollar set for third monthly gain",
+      "url": "https://www.brecorder.com/news/40450988",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Reserva Federal – Calendario de reuniones del FOMC 2026",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "date": "2026-11-28"
+    }
+  ],
+  "body": [
+    "«El dólar se encamina a su tercer mes seguido de ganancias». Así lo reportó Reuters el 27 de noviembre: el índice del dólar estaba en 103.8, con un alza de 1.8 % en noviembre frente a las principales monedas, apoyado por la demanda de activos refugio durante la caída de las bolsas y por la expectativa de que la Reserva Federal (Fed) suba tasas en diciembre. Los futuros implicaban una probabilidad de 99 % de un aumento de un cuarto de punto. La próxima reunión de la Fed está programada para el 8 y 9 de diciembre.",
+    "Pero ¿qué es exactamente ese «índice del dólar», cómo se calcula y por qué debería importarle a alguien en un país que usa el dólar como moneda?",
+    "## Qué es el DXY",
+    "El índice del dólar estadounidense (USDX, conocido también por su símbolo DXY) mide el valor del dólar frente a una canasta de seis monedas. Según ICE, la empresa que lo administra, fue desarrollado originalmente por la Fed en 1973 y su base es marzo de ese año, cuando las grandes economías dejaron flotar libremente sus monedas; ese punto de partida equivale a 100. Un valor de 103.8 indica, en términos generales, que el dólar vale algo más que en marzo de 1973 frente a esa canasta.",
+    "Las seis monedas y sus pesos fijos son, según ICE:",
+    "- Euro: 57.6 %",
+    "- Yen japonés: 13.6 %",
+    "- Libra esterlina: 11.9 %",
+    "- Dólar canadiense: 9.1 %",
+    "- Corona sueca: 4.2 %",
+    "- Franco suizo: 3.6 %",
+    "La composición solo ha cambiado una vez, en enero de 1999, cuando el euro reemplazó al marco alemán, el franco francés, la lira italiana, el florín neerlandés y el franco belga, manteniendo su peso conjunto de 57.6 %.",
+    "## Cómo se calcula",
+    "El DXY es una media geométrica ponderada. La fórmula publicada por ICE es:",
+    "USDX = 50.14348112 × EURUSD^(-0.576) × USDJPY^(0.136) × GBPUSD^(-0.119) × USDCAD^(0.091) × USDSEK^(0.042) × USDCHF^(0.036)",
+    "Dos detalles para leerla. Primero, el exponente es el peso de cada moneda. Segundo, el signo cambia según cómo se cotiza el par: cuando el dólar es la moneda base (por ejemplo, USDJPY, yenes por dólar), el exponente es positivo, porque si sube ese número el dólar se fortalece; cuando el dólar es la moneda de cotización (EURUSD, dólares por euro), el exponente es negativo, porque si sube ese número el dólar se debilita. La constante 50.14348112 ajusta el índice para que la base de 1973 sea 100. ICE lo calcula en tiempo real con el punto medio entre los precios de compra y venta de cada moneda.",
+    "Una consecuencia práctica: como el euro pesa más de la mitad, el DXY es, en buena medida, un termómetro del dólar frente al euro. Un movimiento de 1 % del euro mueve el índice mucho más que un movimiento de 1 % del franco suizo.",
+    "## Para poner el dato en perspectiva",
+    "Según ICE, el índice tocó un máximo de 164.72 en febrero de 1985 y un mínimo de 70.698 en marzo de 2008. El nivel actual está lejos de ambos extremos.",
+    "## Por qué no es lo mismo que el índice amplio de la Fed",
+    "El DXY tiene una limitación conocida: deja fuera a socios comerciales clave de Estados Unidos. La Reserva Federal calcula su propio índice amplio (Broad Index) con pesos que se actualizan según el comercio. En los pesos vigentes desde el 2 de febrero de 2026, México pesa 14.8 %, Canadá 12.8 % y China 10.9 %, mientras Japón y el Reino Unido rondan 5.2 % cada uno y Suecia apenas 0.6 %. Es decir, el peso mexicano y el yuan chino, ausentes del DXY, están entre los más importantes del índice de la Fed, y la corona sueca, que en el DXY pesa 4.2 %, casi no cuenta.",
+    "Por eso, cuando lea que «el dólar sube», conviene preguntarse: ¿frente a qué monedas? El DXY responde sobre todo frente a las monedas de economías avanzadas, con el euro a la cabeza.",
+    "## Qué significa para Panamá",
+    "En Panamá el dólar circula como moneda de curso legal junto al balboa, que mantiene paridad uno a uno. Eso significa que no hay un tipo de cambio local que se mueva día a día, pero el valor del dólar frente a otras monedas sí tiene efectos. En términos generales:",
+    "- Viajes y compras al exterior: con un dólar más fuerte frente al euro, la libra o el yen, viajar a Europa o Japón, o comprar productos de esos países, tiende a resultar más barato para quien gana en dólares.",
+    "- Competitividad: al mismo tiempo, Panamá se vuelve relativamente más caro para turistas y compradores cuyas monedas se debilitan frente al dólar, algo relevante para el turismo y para el comercio de reexportación.",
+    "- Tasas de interés: el factor que hoy impulsa al dólar, la expectativa de alzas de la Fed, es el mismo que influye en el costo del dinero en dólares, una referencia importante para las tasas de préstamos y depósitos en un sistema dolarizado.",
+    "## En resumen",
+    "El DXY es un promedio geométrico del dólar frente a seis monedas, dominado por el euro y con pesos fijos desde 1999. Es útil como termómetro rápido, pero no cuenta toda la historia; el índice amplio de la Fed refleja mejor el comercio actual de Estados Unidos. Para Panamá, un dólar fuerte abarata lo que se compra afuera, encarece al país para los visitantes y llega acompañado, casi siempre, de tasas más altas.",
+    "Nota: este artículo es educativo y no constituye una recomendación de inversión ni de compra o venta de divisas o instrumentos financieros. Los mercados de divisas y sus derivados implican riesgos, incluida la pérdida del capital."
+  ]
+}
